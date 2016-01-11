@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<r xml:lang="udm">
+<e exclude="fst">
+   <lg><l pos="Num(Num::Num)">дас одӥг</l>
+     <stg>
+       <st>дас одӥг</st>
+     </stg>
+   </lg><pos></pos><phonet>дас одӥг</phonet>
+   <mg>
+     <tg xml:lang="fin">
+       <t>yksitoista</t>
+     </tg>
+   </mg>
+</e>
+
+</r>

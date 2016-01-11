@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<r xml:lang="udm">
+<e>
+   <lg>
+     <l pos="Prc">бездӥсь</l><orig>бездӥсь</orig>
+   </lg>
+   <mg ind="1th"><drvg><inflect type="Der/сь" drv="Prc"/><stem>бездыны</stem></drvg>
+</mg>
+   <mg ind="2th"><tg xml:lang="fin">
+       <t>haalistuva, virttyvä, väriäpitämätön</t>
+     </tg>
+   </mg>
+</e>
+
+
+</r>

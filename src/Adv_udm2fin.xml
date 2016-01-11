@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<r xml:lang="udm">
+<e>
+   <lg><l pos="Adv">витетӥ</l><orig>витеʼтӥʼ</orig>
+   </lg>
+   <mg><defNative>вить интыын</defNative>
+     <tg xml:lang="fin">
+       <t>viidessä paikassa</t>
+     </tg>
+   </mg>
+</e>
+<e>
+
+   <lg>
+     <l pos="Adv">баслак</l><orig>баʼслаʼк</orig>
+
+   </lg>
+
+   <mg>
+
+     <tg xml:lang="fin">
+
+       <t>hiljaa, rauhallisesti</t>
+
+     </tg>
+
+   </mg>
+
+</e>
+
+
+</r>

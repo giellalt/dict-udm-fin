@@ -1,0 +1,7877 @@
+<?xml version="1.0" encoding="utf-8"?>
+<r xml:lang="udm">
+<e>
+   <lg>
+     <l pos="V">абдраны</l>
+     <stg>
+       <st Contlex="V_UZA">абдра</st>
+     </stg>
+   </lg> <phonet>абдраны</phonet>
+   <mg> <defNative/>
+     <tg xml:lang="fin">
+       <t pos="V">ihmetellä</t>
+       <t pos="V">hämmästellä</t>
+       <t pos="V">kummastella</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="V">адӟиськыны</l>
+     <stg>
+       <st Contlex="V_MONO">адӟиськы</st>
+     </stg>
+   </lg> <phonet>адӟиськыны</phonet>
+   <mg> <defNative/>
+     <tg xml:lang="fin">
+       <t pos="V">näkyä</t>
+       <t pos="V">näyttää</t>
+       <t pos="V">tuntua jltak</t>
+       <t pos="V">tavata (toisiaan)</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="V">адӟыны</l>
+     <stg>
+       <st Contlex="V_MONO">адӟы</st>
+     </stg>
+   </lg> <phonet>адӟыны</phonet> <etymg> <etym xml:lang="kpv">адзыны</etym> </etymg>
+   <mg> <defNative/>
+     <tg xml:lang="fin">
+       <t pos="V">nähdä</t>
+       <t pos="V">huomata</t>
+       <t pos="V">havaita</t>
+       <t pos="V">keksiä</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="V">азинскыны</l>
+     <stg>
+       <st Contlex="V_MONO">азинскы</st>
+     </stg>
+   </lg> <phonet>азинскыны</phonet>
+   <mg> <defNative/>
+     <tg xml:lang="fin">
+       <t pos="V">kehittyä</t>
+       <t pos="V">edistyä</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="V">азинтыны</l>
+     <stg>
+       <st Contlex="V_MONO">азинты</st>
+     </stg>
+   </lg> <phonet>азинтыны</phonet>
+   <mg> <defNative/>
+     <tg xml:lang="fin">
+       <t pos="V">kehittää</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="V">азьланьтыны</l>
+     <stg>
+       <st Contlex="V_MONO">азьланьты</st>
+     </stg>
+   </lg> <phonet>азьланьтыны</phonet>
+   <mg> <defNative/>
+     <tg xml:lang="fin">
+       <t pos="V">jatkaa</t>
+       <t pos="V">pidentää</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="V">акыльтыны</l>
+     <stg>
+       <st Contlex="V_MONO">акыльты</st>
+     </stg>
+   </lg> <phonet>акыльтыны</phonet>
+   <mg> <defNative/>
+     <tg xml:lang="fin">
+       <t pos="V">kyllästyä</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="V">алданы</l>
+     <stg>
+       <st Contlex="V_UZA">алда</st>
+     </stg>
+   </lg> <phonet>алданы</phonet>
+   <mg> <defNative/>
+     <tg xml:lang="fin">
+       <t pos="V">pettää</t>
+       <t pos="V">petkuttaa</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="V">араны</l>
+     <stg>
+       <st Contlex="V_UZA">ара</st>
+     </stg>
+   </lg> <phonet>араны</phonet>
+   <mg> <defNative/>
+     <tg xml:lang="fin">
+       <t pos="V">leikata (viljaa)</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="V">бадӟыманы</l>
+     <stg>
+       <st Contlex="V_UZA">бадӟыма</st>
+     </stg>
+   </lg> <phonet>бадӟыманы</phonet>
+   <mg> <defNative/>
+     <tg xml:lang="fin">
+       <t pos="V">suureta</t>
+       <t pos="V">suurentua</t>
+       <t pos="V">lisääntyä</t>
+       <t pos="V">laajeta</t>
+       <t pos="V">laajentua</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="V">басьтыны</l>
+     <stg>
+       <st Contlex="V_MONO">басьты</st>
+     </stg>
+   </lg> <phonet>басьтыны</phonet> <etymg> <etym xml:lang="kpv">босьтыны</etym> </etymg>
+   <mg> <defNative/>
+     <tg xml:lang="fin">
+       <t pos="V">ottaa</t>
+       <t pos="V">viedä</t>
+       <t pos="V">ostaa</t>
+     </tg>
+     <xg> <x>кышно басьтыны</x>
+       <xt xml:lang="fin">mennä naimisiin (miehestä)</xt>
+     </xg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="V">бездыны</l>
+     <stg>
+       <st Contlex="V_MONO">безды</st>
+     </stg>
+   </lg> <phonet>бездыны</phonet>
+   <mg> <defNative/>
+     <tg xml:lang="fin">
+       <t pos="V">haalistua</t>
+       <t pos="V">vaaleta</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="V">бекмыльтыны</l>
+     <stg>
+       <st Contlex="V_MONO">бекмыльты</st>
+     </stg>
+   </lg> <phonet>бекмыльтыны</phonet>
+   <mg> <defNative/>
+     <tg xml:lang="fin">
+       <t pos="V">kääntää nurin</t>
+       <t pos="V">kääntää kumoon</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="V">берганы</l>
+     <stg>
+       <st Contlex="V_UZA">берга</st>
+     </stg>
+   </lg> <phonet>берганы</phonet> <etymg> <etym xml:lang="kpv">бергавны</etym> </etymg>
+   <mg> <defNative/>
+     <tg xml:lang="fin">
+       <t pos="V">pyöriä</t>
+       <t pos="V">mennä ympäri</t>
+       <t pos="V">hyöriä</t>
+       <t pos="V">puuhailla</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="V">бертыны</l>
+     <stg>
+       <st Contlex="V_MONO">берты</st>
+     </stg>
+   </lg> <phonet>бертыны</phonet>
+   <mg> <defNative/>
+     <tg xml:lang="fin">
+       <t pos="V">mennä kotiin</t>
+       <t pos="V">tulla kotiin</t>
+       <t pos="V">palata (kotiin)</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="V">берыктыны</l>
+     <stg>
+       <st Contlex="V_MONO">берыкты</st>
+     </stg>
+   </lg> <phonet>берыктыны</phonet>
+   <mg> <defNative/>
+     <tg xml:lang="fin">
+       <t pos="V">palauttaa</t>
+       <t pos="V">antaa takaisin</t>
+       <t pos="V">kääntää</t>
+       <t pos="V">vääntää</t>
+       <t pos="V">kiertää, kääntää</t>
+       <t pos="V">tulkita</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="V">берыктӥськыны</l>
+     <stg>
+       <st Contlex="V_MONO">берыктӥськы</st>
+     </stg>
+   </lg> <phonet>берыктӥськыны</phonet>
+   <mg> <defNative/>
+     <tg xml:lang="fin">
+       <t pos="V">palata</t>
+       <t pos="V">tulla takaisin</t>
+       <t pos="V">kääntyä</t>
+       <t pos="V">muuttua,</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="V">берыкъяськыны</l>
+     <stg>
+       <st Contlex="V_MONO">берыкъяськы</st>
+     </stg>
+   </lg> <phonet>берыкъяськыны</phonet>
+   <mg> <defNative/>
+     <tg xml:lang="fin">
+       <t pos="V">kääntelehtiä</t>
+       <t pos="V">käännähdellä</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="V">биньыны</l>
+     <stg>
+       <st Contlex="V_MONO">биньы</st>
+     </stg>
+   </lg> <phonet>биньыны</phonet>
+   <mg> <defNative/>
+     <tg xml:lang="fin">
+       <t pos="V">keriä</t>
+       <t pos="V">vyyhdetä</t>
+       <t pos="V">kelata</t>
+       <t pos="V">kiertää</t>
+       <t pos="V">kääriä</t>
+       <t pos="V">kapaloida</t>
+       <t pos="V">sitoa, pakata</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="V">бичаны</l>
+     <stg>
+       <st Contlex="V_UZA">бича</st>
+     </stg>
+   </lg> <phonet>бичаны</phonet>
+   <mg> <defNative/>
+     <tg xml:lang="fin">
+       <t pos="V">kerätä</t>
+       <t pos="V">koota</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="V">бугыръяськыны</l>
+     <stg>
+       <st Contlex="V_MONO">бугыръяськы</st>
+     </stg>
+   </lg> <phonet>бугыръяськыны</phonet>
+   <mg> <defNative/>
+     <tg xml:lang="fin">
+       <t pos="V">kaivaa</t>
+       <t pos="V">kaivella</t>
+       <t pos="V">penkoa</t>
+       <t pos="V">tonkia</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="V">будыны</l>
+     <stg>
+       <st Contlex="V_MONO">буды</st>
+     </stg>
+   </lg> <phonet>будыны</phonet> <etymg> <etym xml:lang="kpv">быдмыны</etym> </etymg>
+   <mg> <defNative/>
+     <tg xml:lang="fin">
+       <t pos="V">kasvaa</t>
+       <t pos="V">varttua</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="V">будэтыны</l>
+     <stg>
+       <st Contlex="V_MONO">будэты</st>
+     </stg>
+   </lg> <phonet>будэтыны</phonet>
+   <mg> <defNative/>
+     <tg xml:lang="fin">
+       <t pos="V">kasvattaa</t>
+       <t pos="V">lisätä</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="V">буйганы</l>
+     <stg>
+       <st Contlex="V_UZA">буйга</st>
+     </stg>
+   </lg> <phonet>буйганы</phonet>
+   <mg> <defNative/>
+     <tg xml:lang="fin">
+       <t pos="V">rauhoittua</t>
+       <t pos="V">tyyntyä</t>
+       <t pos="V">asettua</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="V">буйгатыны</l>
+     <stg>
+       <st Contlex="V_MONO">буйгаты</st>
+     </stg>
+   </lg> <phonet>буйгатыны</phonet>
+   <mg> <defNative/>
+     <tg xml:lang="fin">
+       <t pos="V">rauhoittaa</t>
+       <t pos="V">saada rauhoittumaan</t>
+       <t pos="V">tyynnyttää</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="V">буяны</l>
+     <stg>
+       <st Contlex="V_UZA">буя</st>
+     </stg>
+   </lg> <phonet>буяны</phonet>
+   <mg> <defNative/>
+     <tg xml:lang="fin">
+       <t pos="V">maalata</t>
+       <t pos="V">värjätä</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="V">быгатыны</l>
+     <stg>
+       <st Contlex="V_MONO">быгаты</st>
+     </stg>
+   </lg> <phonet>быгатыны</phonet>
+   <mg> <defNative/>
+     <tg xml:lang="fin">
+       <t pos="V">osata</t>
+       <t pos="V">voida</t>
+       <t pos="V">taitaa</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="V">быдтыны</l>
+     <stg>
+       <st Contlex="V_MONO">быдты</st>
+     </stg>
+   </lg> <phonet>быдтыны</phonet>
+   <mg> <defNative/>
+     <tg xml:lang="fin">
+       <t pos="V">päättää</t>
+       <t pos="V">lopettaa</t>
+       <t pos="V">suorittaa loppuun</t>
+       <t pos="V">hävittää</t>
+       <t pos="V">tuhota, poistaa</t>
+       <t pos="V">tappaa</t>
+       <t pos="V">lopettaa</t>
+       <t pos="V">käyttää loppuun</t>
+       <t pos="V">kuluttaa loppuun</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="V">быдэстыны</l>
+     <stg>
+       <st Contlex="V_MONO">быдэсты</st>
+     </stg>
+   </lg> <phonet>быдэстыны</phonet>
+   <mg> <defNative/>
+     <tg xml:lang="fin">
+       <t pos="V">päättää</t>
+       <t pos="V">lopettaa</t>
+       <t pos="V">suorittaa loppuun</t>
+       <t pos="V">saattaa päätökseen</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="V">бызьылыны</l>
+     <stg>
+       <st Contlex="V_MONO">бызьылы</st>
+     </stg>
+   </lg> <phonet>бызьылыны</phonet> <drv drvType="frekventatiivi">бызьыны</drv>
+   <mg> <defNative/>
+     <tg xml:lang="fin">
+       <t pos="V">juoksennella</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="V">бызьыны</l>
+     <stg>
+       <st Contlex="V_MONO">бызьы</st>
+     </stg>
+   </lg> <phonet>бызьыны</phonet>
+   <mg> <defNative/>
+     <tg xml:lang="fin">
+       <t pos="V">juosta</t>
+       <t pos="V">virrata</t>
+       <t pos="V">valua</t>
+       <t pos="V">mennä naimisiin (naisesta)</t>
+     </tg>
+     <xg> <x>со быземын</x>
+       <xt xml:lang="fin">hän (nainen) on naimisissa</xt>
+     </xg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="V">быректыны</l>
+     <stg>
+       <st Contlex="V_MONO">быректы</st>
+     </stg>
+   </lg> <phonet>быректыны</phonet>
+   <mg> <defNative/>
+     <tg xml:lang="fin">
+       <t pos="V">keittää</t>
+       <t pos="V">kiehauttaa</t>
+       <t pos="V">kiehahtaa</t>
+       <t pos="V">kiehua</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="V">бырйиськыны</l>
+     <stg>
+       <st Contlex="V_MONO">бырйиськы</st>
+     </stg>
+   </lg> <phonet>бырйиськыны</phonet>
+   <mg> <defNative/>
+     <tg xml:lang="fin">
+       <t pos="V">valikoida</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="V">бырйыны</l>
+     <stg>
+       <st Contlex="V_MONO">бырйы</st>
+     </stg>
+   </lg> <phonet>бырйыны</phonet>
+   <mg> <defNative/>
+     <tg xml:lang="fin">
+       <t pos="V">valita</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="V">бырыны</l>
+     <stg>
+       <st Contlex="V_MONO">быры</st>
+     </stg>
+   </lg> <phonet>бырыны</phonet> <etymg> <etym xml:lang="kpv">бырыны</etym> </etymg>
+   <mg> <defNative/>
+     <tg xml:lang="fin">
+       <t pos="V">päättyä</t>
+       <t pos="V">loppua</t>
+       <t pos="V">kuolla</t>
+       <t pos="V">menehtyä</t>
+       <t pos="V">hävitä</t>
+       <t pos="V">sortua</t>
+       <t pos="V">kaatua, tuhoutua</t>
+     </tg>
+     <xg> <x>лымы быремын</x>
+       <xt xml:lang="fin">lumi on sulanut</xt>
+     </xg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="V">бышкыны</l>
+     <stg>
+       <st Contlex="V_MONO">бышкы</st>
+     </stg>
+   </lg> <phonet>бышкыны</phonet>
+   <mg> <defNative/>
+     <tg xml:lang="fin">
+       <t pos="V">pistää</t>
+       <t pos="V">tökkiä</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="V">бӧксыны</l>
+     <stg>
+       <st Contlex="V_MONO">бӧксы</st>
+     </stg>
+   </lg> <phonet>бӧксыны</phonet> <etymg> <etym xml:lang="kpv">баксыны</etym> </etymg>
+   <mg> <defNative/>
+     <tg xml:lang="fin">
+       <t pos="V">ammua</t>
+       <t pos="V">mylviä</t>
+       <t pos="V">määkiä</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="V">бӧрдыны</l>
+     <stg>
+       <st Contlex="V_MONO">бӧрды</st>
+     </stg>
+   </lg> <phonet>бӧрдыны</phonet> <etymg> <etym xml:lang="kpv">бӧрдыны</etym> </etymg>
+   <mg> <defNative/>
+     <tg xml:lang="fin">
+       <t pos="V">itkeä</t>
+       <t pos="V">valittaa</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="V">вазьыны</l>
+     <stg>
+       <st Contlex="V_MONO">вазьы</st>
+     </stg>
+   </lg> <phonet>вазьыны</phonet>
+   <mg> <defNative/>
+     <tg xml:lang="fin">
+       <t pos="V">kääntyä puheellaan jkn puoleen</t>
+       <t pos="V">vastata (jkn puheeseen, huutoon, kutsuun)</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="V">вайыны</l>
+     <stg>
+       <st Contlex="V_MONO">вайы</st>
+     </stg>
+   </lg> <phonet>вайыны</phonet> <etymg> <etym xml:lang="kpv">вайны</etym> </etymg>
+   <mg> <defNative/>
+     <tg xml:lang="fin">
+       <t pos="V">tuoda</t>
+       <t pos="V">kantaa</t>
+       <t pos="V">tuottaa</t>
+       <t pos="V">tehdä</t>
+       <t pos="V">synnyttää</t>
+     </tg>
+     <xg> <x>тодэ вайыны</x>
+       <xt xml:lang="fin">muistaa, kerrata</xt>
+     </xg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="V">вакчиёмыны</l>
+     <stg>
+       <st Contlex="V_MONO">вакчиёмы</st>
+     </stg>
+   </lg> <phonet>вакчиёмыны</phonet>
+   <mg> <defNative/>
+     <tg xml:lang="fin">
+       <t pos="V">lyhetä</t>
+       <t pos="V">lyhentyä</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="V">валаны</l>
+     <stg>
+       <st Contlex="V_UZA">вала</st>
+     </stg>
+   </lg> <phonet>валаны</phonet>
+   <mg> <defNative/>
+     <tg xml:lang="fin">
+       <t pos="V">ymmärtää</t>
+       <t pos="V">käsittää</t>
+       <t pos="V">tajuta</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="V">валатскыны</l>
+     <stg>
+       <st Contlex="V_MONO">валатскы</st>
+     </stg>
+   </lg> <phonet>валатскыны</phonet>
+   <mg> <defNative/>
+     <tg xml:lang="fin">
+       <t pos="V">arvata</t>
+       <t pos="V">oivaltaa</t>
+       <t pos="V">älytä</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="V">вальыны</l>
+     <stg>
+       <st Contlex="V_MONO">вальы</st>
+     </stg>
+   </lg> <phonet>вальыны</phonet>
+   <mg> <defNative/>
+     <tg xml:lang="fin">
+       <t pos="V">levittää</t>
+       <t pos="V">laittaa</t>
+       <t pos="V">sijata vuode</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="V">валэктыны</l>
+     <stg>
+       <st Contlex="V_MONO">валэкты</st>
+     </stg>
+   </lg> <phonet>валэктыны</phonet>
+   <mg> <defNative/>
+     <tg xml:lang="fin">
+       <t pos="V">selittää</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="V">вамыштыны</l>
+     <stg>
+       <st Contlex="V_MONO">вамышты</st>
+     </stg>
+   </lg> <phonet>вамыштыны</phonet>
+   <mg> <defNative/>
+     <tg xml:lang="fin">
+       <t pos="V">astua</t>
+       <t pos="V">mennä yli</t>
+       <t pos="V">harpata</t>
+       <t pos="V">loikata</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="V">вандыны</l>
+     <stg>
+       <st Contlex="V_MONO">ванды</st>
+     </stg>
+   </lg> <phonet>вандыны</phonet> <etymg> <etym xml:lang="kpv">вундыны</etym> </etymg>
+   <mg> <defNative/>
+     <tg xml:lang="fin">
+       <t pos="V">leikata</t>
+       <t pos="V">teurastaa</t>
+       <t pos="V">tappaa</t>
+       <t pos="V">sahata</t>
+       <t pos="V">viiltää</t>
+       <t pos="V">vihloa, keskeyttää</t>
+       <t pos="V">reputtaa</t>
+       <t pos="V">antaa reput (tentissä)</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="V">ваньмыны</l>
+     <stg>
+       <st Contlex="V_MONO">ваньмы</st>
+     </stg>
+   </lg> <phonet>ваньмыны</phonet>
+   <mg> <defNative/>
+     <tg xml:lang="fin">
+       <t pos="V">ehtiä</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="V">ваньмытыны</l>
+     <stg>
+       <st Contlex="V_MONO">ваньмыты</st>
+     </stg>
+   </lg> <phonet>ваньмытыны</phonet>
+   <mg> <defNative/>
+     <tg xml:lang="fin">
+       <t pos="V">tappaa</t>
+       <t pos="V">ottaa hengiltä</t>
+       <t pos="V">surmata</t>
+       <t pos="V">murhata</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="V">васькыны</l>
+     <stg>
+       <st Contlex="V_MONO">васькы</st>
+     </stg>
+   </lg> <phonet>васькыны</phonet>
+   <mg> <defNative/>
+     <tg xml:lang="fin">
+       <t pos="V">laskeutua</t>
+       <t pos="V">mennä alaspäin</t>
+       <t pos="V">vieriä (alas)</t>
+       <t pos="V">kieriä (alas), astua pois</t>
+       <t pos="V">nousta pois kulkuvälineestä</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="V">ватсаны</l>
+     <stg>
+       <st Contlex="V_UZA">ватса</st>
+     </stg>
+   </lg> <phonet>ватсаны</phonet>
+   <mg> <defNative/>
+     <tg xml:lang="fin">
+       <t pos="V">lisätä</t>
+       <t pos="V">panna lisää</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="V">ватыны</l>
+     <stg>
+       <st Contlex="V_MONO">ваты</st>
+     </stg>
+   </lg> <phonet>ватыны</phonet>
+   <mg> <defNative/>
+     <tg xml:lang="fin">
+       <t pos="V">piilottaa</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="V">ватӥськыны</l>
+     <stg>
+       <st Contlex="V_MONO">ватӥськы</st>
+     </stg>
+   </lg> <phonet>ватӥськыны</phonet>
+   <mg> <defNative/>
+     <tg xml:lang="fin">
+       <t pos="V">kätkeytyä</t>
+       <t pos="V">piiloutua</t>
+       <t pos="V">mennä piiloon</t>
+       <t pos="V">piileskellä</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="V">венчать карыны</l>
+     <stg>
+       <st Contlex="V_MONO">венчать кары</st>
+     </stg>
+   </lg> <phonet>венчать карыны</phonet>
+   <mg> <defNative/>
+     <tg xml:lang="fin">
+       <t pos="V">vihkiä</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="V">вераны</l>
+     <stg>
+       <st Contlex="V_UZA">вера</st>
+     </stg>
+   </lg> <phonet>вераны</phonet>
+   <mg> <defNative/>
+     <tg xml:lang="fin">
+       <t pos="V">sanoa</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="V">вераськыны</l>
+     <stg>
+       <st Contlex="V_MONO">вераськы</st>
+     </stg>
+   </lg> <phonet>вераськыны</phonet>
+   <mg> <defNative/>
+     <tg xml:lang="fin">
+       <t pos="V">puhua</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="V">ветлыны</l>
+     <stg>
+       <st Contlex="V_MONO">ветлы</st>
+     </stg>
+   </lg> <phonet>ветлыны</phonet>
+   <mg> <defNative/>
+     <tg xml:lang="fin">
+       <t pos="V">kulkea</t>
+       <t pos="V">käydä</t>
+       <t pos="V">liikkua</t>
+       <t pos="V">kävellä</t>
+     </tg>
+     <xg> <x>куное ветлыны</x>
+       <xt xml:lang="fin">käydä kylässä</xt>
+     </xg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="V">висъяны</l>
+     <stg>
+       <st Contlex="V_UZA">висъя</st>
+     </stg>
+   </lg> <phonet>висъяны</phonet>
+   <mg> <defNative/>
+     <tg xml:lang="fin">
+       <t pos="V">erota</t>
+       <t pos="V">erottua</t>
+       <t pos="V">olla erilainen</t>
+       <t pos="V">erottaa</t>
+       <t pos="V">irrottaa</t>
+       <t pos="V">eristää, vieroittaa</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="V">висъяськыны</l>
+     <stg>
+       <st Contlex="V_MONO">висъяськы</st>
+     </stg>
+   </lg> <phonet>висъяськыны</phonet>
+   <mg> <defNative/>
+     <tg xml:lang="fin">
+       <t pos="V">erota</t>
+       <t pos="V">erottautua</t>
+       <t pos="V">eristäytyä</t>
+       <t pos="V">jakautua</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="V">висьыны</l>
+     <stg>
+       <st Contlex="V_MONO">висьы</st>
+     </stg>
+   </lg> <phonet>висьыны</phonet> <etymg> <etym xml:lang="kpv">висьны</etym> </etymg>
+   <mg> <defNative/>
+     <tg xml:lang="fin">
+       <t pos="V">sairastaa</t>
+       <t pos="V">potea</t>
+       <t pos="V">olla kipeä</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="V">витьыны</l>
+     <stg>
+       <st Contlex="V_MONO">витьы</st>
+     </stg>
+   </lg> <phonet>витьыны</phonet> <etymg> <etym xml:lang="kpv">витчыны</etym> </etymg>
+   <mg> <defNative/>
+     <tg xml:lang="fin">
+       <t pos="V">odottaa</t>
+       <t pos="V">odotella</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="V">виыны</l>
+     <stg>
+       <st Contlex="V_MONO">виы</st>
+     </stg>
+   </lg> <phonet>виыны</phonet> <etymg> <etym xml:lang="kpv">вины</etym> </etymg>
+   <mg> <defNative/>
+     <tg xml:lang="fin">
+       <t pos="V">tappaa</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="V">вожектыны</l>
+     <stg>
+       <st Contlex="V_MONO">вожекты</st>
+     </stg>
+   </lg> <phonet>вожектыны</phonet>
+   <mg> <defNative/>
+     <tg xml:lang="fin">
+       <t pos="V">vihertyä</t>
+       <t pos="V">vihertää</t>
+       <t pos="V">vihannoida</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="V">возиськыны</l>
+     <stg>
+       <st Contlex="V_MONO">возиськы</st>
+     </stg>
+   </lg> <phonet>возиськыны</phonet>
+   <mg> <defNative/>
+     <tg xml:lang="fin">
+       <t pos="V">pysyä</t>
+       <t pos="V">pysytellä</t>
+       <t pos="V">olla säilössä</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="V">возьманы</l>
+     <stg>
+       <st Contlex="V_UZA">возьма</st>
+     </stg>
+   </lg> <phonet>возьманы</phonet>
+   <mg> <defNative/>
+     <tg xml:lang="fin">
+       <t pos="V">vahtia</t>
+       <t pos="V">paimentaa</t>
+       <t pos="V">odottaa</t>
+       <t pos="V">odotella</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="V">возьматыны</l>
+     <stg>
+       <st Contlex="V_MONO">возьматы</st>
+     </stg>
+   </lg> <phonet>возьматыны</phonet>
+   <mg> <defNative/>
+     <tg xml:lang="fin">
+       <t pos="V">näyttää</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="V">возьыны</l>
+     <stg>
+       <st Contlex="V_MONO">возьы</st>
+     </stg>
+   </lg> <phonet>возьыны</phonet> <etymg> <etym xml:lang="kpv">видзны</etym> </etymg>
+   <mg> <defNative/>
+     <tg xml:lang="fin">
+       <t pos="V">pitää</t>
+       <t pos="V">pidellä</t>
+       <t pos="V">estää</t>
+       <t pos="V">säilyttää</t>
+       <t pos="V">suojella</t>
+       <t pos="V">tallettaa, kasvattaa</t>
+     </tg>
+     <xg> <x>гуртаз кадь возьыны</x>
+       <xt xml:lang="fin">olla niin kuin kotonaan</xt>
+     </xg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="V">воньдыны</l>
+     <stg>
+       <st Contlex="V_MONO">воньды</st>
+     </stg>
+   </lg> <phonet>воньдыны</phonet>
+   <mg> <defNative/>
+     <tg xml:lang="fin">
+       <t pos="V">läkähtyä</t>
+       <t pos="V">niellä väärään kurkkuun</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="V">вордыны</l>
+     <stg>
+       <st Contlex="V_MONO">ворды</st>
+     </stg>
+   </lg> <phonet>вордыны</phonet>
+   <mg> <defNative/>
+     <tg xml:lang="fin">
+       <t pos="V">hoitaa</t>
+       <t pos="V">kasvattaa</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="V">вордӥськыны</l>
+     <stg>
+       <st Contlex="V_MONO">вордӥськы</st>
+     </stg>
+   </lg> <phonet>вордӥськыны</phonet>
+   <mg> <defNative/>
+     <tg xml:lang="fin">
+       <t pos="V">syntyä</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="V">ворекъяны</l>
+     <stg>
+       <st Contlex="V_UZA">ворекъя</st>
+     </stg>
+   </lg> <phonet>ворекъяны</phonet>
+   <mg> <defNative/>
+     <tg xml:lang="fin">
+       <t pos="V">kimallella</t>
+       <t pos="V">kiillellä</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="V">вормыны</l>
+     <stg>
+       <st Contlex="V_MONO">вормы</st>
+     </stg>
+   </lg> <phonet>вормыны</phonet> <etymg> <etym xml:lang="kpv">вермыны</etym> </etymg>
+   <mg> <defNative/>
+     <tg xml:lang="fin">
+       <t pos="V">voittaa</t>
+       <t pos="V">päästä voitolle</t>
+       <t pos="V">saada voitto</t>
+       <t pos="V">kestää</t>
+       <t pos="V">kantaa</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="V">ворсаны</l>
+     <stg>
+       <st Contlex="V_UZA">ворса</st>
+     </stg>
+   </lg> <phonet>ворсаны</phonet>
+   <mg> <defNative/>
+     <tg xml:lang="fin">
+       <t pos="V">sulkea</t>
+       <t pos="V">panna kiinni</t>
+       <t pos="V">panna lukkoon</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="V">ворттыны</l>
+     <stg>
+       <st Contlex="V_MONO">вортты</st>
+     </stg>
+   </lg> <phonet>ворттыны</phonet>
+   <mg> <defNative/>
+     <tg xml:lang="fin">
+       <t pos="V">juosta</t>
+       <t pos="V">kiittää</t>
+       <t pos="V">ravata (eläimestä)</t>
+       <t pos="V">kuljettaa</t>
+       <t pos="V">vetää</t>
+       <t pos="V">ajaa (puita, heinää)</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="V">воштыны</l>
+     <stg>
+       <st Contlex="V_MONO">вошты</st>
+     </stg>
+   </lg> <phonet>воштыны</phonet>
+   <mg> <defNative/>
+     <tg xml:lang="fin">
+       <t pos="V">vaihtaa</t>
+       <t pos="V">muuttaa</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="V">воштӥськыны</l>
+     <stg>
+       <st Contlex="V_MONO">воштӥськы</st>
+     </stg>
+   </lg> <phonet>воштӥськыны</phonet>
+   <mg> <defNative/>
+     <tg xml:lang="fin">
+       <t pos="V">muuttua</t>
+       <t pos="V">vaihtua</t>
+       <t pos="V">vaihtaa vaatteita</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="V">вузаны</l>
+     <stg>
+       <st Contlex="V_UZA">вуза</st>
+     </stg>
+   </lg> <phonet>вузаны</phonet> <etymg> <etym xml:lang="kpv">вузавны</etym> </etymg>
+   <mg> <defNative/>
+     <tg xml:lang="fin">
+       <t pos="V">myydä</t>
+       <t pos="V">pettää</t>
+       <t pos="V">kavaltaa</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="V">вузкарыны</l>
+     <stg>
+       <st Contlex="V_MONO">вузкары</st>
+     </stg>
+   </lg> <phonet>ву́зкарыны</phonet>
+   <mg> <defNative/>
+     <tg xml:lang="fin">
+       <t pos="V">käydä kauppaa</t>
+       <t pos="V">kaupata</t>
+       <t pos="V">tinkiä</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="V">вуныны</l>
+     <stg>
+       <st Contlex="V_MONO">вуны</st>
+     </stg>
+   </lg> <phonet>вуныны</phonet> <etymg> <etym xml:lang="kpv">вунны</etym> </etymg>
+   <mg> <defNative/>
+     <tg xml:lang="fin">
+       <t pos="V">unohtua</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="V">вунэтыны</l>
+     <stg>
+       <st Contlex="V_MONO">вунэты</st>
+     </stg>
+   </lg> <phonet>вунэтыны</phonet> <etymg> <etym xml:lang="kpv">вунӧдны</etym> </etymg>
+   <mg> <defNative/>
+     <tg xml:lang="fin">
+       <t pos="V">unohtaa</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="V">вуриськыны</l>
+     <stg>
+       <st Contlex="V_MONO">вуриськы</st>
+     </stg>
+   </lg> <phonet>вуриськыны</phonet>
+   <mg> <defNative/>
+     <tg xml:lang="fin">
+       <t pos="V">ommella</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="V">вурыны</l>
+     <stg>
+       <st Contlex="V_MONO">вуры</st>
+     </stg>
+   </lg> <phonet>вурыны</phonet> <etymg> <etym xml:lang="kpv">вурны</etym> </etymg>
+   <mg> <defNative/>
+     <tg xml:lang="fin">
+       <t pos="V">ommella</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="V">вуттыны</l>
+     <stg>
+       <st Contlex="V_MONO">вутты</st>
+     </stg>
+   </lg> <phonet>вуттыны</phonet>
+   <mg> <defNative/>
+     <tg xml:lang="fin">
+       <t pos="V">kantaa</t>
+       <t pos="V">saattaa</t>
+       <t pos="V">viedä</t>
+       <t pos="V">kuljettaa</t>
+       <t pos="V">kyyditä</t>
+       <t pos="V">lopettaa, päättää</t>
+       <t pos="V">suorittaa loppuun</t>
+       <t pos="V">saattaa päätökseen</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="V">вуштыны</l>
+     <stg>
+       <st Contlex="V_MONO">вушты</st>
+     </stg>
+   </lg> <phonet>вуштыны</phonet>
+   <mg> <defNative/>
+     <tg xml:lang="fin">
+       <t pos="V">raastaa</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="V">вуыны</l>
+     <stg>
+       <st Contlex="V_MONO">вуы</st>
+     </stg>
+   </lg> <phonet>вуыны</phonet> <etymg> <etym xml:lang="kpv">воны</etym> </etymg>
+   <mg> <defNative/>
+     <tg xml:lang="fin">
+       <t pos="V">saapua</t>
+       <t pos="V">tulla</t>
+       <t pos="V">joutua</t>
+       <t pos="V">ehtiä</t>
+       <t pos="V">päästä</t>
+       <t pos="V">kypsyä</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="V">выдыны</l>
+     <stg>
+       <st Contlex="V_MONO">выды</st>
+     </stg>
+   </lg> <phonet>выдыны</phonet> <etymg> <etym xml:lang="kpv">водны</etym> </etymg>
+   <mg> <defNative/>
+     <tg xml:lang="fin">
+       <t pos="V">mennä maata</t>
+       <t pos="V">mennä nukkumaan</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="V">выжыны</l>
+     <stg>
+       <st Contlex="V_MONO">выжы</st>
+     </stg>
+   </lg> <phonet>выжыны</phonet>
+   <mg> <defNative/>
+     <tg xml:lang="fin">
+       <t pos="V">mennä yli</t>
+       <t pos="V">mennä poikki</t>
+       <t pos="V">ylittää</t>
+       <t pos="V">siirtyä</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="V">выйыны</l>
+     <stg>
+       <st Contlex="V_MONO">выйы</st>
+     </stg>
+   </lg> <phonet>выйыны</phonet>
+   <mg> <defNative/>
+     <tg xml:lang="fin">
+       <t pos="V">hukkua</t>
+       <t pos="V">upota</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="V">выретыны</l>
+     <stg>
+       <st Contlex="V_MONO">выреты</st>
+     </stg>
+   </lg> <phonet>выретыны</phonet>
+   <mg> <defNative/>
+     <tg xml:lang="fin">
+       <t pos="V">liikutella</t>
+       <t pos="V">siirrellä</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="V">вырыны</l>
+     <stg>
+       <st Contlex="V_MONO">выры</st>
+     </stg>
+   </lg> <phonet>вырыны</phonet>
+   <mg> <defNative/>
+     <tg xml:lang="fin">
+       <t pos="V">liikkua</t>
+       <t pos="V">liikahdella</t>
+       <t pos="V">liikehtiä</t>
+       <t pos="V">huojua</t>
+       <t pos="V">toimittaa, toimitella</t>
+       <t pos="V">suorittaa</t>
+       <t pos="V">hoitaa</t>
+       <t pos="V">harjoittaa</t>
+       <t pos="V">työskennellä</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="V">вырӟыны</l>
+     <stg>
+       <st Contlex="V_MONO">вырӟы</st>
+     </stg>
+   </lg> <phonet>вырӟыны</phonet>
+   <mg> <defNative/>
+     <tg xml:lang="fin">
+       <t pos="V">liikahtaa</t>
+       <t pos="V">lähteä (liikkeelle)</t>
+       <t pos="V">siirtyä</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="V">вӧлдыны</l>
+     <stg>
+       <st Contlex="V_MONO">вӧлды</st>
+     </stg>
+   </lg> <phonet>вӧлдыны</phonet>
+   <mg> <defNative/>
+     <tg xml:lang="fin">
+       <t pos="V">levittää</t>
+       <t pos="V">laajentaa</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="V">вӧлмыны</l>
+     <stg>
+       <st Contlex="V_MONO">вӧлмы</st>
+     </stg>
+   </lg> <phonet>вӧлмыны</phonet>
+   <mg> <defNative/>
+     <tg xml:lang="fin">
+       <t pos="V">laajeta</t>
+       <t pos="V">levitä</t>
+       <t pos="V">ulottua</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="V">вӧлмытыны</l>
+     <stg>
+       <st Contlex="V_MONO">вӧлмыты</st>
+     </stg>
+   </lg> <phonet>вӧлмытыны</phonet>
+   <mg> <defNative/>
+     <tg xml:lang="fin">
+       <t pos="V">levittää</t>
+       <t pos="V">laajentaa</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="V">вӧлъяны</l>
+     <stg>
+       <st Contlex="V_UZA">вӧлъя</st>
+     </stg>
+   </lg> <phonet>вӧлъяны</phonet>
+   <mg> <defNative/>
+     <tg xml:lang="fin">
+       <t pos="V">levittää(siipensä)</t>
+       <t pos="V">ojentaa levälleen</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="V">вӧсь карыны</l>
+     <stg>
+       <st Contlex="V_MONO">вӧсь кары</st>
+     </stg>
+   </lg> <phonet>вӧсь карыны</phonet>
+   <mg> <defNative/>
+     <tg xml:lang="fin">
+       <t pos="V">aiheuttaa kipua</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="V">вӧсяськыны</l>
+     <stg>
+       <st Contlex="V_MONO">вӧсяськы</st>
+     </stg>
+   </lg> <phonet>вӧсяськыны</phonet>
+   <mg> <defNative/>
+     <tg xml:lang="fin">
+       <t pos="V">rukoilla</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="V">гажаны</l>
+     <stg>
+       <st Contlex="V_UZA">гажа</st>
+     </stg>
+   </lg> <phonet>гажаны</phonet>
+   <mg> <defNative/>
+     <tg xml:lang="fin">
+       <t pos="V">kunnioittaa</t>
+       <t pos="V">arvostaa</t>
+       <t pos="V">rakastaa</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="V">герӟаськыны</l>
+     <stg>
+       <st Contlex="V_MONO">герӟаськы</st>
+     </stg>
+   </lg> <phonet>герӟаськыны</phonet>
+   <mg> <defNative/>
+     <tg xml:lang="fin">
+       <t pos="V">sotkeutua</t>
+       <t pos="V">mennä solmuun</t>
+       <t pos="V">ottaa yhteys</t>
+       <t pos="V">olla yhteydessä jnk kanssa</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="V">гожтыны</l>
+     <stg>
+       <st Contlex="V_MONO">гожты</st>
+     </stg>
+   </lg> <phonet>гожтыны</phonet> <etymg> <etym xml:lang="kpv">гижны</etym> </etymg>
+   <mg> <defNative/>
+     <tg xml:lang="fin">
+       <t pos="V">kirjoittaa</t>
+       <t pos="V">merkitä</t>
+       <t pos="V">tallentaa</t>
+       <t pos="V">äänittää</t>
+       <t pos="V">nauhoittaa, levyttää</t>
+       <t pos="V">säveltää</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="V">гожъяны</l>
+     <stg>
+       <st Contlex="V_UZA">гожъя</st>
+     </stg>
+   </lg> <phonet>гожъяны</phonet> <drv drvType="frekventatiivi">гожтыны</drv> <etymg> <etym xml:lang="kpv">гижны</etym> </etymg>
+   <mg> <defNative/>
+     <tg xml:lang="fin">
+       <t pos="V">kirjoittaa</t>
+       <t pos="V">kirjoitella</t>
+       <t pos="V">merkitä</t>
+       <t pos="V">tallentaa</t>
+       <t pos="V">äänittää, nauhoittaa</t>
+       <t pos="V">levyttää</t>
+       <t pos="V">säveltää</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="V">гожъяськыны</l>
+     <stg>
+       <st Contlex="V_MONO">гожъяськы</st>
+     </stg>
+   </lg> <phonet>гожъяськыны</phonet>
+   <mg> <defNative/>
+     <tg xml:lang="fin">
+       <t pos="V">kirjoittaa</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="V">губияны</l>
+     <stg>
+       <st Contlex="V_UZA">губия</st>
+     </stg>
+   </lg> <phonet>губияны</phonet>
+   <mg> <defNative/>
+     <tg xml:lang="fin">
+       <t pos="V">sienestää</t>
+       <t pos="V">kerätä sieniä</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="V">гудыны</l>
+     <stg>
+       <st Contlex="V_MONO">гуды</st>
+     </stg>
+   </lg> <phonet>гудыны</phonet>
+   <mg> <defNative/>
+     <tg xml:lang="fin">
+       <t pos="V">kaivaa (kuoppaa)</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="V">гудыртыны</l>
+     <stg>
+       <st Contlex="V_MONO">гудырты</st>
+     </stg>
+   </lg> <phonet>гудыртыны</phonet>
+   <mg> <defNative/>
+     <tg xml:lang="fin">
+       <t pos="V">jyrähtää</t>
+       <t pos="V">jymähtää</t>
+       <t pos="V">kalahtaa</t>
+       <t pos="V">kolahtaa</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="V">гудыръяны</l>
+     <stg>
+       <st Contlex="V_UZA">гудыръя</st>
+     </stg>
+   </lg> <phonet>гудыръяны</phonet>
+   <mg> <defNative/>
+     <tg xml:lang="fin">
+       <t pos="V">ukkostaa</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="V">гуретыны</l>
+     <stg>
+       <st Contlex="V_MONO">гуреты</st>
+     </stg>
+   </lg> <phonet>гуретыны</phonet>
+   <mg> <defNative/>
+     <tg xml:lang="fin">
+       <t pos="V">kohista</t>
+       <t pos="V">humista</t>
+       <t pos="V">surista</t>
+       <t pos="V">pöristä</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="V">гындыны</l>
+     <stg>
+       <st Contlex="V_MONO">гынды</st>
+     </stg>
+   </lg> <phonet>гындыны</phonet>
+   <mg> <defNative/>
+     <tg xml:lang="fin">
+       <t pos="V">vanuttaa</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="V">гырдалтыны</l>
+     <stg>
+       <st Contlex="V_MONO">гырдалты</st>
+     </stg>
+   </lg> <phonet>гырдалтыны</phonet>
+   <mg> <defNative/>
+     <tg xml:lang="fin">
+       <t pos="V">hirnahtaa</t>
+       <t pos="V">hörähtää</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="V">гырыны</l>
+     <stg>
+       <st Contlex="V_MONO">гыры</st>
+     </stg>
+   </lg> <phonet>гырыны</phonet> <etymg> <etym xml:lang="kpv">гӧрны</etym> </etymg>
+   <mg> <defNative/>
+     <tg xml:lang="fin">
+       <t pos="V">aurata</t>
+       <t pos="V">kyntää</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="V">гӧртыны</l>
+     <stg>
+       <st Contlex="V_MONO">гӧрты</st>
+     </stg>
+   </lg> <phonet>гӧртыны</phonet>
+   <mg> <defNative/>
+     <tg xml:lang="fin">
+       <t pos="V">huurtua</t>
+       <t pos="V">kuuroittua</t>
+       <t pos="V">mennä kuuraan</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="V">данъяны</l>
+     <stg>
+       <st Contlex="V_UZA">данъя</st>
+     </stg>
+   </lg> <phonet>данъяны</phonet> <etymg> <etym xml:lang="kpv">донъявны</etym> </etymg>
+   <mg> <defNative/>
+     <tg xml:lang="fin">
+       <t pos="V">kunnioittaa</t>
+       <t pos="V">ylistää</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="V">дасяны</l>
+     <stg>
+       <st Contlex="V_UZA">дася</st>
+     </stg>
+   </lg> <phonet>дасяны</phonet>
+   <mg> <defNative/>
+     <tg xml:lang="fin">
+       <t pos="V">valmistaa</t>
+       <t pos="V">valmistella</t>
+       <t pos="V">varata</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="V">дасяськыны</l>
+     <stg>
+       <st Contlex="V_MONO">дасяськы</st>
+     </stg>
+   </lg> <phonet>дасяськыны</phonet>
+   <mg> <defNative/>
+     <tg xml:lang="fin">
+       <t pos="V">valmistautua</t>
+       <t pos="V">hankkiutua</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="V">донгыны</l>
+     <stg>
+       <st Contlex="V_MONO">донгы</st>
+     </stg>
+   </lg> <phonet>донгыны</phonet>
+   <mg> <defNative/>
+     <tg xml:lang="fin">
+       <t pos="V">tuupata</t>
+       <t pos="V">töykätä</t>
+       <t pos="V">tyrkätä</t>
+       <t pos="V">sysätä</t>
+       <t pos="V">työntää</t>
+       <t pos="V">siirtää</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="V">дугдыны</l>
+     <stg>
+       <st Contlex="V_MONO">дугды</st>
+     </stg>
+   </lg> <phonet>дугдыны</phonet> <etymg> <etym xml:lang="kpv">дугдыны</etym> </etymg>
+   <mg> <defNative/>
+     <tg xml:lang="fin">
+       <t pos="V">pysähtyä</t>
+       <t pos="V">seisahtua</t>
+       <t pos="V">lakata</t>
+       <t pos="V">tauota</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="V">дыаны</l>
+     <stg>
+       <st Contlex="V_UZA">дыа</st>
+     </stg>
+   </lg> <phonet>дыаны</phonet>
+   <mg> <defNative/>
+     <tg xml:lang="fin">
+       <t pos="V">kiihottua</t>
+       <t pos="V">kiihtyä</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="V">дыртыны</l>
+     <stg>
+       <st Contlex="V_MONO">дырты</st>
+     </stg>
+   </lg> <phonet>дыртыны</phonet>
+   <mg> <defNative/>
+     <tg xml:lang="fin">
+       <t pos="V">kiiruhtaa</t>
+       <t pos="V">kiirehtiä</t>
+       <t pos="V">rientää</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="V">дышетскыны</l>
+     <stg>
+       <st Contlex="V_MONO">дышетскы</st>
+     </stg>
+   </lg> <phonet>дышетскыны</phonet>
+   <mg> <defNative/>
+     <tg xml:lang="fin">
+       <t pos="V">opetella</t>
+       <t pos="V">opiskella</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="V">дышетыны</l>
+     <stg>
+       <st Contlex="V_MONO">дышеты</st>
+     </stg>
+   </lg> <phonet>дышетыны</phonet>
+   <mg> <defNative/>
+     <tg xml:lang="fin">
+       <t pos="V">opettaa</t>
+       <t pos="V">kouluttaa</t>
+       <t pos="V">valistaa</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="V">дышыны</l>
+     <stg>
+       <st Contlex="V_MONO">дышы</st>
+     </stg>
+   </lg> <phonet>дышыны</phonet>
+   <mg> <defNative/>
+     <tg xml:lang="fin">
+       <t pos="V">tottua</t>
+       <t pos="V">tulla tavaksi</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="V">дэмӟылыны</l>
+     <stg>
+       <st Contlex="V_MONO">дэмӟылы</st>
+     </stg>
+   </lg> <phonet>дэмӟылыны</phonet>
+   <mg> <defNative/>
+     <tg xml:lang="fin">
+       <t pos="V">tarttua</t>
+       <t pos="V">tarrata</t>
+       <t pos="V">tarrautua</t>
+       <t pos="V">käydä kiinni</t>
+       <t pos="V">hipaista</t>
+       <t pos="V">hipoa, sipaista (usein, monta kertaa)</t>
+       <t pos="V">ajaa</t>
+       <t pos="V">törmätä</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="V">дӥсьтыны</l>
+     <stg>
+       <st Contlex="V_MONO">дӥсьты</st>
+     </stg>
+   </lg> <phonet>дӥсьтыны</phonet>
+   <mg> <defNative/>
+     <tg xml:lang="fin">
+       <t pos="V">uskaltaa</t>
+       <t pos="V">rohjeta</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="V">дӥсяны</l>
+     <stg>
+       <st Contlex="V_UZA">дӥся</st>
+     </stg>
+   </lg> <phonet>дӥсяны</phonet>
+   <mg> <defNative/>
+     <tg xml:lang="fin">
+       <t pos="V">pukea</t>
+       <t pos="V">panna päälle</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="V">дӥсяськыны</l>
+     <stg>
+       <st Contlex="V_MONO">дӥсяськы</st>
+     </stg>
+   </lg> <phonet>дӥсяськыны</phonet>
+   <mg> <defNative/>
+     <tg xml:lang="fin">
+       <t pos="V">pukeutua</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="V">дӥсятыны</l>
+     <stg>
+       <st Contlex="V_MONO">дӥсяты</st>
+     </stg>
+   </lg> <phonet>дӥсятыны</phonet>
+   <mg> <defNative/>
+     <tg xml:lang="fin">
+       <t pos="V">pukea</t>
+       <t pos="V">vaatettaa</t>
+       <t pos="V">pitää vaatteissa</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="V">жадьыны</l>
+     <stg>
+       <st Contlex="V_MONO">жадьы</st>
+     </stg>
+   </lg> <phonet>жадьыны</phonet>
+   <mg> <defNative/>
+     <tg xml:lang="fin">
+       <t pos="V">väsyä</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="V">жадьытыны</l>
+     <stg>
+       <st Contlex="V_MONO">жадьыты</st>
+     </stg>
+   </lg> <phonet>жадьытыны</phonet>
+   <mg> <defNative/>
+     <tg xml:lang="fin">
+       <t pos="V">väsyttää</t>
+       <t pos="V">rasittaa</t>
+       <t pos="V">uuvuttaa</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="V">жаляны</l>
+     <stg>
+       <st Contlex="V_UZA">жаля</st>
+     </stg>
+   </lg> <phonet>жаляны</phonet>
+   <mg> <defNative/>
+     <tg xml:lang="fin">
+       <t pos="V">sääliä</t>
+       <t pos="V">surkutella</t>
+     </tg>
+     <xg> <x>жаляса верано луэ</x>
+       <xt xml:lang="fin">valitettavasti, ikävä kyllä</xt>
+     </xg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="V">жильыртыны</l>
+     <stg>
+       <st Contlex="V_MONO">жильырты</st>
+     </stg>
+   </lg> <phonet>жильыртыны</phonet>
+   <mg> <defNative/>
+     <tg xml:lang="fin">
+       <t pos="V">liristä</t>
+       <t pos="V">lorista</t>
+       <t pos="V">solista</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="V">жингыртыны</l>
+     <stg>
+       <st Contlex="V_MONO">жингырты</st>
+     </stg>
+   </lg> <phonet>жингыртыны</phonet>
+   <mg> <defNative/>
+     <tg xml:lang="fin">
+       <t pos="V">soida</t>
+       <t pos="V">soittaa (puhelimella)</t>
+       <t pos="V">helistää</t>
+       <t pos="V">kilistää, raikua</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="V">жобаны</l>
+     <stg>
+       <st Contlex="V_UZA">жоба</st>
+     </stg>
+   </lg> <phonet>жобаны</phonet>
+   <mg> <defNative/>
+     <tg xml:lang="fin">
+       <t pos="V">nousta (rajuilma)</t>
+       <t pos="V">liata</t>
+       <t pos="V">tahrata</t>
+       <t pos="V">töhriä</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="V">жугиськыны</l>
+     <stg>
+       <st Contlex="V_MONO">жугиськы</st>
+     </stg>
+   </lg> <phonet>жугиськыны</phonet>
+   <mg> <defNative/>
+     <tg xml:lang="fin">
+       <t pos="V">tapella</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="V">зорыны</l>
+     <stg>
+       <st Contlex="V_MONO">зоры</st>
+     </stg>
+   </lg> <phonet>зорыны</phonet> <etymg> <etym xml:lang="kpv">зэрны</etym> </etymg>
+   <mg> <defNative/>
+     <tg xml:lang="fin">
+       <t pos="V">sataa (vettä)</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="V">зурканы</l>
+     <stg>
+       <st Contlex="V_UZA">зурка</st>
+     </stg>
+   </lg> <phonet>зурканы</phonet>
+   <mg> <defNative/>
+     <tg xml:lang="fin">
+       <t pos="V">vavahdella</t>
+       <t pos="V">vapista</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="V">зуркатыны</l>
+     <stg>
+       <st Contlex="V_MONO">зуркаты</st>
+     </stg>
+   </lg> <phonet>зуркатыны</phonet>
+   <mg> <defNative/>
+     <tg xml:lang="fin">
+       <t pos="V">ravistaa</t>
+       <t pos="V">pudistaa</t>
+       <t pos="V">järisyttää</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="V">зымыны</l>
+     <stg>
+       <st Contlex="V_MONO">зымы</st>
+     </stg>
+   </lg> <phonet>зымыны</phonet>
+   <mg> <defNative/>
+     <tg xml:lang="fin">
+       <t pos="V">sukeltaa</t>
+       <t pos="V">upota</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="V">ивортыны</l>
+     <stg>
+       <st Contlex="V_MONO">иворты</st>
+     </stg>
+   </lg> <phonet>ивортыны</phonet>
+   <mg> <defNative/>
+     <tg xml:lang="fin">
+       <t pos="V">tiedottaa</t>
+       <t pos="V">ilmoittaa</t>
+       <t pos="V">kertoa</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="V">изьвермыны</l>
+     <stg>
+       <st Contlex="V_MONO">изьвермы</st>
+     </stg>
+   </lg> <phonet>изьвермыны</phonet>
+   <mg> <defNative/>
+     <tg xml:lang="fin">
+       <t pos="V">villiintyä</t>
+       <t pos="V">raivostua</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="V">изьыны</l>
+     <stg>
+       <st Contlex="V_MONO">изьы</st>
+     </stg>
+   </lg> <phonet>изьыны</phonet>
+   <mg> <defNative/>
+     <tg xml:lang="fin">
+       <t pos="V">nukkua</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="V">интыяськыны</l>
+     <stg>
+       <st Contlex="V_MONO">интыяськы</st>
+     </stg>
+   </lg> <phonet>интыяськыны</phonet>
+   <mg> <defNative/>
+     <tg xml:lang="fin">
+       <t pos="V">sijoittua</t>
+       <t pos="V">sijoittautua</t>
+       <t pos="V">asettua</t>
+       <t pos="V">järjestyä, järjestäytyä</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="V">исаны</l>
+     <stg>
+       <st Contlex="V_UZA">иса</st>
+     </stg>
+   </lg> <phonet>исаны</phonet>
+   <mg> <defNative/>
+     <tg xml:lang="fin">
+       <t pos="V">härnätä</t>
+       <t pos="V">kiusata</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="V">ичиёмыны</l>
+     <stg>
+       <st Contlex="V_MONO">ичиёмы</st>
+     </stg>
+   </lg> <phonet>ичиёмыны</phonet>
+   <mg> <defNative/>
+     <tg xml:lang="fin">
+       <t pos="V">pienentyä</t>
+       <t pos="V">vähentyä</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="V">ишкыны</l>
+     <stg>
+       <st Contlex="V_MONO">ишкы</st>
+     </stg>
+   </lg> <phonet>ишкыны</phonet>
+   <mg> <defNative/>
+     <tg xml:lang="fin">
+       <t pos="V">repiä</t>
+       <t pos="V">kiskoa</t>
+       <t pos="V">nyhtää</t>
+       <t pos="V">taittaa</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="V">йылпумъяны</l>
+     <stg>
+       <st Contlex="V_UZA">йылпумъя</st>
+     </stg>
+   </lg> <phonet>йылпумъяны</phonet>
+   <mg> <defNative/>
+     <tg xml:lang="fin">
+       <t pos="V">suorittaa loppuun</t>
+       <t pos="V">tehdä loppuun</t>
+       <t pos="V">saattaa loppuun</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="V">йылыны</l>
+     <stg>
+       <st Contlex="V_MONO">йылы</st>
+     </stg>
+   </lg> <phonet>йылыны</phonet>
+   <mg> <defNative/>
+     <tg xml:lang="fin">
+       <t pos="V">lisääntyä</t>
+       <t pos="V">suureta</t>
+       <t pos="V">suurentua</t>
+       <t pos="V">enetä</t>
+       <t pos="V">enentyä</t>
+       <t pos="V">laajeta, laajentua</t>
+       <t pos="V">monistua</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="V">калгыны</l>
+     <stg>
+       <st Contlex="V_MONO">калгы</st>
+     </stg>
+   </lg> <phonet>калгыны</phonet>
+   <mg> <defNative/>
+     <tg xml:lang="fin">
+       <t pos="V">kuljeskella</t>
+       <t pos="V">kuljeksia</t>
+       <t pos="V">samoilla</t>
+       <t pos="V">harhailla</t>
+       <t pos="V">kierrellä</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="V">калтыны</l>
+     <stg>
+       <st Contlex="V_MONO">калты</st>
+     </stg>
+   </lg> <phonet>калтыны</phonet>
+   <mg> <defNative/>
+     <tg xml:lang="fin">
+       <t pos="V">vetää nuottaa</t>
+       <t pos="V">varastaa</t>
+     </tg>
+     <xg> <x>октыны-калтыны</x>
+       <xt xml:lang="fin">kerätä, korjata (satoa)</xt>
+     </xg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="V">капчияны</l>
+     <stg>
+       <st Contlex="V_UZA">капчия</st>
+     </stg>
+   </lg> <phonet>капчияны</phonet>
+   <mg> <defNative/>
+     <tg xml:lang="fin">
+       <t pos="V">kevetä</t>
+       <t pos="V">keventyä</t>
+       <t pos="V">helpottua</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="V">капыртыны</l>
+     <stg>
+       <st Contlex="V_MONO">капырты</st>
+     </stg>
+   </lg> <phonet>капыртыны</phonet>
+   <mg> <defNative/>
+     <tg xml:lang="fin">
+       <t pos="V">siepata</t>
+       <t pos="V">kaapata</t>
+       <t pos="V">temmata</t>
+       <t pos="V">ottaa haltuunsa</t>
+       <t pos="V">saada haltuunsa</t>
+       <t pos="V">varastaa</t>
+       <t pos="V">näpistää</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="V">кариськыны</l>
+     <stg>
+       <st Contlex="V_MONO">кариськы</st>
+     </stg>
+   </lg> <phonet>кариськыны</phonet>
+   <mg> <defNative/>
+     <tg xml:lang="fin">
+       <t pos="V">tulla</t>
+       <t pos="V">muuttua jksik</t>
+     </tg>
+     <xg> <x>кезьыт кариськыны</x>
+       <xt xml:lang="fin">kylmetä, kylmentyä, viiletä, viilentyä</xt>
+     </xg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="V">карыны</l>
+     <stg>
+       <st Contlex="V_MONO">кары</st>
+     </stg>
+   </lg> <phonet>карыны</phonet> <etymg> <etym xml:lang="kpv">керны</etym> </etymg>
+   <mg> <defNative/>
+     <tg xml:lang="fin">
+       <t pos="V">tehdä</t>
+     </tg>
+     <xg> <x>венчать карыны</x>
+       <xt xml:lang="fin">vihkiä</xt>
+     </xg>
+     <xg> <x>вӧсь карыны</x>
+       <xt xml:lang="fin">aiheuttaa kipua</xt>
+     </xg>
+     <xg> <x>шып карыны</x>
+       <xt xml:lang="fin">vaieta, olla hiljaa</xt>
+     </xg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="V">кельтыны</l>
+     <stg>
+       <st Contlex="V_MONO">кельты</st>
+     </stg>
+   </lg> <phonet>кельтыны</phonet>
+   <mg> <defNative/>
+     <tg xml:lang="fin">
+       <t pos="V">jättää</t>
+       <t pos="V">heittää</t>
+       <t pos="V">hylätä</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="V">кельшыны</l>
+     <stg>
+       <st Contlex="V_MONO">кельшы</st>
+     </stg>
+   </lg> <phonet>кельшыны</phonet>
+   <mg> <defNative/>
+     <tg xml:lang="fin">
+       <t pos="V">pitää</t>
+       <t pos="V">miellyttää</t>
+       <t pos="V">sopia</t>
+       <t pos="V">olla näköinen</t>
+       <t pos="V">olla tapainen, olla kaltainen</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="V">келяны</l>
+     <stg>
+       <st Contlex="V_UZA">келя</st>
+     </stg>
+   </lg> <phonet>келяны</phonet> <etymg> <etym xml:lang="kpv">колявны</etym> </etymg>
+   <mg> <defNative/>
+     <tg xml:lang="fin">
+       <t pos="V">saattaa</t>
+       <t pos="V">lähettää</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="V">кенешыны</l>
+     <stg>
+       <st Contlex="V_MONO">кенешы</st>
+     </stg>
+   </lg> <phonet>кенешыны</phonet>
+   <mg> <defNative/>
+     <tg xml:lang="fin">
+       <t pos="V">neuvotella</t>
+       <t pos="V">keskustella</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="V">керттыны</l>
+     <stg>
+       <st Contlex="V_MONO">кертты</st>
+     </stg>
+   </lg> <phonet>керттыны</phonet>
+   <mg> <defNative/>
+     <tg xml:lang="fin">
+       <t pos="V">sitoa</t>
+       <t pos="V">solmia</t>
+       <t pos="V">kutoa</t>
+       <t pos="V">neuloa</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="V">керӟегъяськыны</l>
+     <stg>
+       <st Contlex="V_MONO">керӟегъяськы</st>
+     </stg>
+   </lg> <phonet>керӟегъяськыны</phonet>
+   <mg> <defNative/>
+     <tg xml:lang="fin">
+       <t pos="V">hermostua</t>
+       <t pos="V">hermoilla</t>
+       <t pos="V">menettää malttinsa</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="V">кесиськыны</l>
+     <stg>
+       <st Contlex="V_MONO">кесиськы</st>
+     </stg>
+   </lg> <phonet>кесиськыны</phonet>
+   <mg> <defNative/>
+     <tg xml:lang="fin">
+       <t pos="V">huudahtaa</t>
+       <t pos="V">kirkaista</t>
+       <t pos="V">kiljaista</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="V">кесьыны</l>
+     <stg>
+       <st Contlex="V_MONO">кесьы</st>
+     </stg>
+   </lg> <phonet>кесьыны</phonet>
+   <mg> <defNative/>
+     <tg xml:lang="fin">
+       <t pos="V">repiä</t>
+       <t pos="V">repäistä</t>
+       <t pos="V">katkaista</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="V">кесяны</l>
+     <stg>
+       <st Contlex="V_UZA">кеся</st>
+     </stg>
+   </lg> <phonet>кесяны</phonet> <drv drvType="frekventatiivi">кесьыны</drv>
+   <mg> <defNative/>
+     <tg xml:lang="fin">
+       <t pos="V">kiskoa</t>
+       <t pos="V">repiä</t>
+       <t pos="V">nyhtää</t>
+       <t pos="V">katkoa</t>
+       <t pos="V">nylkeä</t>
+       <t pos="V">hävittää</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="V">кесяськыны</l>
+     <stg>
+       <st Contlex="V_MONO">кесяськы</st>
+     </stg>
+   </lg> <phonet>кесяськыны</phonet>
+   <mg> <defNative/>
+     <tg xml:lang="fin">
+       <t pos="V">huuhtaa</t>
+       <t pos="V">kirkua</t>
+       <t pos="V">kiljua</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="V">кивалтыны</l>
+     <stg>
+       <st Contlex="V_MONO">кивалты</st>
+     </stg>
+   </lg> <phonet>кивалтыны</phonet>
+   <mg> <defNative/>
+     <tg xml:lang="fin">
+       <t pos="V">johtaa</t>
+       <t pos="V">olla johdossa</t>
+       <t pos="V">ohjata</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="V">кизьыны</l>
+     <stg>
+       <st Contlex="V_MONO">кизьы</st>
+     </stg>
+   </lg> <phonet>кизьыны</phonet>
+   <mg> <defNative/>
+     <tg xml:lang="fin">
+       <t pos="V">kylvää</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="V">киськаны</l>
+     <stg>
+       <st Contlex="V_UZA">киська</st>
+     </stg>
+   </lg> <phonet>киськаны</phonet>
+   <mg> <defNative/>
+     <tg xml:lang="fin">
+       <t pos="V">kastella</t>
+       <t pos="V">valella</t>
+       <t pos="V">kaataa</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="V">кисьманы</l>
+     <stg>
+       <st Contlex="V_UZA">кисьма</st>
+     </stg>
+   </lg> <phonet>кисьманы</phonet>
+   <mg> <defNative/>
+     <tg xml:lang="fin">
+       <t pos="V">kypsyä</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="V">кисьтаны</l>
+     <stg>
+       <st Contlex="V_UZA">кисьта</st>
+     </stg>
+   </lg> <phonet>кисьтаны</phonet>
+   <mg> <defNative/>
+     <tg xml:lang="fin">
+       <t pos="V">kaataa</t>
+       <t pos="V">kastella</t>
+       <t pos="V">valella</t>
+     </tg>
+     <xg> <x>ву кисьтаны</x>
+       <xt xml:lang="fin">kastella</xt>
+     </xg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="V">кисьтыны</l>
+     <stg>
+       <st Contlex="V_MONO">кисьты</st>
+     </stg>
+   </lg> <phonet>кисьтыны</phonet> <etymg> <etym xml:lang="kpv">кисьтны</etym> </etymg>
+   <mg> <defNative/>
+     <tg xml:lang="fin">
+       <t pos="V">kaataa</t>
+       <t pos="V">valuttaa</t>
+       <t pos="V">vuodattaa</t>
+       <t pos="V">kaataa</t>
+       <t pos="V">karistaa (pois), valaa</t>
+       <t pos="V">sulattaa</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="V">кожаны</l>
+     <stg>
+       <st Contlex="V_UZA">кожа</st>
+     </stg>
+   </lg> <phonet>кожаны</phonet>
+   <mg> <defNative/>
+     <tg xml:lang="fin">
+       <t pos="V">luulla</t>
+       <t pos="V">arvella</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="V">кожыны</l>
+     <stg>
+       <st Contlex="V_MONO">кожы</st>
+     </stg>
+   </lg> <phonet>кожыны</phonet>
+   <mg> <defNative/>
+     <tg xml:lang="fin">
+       <t pos="V">kääntyä</t>
+       <t pos="V">pyörähtää</t>
+       <t pos="V">poiketa</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="V">кокчаны</l>
+     <stg>
+       <st Contlex="V_UZA">кокча</st>
+     </stg>
+   </lg> <phonet>кокчаны</phonet>
+   <mg> <defNative/>
+     <tg xml:lang="fin">
+       <t pos="V">nokkia</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="V">копаны</l>
+     <stg>
+       <st Contlex="V_UZA">копа</st>
+     </stg>
+   </lg> <phonet>копаны</phonet>
+   <mg> <defNative/>
+     <tg xml:lang="fin">
+       <t pos="V">kaivaa</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="V">кораны</l>
+     <stg>
+       <st Contlex="V_UZA">кора</st>
+     </stg>
+   </lg> <phonet>кораны</phonet>
+   <mg> <defNative/>
+     <tg xml:lang="fin">
+       <t pos="V">leikata</t>
+       <t pos="V">hakata</t>
+       <t pos="V">pilkkoa</t>
+       <t pos="V">halkoa</t>
+       <t pos="V">kaataa</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="V">косыны</l>
+     <stg>
+       <st Contlex="V_MONO">косы</st>
+     </stg>
+   </lg> <phonet>косыны</phonet>
+   <mg> <defNative/>
+     <tg xml:lang="fin">
+       <t pos="V">käskeä</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="V">котканы</l>
+     <stg>
+       <st Contlex="V_UZA">котка</st>
+     </stg>
+   </lg> <phonet>котканы</phonet>
+   <mg> <defNative/>
+     <tg xml:lang="fin">
+       <t pos="V">kaakattaa</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="V">котмыны</l>
+     <stg>
+       <st Contlex="V_MONO">котмы</st>
+     </stg>
+   </lg> <phonet>котмыны</phonet>
+   <mg> <defNative/>
+     <tg xml:lang="fin">
+       <t pos="V">kastua</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="V">коттыны</l>
+     <stg>
+       <st Contlex="V_MONO">котты</st>
+     </stg>
+   </lg> <phonet>коттыны</phonet>
+   <mg> <defNative/>
+     <tg xml:lang="fin">
+       <t pos="V">kastella</t>
+       <t pos="V">liottaa</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="V">котыртыны</l>
+     <stg>
+       <st Contlex="V_MONO">котырты</st>
+     </stg>
+   </lg> <phonet>котыртыны</phonet>
+   <mg> <defNative/>
+     <tg xml:lang="fin">
+       <t pos="V">ympäröidä</t>
+       <t pos="V">piirittää</t>
+       <t pos="V">saartaa</t>
+       <t pos="V">kiertää</t>
+       <t pos="V">kulkea (ympäri), aidata</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="V">кошкыны</l>
+     <stg>
+       <st Contlex="V_MONO">кошкы</st>
+     </stg>
+   </lg> <phonet>кошкыны</phonet>
+   <mg> <defNative/>
+     <tg xml:lang="fin">
+       <t pos="V">lähteä pois</t>
+       <t pos="V">mennä pois</t>
+       <t pos="V">virrata</t>
+       <t pos="V">vuotaa</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="V">куаданы</l>
+     <stg>
+       <st Contlex="V_UZA">куада</st>
+     </stg>
+   </lg> <phonet>куаданы</phonet>
+   <mg> <defNative/>
+     <tg xml:lang="fin">
+       <t pos="V">kuoria</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="V">куажгетыны</l>
+     <stg>
+       <st Contlex="V_MONO">куажгеты</st>
+     </stg>
+   </lg> <phonet>куажгетыны</phonet>
+   <mg> <defNative/>
+     <tg xml:lang="fin">
+       <t pos="V">siristä</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="V">куанермыны</l>
+     <stg>
+       <st Contlex="V_MONO">куанермы</st>
+     </stg>
+   </lg> <phonet>куанермыны</phonet>
+   <mg> <defNative/>
+     <tg xml:lang="fin">
+       <t pos="V">köyhtyä</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="V">куаретыны</l>
+     <stg>
+       <st Contlex="V_MONO">куареты</st>
+     </stg>
+   </lg> <phonet>куаретыны</phonet>
+   <mg> <defNative/>
+     <tg xml:lang="fin">
+       <t pos="V">puhua</t>
+       <t pos="V">vastata</t>
+       <t pos="V">päästää ääntä</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="V">куасьмыны</l>
+     <stg>
+       <st Contlex="V_MONO">куасьмы</st>
+     </stg>
+   </lg> <phonet>куасьмыны</phonet>
+   <mg> <defNative/>
+     <tg xml:lang="fin">
+       <t pos="V">kuivua</t>
+       <t pos="V">kuihtua</t>
+       <t pos="V">lakastua</t>
+       <t pos="V">laihtua</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="V">куасьтыны</l>
+     <stg>
+       <st Contlex="V_MONO">куасьты</st>
+     </stg>
+   </lg> <phonet>куасьтыны</phonet>
+   <mg> <defNative/>
+     <tg xml:lang="fin">
+       <t pos="V">kuivata</t>
+       <t pos="V">kuivattaa</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="V">куашетыны</l>
+     <stg>
+       <st Contlex="V_MONO">куашеты</st>
+     </stg>
+   </lg> <phonet>куашетыны</phonet>
+   <mg> <defNative/>
+     <tg xml:lang="fin">
+       <t pos="V">kohista</t>
+       <t pos="V">kahista</t>
+       <t pos="V">humista</t>
+       <t pos="V">meluta</t>
+       <t pos="V">hälistä</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="V">кудӟыны</l>
+     <stg>
+       <st Contlex="V_MONO">кудӟы</st>
+     </stg>
+   </lg> <phonet>кудӟыны</phonet> <etymg> <etym xml:lang="kpv">коддзыны</etym> </etymg>
+   <mg> <defNative/>
+     <tg xml:lang="fin">
+       <t pos="V">juopua</t>
+       <t pos="V">päihtyä</t>
+       <t pos="V">humaltua</t>
+       <t pos="V">tulla juovuksiin</t>
+       <t pos="V">tulla humalaan</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="V">кузьманы</l>
+     <stg>
+       <st Contlex="V_UZA">кузьма</st>
+     </stg>
+   </lg> <phonet>кузьманы</phonet>
+   <mg> <defNative/>
+     <tg xml:lang="fin">
+       <t pos="V">lahjoittaa</t>
+       <t pos="V">antaa lahjaksi</t>
+       <t pos="V">lahjoitella</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="V">кулыны</l>
+     <stg>
+       <st Contlex="V_MONO">кулы</st>
+     </stg>
+   </lg> <phonet>кулыны</phonet> <etymg> <etym xml:lang="kpv">кувны</etym> </etymg>
+   <mg> <defNative/>
+     <tg xml:lang="fin">
+       <t pos="V">kuolla</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="V">кулэсмыны</l>
+     <stg>
+       <st Contlex="V_MONO">кулэсмы</st>
+     </stg>
+   </lg> <phonet>кулэсмыны</phonet>
+   <mg> <defNative/>
+     <tg xml:lang="fin">
+       <t pos="V">vähetä</t>
+       <t pos="V">vähentyä</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="V">кулэстыны</l>
+     <stg>
+       <st Contlex="V_MONO">кулэсты</st>
+     </stg>
+   </lg> <phonet>кулэстыны</phonet>
+   <mg> <defNative/>
+     <tg xml:lang="fin">
+       <t pos="V">vähentää</t>
+       <t pos="V">pienentää</t>
+       <t pos="V">lyhentää</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="V">кунояськыны</l>
+     <stg>
+       <st Contlex="V_MONO">кунояськы</st>
+     </stg>
+   </lg> <phonet>кунояськыны</phonet>
+   <mg> <defNative/>
+     <tg xml:lang="fin">
+       <t pos="V">nauttia</t>
+       <t pos="V">herkutella</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="V">куноятыны</l>
+     <stg>
+       <st Contlex="V_MONO">кунояты</st>
+     </stg>
+   </lg> <phonet>куноятыны</phonet>
+   <mg> <defNative/>
+     <tg xml:lang="fin">
+       <t pos="V">kestitä</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="V">курадӟыны</l>
+     <stg>
+       <st Contlex="V_MONO">курадӟы</st>
+     </stg>
+   </lg> <phonet>курадӟыны</phonet>
+   <mg> <defNative/>
+     <tg xml:lang="fin">
+       <t pos="V">kärsiä</t>
+       <t pos="V">kitua</t>
+       <t pos="V">potea</t>
+       <t pos="V">tuskailla</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="V">курданы</l>
+     <stg>
+       <st Contlex="V_UZA">курда</st>
+     </stg>
+   </lg> <phonet>курданы</phonet>
+   <mg> <defNative/>
+     <tg xml:lang="fin">
+       <t pos="V">pelätä</t>
+       <t pos="V">pelästyä</t>
+       <t pos="V">säikähtää</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="V">куриськыны</l>
+     <stg>
+       <st Contlex="V_MONO">куриськы</st>
+     </stg>
+   </lg> <phonet>куриськыны</phonet>
+   <mg> <defNative/>
+     <tg xml:lang="fin">
+       <t pos="V">pyrkiä</t>
+       <t pos="V">pyytää</t>
+       <t pos="V">rukoilla</t>
+       <t pos="V">viettää uhrijuhlaa</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="V">куртчыны</l>
+     <stg>
+       <st Contlex="V_MONO">куртчы</st>
+     </stg>
+   </lg> <phonet>куртчыны</phonet> <etymg> <etym xml:lang="kpv">курччыны</etym> </etymg>
+   <mg> <defNative/>
+     <tg xml:lang="fin">
+       <t pos="V">purra</t>
+       <t pos="V">puraista</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="V">курыны</l>
+     <stg>
+       <st Contlex="V_MONO">куры</st>
+     </stg>
+   </lg> <phonet>курыны</phonet> <etymg> <etym xml:lang="kpv">корны</etym> </etymg>
+   <mg> <defNative/>
+     <tg xml:lang="fin">
+       <t pos="V">pytää</t>
+       <t pos="V">anoa</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="V">кутсаны</l>
+     <stg>
+       <st Contlex="V_UZA">кутса</st>
+     </stg>
+   </lg> <phonet>кутсаны</phonet>
+   <mg> <defNative/>
+     <tg xml:lang="fin">
+       <t pos="V">puida</t>
+       <t pos="V">hakata</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="V">кутскыны</l>
+     <stg>
+       <st Contlex="V_MONO">кутскы</st>
+     </stg>
+   </lg> <phonet>кутскыны</phonet>
+   <mg> <defNative/>
+     <tg xml:lang="fin">
+       <t pos="V">alkaa</t>
+       <t pos="V">aloittaa</t>
+       <t pos="V">ryhtyä</t>
+       <t pos="V">ruveta</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="V">кутчаськыны</l>
+     <stg>
+       <st Contlex="V_MONO">кутчаськы</st>
+     </stg>
+   </lg> <phonet>кутчаськыны</phonet>
+   <mg> <defNative/>
+     <tg xml:lang="fin">
+       <t pos="V">panna jalkineet jalkaansa</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="V">кутыны</l>
+     <stg>
+       <st Contlex="V_MONO">куты</st>
+     </stg>
+   </lg> <phonet>кутыны</phonet>
+   <mg> <defNative/>
+     <tg xml:lang="fin">
+       <t pos="V">ottaa kiinni</t>
+       <t pos="V">saada kiinni</t>
+       <t pos="V">siepata</t>
+       <t pos="V">kaapata</t>
+       <t pos="V">tarttua, tavoittaa</t>
+       <t pos="V">ottaa (vastaan)</t>
+       <t pos="V">hyväksyä</t>
+       <t pos="V">käyttää</t>
+     </tg>
+     <xg> <x>уже кутыны</x>
+       <xt xml:lang="fin">käyttää</xt>
+     </xg>
+     <xg> <x>чорыг кутыны</x>
+       <xt xml:lang="fin">kalastaa</xt>
+     </xg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="V">куштыны</l>
+     <stg>
+       <st Contlex="V_MONO">кушты</st>
+     </stg>
+   </lg> <phonet>куштыны</phonet>
+   <mg> <defNative/>
+     <tg xml:lang="fin">
+       <t pos="V">heittää</t>
+       <t pos="V">heittää pois</t>
+       <t pos="V">viskata</t>
+       <t pos="V">hylätä</t>
+       <t pos="V">luovuttaa</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="V">куштӥськыны</l>
+     <stg>
+       <st Contlex="V_MONO">куштӥськы</st>
+     </stg>
+   </lg> <phonet>куштӥськыны</phonet>
+   <mg> <defNative/>
+     <tg xml:lang="fin">
+       <t pos="V">kieltäytyä</t>
+       <t pos="V">luopua</t>
+       <t pos="V">perääntyä</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="V">куыны</l>
+     <stg>
+       <st Contlex="V_MONO">куы</st>
+     </stg>
+   </lg> <phonet>куыны</phonet> <etymg> <etym xml:lang="kpv">кыны</etym> </etymg>
+   <mg> <defNative/>
+     <tg xml:lang="fin">
+       <t pos="V">kutoa</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="V">куяны</l>
+     <stg>
+       <st Contlex="V_UZA">куя</st>
+     </stg>
+   </lg> <phonet>куяны</phonet>
+   <mg> <defNative/>
+     <tg xml:lang="fin">
+       <t pos="V">heitellä</t>
+       <t pos="V">viskellä</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="V">кылдыны</l>
+     <stg>
+       <st Contlex="V_MONO">кылды</st>
+     </stg>
+   </lg> <phonet>кылдыны</phonet>
+   <mg> <defNative/>
+     <tg xml:lang="fin">
+       <t pos="V">syntyä</t>
+       <t pos="V">muodostua</t>
+       <t pos="V">herätä</t>
+       <t pos="V">tulla</t>
+       <t pos="V">joutua</t>
+       <t pos="V">sattua</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="V">кылдытыны</l>
+     <stg>
+       <st Contlex="V_MONO">кылдыты</st>
+     </stg>
+   </lg> <phonet>кылдытыны</phonet>
+   <mg> <defNative/>
+     <tg xml:lang="fin">
+       <t pos="V">luoda</t>
+       <t pos="V">muodostaa</t>
+       <t pos="V">tehdä</t>
+       <t pos="V">perustaa</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="V">кылзыны</l>
+     <stg>
+       <st Contlex="V_MONO">кылзы</st>
+     </stg>
+   </lg> <phonet>кылзыны</phonet> <etymg> <etym xml:lang="kpv">кывзыны</etym> </etymg>
+   <mg> <defNative/>
+     <tg xml:lang="fin">
+       <t pos="V">kuunnella</t>
+       <t pos="V">totella</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="V">кылзӥськыны</l>
+     <stg>
+       <st Contlex="V_MONO">кылзӥськы</st>
+     </stg>
+   </lg> <phonet>кылзӥськыны</phonet>
+   <mg> <defNative/>
+     <tg xml:lang="fin">
+       <t pos="V">kuunnella</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="V">кылиськыны</l>
+     <stg>
+       <st Contlex="V_MONO">кылиськы</st>
+     </stg>
+   </lg> <phonet>кылиськыны</phonet>
+   <mg> <defNative/>
+     <tg xml:lang="fin">
+       <t pos="V">riisuutua</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="V">кылльыны</l>
+     <stg>
+       <st Contlex="V_MONO">кылльы</st>
+     </stg>
+   </lg> <phonet>кылльыны</phonet> <etymg> <etym xml:lang="kpv">куйлыны</etym> </etymg>
+   <mg> <defNative/>
+     <tg xml:lang="fin">
+       <t pos="V">maata</t>
+       <t pos="V">loikoa</t>
+       <t pos="V">lojua</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="V">кылыны</l>
+     <stg>
+       <st Contlex="V_MONO">кылы</st>
+     </stg>
+   </lg> <phonet>кылыны</phonet> <etymg> <etym xml:lang="kpv">кывны</etym> </etymg>
+   <mg> <defNative/>
+     <tg xml:lang="fin">
+       <t pos="V">kuulla</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="V">кыльыны</l>
+     <stg>
+       <st Contlex="V_MONO">кыльы</st>
+     </stg>
+   </lg> <phonet>кыльыны</phonet> <etymg> <etym xml:lang="kpv">кольны</etym> </etymg>
+   <mg> <defNative/>
+     <tg xml:lang="fin">
+       <t pos="V">jäädä jälkeen</t>
+       <t pos="V">jäädä jäljelle</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="V">кылӥськыны</l>
+     <stg>
+       <st Contlex="V_MONO">кылӥськы</st>
+     </stg>
+   </lg> <phonet>кылӥськыны</phonet>
+   <mg> <defNative/>
+     <tg xml:lang="fin">
+       <t pos="V">kuulua</t>
+       <t pos="V">olla kuultavissa</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="V">кынмыны</l>
+     <stg>
+       <st Contlex="V_MONO">кынмы</st>
+     </stg>
+   </lg> <phonet>кынмыны</phonet> <etymg> <etym xml:lang="kpv">кынмыны</etym> </etymg>
+   <mg> <defNative/>
+     <tg xml:lang="fin">
+       <t pos="V">palella</t>
+       <t pos="V">jäähtyä</t>
+       <t pos="V">kylmetä</t>
+       <t pos="V">kylmentyä</t>
+       <t pos="V">jäätyä</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="V">кырмиськыны</l>
+     <stg>
+       <st Contlex="V_MONO">кырмиськы</st>
+     </stg>
+   </lg> <phonet>кырмиськыны</phonet>
+   <mg> <defNative/>
+     <tg xml:lang="fin">
+       <t pos="V">tarttua</t>
+       <t pos="V">käydä kiinni</t>
+       <t pos="V">jäädä kiinni</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="V">кырсёмыны</l>
+     <stg>
+       <st Contlex="V_MONO">кырсёмы</st>
+     </stg>
+   </lg> <phonet>кырсёмыны</phonet>
+   <mg> <defNative/>
+     <tg xml:lang="fin">
+       <t pos="V">likaantua</t>
+       <t pos="V">tahraantua</t>
+       <t pos="V">saastua</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="V">кырӟаны</l>
+     <stg>
+       <st Contlex="V_UZA">кырӟа</st>
+     </stg>
+   </lg> <phonet>кырӟаны</phonet>
+   <mg> <defNative/>
+     <tg xml:lang="fin">
+       <t pos="V">laulaa</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="V">кыскыны</l>
+     <stg>
+       <st Contlex="V_MONO">кыскы</st>
+     </stg>
+   </lg> <phonet>кыскыны</phonet> <etymg> <etym xml:lang="kpv">кыскыны</etym> </etymg>
+   <mg> <defNative/>
+     <tg xml:lang="fin">
+       <t pos="V">kiskoa</t>
+       <t pos="V">vetää</t>
+       <t pos="V">kiristää</t>
+       <t pos="V">punnita</t>
+       <t pos="V">arvioida</t>
+       <t pos="V">tupakoida, lypsää</t>
+     </tg>
+     <xg> <x>тамак кыскыны</x>
+       <xt xml:lang="fin">tupakoida</xt>
+     </xg>
+     <xg> <x>скал кыскыны</x>
+       <xt xml:lang="fin">lypsää lehmää/lehmiä</xt>
+     </xg>
+     <xg> <x>чечы кыскыны</x>
+       <xt xml:lang="fin">kerätä hunajaa</xt>
+     </xg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="V">кыстӥськыны</l>
+     <stg>
+       <st Contlex="V_MONO">кыстӥськы</st>
+     </stg>
+   </lg> <phonet>кыстӥськыны</phonet>
+   <mg> <defNative/>
+     <tg xml:lang="fin">
+       <t pos="V">venyä</t>
+       <t pos="V">levitä</t>
+       <t pos="V">levittäytyä</t>
+       <t pos="V">ulottua</t>
+       <t pos="V">kestää</t>
+       <t pos="V">jatkua, pyrkiä</t>
+       <t pos="V">yrittää</t>
+       <t pos="V">tavoitella</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="V">кысыны</l>
+     <stg>
+       <st Contlex="V_MONO">кысы</st>
+     </stg>
+   </lg> <phonet>кысыны</phonet> <etymg> <etym xml:lang="kpv">косны</etym> </etymg>
+   <mg> <defNative/>
+     <tg xml:lang="fin">
+       <t pos="V">sammua</t>
+       <t pos="V">ehtyä</t>
+       <t pos="V">sammuuttaa</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="V">кыткыны</l>
+     <stg>
+       <st Contlex="V_MONO">кыткы</st>
+     </stg>
+   </lg> <phonet>кыткыны</phonet>
+   <mg> <defNative/>
+     <tg xml:lang="fin">
+       <t pos="V">valjastaa</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="V">кышканы</l>
+     <stg>
+       <st Contlex="V_UZA">кышка</st>
+     </stg>
+   </lg> <phonet>кышканы</phonet>
+   <mg> <defNative/>
+     <tg xml:lang="fin">
+       <t pos="V">pelätä</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="V">кышкатыны</l>
+     <stg>
+       <st Contlex="V_MONO">кышкаты</st>
+     </stg>
+   </lg> <phonet>кышкатыны</phonet>
+   <mg> <defNative/>
+     <tg xml:lang="fin">
+       <t pos="V">pelästyttää</t>
+       <t pos="V">pelotella</t>
+       <t pos="V">säikähdyttää</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="V">кышнояськыны</l>
+     <stg>
+       <st Contlex="V_MONO">кышнояськы</st>
+     </stg>
+   </lg> <phonet>кышнояськыны</phonet>
+   <mg> <defNative/>
+     <tg xml:lang="fin">
+       <t pos="V">mennä naimisiin (miehestä)</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="V">кӧлыны</l>
+     <stg>
+       <st Contlex="V_MONO">кӧлы</st>
+     </stg>
+   </lg> <phonet>кӧлыны</phonet>
+   <mg> <defNative/>
+     <tg xml:lang="fin">
+       <t pos="V">nukkua</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="V">кӧчыны</l>
+     <stg>
+       <st Contlex="V_MONO">кӧчы</st>
+     </stg>
+   </lg> <phonet>кӧчыны</phonet>
+   <mg> <defNative/>
+     <tg xml:lang="fin">
+       <t pos="V">muuttaa</t>
+       <t pos="V">siirtyä</t>
+       <t pos="V">vaeltaa</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="V">леканы</l>
+     <stg>
+       <st Contlex="V_UZA">лека</st>
+     </stg>
+   </lg> <phonet>леканы</phonet>
+   <mg> <defNative/>
+     <tg xml:lang="fin">
+       <t pos="V">pistää</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="V">лекаськыны</l>
+     <stg>
+       <st Contlex="V_MONO">лекаськы</st>
+     </stg>
+   </lg> <phonet>лекаськыны</phonet>
+   <mg> <defNative/>
+     <tg xml:lang="fin">
+       <t pos="V">puskea</t>
+       <t pos="V">pistää</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="V">лобаны</l>
+     <stg>
+       <st Contlex="V_UZA">лоба</st>
+     </stg>
+   </lg> <phonet>лобаны</phonet> <drv drvType="frekventatiivi">лобыны</drv> <etymg> <etym xml:lang="kpv">лэбавны</etym> </etymg>
+   <mg> <defNative/>
+     <tg xml:lang="fin">
+       <t pos="V">lentää</t>
+       <t pos="V">lennellä</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="V">лобыны</l>
+     <stg>
+       <st Contlex="V_MONO">лобы</st>
+     </stg>
+   </lg> <phonet>лобыны</phonet> <etymg> <etym xml:lang="kpv">лэбны</etym> </etymg>
+   <mg> <defNative/>
+     <tg xml:lang="fin">
+       <t pos="V">lentää</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="V">лобӟыны</l>
+     <stg>
+       <st Contlex="V_MONO">лобӟы</st>
+     </stg>
+   </lg> <phonet>лобӟыны</phonet> <etymg> <etym xml:lang="kpv">лэбзьыны</etym> </etymg>
+   <mg> <defNative/>
+     <tg xml:lang="fin">
+       <t pos="V">lentää(pois)</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="V">лопырскыны</l>
+     <stg>
+       <st Contlex="V_MONO">лопырскы</st>
+     </stg>
+   </lg> <phonet>лопырскыны</phonet>
+   <mg> <defNative/>
+     <tg xml:lang="fin">
+       <t pos="V">ravistaa höyheiniään</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="V">лушканы</l>
+     <stg>
+       <st Contlex="V_UZA">лушка</st>
+     </stg>
+   </lg> <phonet>лушканы</phonet>
+   <mg> <defNative/>
+     <tg xml:lang="fin">
+       <t pos="V">varastaa</t>
+       <t pos="V">näpistää</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="V">луыны</l>
+       <l_cogn pos="V" xml:lang="kpv">лоны</l_cogn>
+     <stg>
+       <st Contlex="V_MONO">луы</st>
+     </stg>
+   </lg> <phonet>луыны</phonet>
+   <mg> <defNative/>
+     <tg xml:lang="fin">
+       <t pos="V">olla</t>
+       <t pos="V">tulla joksik</t>
+       <t pos="V">käydä päinsä</t>
+       <t pos="V">voida</t>
+     </tg>
+     <xg> <x>лыдӟеме луэ</x>
+       <xt xml:lang="fin">voin/osaan lukea</xt>
+     </xg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="V">лыдъяны</l>
+     <stg>
+       <st Contlex="V_UZA">лыдъя</st>
+     </stg>
+   </lg> <phonet>лыдъяны</phonet>
+   <mg> <defNative/>
+     <tg xml:lang="fin">
+       <t pos="V">laskea</t>
+       <t pos="V">pitää jonakin</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="V">лыдъяськыны</l>
+     <stg>
+       <st Contlex="V_MONO">лыдъяськы</st>
+     </stg>
+   </lg> <phonet>лыдъяськыны</phonet>
+   <mg> <defNative/>
+     <tg xml:lang="fin">
+       <t pos="V">laskea</t>
+       <t pos="V">lukeutua</t>
+       <t pos="V">kuulua</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="V">лыдӟиськыны</l>
+     <stg>
+       <st Contlex="V_MONO">лыдӟиськы</st>
+     </stg>
+   </lg> <phonet>лыдӟиськыны</phonet>
+   <mg> <defNative/>
+     <tg xml:lang="fin">
+       <t pos="V">lukea</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="V">лыдӟыны</l>
+     <stg>
+       <st Contlex="V_MONO">лыдӟы</st>
+     </stg>
+   </lg> <phonet>лыдӟыны</phonet> <etymg> <etym xml:lang="kpv">лыддьыны</etym> </etymg>
+   <mg> <defNative/>
+     <tg xml:lang="fin">
+       <t pos="V">lukea</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="V">лыктыны</l>
+     <stg>
+       <st Contlex="V_MONO">лыкты</st>
+     </stg>
+   </lg> <phonet>лыктыны</phonet> <etymg> <etym xml:lang="kpv">локны</etym> </etymg>
+   <mg> <defNative/>
+     <tg xml:lang="fin">
+       <t pos="V">tulla</t>
+       <t pos="V">saapua</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="V">лымыяны</l>
+     <stg>
+       <st Contlex="V_UZA">лымыя</st>
+     </stg>
+   </lg> <phonet>лымыяны</phonet> <etymg> <etym xml:lang="kpv">лымъявны</etym> </etymg>
+   <mg> <defNative/>
+     <tg xml:lang="fin">
+       <t pos="V">sataa lunta</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="V">лэзиськыны</l>
+     <stg>
+       <st Contlex="V_MONO">лэзиськы</st>
+     </stg>
+   </lg> <phonet>лэзиськыны</phonet>
+   <mg> <defNative/>
+     <tg xml:lang="fin">
+       <t pos="V">päästä irti</t>
+       <t pos="V">kirvota</t>
+       <t pos="V">laskeutua (alas)</t>
+       <t pos="V">laskea (alas), vaipua</t>
+       <t pos="V">painua (alas)</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="V">лэзьыны</l>
+     <stg>
+       <st Contlex="V_MONO">лэзьы</st>
+     </stg>
+   </lg> <phonet>лэзьыны</phonet> <etymg> <etym xml:lang="kpv">лэдзны</etym> </etymg>
+   <mg> <defNative/>
+     <tg xml:lang="fin">
+       <t pos="V">laskea</t>
+       <t pos="V">päästää</t>
+       <t pos="V">sallia</t>
+       <t pos="V">antaa lupa</t>
+       <t pos="V">lähettää</t>
+       <t pos="V">löysentää, kaataa</t>
+       <t pos="V">valuttaa</t>
+       <t pos="V">heittää</t>
+       <t pos="V">nakata</t>
+       <t pos="V">viskata</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="V">лэсьтыны</l>
+     <stg>
+       <st Contlex="V_MONO">лэсьты</st>
+     </stg>
+   </lg> <phonet>лэсьтыны</phonet>
+   <mg> <defNative/>
+     <tg xml:lang="fin">
+       <t pos="V">tehdä</t>
+       <t pos="V">rakentaa</t>
+       <t pos="V">muodostaa</t>
+       <t pos="V">järjestää</t>
+       <t pos="V">panna toimeen, suorittaa</t>
+       <t pos="V">valmistaa</t>
+       <t pos="V">laittaa (ruokaa)</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="V">люканы</l>
+     <stg>
+       <st Contlex="V_UZA">люка</st>
+     </stg>
+   </lg> <phonet>люканы</phonet>
+   <mg> <defNative/>
+     <tg xml:lang="fin">
+       <t pos="V">koota</t>
+       <t pos="V">kerätä</t>
+       <t pos="V">kasata</t>
+       <t pos="V">läjätä</t>
+       <t pos="V">pinota</t>
+       <t pos="V">panna yhteen, hankkia</t>
+       <t pos="V">varata</t>
+       <t pos="V">säästää</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="V">люкаськыны</l>
+     <stg>
+       <st Contlex="V_MONO">люкаськы</st>
+     </stg>
+   </lg> <phonet>люкаськыны</phonet>
+   <mg> <defNative/>
+     <tg xml:lang="fin">
+       <t pos="V">kokoontua</t>
+       <t pos="V">kerääntyä</t>
+       <t pos="V">keräytyä</t>
+       <t pos="V">kasaantua</t>
+       <t pos="V">tulla yhteen, tiivistyä</t>
+       <t pos="V">kertyä</t>
+       <t pos="V">karttua</t>
+       <t pos="V">tiivistyä</t>
+       <t pos="V">lukeutua</t>
+       <t pos="V">kuulua</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="V">люкетыны</l>
+     <stg>
+       <st Contlex="V_MONO">люкеты</st>
+     </stg>
+   </lg> <phonet>люкетыны</phonet>
+   <mg> <defNative/>
+     <tg xml:lang="fin">
+       <t pos="V">haitata</t>
+       <t pos="V">häiritä</t>
+       <t pos="V">tehdä haittaa</t>
+       <t pos="V">olla haittana</t>
+       <t pos="V">estää, jarruttaa</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="V">люкиськыны</l>
+     <stg>
+       <st Contlex="V_MONO">люкиськы</st>
+     </stg>
+   </lg> <phonet>люкиськыны</phonet>
+   <mg> <defNative/>
+     <tg xml:lang="fin">
+       <t pos="V">jakautua</t>
+       <t pos="V">jakaantua</t>
+       <t pos="V">eristäytyä</t>
+       <t pos="V">eristyä</t>
+       <t pos="V">erota</t>
+       <t pos="V">hajota, hajaantua</t>
+     </tg>
+     <xg> <x>гру́ппаослы люкиськыны</x>
+       <xt xml:lang="fin">jakaantua ryhmiin</xt>
+     </xg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="V">люктаны</l>
+     <stg>
+       <st Contlex="V_UZA">люкта</st>
+     </stg>
+   </lg> <phonet>люктаны</phonet>
+   <mg> <defNative/>
+     <tg xml:lang="fin">
+       <t pos="V">juottaa</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="V">люкыны</l>
+     <stg>
+       <st Contlex="V_MONO">люкы</st>
+     </stg>
+   </lg> <phonet>люкыны</phonet>
+   <mg> <defNative/>
+     <tg xml:lang="fin">
+       <t pos="V">erottaa</t>
+       <t pos="V">erota</t>
+       <t pos="V">irrottaa</t>
+       <t pos="V">jakaa (osiin)</t>
+       <t pos="V">halkoa</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="V">лёгыны</l>
+     <stg>
+       <st Contlex="V_MONO">лёгы</st>
+     </stg>
+   </lg> <phonet>лёгыны</phonet>
+   <mg> <defNative/>
+     <tg xml:lang="fin">
+       <t pos="V">astua</t>
+       <t pos="V">polkea</t>
+       <t pos="V">tallata</t>
+       <t pos="V">kuluttaa</t>
+       <t pos="V">käyttää</t>
+       <t pos="V">aukoa, viitoittaa (uusi tie)</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="V">мадьыны</l>
+     <stg>
+       <st Contlex="V_MONO">мадьы</st>
+     </stg>
+   </lg> <phonet>мадьыны</phonet> <etymg> <etym xml:lang="kpv">мойдны</etym> </etymg>
+   <mg> <defNative/>
+     <tg xml:lang="fin">
+       <t pos="V">kertoa</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="V">малпаны</l>
+     <stg>
+       <st Contlex="V_UZA">малпа</st>
+     </stg>
+   </lg> <phonet>малпаны</phonet> <etymg> <etym xml:lang="kpv">мӧвпавны</etym> </etymg>
+   <mg> <defNative/>
+     <tg xml:lang="fin">
+       <t pos="V">ajatella</t>
+       <t pos="V">miettiä</t>
+       <t pos="V">tuumia</t>
+       <t pos="V">harkita</t>
+       <t pos="V">pohdiskella</t>
+       <t pos="V">haaveilla, luulla</t>
+       <t pos="V">arvella</t>
+       <t pos="V">aikoa</t>
+       <t pos="V">suunnitella</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="V">матэктыны</l>
+     <stg>
+       <st Contlex="V_MONO">матэкты</st>
+     </stg>
+   </lg> <phonet>матэктыны</phonet>
+   <mg> <defNative/>
+     <tg xml:lang="fin">
+       <t pos="V">lähestyä</t>
+       <t pos="V">lähetä</t>
+       <t pos="V">lähentyä</t>
+       <t pos="V">tulla läheiseksi</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="V">медъяны</l>
+     <stg>
+       <st Contlex="V_UZA">медъя</st>
+     </stg>
+   </lg> <phonet>медъяны</phonet>
+   <mg> <defNative/>
+     <tg xml:lang="fin">
+       <t pos="V">palkata</t>
+       <t pos="V">lahjoa</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="V">мертаны</l>
+     <stg>
+       <st Contlex="V_UZA">мерта</st>
+     </stg>
+   </lg> <phonet>мертаны</phonet>
+   <mg> <defNative/>
+     <tg xml:lang="fin">
+       <t pos="V">mitata</t>
+       <t pos="V">punnita</t>
+       <t pos="V">koettaa</t>
+       <t pos="V">sovittaa</t>
+       <t pos="V">tähdätä</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="V">мерттыны</l>
+     <stg>
+       <st Contlex="V_MONO">мертты</st>
+     </stg>
+   </lg> <phonet>мерттыны</phonet>
+   <mg> <defNative/>
+     <tg xml:lang="fin">
+       <t pos="V">istuttaa</t>
+       <t pos="V">panna kasvamaan</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="V">миськыны</l>
+     <stg>
+       <st Contlex="V_MONO">миськы</st>
+     </stg>
+   </lg> <phonet>миськыны</phonet> <etymg> <etym xml:lang="kpv">мыськыны</etym> </etymg>
+   <mg> <defNative/>
+     <tg xml:lang="fin">
+       <t pos="V">pestä</t>
+       <t pos="V">tiskata</t>
+       <t pos="V">kylvettää</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="V">мисьтаськыны</l>
+     <stg>
+       <st Contlex="V_MONO">мисьтаськы</st>
+     </stg>
+   </lg> <phonet>мисьтаськыны</phonet>
+   <mg> <defNative/>
+     <tg xml:lang="fin">
+       <t pos="V">peseytyä</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="V">мозмытыны</l>
+     <stg>
+       <st Contlex="V_MONO">мозмыты</st>
+     </stg>
+   </lg> <phonet>мозмытыны</phonet>
+   <mg> <defNative/>
+     <tg xml:lang="fin">
+       <t pos="V">vapauttaa</t>
+       <t pos="V">päästääirti</t>
+       <t pos="V">päästää menemään</t>
+       <t pos="V">laskea irti, päästää pois</t>
+       <t pos="V">vapauttaa</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="V">мыжгыны</l>
+     <stg>
+       <st Contlex="V_MONO">мыжгы</st>
+     </stg>
+   </lg> <phonet>мыжгыны</phonet>
+   <mg> <defNative/>
+     <tg xml:lang="fin">
+       <t pos="V">lyödä (nyrkillä)</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="V">мыныны</l>
+     <stg>
+       <st Contlex="V_MONO">мыны</st>
+     </stg>
+   </lg> <phonet>мыныны</phonet> <etymg> <etym xml:lang="kpv">мунны</etym> </etymg>
+   <mg> <defNative/>
+     <tg xml:lang="fin">
+       <t pos="V">mennä</t>
+       <t pos="V">lähteä</t>
+       <t pos="V">kulkea</t>
+       <t pos="V">käydä</t>
+       <t pos="V">matkustaa</t>
+       <t pos="V">ajaa</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="V">мычыны</l>
+     <stg>
+       <st Contlex="V_MONO">мычы</st>
+     </stg>
+   </lg> <phonet>мычыны</phonet>
+   <mg> <defNative/>
+     <tg xml:lang="fin">
+       <t pos="V">viedä (pois)</t>
+       <t pos="V">siirtää pois</t>
+       <t pos="V">panna (pois)</t>
+       <t pos="V">pistää ulos (esiin)</t>
+       <t pos="V">työntää ulos (esiin)</t>
+       <t pos="V">kurkottaa</t>
+       <t pos="V">ojentaa</t>
+       <t pos="V">lapioida kasaan, luoda kasaan</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="V">мӧзмыны</l>
+     <stg>
+       <st Contlex="V_MONO">мӧзмы</st>
+     </stg>
+   </lg> <phonet>мӧзмыны</phonet>
+   <mg> <defNative/>
+     <tg xml:lang="fin">
+       <t pos="V">ikävöidä</t>
+       <t pos="V">olla ikävissään</t>
+       <t pos="V">kaivata</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="V">ниманы</l>
+     <stg>
+       <st Contlex="V_UZA">нима</st>
+     </stg>
+   </lg> <phonet>ниманы</phonet>
+   <mg> <defNative/>
+     <tg xml:lang="fin">
+       <t pos="V">nimittää</t>
+       <t pos="V">nimetä</t>
+     </tg>
+     <xg> <x>шуыса ниманы</x>
+       <xt xml:lang="fin">sanoa jksik</xt>
+     </xg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="V">нимаськыны</l>
+     <stg>
+       <st Contlex="V_MONO">нимаськы</st>
+     </stg>
+   </lg> <phonet>нимаськыны</phonet>
+   <mg> <defNative/>
+     <tg xml:lang="fin">
+       <t pos="V">olla nimeltään</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="V">нискыланы</l>
+     <stg>
+       <st Contlex="V_UZA">нискыла</st>
+     </stg>
+   </lg> <phonet>нискыланы</phonet>
+   <mg> <defNative/>
+     <tg xml:lang="fin">
+       <t pos="V">laskea</t>
+       <t pos="V">luistella</t>
+       <t pos="V">hiihtää</t>
+       <t pos="V">kelkkailla</t>
+     </tg>
+     <xg> <x>куасэн нискыланы</x>
+       <xt xml:lang="fin">hiihtää</xt>
+     </xg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="V">нуиськыны</l>
+     <stg>
+       <st Contlex="V_MONO">нуиськы</st>
+     </stg>
+   </lg> <phonet>нуиськыны</phonet>
+   <mg> <defNative/>
+     <tg xml:lang="fin">
+       <t pos="V">kantaa</t>
+       <t pos="V">viedä</t>
+       <t pos="V">tuoda</t>
+       <t pos="V">kuljettaa</t>
+       <t pos="V">ajaa</t>
+       <t pos="V">johdattaa</t>
+       <t pos="V">taluttaa, käydä</t>
+       <t pos="V">olla käynnissä</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="V">нуллыны</l>
+     <stg>
+       <st Contlex="V_MONO">нуллы</st>
+     </stg>
+   </lg> <phonet>нуллыны</phonet> <etymg> <etym xml:lang="kpv">новлыны</etym> </etymg>
+   <mg> <defNative/>
+     <tg xml:lang="fin">
+       <t pos="V">kantaa</t>
+       <t pos="V">kannella</t>
+       <t pos="V">raahata</t>
+       <t pos="V">laahata</t>
+       <t pos="V">(kantaa) retuutella, (kantaa) retuuttaa</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="V">нуназеяны</l>
+     <stg>
+       <st Contlex="V_UZA">нуназея</st>
+     </stg>
+   </lg> <phonet>нуназеяны</phonet>
+   <mg> <defNative/>
+     <tg xml:lang="fin">
+       <t pos="V">lounastaa</t>
+       <t pos="V">ruokailla</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="V">нуны</l>
+     <stg>
+       <st Contlex="V_MONO">нуы</st>
+     </stg>
+   </lg> <phonet>нуны</phonet>
+   <mg> <defNative/>
+     <tg xml:lang="fin">
+       <t pos="V">lapsi</t>
+       <t pos="V">vauva</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="V">нурскетыны</l>
+     <stg>
+       <st Contlex="V_MONO">нурскеты</st>
+     </stg>
+   </lg> <phonet>нурскетыны</phonet>
+   <mg> <defNative/>
+     <tg xml:lang="fin">
+       <t pos="V">röhkiä</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="V">нуыны</l>
+     <stg>
+       <st Contlex="V_MONO">нуы</st>
+     </stg>
+   </lg> <phonet>нуыны</phonet> <etymg> <etym xml:lang="kpv">нуны</etym> </etymg>
+   <mg> <defNative/>
+     <tg xml:lang="fin">
+       <t pos="V">kantaa,viedä</t>
+       <t pos="V">tuoda</t>
+       <t pos="V">kuljettaa</t>
+       <t pos="V">ajaa</t>
+       <t pos="V">johdattaa, taluttaa</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="V">нюлыштыны</l>
+     <stg>
+       <st Contlex="V_MONO">нюлышты</st>
+     </stg>
+   </lg> <phonet>нюлыштыны</phonet>
+   <mg> <defNative/>
+     <tg xml:lang="fin">
+       <t pos="V">lipaista</t>
+       <t pos="V">nuolaista</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="V">нюлышъяны</l>
+     <stg>
+       <st Contlex="V_UZA">нюлышъя</st>
+     </stg>
+   </lg> <phonet>нюлышъяны</phonet>
+   <mg> <defNative/>
+     <tg xml:lang="fin">
+       <t pos="V">lipoa</t>
+       <t pos="V">nuoleskella</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="V">нюлэсканы</l>
+     <stg>
+       <st Contlex="V_UZA">нюлэска</st>
+     </stg>
+   </lg> <phonet>нюлэсканы</phonet>
+   <mg> <defNative/>
+     <tg xml:lang="fin">
+       <t pos="V">metsästää</t>
+       <t pos="V">pyydystää</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="V">нюръяськыны</l>
+     <stg>
+       <st Contlex="V_MONO">нюръяськы</st>
+     </stg>
+   </lg> <phonet>нюръяськыны</phonet>
+   <mg> <defNative/>
+     <tg xml:lang="fin">
+       <t pos="V">painia</t>
+       <t pos="V">painiskella</t>
+       <t pos="V">taistella</t>
+       <t pos="V">tapella</t>
+       <t pos="V">kamppailla</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="V">някыртыны</l>
+     <stg>
+       <st Contlex="V_MONO">някырты</st>
+     </stg>
+   </lg> <phonet>някыртыны</phonet>
+   <mg> <defNative/>
+     <tg xml:lang="fin">
+       <t pos="V">taittaa</t>
+       <t pos="V">taivuttaa</t>
+       <t pos="V">notkistaa</t>
+       <t pos="V">vääntää</t>
+       <t pos="V">koukistaa</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="V">огазеяны</l>
+     <stg>
+       <st Contlex="V_UZA">огазея</st>
+     </stg>
+   </lg> <phonet>огазеяны</phonet>
+   <mg> <defNative/>
+     <tg xml:lang="fin">
+       <t pos="V">yhdistää</t>
+       <t pos="V">liittää yhteen</t>
+       <t pos="V">kasata</t>
+       <t pos="V">koota</t>
+       <t pos="V">kerätä yhteen</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="V">октыны</l>
+     <stg>
+       <st Contlex="V_MONO">окты</st>
+     </stg>
+   </lg> <phonet>октыны</phonet> <etymg> <etym xml:lang="kpv">ӧктыны</etym> </etymg>
+   <mg> <defNative/>
+     <tg xml:lang="fin">
+       <t pos="V">korjata (satoa)</t>
+       <t pos="V">poimia</t>
+       <t pos="V">koota</t>
+       <t pos="V">kerätä</t>
+       <t pos="V">ostaa</t>
+       <t pos="V">ostella, korjata (pois)</t>
+       <t pos="V">panna kuntoon</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="V">ортчыны</l>
+     <stg>
+       <st Contlex="V_MONO">ортчы</st>
+     </stg>
+   </lg> <phonet>ортчыны</phonet> <etymg> <etym xml:lang="kpv">орччыны</etym> </etymg>
+   <mg> <defNative/>
+     <tg xml:lang="fin">
+       <t pos="V">mennä</t>
+       <t pos="V">kulkea</t>
+       <t pos="V">sivuuttaa</t>
+       <t pos="V">ohittaa</t>
+       <t pos="V">päästä edelle</t>
+       <t pos="V">kulua (ajasta)</t>
+       <t pos="V">tapahtua</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="V">ортчытыны</l>
+     <stg>
+       <st Contlex="V_MONO">ортчыты</st>
+     </stg>
+   </lg> <phonet>ортчытыны</phonet>
+   <mg> <defNative/>
+     <tg xml:lang="fin">
+       <t pos="V">viettää</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="V">оскыны</l>
+     <stg>
+       <st Contlex="V_MONO">оскы</st>
+     </stg>
+   </lg> <phonet>оскыны</phonet> <etymg> <etym xml:lang="kpv">эскыны</etym> </etymg>
+   <mg> <defNative/>
+     <tg xml:lang="fin">
+       <t pos="V">uskoa</t>
+       <t pos="V">luottaa</t>
+       <t pos="V">toivoa</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="V">ошыны</l>
+     <stg>
+       <st Contlex="V_MONO">ошы</st>
+     </stg>
+   </lg> <phonet>ошыны</phonet>
+   <mg> <defNative/>
+     <tg xml:lang="fin">
+       <t pos="V">ripustaa</t>
+       <t pos="V">panna riippumaan</t>
+       <t pos="V">hirttää</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="V">пазяны</l>
+     <stg>
+       <st Contlex="V_UZA">пазя</st>
+     </stg>
+   </lg> <phonet>пазяны</phonet>
+   <mg> <defNative/>
+     <tg xml:lang="fin">
+       <t pos="V">roiskuttaa</t>
+       <t pos="V">räiskyttää</t>
+       <t pos="V">räiskiä</t>
+       <t pos="V">pirskottaa</t>
+       <t pos="V">pärskyttää, heittää</t>
+       <t pos="V">heitellä</t>
+       <t pos="V">heitellä (hajalleen)</t>
+       <t pos="V">hajottaa</t>
+       <t pos="V">hävittää</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="V">пазяськыны</l>
+     <stg>
+       <st Contlex="V_MONO">пазяськы</st>
+     </stg>
+   </lg> <phonet>пазяськыны</phonet>
+   <mg> <defNative/>
+     <tg xml:lang="fin">
+       <t pos="V">roiskuttaa</t>
+       <t pos="V">räiskyttää</t>
+       <t pos="V">räiskiä</t>
+       <t pos="V">pirskottaa</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="V">паймыны</l>
+     <stg>
+       <st Contlex="V_MONO">паймы</st>
+     </stg>
+   </lg> <phonet>паймыны</phonet>
+   <mg> <defNative/>
+     <tg xml:lang="fin">
+       <t pos="V">kummastua</t>
+       <t pos="V">oudoksua</t>
+       <t pos="V">hämmästyä</t>
+       <t pos="V">ihmetellä</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="V">пальпотыны</l>
+     <stg>
+       <st Contlex="V_MONO">пальпоты</st>
+     </stg>
+   </lg> <phonet>па́льпотыны</phonet>
+   <mg> <defNative/>
+     <tg xml:lang="fin">
+       <t pos="V">hymyillä</t>
+       <t pos="V">hymähtää</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="V">палэнскыны</l>
+     <stg>
+       <st Contlex="V_MONO">палэнскы</st>
+     </stg>
+   </lg> <phonet>палэнскыны</phonet>
+   <mg> <defNative/>
+     <tg xml:lang="fin">
+       <t pos="V">etääntyä</t>
+       <t pos="V">väistyä</t>
+       <t pos="V">tulla poistetuksi</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="V">парыны</l>
+     <stg>
+       <st Contlex="V_MONO">пары</st>
+     </stg>
+   </lg> <phonet>парыны</phonet>
+   <mg> <defNative/>
+     <tg xml:lang="fin">
+       <t pos="V">hauduttaa</t>
+       <t pos="V">hautoa (teetä)</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="V">паськытаны</l>
+     <stg>
+       <st Contlex="V_UZA">паськыта</st>
+     </stg>
+   </lg> <phonet>паськытаны</phonet>
+   <mg> <defNative/>
+     <tg xml:lang="fin">
+       <t pos="V">levetä</t>
+       <t pos="V">leventyä</t>
+       <t pos="V">avartua</t>
+       <t pos="V">laajeta</t>
+       <t pos="V">laajentua</t>
+       <t pos="V">väljetä, paisua</t>
+       <t pos="V">kasvaa (voimakkaasti)</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="V">пачканы</l>
+     <stg>
+       <st Contlex="V_UZA">пачка</st>
+     </stg>
+   </lg> <phonet>пачканы</phonet>
+   <mg> <defNative/>
+     <tg xml:lang="fin">
+       <t pos="V">litistyä</t>
+       <t pos="V">rutistua</t>
+       <t pos="V">puristua</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="V">пачкатыны</l>
+     <stg>
+       <st Contlex="V_MONO">пачкаты</st>
+     </stg>
+   </lg> <phonet>пачкатыны</phonet>
+   <mg> <defNative/>
+     <tg xml:lang="fin">
+       <t pos="V">likistää</t>
+       <t pos="V">litistää</t>
+       <t pos="V">puristaa</t>
+       <t pos="V">painaa (alas)</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="V">пашмыны</l>
+     <stg>
+       <st Contlex="V_MONO">пашмы</st>
+     </stg>
+   </lg> <phonet>пашмыны</phonet>
+   <mg> <defNative/>
+     <tg xml:lang="fin">
+       <t pos="V">surkastua</t>
+       <t pos="V">riutua</t>
+       <t pos="V">kuihtua</t>
+       <t pos="V">huonontua</t>
+       <t pos="V">rappeutua</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="V">пеганы</l>
+     <stg>
+       <st Contlex="V_UZA">пега</st>
+     </stg>
+   </lg> <phonet>пеганы</phonet>
+   <mg> <defNative/>
+     <tg xml:lang="fin">
+       <t pos="V">piileksiä</t>
+       <t pos="V">piileskellä</t>
+       <t pos="V">piillä</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="V">пегӟыны</l>
+     <stg>
+       <st Contlex="V_MONO">пегӟы</st>
+     </stg>
+   </lg> <phonet>пегӟыны</phonet>
+   <mg> <defNative/>
+     <tg xml:lang="fin">
+       <t pos="V">paeta</t>
+       <t pos="V">kätkeytyä</t>
+       <t pos="V">piiloutua</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="V">пельтыны</l>
+     <stg>
+       <st Contlex="V_MONO">пельты</st>
+     </stg>
+   </lg> <phonet>пельтыны</phonet> <etymg> <etym xml:lang="kpv">пӧльтны</etym> </etymg>
+   <mg> <defNative/>
+     <tg xml:lang="fin">
+       <t pos="V">puhaltaa</t>
+       <t pos="V">tuulla</t>
+       <t pos="V">tuiskuttaa</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="V">пересьмыны</l>
+     <stg>
+       <st Contlex="V_MONO">пересьмы</st>
+     </stg>
+   </lg> <phonet>пересьмыны</phonet> <etymg> <etym xml:lang="kpv">пӧрысьмыны</etym> </etymg>
+   <mg> <defNative/>
+     <tg xml:lang="fin">
+       <t pos="V">vanheta</t>
+       <t pos="V">vanhentua</t>
+       <t pos="V">tulla vanhaksi</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="V">печатланы</l>
+     <stg>
+       <st Contlex="V_UZA">печатла</st>
+     </stg>
+   </lg> <phonet>печатланы</phonet>
+   <mg> <defNative/>
+     <tg xml:lang="fin">
+       <t pos="V">kirjoittaa koneella</t>
+       <t pos="V">painaa</t>
+       <t pos="V">julkaista</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="V">пиккетыны</l>
+     <stg>
+       <st Contlex="V_MONO">пиккеты</st>
+     </stg>
+   </lg> <phonet>пиккетыны</phonet>
+   <mg> <defNative/>
+     <tg xml:lang="fin">
+       <t pos="V">piipittää</t>
+       <t pos="V">vinkua</t>
+       <t pos="V">vikistä</t>
+       <t pos="V">inistä</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="V">питыраны</l>
+     <stg>
+       <st Contlex="V_UZA">питыра</st>
+     </stg>
+   </lg> <phonet>питыраны</phonet>
+   <mg> <defNative/>
+     <tg xml:lang="fin">
+       <t pos="V">kieriä</t>
+       <t pos="V">vieriä alas</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="V">пиштыны</l>
+     <stg>
+       <st Contlex="V_MONO">пишты</st>
+     </stg>
+   </lg> <phonet>пиштыны</phonet>
+   <mg> <defNative/>
+     <tg xml:lang="fin">
+       <t pos="V">paistaa</t>
+       <t pos="V">loistaa</t>
+       <t pos="V">säteillä</t>
+       <t pos="V">kumottaa</t>
+       <t pos="V">hohtaa</t>
+       <t pos="V">heijastua, kuvastua</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="V">пограны</l>
+     <stg>
+       <st Contlex="V_UZA">погра</st>
+     </stg>
+   </lg> <phonet>пограны</phonet>
+   <mg> <defNative/>
+     <tg xml:lang="fin">
+       <t pos="V">kaatua</t>
+       <t pos="V">mennä kumoon</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="V">погылляськыны</l>
+     <stg>
+       <st Contlex="V_MONO">погылляськы</st>
+     </stg>
+   </lg> <phonet>погылляськыны</phonet>
+   <mg> <defNative/>
+     <tg xml:lang="fin">
+       <t pos="V">loikoilla</t>
+       <t pos="V">makailla</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="V">пожаны</l>
+     <stg>
+       <st Contlex="V_UZA">пожа</st>
+     </stg>
+   </lg> <phonet>пожаны</phonet>
+   <mg> <defNative/>
+     <tg xml:lang="fin">
+       <t pos="V">samentaa</t>
+       <t pos="V">sekoittaa</t>
+       <t pos="V">velloa sameaksi</t>
+       <t pos="V">panna sekaisin</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="V">полсаны</l>
+     <stg>
+       <st Contlex="V_UZA">полса</st>
+     </stg>
+   </lg> <phonet>полсаны</phonet>
+   <mg> <defNative/>
+     <tg xml:lang="fin">
+       <t pos="V">soutaa</t>
+       <t pos="V">meloa</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="V">полысаны</l>
+     <stg>
+       <st Contlex="V_UZA">полыса</st>
+     </stg>
+   </lg> <phonet>полысаны</phonet>
+   <mg> <defNative/>
+     <tg xml:lang="fin">
+       <t pos="V">soutaa</t>
+       <t pos="V">meloa</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="V">поныны</l>
+     <stg>
+       <st Contlex="V_MONO">поны</st>
+     </stg>
+   </lg> <phonet>поныны</phonet>
+   <mg> <defNative/>
+     <tg xml:lang="fin">
+       <t pos="V">panna</t>
+       <t pos="V">asettaa</t>
+       <t pos="V">sijoittaa</t>
+       <t pos="V">kaataa</t>
+       <t pos="V">valuttaa</t>
+       <t pos="V">vuodattaa, täyttää</t>
+       <t pos="V">pukea</t>
+       <t pos="V">panna päälle(en)</t>
+       <t pos="V">panna ylle(en)</t>
+       <t pos="V">panna jalkaan(sa), panna käteen(sä)</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="V">поттыны</l>
+     <stg>
+       <st Contlex="V_MONO">потты</st>
+     </stg>
+   </lg> <phonet>поттыны</phonet>
+   <mg> <defNative/>
+     <tg xml:lang="fin">
+       <t pos="V">kantaa (pois)</t>
+       <t pos="V">viedä (pois)</t>
+       <t pos="V">kuljettaa (pois)</t>
+       <t pos="V">siirtää, poistaa</t>
+       <t pos="V">häätää</t>
+       <t pos="V">karkottaa</t>
+     </tg>
+     <xg> <x>чипы поттыны</x>
+       <xt xml:lang="fin">hautoa munat poikasiksi</xt>
+     </xg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="V">потыны</l>
+     <stg>
+       <st Contlex="V_MONO">поты</st>
+     </stg>
+   </lg> <phonet>потыны</phonet> <etymg> <etym xml:lang="kpv">петны</etym> </etymg>
+   <mg> <defNative/>
+     <tg xml:lang="fin">
+       <t pos="V">poistua</t>
+       <t pos="V">mennä ulos</t>
+       <t pos="V">lähteä (pois)</t>
+       <t pos="V">astua (pois)</t>
+       <t pos="V">ilmestyä, tulla esiin</t>
+       <t pos="V">tulla jksik</t>
+     </tg>
+     <xg> <x>иземе потэ</x>
+       <xt xml:lang="fin">haluan nukkua</xt>
+     </xg>
+     <xg> <x>кузь потэ</x>
+       <xt xml:lang="fin">näyttää/tuntuu pitkältä</xt>
+     </xg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="V">пуаны</l>
+     <stg>
+       <st Contlex="V_UZA">пуа</st>
+     </stg>
+   </lg> <phonet>пуаны</phonet>
+   <mg> <defNative/>
+     <tg xml:lang="fin">
+       <t pos="V">hyppiä puusta puuhun</t>
+       <t pos="V">hyppiä oksalta oksalle (oravasta)</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="V">пузаны</l>
+     <stg>
+       <st Contlex="V_UZA">пуза</st>
+     </stg>
+   </lg> <phonet>пузаны</phonet>
+   <mg> <defNative/>
+     <tg xml:lang="fin">
+       <t pos="V">munia</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="V">пуксьыны</l>
+     <stg>
+       <st Contlex="V_MONO">пуксьы</st>
+     </stg>
+   </lg> <phonet>пуксьыны</phonet> <etymg> <etym xml:lang="kpv">пуксьыны</etym> </etymg>
+   <mg> <defNative/>
+     <tg xml:lang="fin">
+       <t pos="V">istuutua</t>
+       <t pos="V">laskeutua</t>
+       <t pos="V">laskea</t>
+       <t pos="V">mennä mailleen</t>
+       <t pos="V">heiketä, vaimeta</t>
+       <t pos="V">painua</t>
+       <t pos="V">vajota</t>
+     </tg>
+     <xg> <x>шунды пуксе</x>
+       <xt xml:lang="fin">aurinko laskee</xt>
+     </xg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="V">пуктыны</l>
+     <stg>
+       <st Contlex="V_MONO">пукты</st>
+     </stg>
+   </lg> <phonet>пуктыны</phonet> <etymg> <etym xml:lang="kpv">пуктыны</etym> </etymg>
+   <mg> <defNative/>
+     <tg xml:lang="fin">
+       <t pos="V">panna</t>
+       <t pos="V">asettaa</t>
+       <t pos="V">sijoittaa</t>
+       <t pos="V">istuttaa</t>
+       <t pos="V">panna istumaan, istuttaa</t>
+       <t pos="V">panna kasvamaan</t>
+       <t pos="V">rakentaa</t>
+       <t pos="V">panna (samovaari) kiehumaan</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="V">пукыны</l>
+     <stg>
+       <st Contlex="V_MONO">пукы</st>
+     </stg>
+   </lg> <phonet>пукыны</phonet>
+   <mg> <defNative/>
+     <tg xml:lang="fin">
+       <t pos="V">istua</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="V">пумиськыны</l>
+     <stg>
+       <st Contlex="V_MONO">пумиськы</st>
+     </stg>
+   </lg> <phonet>пумиськыны</phonet>
+   <mg> <defNative/>
+     <tg xml:lang="fin">
+       <t pos="V">kohdata</t>
+       <t pos="V">tavata toisensa</t>
+       <t pos="V">sattua yhteen</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="V">пумитаны</l>
+     <stg>
+       <st Contlex="V_UZA">пумита</st>
+     </stg>
+   </lg> <phonet>пумитаны</phonet>
+   <mg> <defNative/>
+     <tg xml:lang="fin">
+       <t pos="V">ottaa vastaan</t>
+       <t pos="V">olla vastassa</t>
+       <t pos="V">tavata</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="V">пунняны</l>
+     <stg>
+       <st Contlex="V_UZA">пуння</st>
+     </stg>
+   </lg> <phonet>пунняны</phonet>
+   <mg> <defNative/>
+     <tg xml:lang="fin">
+       <t pos="V">sulkea</t>
+       <t pos="V">lukita</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="V">пуныны</l>
+     <stg>
+       <st Contlex="V_MONO">пуны</st>
+     </stg>
+   </lg> <phonet>пуныны</phonet>
+   <mg> <defNative/>
+     <tg xml:lang="fin">
+       <t pos="V">punoa</t>
+       <t pos="V">palmikoida</t>
+       <t pos="V">letittää</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="V">пурысьтаны</l>
+     <stg>
+       <st Contlex="V_UZA">пурысьта</st>
+     </stg>
+   </lg> <phonet>пурысьтаны</phonet>
+   <mg> <defNative/>
+     <tg xml:lang="fin">
+       <t pos="V">harmaantua</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="V">пусйылыны</l>
+     <stg>
+       <st Contlex="V_MONO">пусйылы</st>
+     </stg>
+   </lg> <phonet>пусйылыны</phonet>
+   <mg> <defNative/>
+     <tg xml:lang="fin">
+       <t pos="V">panna merkille</t>
+       <t pos="V">todeta</t>
+       <t pos="V">mainita</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="V">пыдесъяськыны</l>
+     <stg>
+       <st Contlex="V_MONO">пыдесъяськы</st>
+     </stg>
+   </lg> <phonet>пыдесъяськыны</phonet>
+   <mg> <defNative/>
+     <tg xml:lang="fin">
+       <t pos="V">polvistua</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="V">пыжыны</l>
+     <stg>
+       <st Contlex="V_MONO">пыжы</st>
+     </stg>
+   </lg> <phonet>пыжыны</phonet>
+   <mg> <defNative/>
+     <tg xml:lang="fin">
+       <t pos="V">paistaa</t>
+       <t pos="V">leipoa</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="V">пыласькыны</l>
+     <stg>
+       <st Contlex="V_MONO">пыласькы</st>
+     </stg>
+   </lg> <phonet>пыласькыны</phonet>
+   <mg> <defNative/>
+     <tg xml:lang="fin">
+       <t pos="V">kylpeä</t>
+       <t pos="V">uida</t>
+       <t pos="V">peseytyä</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="V">пылатыны</l>
+     <stg>
+       <st Contlex="V_MONO">пылаты</st>
+     </stg>
+   </lg> <phonet>пылатыны</phonet>
+   <mg> <defNative/>
+     <tg xml:lang="fin">
+       <t pos="V">kylvettää</t>
+       <t pos="V">pestä</t>
+       <t pos="V">kastaa</t>
+       <t pos="V">kaataa vettä päälle</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="V">пыртыны</l>
+     <stg>
+       <st Contlex="V_MONO">пырты</st>
+     </stg>
+   </lg> <phonet>пыртыны</phonet>
+   <mg> <defNative/>
+     <tg xml:lang="fin">
+       <t pos="V">johtaa</t>
+       <t pos="V">viedä</t>
+       <t pos="V">tuoda (sisään)</t>
+       <t pos="V">kantaa (sisään)</t>
+       <t pos="V">liittää, ottaa</t>
+       <t pos="V">hyväksyä</t>
+       <t pos="V">merkitä (asiakirjaan)</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="V">пырыны</l>
+     <stg>
+       <st Contlex="V_MONO">пыры</st>
+     </stg>
+   </lg> <phonet>пырыны</phonet> <etymg> <etym xml:lang="kpv">пырны</etym> </etymg>
+   <mg> <defNative/>
+     <tg xml:lang="fin">
+       <t pos="V">astua</t>
+       <t pos="V">päästä</t>
+       <t pos="V">mennä</t>
+       <t pos="V">tulla sisään</t>
+       <t pos="V">sattua</t>
+       <t pos="V">osua, sekaantua</t>
+     </tg>
+     <xg> <x>мунчое пырыны</x>
+       <xt xml:lang="fin">käydä saunassa, kylpeä</xt>
+     </xg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="V">пытсаны</l>
+     <stg>
+       <st Contlex="V_UZA">пытса</st>
+     </stg>
+   </lg> <phonet>пытсаны</phonet>
+   <mg> <defNative/>
+     <tg xml:lang="fin">
+       <t pos="V">sulkea</t>
+       <t pos="V">panna kiinni</t>
+       <t pos="V">lukita</t>
+       <t pos="V">panna lukkoon</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="V">пытсаськыны</l>
+     <stg>
+       <st Contlex="V_MONO">пытсаськы</st>
+     </stg>
+   </lg> <phonet>пытсаськыны</phonet> <etymg> <etym xml:lang="kpv">пытса</etym> </etymg>
+   <mg> <defNative/>
+     <tg xml:lang="fin">
+       <t pos="V">sulkeutua</t>
+       <t pos="V">mennä kiinni</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="V">пӧзьтыны</l>
+     <stg>
+       <st Contlex="V_MONO">пӧзьты</st>
+     </stg>
+   </lg> <phonet>пӧзьтыны</phonet>
+   <mg> <defNative/>
+     <tg xml:lang="fin">
+       <t pos="V">keitää</t>
+       <t pos="V">valmistaa</t>
+       <t pos="V">laittaa</t>
+       <t pos="V">tehdä (ruokaa)</t>
+       <t pos="V">keittää viinaa</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="V">пӧйшураны</l>
+     <stg>
+       <st Contlex="V_UZA">пӧйшура</st>
+     </stg>
+   </lg> <phonet>пӧйшураны</phonet>
+   <mg> <defNative/>
+     <tg xml:lang="fin">
+       <t pos="V">metsästää</t>
+       <t pos="V">metsästellä</t>
+       <t pos="V">pyydystää</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="V">пӧрмыны</l>
+     <stg>
+       <st Contlex="V_MONO">пӧрмы</st>
+     </stg>
+   </lg> <phonet>пӧрмыны</phonet>
+   <mg> <defNative/>
+     <tg xml:lang="fin">
+       <t pos="V">onnistua</t>
+       <t pos="V">toteutua</t>
+       <t pos="V">käydä</t>
+       <t pos="V">syntyä</t>
+       <t pos="V">tulla jksik</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="V">пӧрмытыны</l>
+     <stg>
+       <st Contlex="V_MONO">пӧрмыты</st>
+     </stg>
+   </lg> <phonet>пӧрмытыны</phonet>
+   <mg> <defNative/>
+     <tg xml:lang="fin">
+       <t pos="V">osata</t>
+       <t pos="V">pystyä</t>
+       <t pos="V">kyetä</t>
+       <t pos="V">muuttua</t>
+       <t pos="V">muuntua</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="V">пӧсяны</l>
+     <stg>
+       <st Contlex="V_UZA">пӧся</st>
+     </stg>
+   </lg> <phonet>пӧсяны</phonet>
+   <mg> <defNative/>
+     <tg xml:lang="fin">
+       <t pos="V">lämmetä</t>
+       <t pos="V">kuumeta</t>
+       <t pos="V">kuumentua</t>
+       <t pos="V">hiota</t>
+       <t pos="V">hiostua</t>
+       <t pos="V">hikeentyä</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="V">пӧсятыны</l>
+     <stg>
+       <st Contlex="V_MONO">пӧсяты</st>
+     </stg>
+   </lg> <phonet>пӧсятыны</phonet>
+   <mg> <defNative/>
+     <tg xml:lang="fin">
+       <t pos="V">lämmittää</t>
+       <t pos="V">kuumentaa</t>
+       <t pos="V">hikoiluttaa</t>
+       <t pos="V">saada hikoilemaan</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="V">пӧяны</l>
+     <stg>
+       <st Contlex="V_UZA">пӧя</st>
+     </stg>
+   </lg> <phonet>пӧяны</phonet>
+   <mg> <defNative/>
+     <tg xml:lang="fin">
+       <t pos="V">valehdella</t>
+       <t pos="V">pettää</t>
+       <t pos="V">petkuttaa</t>
+       <t pos="V">narrata</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="V">сайканы</l>
+     <stg>
+       <st Contlex="V_UZA">сайка</st>
+     </stg>
+   </lg> <phonet>сайканы</phonet>
+   <mg> <defNative/>
+     <tg xml:lang="fin">
+       <t pos="V">herätä</t>
+       <t pos="V">havahtua</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="V">сайкатыны</l>
+     <stg>
+       <st Contlex="V_MONO">сайкаты</st>
+     </stg>
+   </lg> <phonet>сайкатыны</phonet>
+   <mg> <defNative/>
+     <tg xml:lang="fin">
+       <t pos="V">herättää</t>
+       <t pos="V">saada hereille</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="V">сальыны</l>
+     <stg>
+       <st Contlex="V_MONO">сальы</st>
+     </stg>
+   </lg> <phonet>сальыны</phonet>
+   <mg> <defNative/>
+     <tg xml:lang="fin">
+       <t pos="V">läimäyttää</t>
+       <t pos="V">läpsäistä</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="V">сектаны</l>
+     <stg>
+       <st Contlex="V_UZA">секта</st>
+     </stg>
+   </lg> <phonet>сектаны</phonet>
+   <mg> <defNative/>
+     <tg xml:lang="fin">
+       <t pos="V">kestitä</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="V">серекъяны</l>
+     <stg>
+       <st Contlex="V_UZA">серекъя</st>
+     </stg>
+   </lg> <phonet>серекъяны</phonet> <etymg> <etym xml:lang="kpv">серавны</etym> </etymg>
+   <mg> <defNative/>
+     <tg xml:lang="fin">
+       <t pos="V">nauraa</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="V">сильыны</l>
+     <stg>
+       <st Contlex="V_MONO">сильы</st>
+     </stg>
+   </lg> <phonet>сильыны</phonet>
+   <mg> <defNative/>
+     <tg xml:lang="fin">
+       <t pos="V">kukkua</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="V">синйылтыны</l>
+     <stg>
+       <st Contlex="V_MONO">синйылты</st>
+     </stg>
+   </lg> <phonet>синйылтыны</phonet>
+   <mg> <defNative/>
+     <tg xml:lang="fin">
+       <t pos="V">huomata</t>
+       <t pos="V">havaita</t>
+       <t pos="V">keksiä</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="V">синмаськыны</l>
+     <stg>
+       <st Contlex="V_MONO">синмаськы</st>
+     </stg>
+   </lg> <phonet>синмаськыны</phonet>
+   <mg> <defNative/>
+     <tg xml:lang="fin">
+       <t pos="V">ihastua</t>
+       <t pos="V">rakastua</t>
+       <t pos="V">mieltyä</t>
+       <t pos="V">tuntea sympatiaa</t>
+     </tg>
+     <xg> <x>синмаськыса учкыны</x>
+       <xt xml:lang="fin">katsoa rakastuneesti, ihailla</xt>
+     </xg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="V">сиськыны</l>
+     <stg>
+       <st Contlex="V_MONO">сиськы</st>
+     </stg>
+   </lg> <phonet>сиськыны</phonet> <etymg> <etym xml:lang="kpv">сёйны</etym> </etymg>
+   <mg> <defNative/>
+     <tg xml:lang="fin">
+       <t pos="V">syödä</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="V">сисьмыны</l>
+     <stg>
+       <st Contlex="V_MONO">сисьмы</st>
+     </stg>
+   </lg> <phonet>сисьмыны</phonet>
+   <mg> <defNative/>
+     <tg xml:lang="fin">
+       <t pos="V">mädäntyä</t>
+       <t pos="V">lahota</t>
+       <t pos="V">maatua</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="V">согиськыны</l>
+     <stg>
+       <st Contlex="V_MONO">согиськы</st>
+     </stg>
+   </lg> <phonet>согиськыны</phonet>
+   <mg> <defNative/>
+     <tg xml:lang="fin">
+       <t pos="V">peittyä</t>
+       <t pos="V">kaivautua</t>
+       <t pos="V">hautautua</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="V">согыны</l>
+     <stg>
+       <st Contlex="V_MONO">согы</st>
+     </stg>
+   </lg> <phonet>согыны</phonet>
+   <mg> <defNative/>
+     <tg xml:lang="fin">
+       <t pos="V">kaivaa maahan</t>
+       <t pos="V">haudata</t>
+       <t pos="V">kuopata</t>
+       <t pos="V">peittää</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="V">суаны</l>
+     <stg>
+       <st Contlex="V_UZA">суа</st>
+     </stg>
+   </lg> <phonet>суаны</phonet>
+   <mg> <defNative/>
+     <tg xml:lang="fin">
+       <t pos="V">nokeentua</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="V">сузьыны</l>
+     <stg>
+       <st Contlex="V_MONO">сузьы</st>
+     </stg>
+   </lg> <phonet>сузьыны</phonet>
+   <mg> <defNative/>
+     <tg xml:lang="fin">
+       <t pos="V">ylettää</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="V">султыны</l>
+     <stg>
+       <st Contlex="V_MONO">султы</st>
+     </stg>
+   </lg> <phonet>султыны</phonet> <etymg> <etym xml:lang="kpv">сувтыны</etym> </etymg>
+   <mg> <defNative/>
+     <tg xml:lang="fin">
+       <t pos="V">nousta seisomaan</t>
+       <t pos="V">nousta vuoteesta</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="V">сураны</l>
+     <stg>
+       <st Contlex="V_UZA">сура</st>
+     </stg>
+   </lg> <phonet>сураны</phonet>
+   <mg> <defNative/>
+     <tg xml:lang="fin">
+       <t pos="V">hämmentää</t>
+       <t pos="V">sekoittaa</t>
+       <t pos="V">sotkea</t>
+       <t pos="V">panna sekaisin</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="V">суреданы</l>
+     <stg>
+       <st Contlex="V_UZA">суреда</st>
+     </stg>
+   </lg> <phonet>суреданы</phonet>
+   <mg> <defNative/>
+     <tg xml:lang="fin">
+       <t pos="V">piirtää</t>
+       <t pos="V">maalata</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="V">суредаськыны</l>
+     <stg>
+       <st Contlex="V_MONO">суредаськы</st>
+     </stg>
+   </lg> <phonet>суредаськыны</phonet>
+   <mg> <defNative/>
+     <tg xml:lang="fin">
+       <t pos="V">piirtää</t>
+       <t pos="V">piirrellä</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="V">сылалтыны</l>
+     <stg>
+       <st Contlex="V_MONO">сылалты</st>
+     </stg>
+   </lg> <phonet>сылалтыны</phonet>
+   <mg> <defNative/>
+     <tg xml:lang="fin">
+       <t pos="V">suolata</t>
+     </tg>
+     <xg> <x>сылалтэм</x>
+       <xt xml:lang="fin">suolattu</xt>
+     </xg>
+     <xg> <x>сылалтэм кияр</x>
+       <xt xml:lang="fin">suolakurkku</xt>
+     </xg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="V">сылыны</l>
+     <stg>
+       <st Contlex="V_MONO">сылы</st>
+     </stg>
+   </lg> <phonet>сылыны</phonet> <etymg> <etym xml:lang="kpv">сулавны</etym> </etymg>
+   <mg> <defNative/>
+     <tg xml:lang="fin">
+       <t pos="V">seisoa</t>
+       <t pos="V">maksaa</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="V">сынаськыны</l>
+     <stg>
+       <st Contlex="V_MONO">сынаськы</st>
+     </stg>
+   </lg> <phonet>сынаськыны</phonet>
+   <mg> <defNative/>
+     <tg xml:lang="fin">
+       <t pos="V">kammata hiuksensa</t>
+       <t pos="V">harjata hiuksensa</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="V">сыскыны</l>
+     <stg>
+       <st Contlex="V_MONO">сыскы</st>
+     </stg>
+   </lg> <phonet>сыскыны</phonet>
+   <mg> <defNative/>
+     <tg xml:lang="fin">
+       <t pos="V">pureskella</t>
+       <t pos="V">purra</t>
+       <t pos="V">jauhaa (suussaan)</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="V">сэрпалтыны</l>
+     <stg>
+       <st Contlex="V_MONO">сэрпалты</st>
+     </stg>
+   </lg> <phonet>сэрпалтыны</phonet>
+   <mg> <defNative/>
+     <tg xml:lang="fin">
+       <t pos="V">heittää pois</t>
+       <t pos="V">viskata pois</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="V">сюдыны</l>
+     <stg>
+       <st Contlex="V_MONO">сюды</st>
+     </stg>
+   </lg> <phonet>сюдыны</phonet>
+   <mg> <defNative/>
+     <tg xml:lang="fin">
+       <t pos="V">ruokkia</t>
+       <t pos="V">syöttää</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="V">сюлворыны</l>
+     <stg>
+       <st Contlex="V_MONO">сюлворы</st>
+     </stg>
+   </lg> <phonet>сюлворыны</phonet>
+   <mg> <defNative/>
+     <tg xml:lang="fin">
+       <t pos="V">rukoilla</t>
+       <t pos="V">pyydellä</t>
+       <t pos="V">suostutella</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="V">сюлмаськыны</l>
+     <stg>
+       <st Contlex="V_MONO">сюлмаськы</st>
+     </stg>
+   </lg> <phonet>сюлмаськыны</phonet>
+   <mg> <defNative/>
+     <tg xml:lang="fin">
+       <t pos="V">huolehtia</t>
+       <t pos="V">pitää huolta</t>
+       <t pos="V">olla huolissaan</t>
+       <t pos="V">hätäillä</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="V">сюлэмшугъяськыны</l>
+     <stg>
+       <st Contlex="V_MONO">сюлэмшугъяськы</st>
+     </stg>
+   </lg> <phonet>сюлэмшугъяськыны</phonet>
+   <mg> <defNative/>
+     <tg xml:lang="fin">
+       <t pos="V">olla huolissaan</t>
+       <t pos="V">hätäillä</t>
+       <t pos="V">olla hermostunut</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="V">сюлэмшугъяськытыны</l>
+     <stg>
+       <st Contlex="V_MONO">сюлэмшугъяськыты</st>
+     </stg>
+   </lg> <phonet>сюлэмшугъяськытыны</phonet>
+   <mg> <defNative/>
+     <tg xml:lang="fin">
+       <t pos="V">huolestuttaa</t>
+       <t pos="V">huolettaa</t>
+       <t pos="V">saattaa levottomaksi</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="V">сюпсьыны</l>
+     <stg>
+       <st Contlex="V_MONO">сюпсьы</st>
+     </stg>
+   </lg> <phonet>сюпсьыны</phonet>
+   <mg> <defNative/>
+     <tg xml:lang="fin">
+       <t pos="V">imeä</t>
+       <t pos="V">imeskellä</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="V">сюрыны</l>
+     <stg>
+       <st Contlex="V_MONO">сюры</st>
+     </stg>
+   </lg> <phonet>сюрыны</phonet>
+   <mg> <defNative/>
+     <tg xml:lang="fin">
+       <t pos="V">joutua</t>
+       <t pos="V">päästä</t>
+       <t pos="V">sattua</t>
+       <t pos="V">löytyä</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="V">сяськаяськыны</l>
+     <stg>
+       <st Contlex="V_MONO">сяськаяськы</st>
+     </stg>
+   </lg> <phonet>сяськаяськыны</phonet>
+   <mg> <defNative/>
+     <tg xml:lang="fin">
+       <t pos="V">kukkia</t>
+       <t pos="V">kukoistaa</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="V">сётыны</l>
+     <stg>
+       <st Contlex="V_MONO">сёты</st>
+     </stg>
+   </lg> <phonet>сётыны</phonet> <etymg> <etym xml:lang="kpv">сетны</etym> </etymg>
+   <mg> <defNative/>
+     <tg xml:lang="fin">
+       <t pos="V">antaa</t>
+     </tg>
+     <xg> <x>экза́мен сётыны</x>
+       <xt xml:lang="fin">suorittaa tentti</xt>
+     </xg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="V">сӥзьыны</l>
+     <stg>
+       <st Contlex="V_MONO">сӥзьы</st>
+     </stg>
+   </lg> <phonet>сӥзьыны</phonet>
+   <mg> <defNative/>
+     <tg xml:lang="fin">
+       <t pos="V">omistaa</t>
+       <t pos="V">pyhittää</t>
+       <t pos="V">luvata</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="V">сӥсъяны</l>
+     <stg>
+       <st Contlex="V_UZA">сӥсъя</st>
+     </stg>
+   </lg> <phonet>сӥсъяны</phonet>
+   <mg> <defNative/>
+     <tg xml:lang="fin">
+       <t pos="V">siivilöidä</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="V">сӥяны</l>
+     <stg>
+       <st Contlex="V_UZA">сӥя</st>
+     </stg>
+   </lg> <phonet>сӥяны</phonet>
+   <mg> <defNative/>
+     <tg xml:lang="fin">
+       <t pos="V">jäähtyä</t>
+       <t pos="V">kylmetä</t>
+       <t pos="V">kylmentyä</t>
+       <t pos="V">viiletä</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="V">сӧриськыны</l>
+     <stg>
+       <st Contlex="V_MONO">сӧриськы</st>
+     </stg>
+   </lg> <phonet>сӧриськыны</phonet>
+   <mg> <defNative/>
+     <tg xml:lang="fin">
+       <t pos="V">pilaantua</t>
+       <t pos="V">mennä pilalle</t>
+       <t pos="V">pahentua</t>
+       <t pos="V">turmeltua</t>
+       <t pos="V">mennä epäkuntoon</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="V">сӧрыны</l>
+     <stg>
+       <st Contlex="V_MONO">сӧры</st>
+     </stg>
+   </lg> <phonet>сӧрыны</phonet>
+   <mg> <defNative/>
+     <tg xml:lang="fin">
+       <t pos="V">särkeä</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="V">тодманы</l>
+     <stg>
+       <st Contlex="V_UZA">тодма</st>
+     </stg>
+   </lg> <phonet>тодманы</phonet> <etymg> <etym xml:lang="kpv">тӧдмавны</etym> </etymg>
+   <mg> <defNative/>
+     <tg xml:lang="fin">
+       <t pos="V">tuntea</t>
+       <t pos="V">tunnistaa</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="V">тодматскыны</l>
+     <stg>
+       <st Contlex="V_MONO">тодматскы</st>
+     </stg>
+   </lg> <phonet>тодматскыны</phonet>
+   <mg>
+     <m>
+       <head/>
+       <semRel>тодмаскыны</semRel>
+     </m>
+     <tg xml:lang="fin">
+       <t pos="V">tutustua</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="V">тодыны</l>
+     <stg>
+       <st Contlex="V_MONO">тоды</st>
+     </stg>
+   </lg> <phonet>тодыны</phonet> <etymg> <etym xml:lang="kpv">тӧдны</etym> </etymg>
+   <mg> <defNative/>
+     <tg xml:lang="fin">
+       <t pos="V">tietää</t>
+       <t pos="V">tuntea</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="V">тодэ вайыны</l>
+     <stg>
+       <st Contlex="V_MONO">тодэ вайы</st>
+     </stg>
+   </lg> <phonet>тодэ вайыны</phonet>
+   <mg> <defNative/>
+     <tg xml:lang="fin">
+       <t pos="V">muistaa</t>
+       <t pos="V">kerrata</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="V">толйыны</l>
+     <stg>
+       <st Contlex="V_MONO">толйы</st>
+     </stg>
+   </lg> <phonet>толйыны</phonet>
+   <mg> <defNative/>
+     <tg xml:lang="fin">
+       <t pos="V">talvehtia</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="V">тубыны</l>
+     <stg>
+       <st Contlex="V_MONO">тубы</st>
+     </stg>
+   </lg> <phonet>тубыны</phonet>
+   <mg> <defNative/>
+     <tg xml:lang="fin">
+       <t pos="V">nousta</t>
+       <t pos="V">kohota</t>
+       <t pos="V">kiivetä</t>
+       <t pos="V">kavuta</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="V">тунсыкъяськыны</l>
+     <stg>
+       <st Contlex="V_MONO">тунсыкъяськы</st>
+     </stg>
+   </lg> <phonet>тунсыкъяськыны</phonet>
+   <mg> <defNative/>
+     <tg xml:lang="fin">
+       <t pos="V">olla kiinostunut</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="V">тупаны</l>
+     <stg>
+       <st Contlex="V_UZA">тупа</st>
+     </stg>
+   </lg> <phonet>тупаны</phonet>
+   <mg> <defNative/>
+     <tg xml:lang="fin">
+       <t pos="V">olla</t>
+       <t pos="V">elää sovussa</t>
+       <t pos="V">sopia</t>
+       <t pos="V">olla sopiva</t>
+       <t pos="V">olla näköinen, sattua</t>
+     </tg>
+     <xg> <x>тупамон</x>
+       <xt xml:lang="fin">sopiva</xt>
+     </xg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="V">тупатыны</l>
+     <stg>
+       <st Contlex="V_MONO">тупаты</st>
+     </stg>
+   </lg> <phonet>тупатыны</phonet>
+   <mg> <defNative/>
+     <tg xml:lang="fin">
+       <t pos="V">korjata</t>
+       <t pos="V">kunnostaa</t>
+       <t pos="V">oikaista</t>
+       <t pos="V">ojentaa</t>
+       <t pos="V">määrätä</t>
+       <t pos="V">säätää, järjestää</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="V">турнаны</l>
+     <stg>
+       <st Contlex="V_UZA">турна</st>
+     </stg>
+   </lg> <phonet>турнаны</phonet>
+   <mg> <defNative/>
+     <tg xml:lang="fin">
+       <t pos="V">niittää</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="V">турттыны</l>
+     <stg>
+       <st Contlex="V_MONO">туртты</st>
+     </stg>
+   </lg> <phonet>турттыны</phonet>
+   <mg> <defNative/>
+     <tg xml:lang="fin">
+       <t pos="V">yrittää</t>
+       <t pos="V">ponnistella</t>
+       <t pos="V">ahkeroida</t>
+       <t pos="V">uuristaa</t>
+       <t pos="V">pyrkiä, tavoitella</t>
+       <t pos="V">haluta</t>
+       <t pos="V">aikoa</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="V">тырмыны</l>
+     <stg>
+       <st Contlex="V_MONO">тырмы</st>
+     </stg>
+   </lg> <phonet>тырмыны</phonet> <etymg> <etym xml:lang="kpv">тырмыны</etym> </etymg>
+   <mg> <defNative/>
+     <tg xml:lang="fin">
+       <t pos="V">täyttyä</t>
+       <t pos="V">tulla täyteen</t>
+       <t pos="V">riittää</t>
+       <t pos="V">tulla jkn ikäiseksi, täyttää</t>
+     </tg>
+     <xg> <x>мынын сизьым арес тырмиз</x>
+       <xt xml:lang="fin">täytin 7 vuotta</xt>
+     </xg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="V">тырмытыны</l>
+     <stg>
+       <st Contlex="V_MONO">тырмыты</st>
+     </stg>
+   </lg> <phonet>тырмытыны</phonet>
+   <mg> <defNative/>
+     <tg xml:lang="fin">
+       <t pos="V">täyttää</t>
+       <t pos="V">panna täyteen</t>
+       <t pos="V">lopettaa</t>
+       <t pos="V">päättää</t>
+       <t pos="V">suorittaa loppuun</t>
+       <t pos="V">tyydyttää</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="V">тыршыны</l>
+     <stg>
+       <st Contlex="V_MONO">тыршы</st>
+     </stg>
+   </lg> <phonet>тыршыны</phonet>
+   <mg> <defNative/>
+     <tg xml:lang="fin">
+       <t pos="V">yrittää</t>
+       <t pos="V">ponnistella</t>
+       <t pos="V">ahkeroida</t>
+       <t pos="V">uurastaa</t>
+       <t pos="V">pyrkiä</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="V">тырыны</l>
+     <stg>
+       <st Contlex="V_MONO">тыры</st>
+     </stg>
+   </lg> <phonet>тырыны</phonet>
+   <mg> <defNative/>
+     <tg xml:lang="fin">
+       <t pos="V">panna</t>
+       <t pos="V">pinota</t>
+       <t pos="V">latoa</t>
+       <t pos="V">kasata</t>
+       <t pos="V">kuormata</t>
+       <t pos="V">asettaa</t>
+       <t pos="V">sijoittaa, maksaa</t>
+     </tg>
+     <xg> <x>кӧт тырыны</x>
+       <xt xml:lang="fin">syödä, käyttää ravinnokseen</xt>
+     </xg>
+     <xg> <x>уксё тырыны</x>
+       <xt xml:lang="fin">maksaa</xt>
+     </xg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="V">тышкаськыны</l>
+     <stg>
+       <st Contlex="V_MONO">тышкаськы</st>
+     </stg>
+   </lg> <phonet>тышкаськыны</phonet>
+   <mg> <defNative/>
+     <tg xml:lang="fin">
+       <t pos="V">haukkua</t>
+       <t pos="V">torua</t>
+       <t pos="V">moittia</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="V">тэргаськыны</l>
+     <stg>
+       <st Contlex="V_MONO">тэргаськы</st>
+     </stg>
+   </lg> <phonet>тэргаськыны</phonet>
+   <mg> <defNative/>
+     <tg xml:lang="fin">
+       <t pos="V">kiistellä</t>
+       <t pos="V">väitellä</t>
+       <t pos="V">kinastella</t>
+       <t pos="V">olla riidoissa, riidellä,</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="V">тэрыны</l>
+     <stg>
+       <st Contlex="V_MONO">тэры</st>
+     </stg>
+   </lg> <phonet>тэрыны</phonet> <etymg> <etym xml:lang="kpv">тырны</etym> </etymg>
+   <mg> <defNative/>
+     <tg xml:lang="fin">
+       <t pos="V">mahtua</t>
+       <t pos="V">sopia</t>
+       <t pos="V">olla sovussa</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="V">тэтчаны</l>
+     <stg>
+       <st Contlex="V_UZA">тэтча</st>
+     </stg>
+   </lg> <phonet>тэтчаны</phonet>
+   <mg> <defNative/>
+     <tg xml:lang="fin">
+       <t pos="V">hyppiä</t>
+       <t pos="V">hypellä</t>
+       <t pos="V">sykkiä</t>
+       <t pos="V">tanssia</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="V">тэтчыны</l>
+     <stg>
+       <st Contlex="V_MONO">тэтчы</st>
+     </stg>
+   </lg> <phonet>тэтчыны</phonet>
+   <mg> <defNative/>
+     <tg xml:lang="fin">
+       <t pos="V">hypätä</t>
+       <t pos="V">pompata</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="V">тӥяны</l>
+     <stg>
+       <st Contlex="V_UZA">тӥя</st>
+     </stg>
+   </lg> <phonet>тӥяны</phonet>
+   <mg> <defNative/>
+     <tg xml:lang="fin">
+       <t pos="V">hävittää</t>
+       <t pos="V">tuhota</t>
+       <t pos="V">särkeä</t>
+       <t pos="V">rikkoa</t>
+       <t pos="V">katkoa</t>
+       <t pos="V">taittaa</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="V">тӥяськыны</l>
+     <stg>
+       <st Contlex="V_MONO">тӥяськы</st>
+     </stg>
+   </lg> <phonet>тӥяськыны</phonet>
+   <mg> <defNative/>
+     <tg xml:lang="fin">
+       <t pos="V">murtua</t>
+       <t pos="V">katketa</t>
+       <t pos="V">taittua</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="V">тӧлӟыны</l>
+     <stg>
+       <st Contlex="V_MONO">тӧлӟы</st>
+     </stg>
+   </lg> <phonet>тӧлӟыны</phonet>
+   <mg> <defNative/>
+     <tg xml:lang="fin">
+       <t pos="V">tuuleentua</t>
+       <t pos="V">lakata kukkimasta</t>
+       <t pos="V">lopettaa kukkiminen</t>
+       <t pos="V">kukkia loppuun</t>
+       <t pos="V">pudota</t>
+       <t pos="V">varista</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="V">удалтыны</l>
+     <stg>
+       <st Contlex="V_MONO">удалты</st>
+     </stg>
+   </lg> <phonet>удалтыны</phonet>
+   <mg> <defNative/>
+     <tg xml:lang="fin">
+       <t pos="V">kasvaa hyvin</t>
+       <t pos="V">antaa hyvä sato</t>
+       <t pos="V">onnistua</t>
+       <t pos="V">luonnistua</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="V">уданы</l>
+     <stg>
+       <st Contlex="V_UZA">уда</st>
+     </stg>
+   </lg> <phonet>уданы</phonet>
+   <mg> <defNative/>
+     <tg xml:lang="fin">
+       <t pos="V">itää</t>
+       <t pos="V">orastaa</t>
+       <t pos="V">olla oraalla</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="V">ужаны</l>
+     <stg>
+       <st Contlex="V_UZA">ужа</st>
+     </stg>
+   </lg> <phonet>ужаны</phonet> <etymg> <etym xml:lang="kpv">уджавны</etym> </etymg>
+   <mg> <defNative/>
+     <tg xml:lang="fin">
+       <t pos="V">työskennellä</t>
+       <t pos="V">tehdä työtä</t>
+       <t pos="V">olla työssä</t>
+       <t pos="V">toimia</t>
+       <t pos="V">muokata</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="V">узырмыны</l>
+     <stg>
+       <st Contlex="V_MONO">узырмы</st>
+     </stg>
+   </lg> <phonet>узырмыны</phonet> <etymg> <etym xml:lang="kpv">озырмыны</etym> </etymg>
+   <mg> <defNative/>
+     <tg xml:lang="fin">
+       <t pos="V">rikastua</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="V">узыяны</l>
+     <stg>
+       <st Contlex="V_UZA">узыя</st>
+     </stg>
+   </lg> <phonet>узыяны</phonet>
+   <mg> <defNative/>
+     <tg xml:lang="fin">
+       <t pos="V">poimia mansikoita</t>
+       <t pos="V">olla mansikassa</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="V">уиккетыны</l>
+     <stg>
+       <st Contlex="V_MONO">уиккеты</st>
+     </stg>
+   </lg> <phonet>уиккетыны</phonet>
+   <mg> <defNative/>
+     <tg xml:lang="fin">
+       <t pos="V">vinkua</t>
+       <t pos="V">vikistä</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="V">уиськыны</l>
+     <stg>
+       <st Contlex="V_MONO">уиськы</st>
+     </stg>
+   </lg> <phonet>уиськыны</phonet>
+   <mg> <defNative/>
+     <tg xml:lang="fin">
+       <t pos="V">ajaa takaa</t>
+       <t pos="V">hätyttää</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="V">уйыны</l>
+     <stg>
+       <st Contlex="V_MONO">уйы</st>
+     </stg>
+   </lg> <phonet>уйыны</phonet>
+   <mg> <defNative/>
+     <tg xml:lang="fin">
+       <t pos="V">saavuttaa</t>
+       <t pos="V">tavoittaa</t>
+       <t pos="V">ajaa takaa</t>
+       <t pos="V">ahdistaa</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="V">укшаны</l>
+     <stg>
+       <st Contlex="V_UZA">укша</st>
+     </stg>
+   </lg> <phonet>укшаны</phonet>
+   <mg> <defNative/>
+     <tg xml:lang="fin">
+       <t pos="V">olla näköinen</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="V">улляны</l>
+     <stg>
+       <st Contlex="V_UZA">улля</st>
+     </stg>
+   </lg> <phonet>улляны</phonet>
+   <mg> <defNative/>
+     <tg xml:lang="fin">
+       <t pos="V">ajaa (pois)</t>
+       <t pos="V">karkottaa</t>
+       <t pos="V">häättää</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="V">улыны</l>
+     <stg>
+       <st Contlex="V_MONO">улы</st>
+     </stg>
+   </lg> <phonet>улыны</phonet> <etymg> <etym xml:lang="kpv">овны</etym> </etymg>
+   <mg> <defNative/>
+     <tg xml:lang="fin">
+       <t pos="V">elää</t>
+       <t pos="V">olla</t>
+       <t pos="V">asua</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="V">улыны-вылыны</l>
+     <stg>
+       <st Contlex="V_MONO">улыны-вылы</st>
+     </stg>
+   </lg> <phonet>улыны-вылыны</phonet> <etymg> <etym xml:lang="kpv">овны-вывны</etym> </etymg>
+   <mg> <defNative/>
+     <tg xml:lang="fin">
+       <t pos="V">olla</t>
+       <t pos="V">elää</t>
+       <t pos="V">elellä</t>
+       <t pos="V">olla ja elää</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="V">улӟыны</l>
+     <stg>
+       <st Contlex="V_MONO">улӟы</st>
+     </stg>
+   </lg> <phonet>улӟыны</phonet>
+   <mg> <defNative/>
+     <tg xml:lang="fin">
+       <t pos="V">herätä eloon</t>
+       <t pos="V">herätä henkiin</t>
+       <t pos="V">elpyä</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="V">умме усьыны</l>
+     <stg>
+       <st Contlex="V_MONO">умме усьы</st>
+     </stg>
+   </lg> <phonet>умме усьыны</phonet>
+   <mg> <defNative/>
+     <tg xml:lang="fin">
+       <t pos="V">nukahtaa</t>
+       <t pos="V">vaipua uneen</t>
+       <t pos="V">saada unen päästä kiinni</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="V">урдыны</l>
+     <stg>
+       <st Contlex="V_MONO">урды</st>
+     </stg>
+   </lg> <phonet>урдыны</phonet>
+   <mg> <defNative/>
+     <tg xml:lang="fin">
+       <t pos="V">panna pystyyn</t>
+       <t pos="V">siirtääesiin</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="V">усыяны</l>
+     <stg>
+       <st Contlex="V_UZA">усыя</st>
+     </stg>
+   </lg> <phonet>усыяны</phonet>
+   <mg> <defNative/>
+     <tg xml:lang="fin">
+       <t pos="V">äestää</t>
+       <t pos="V">karhita</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="V">усьтыны</l>
+     <stg>
+       <st Contlex="V_MONO">усьты</st>
+     </stg>
+   </lg> <phonet>усьтыны</phonet> <etymg> <etym xml:lang="kpv">восьтыны</etym> </etymg>
+   <mg> <defNative/>
+     <tg xml:lang="fin">
+       <t pos="V">avata</t>
+       <t pos="V">aukaista</t>
+       <t pos="V">löytää</t>
+       <t pos="V">keksiä</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="V">усьтӥськыны</l>
+     <stg>
+       <st Contlex="V_MONO">усьтӥськы</st>
+     </stg>
+   </lg> <phonet>усьтӥськыны</phonet>
+   <mg> <defNative/>
+     <tg xml:lang="fin">
+       <t pos="V">aueta</t>
+       <t pos="V">avautua</t>
+       <t pos="V">alkaa</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="V">усьыны</l>
+     <stg>
+       <st Contlex="V_MONO">усьы</st>
+     </stg>
+   </lg> <phonet>усьыны</phonet> <etymg> <etym xml:lang="kpv">усьны</etym> </etymg>
+   <mg> <defNative/>
+     <tg xml:lang="fin">
+       <t pos="V">pudota</t>
+       <t pos="V">langeta</t>
+     </tg>
+     <xg> <x>висьыны усьыны</x>
+       <xt xml:lang="fin">sairastua</xt>
+     </xg>
+     <xg> <x>лымы усе</x>
+       <xt xml:lang="fin">sataa lunta</xt>
+     </xg>
+     <xg> <x>умме усьыны</x>
+       <xt xml:lang="fin">nukkua, nukahtaa, vaipua uneen, saada unen päästä kiinni</xt>
+     </xg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="V">утчаны</l>
+     <stg>
+       <st Contlex="V_UZA">утча</st>
+     </stg>
+   </lg> <phonet>утчаны</phonet>
+   <mg> <defNative/>
+     <tg xml:lang="fin">
+       <t pos="V">etsiä</t>
+       <t pos="V">hakea</t>
+       <t pos="V">yrittää</t>
+       <t pos="V">maistaa</t>
+       <t pos="V">maistella</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="V">утыны</l>
+     <stg>
+       <st Contlex="V_MONO">уты</st>
+     </stg>
+   </lg> <phonet>утыны</phonet>
+   <mg> <defNative/>
+     <tg xml:lang="fin">
+       <t pos="V">haukkua</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="V">утьыны</l>
+     <stg>
+       <st Contlex="V_MONO">утьы</st>
+     </stg>
+   </lg> <phonet>утьыны</phonet>
+   <mg> <defNative/>
+     <tg xml:lang="fin">
+       <t pos="V">hoitaa</t>
+       <t pos="V">vaalia</t>
+       <t pos="V">varjella</t>
+       <t pos="V">suojella</t>
+       <t pos="V">suojata</t>
+       <t pos="V">vartioida, noudattaa</t>
+       <t pos="V">puolustaa</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="V">утялтыны</l>
+     <stg>
+       <st Contlex="V_MONO">утялты</st>
+     </stg>
+   </lg> <phonet>утялтыны</phonet>
+   <mg> <defNative/>
+     <tg xml:lang="fin">
+       <t pos="V">siivota</t>
+       <t pos="V">kestitä</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="V">учкыны</l>
+     <stg>
+       <st Contlex="V_MONO">учкы</st>
+     </stg>
+   </lg> <phonet>учкыны</phonet>
+   <mg> <defNative/>
+     <tg xml:lang="fin">
+       <t pos="V">katsoa</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="V">учыраны</l>
+     <stg>
+       <st Contlex="V_UZA">учыра</st>
+     </stg>
+   </lg> <phonet>учыраны</phonet>
+   <mg> <defNative/>
+     <tg xml:lang="fin">
+       <t pos="V">osua</t>
+       <t pos="V">sattua</t>
+       <t pos="V">joutua</t>
+       <t pos="V">päästä aikanaan</t>
+       <t pos="V">olla ajoissa</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="V">ушъяськыны</l>
+     <stg>
+       <st Contlex="V_MONO">ушъяськы</st>
+     </stg>
+   </lg> <phonet>ушъяськыны</phonet>
+   <mg> <defNative/>
+     <tg xml:lang="fin">
+       <t pos="V">kehuskella</t>
+       <t pos="V">kerskailla</t>
+       <t pos="V">kerskua</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="V">уяны</l>
+     <stg>
+       <st Contlex="V_UZA">уя</st>
+     </stg>
+   </lg> <phonet>уяны</phonet> <etymg> <etym xml:lang="kpv">уявны</etym> </etymg>
+   <mg> <defNative/>
+     <tg xml:lang="fin">
+       <t pos="V">uida</t>
+       <t pos="V">lipua</t>
+     </tg>
+     <xg> <x>пыжен уяны</x>
+       <xt xml:lang="fin">soudella veneellä</xt>
+     </xg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="V">чабкыны</l>
+     <stg>
+       <st Contlex="V_MONO">чабкы</st>
+     </stg>
+   </lg> <phonet>чабкыны</phonet>
+   <mg> <defNative/>
+     <tg xml:lang="fin">
+       <t pos="V">lyödä</t>
+       <t pos="V">läimäyttää</t>
+       <t pos="V">taputtaa käsiään</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="V">чакланы</l>
+     <stg>
+       <st Contlex="V_UZA">чакла</st>
+     </stg>
+   </lg> <phonet>чакланы</phonet>
+   <mg> <defNative/>
+     <tg xml:lang="fin">
+       <t pos="V">seurata</t>
+       <t pos="V">tarkkailla</t>
+       <t pos="V">tarkata</t>
+       <t pos="V">valvoa</t>
+       <t pos="V">kytätä</t>
+       <t pos="V">vahdata, vartioida</t>
+       <t pos="V">vahtia</t>
+       <t pos="V">katsoa</t>
+       <t pos="V">ajatella</t>
+       <t pos="V">aikoa</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="V">чакласькыны</l>
+     <stg>
+       <st Contlex="V_MONO">чакласькы</st>
+     </stg>
+   </lg> <phonet>чакласькыны</phonet>
+   <mg> <defNative/>
+     <tg xml:lang="fin">
+       <t pos="V">seurata</t>
+       <t pos="V">tarkkailla</t>
+       <t pos="V">valvoa</t>
+       <t pos="V">varoa</t>
+       <t pos="V">olla varovainen, vartioida</t>
+       <t pos="V">vahtia</t>
+       <t pos="V">katsoa</t>
+       <t pos="V">ajatella</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="V">чалмыны</l>
+     <stg>
+       <st Contlex="V_MONO">чалмы</st>
+     </stg>
+   </lg> <phonet>чалмыны</phonet>
+   <mg> <defNative/>
+     <tg xml:lang="fin">
+       <t pos="V">vaimentua</t>
+       <t pos="V">hiljentyä</t>
+       <t pos="V">hiljetä</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="V">чеберманы</l>
+     <stg>
+       <st Contlex="V_UZA">чеберма</st>
+     </stg>
+   </lg> <phonet>чеберманы</phonet>
+   <mg> <defNative/>
+     <tg xml:lang="fin">
+       <t pos="V">kaunistaa</t>
+       <t pos="V">koristaa</t>
+       <t pos="V">somistaa</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="V">ченгешыны</l>
+     <stg>
+       <st Contlex="V_MONO">ченгешы</st>
+     </stg>
+   </lg> <phonet>ченгешыны</phonet>
+   <mg> <defNative/>
+     <tg xml:lang="fin">
+       <t pos="V">kiistellä</t>
+       <t pos="V">väitellä</t>
+       <t pos="V">kinata</t>
+       <t pos="V">kinastella</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="V">чепылляны</l>
+     <stg>
+       <st Contlex="V_UZA">чепылля</st>
+     </stg>
+   </lg> <phonet>чепылляны</phonet>
+   <mg> <defNative/>
+     <tg xml:lang="fin">
+       <t pos="V">nipistellä</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="V">чигтыны</l>
+     <stg>
+       <st Contlex="V_MONO">чигты</st>
+     </stg>
+   </lg> <phonet>чигтыны</phonet>
+   <mg> <defNative/>
+     <tg xml:lang="fin">
+       <t pos="V">katkaista</t>
+       <t pos="V">taittaa</t>
+       <t pos="V">särkeä</t>
+       <t pos="V">rikkoa</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="V">чигыны</l>
+     <stg>
+       <st Contlex="V_MONO">чигы</st>
+     </stg>
+   </lg> <phonet>чигыны</phonet>
+   <mg> <defNative/>
+     <tg xml:lang="fin">
+       <t pos="V">särkyä</t>
+       <t pos="V">rikkoutua</t>
+       <t pos="V">katketa</t>
+       <t pos="V">taittua</t>
+       <t pos="V">mennä poikki, murtua</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="V">чиданы</l>
+     <stg>
+       <st Contlex="V_UZA">чида</st>
+     </stg>
+   </lg> <phonet>чиданы</phonet>
+   <mg> <defNative/>
+     <tg xml:lang="fin">
+       <t pos="V">kestää</t>
+       <t pos="V">kärsiä,olla kärsivällinen</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="V">чилектыны</l>
+     <stg>
+       <st Contlex="V_MONO">чилекты</st>
+     </stg>
+   </lg> <phonet>чилектыны</phonet>
+   <mg> <defNative/>
+     <tg xml:lang="fin">
+       <t pos="V">leimahtaa</t>
+       <t pos="V">välähtää</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="V">чилекъяны</l>
+     <stg>
+       <st Contlex="V_UZA">чилекъя</st>
+     </stg>
+   </lg> <phonet>чилекъяны</phonet>
+   <mg> <defNative/>
+     <tg xml:lang="fin">
+       <t pos="V">salamoida</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="V">чильпыраны</l>
+     <stg>
+       <st Contlex="V_UZA">чильпыра</st>
+     </stg>
+   </lg> <phonet>чильпыраны</phonet>
+   <mg> <defNative/>
+     <tg xml:lang="fin">
+       <t pos="V">kuumottaa</t>
+       <t pos="V">loistaa</t>
+       <t pos="V">paistaa</t>
+       <t pos="V">kuultaa</t>
+       <t pos="V">kajastaa</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="V">чиляны</l>
+     <stg>
+       <st Contlex="V_UZA">чиля</st>
+     </stg>
+   </lg> <phonet>чиляны</phonet>
+   <mg> <defNative/>
+     <tg xml:lang="fin">
+       <t pos="V">kiiltää</t>
+       <t pos="V">loistaa</t>
+       <t pos="V">välkkyä</t>
+       <t pos="V">kimaltaa</t>
+       <t pos="V">kimallella</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="V">чирдыны</l>
+     <stg>
+       <st Contlex="V_MONO">чирды</st>
+     </stg>
+   </lg> <phonet>чирдыны</phonet>
+   <mg> <defNative/>
+     <tg xml:lang="fin">
+       <t pos="V">laulaa (linnuista, etenkin satakielestä)</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="V">чортыны</l>
+     <stg>
+       <st Contlex="V_MONO">чорты</st>
+     </stg>
+   </lg> <phonet>чортыны</phonet>
+   <mg> <defNative/>
+     <tg xml:lang="fin">
+       <t pos="V">kiekaista</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="V">чорыганы</l>
+     <stg>
+       <st Contlex="V_UZA">чорыга</st>
+     </stg>
+   </lg> <phonet>чорыганы</phonet>
+   <mg> <defNative/>
+     <tg xml:lang="fin">
+       <t pos="V">kalastaa</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="V">чузъяськыны</l>
+     <stg>
+       <st Contlex="V_MONO">чузъяськы</st>
+     </stg>
+   </lg> <phonet>чузъяськыны</phonet>
+   <mg> <defNative/>
+     <tg xml:lang="fin">
+       <t pos="V">kajahtaa</t>
+       <t pos="V">raikua</t>
+       <t pos="V">kuulua</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="V">чутыны</l>
+     <stg>
+       <st Contlex="V_MONO">чуты</st>
+     </stg>
+   </lg> <phonet>чутыны</phonet>
+   <mg> <defNative/>
+     <tg xml:lang="fin">
+       <t pos="V">ontua</t>
+       <t pos="V">nilkuttaa</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="V">шедьтыны</l>
+     <stg>
+       <st Contlex="V_MONO">шедьты</st>
+     </stg>
+   </lg> <phonet>шедьтыны</phonet>
+   <mg> <defNative/>
+     <tg xml:lang="fin">
+       <t pos="V">löytää</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="V">шедьыны</l>
+     <stg>
+       <st Contlex="V_MONO">шедьы</st>
+     </stg>
+   </lg> <phonet>шедьыны</phonet> <etymg> <etym xml:lang="kpv">шедны</etym> </etymg>
+   <mg> <defNative/>
+     <tg xml:lang="fin">
+       <t pos="V">löytyä</t>
+       <t pos="V">sattua</t>
+       <t pos="V">osua</t>
+       <t pos="V">joutua</t>
+       <t pos="V">sattua vastaan</t>
+       <t pos="V">jäädä kiinni</t>
+       <t pos="V">takertua</t>
+       <t pos="V">tarttua</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="V">шерыны</l>
+     <stg>
+       <st Contlex="V_MONO">шеры</st>
+     </stg>
+   </lg> <phonet>шерыны</phonet>
+   <mg> <defNative/>
+     <tg xml:lang="fin">
+       <t pos="V">teroittaa</t>
+       <t pos="V">hioa</t>
+       <t pos="V">tahkota</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="V">ширтыны</l>
+     <stg>
+       <st Contlex="V_MONO">ширты</st>
+     </stg>
+   </lg> <phonet>ширтыны</phonet>
+   <mg> <defNative/>
+     <tg xml:lang="fin">
+       <t pos="V">kiitää</t>
+       <t pos="V">porhaltaa</t>
+       <t pos="V">pyyhältää</t>
+       <t pos="V">viilettää</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="V">шобырскыны</l>
+     <stg>
+       <st Contlex="V_MONO">шобырскы</st>
+     </stg>
+   </lg> <phonet>шобырскыны</phonet>
+   <mg> <defNative/>
+     <tg xml:lang="fin">
+       <t pos="V">peittyä</t>
+       <t pos="V">verhoutua</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="V">шобыртыны</l>
+     <stg>
+       <st Contlex="V_MONO">шобырты</st>
+     </stg>
+   </lg> <phonet>шобыртыны</phonet>
+   <mg> <defNative/>
+     <tg xml:lang="fin">
+       <t pos="V">peitää</t>
+       <t pos="V">kattaa</t>
+       <t pos="V">päällystää</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="V">шудыны</l>
+     <stg>
+       <st Contlex="V_MONO">шуды</st>
+     </stg>
+   </lg> <phonet>шудыны</phonet>
+   <mg> <defNative/>
+     <tg xml:lang="fin">
+       <t pos="V">leikkiä</t>
+       <t pos="V">pelata</t>
+       <t pos="V">näytellä</t>
+       <t pos="V">soittaa</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="V">шуккиськыны</l>
+     <stg>
+       <st Contlex="V_MONO">шуккиськы</st>
+     </stg>
+   </lg> <phonet>шуккиськыны</phonet>
+   <mg> <defNative/>
+     <tg xml:lang="fin">
+       <t pos="V">lyödä</t>
+       <t pos="V">iskeä</t>
+       <t pos="V">törmätä</t>
+       <t pos="V">loukata itsensä</t>
+       <t pos="V">satuttaa itsensä, loukkaantua</t>
+       <t pos="V">kajahtaa</t>
+       <t pos="V">kuulua</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="V">шуккыны</l>
+     <stg>
+       <st Contlex="V_MONO">шуккы</st>
+     </stg>
+   </lg> <phonet>шуккыны</phonet>
+   <mg> <defNative/>
+     <tg xml:lang="fin">
+       <t pos="V">lyödä</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="V">шулдыртыны</l>
+     <stg>
+       <st Contlex="V_MONO">шулдырты</st>
+     </stg>
+   </lg> <phonet>шулдыртыны</phonet>
+   <mg> <defNative/>
+     <tg xml:lang="fin">
+       <t pos="V">ilahduttaa</t>
+       <t pos="V">ilostuttaa</t>
+       <t pos="V">kaunistaa</t>
+       <t pos="V">somistaa</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="V">шулдыръяськыны</l>
+     <stg>
+       <st Contlex="V_MONO">шулдыръяськы</st>
+     </stg>
+   </lg> <phonet>шулдыръяськыны</phonet>
+   <mg> <defNative/>
+     <tg xml:lang="fin">
+       <t pos="V">iloita</t>
+       <t pos="V">iloitella</t>
+       <t pos="V">huvitella</t>
+       <t pos="V">hauskutella</t>
+       <t pos="V">pitää hauskaa</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="V">шултыны</l>
+     <stg>
+       <st Contlex="V_MONO">шулты</st>
+     </stg>
+   </lg> <phonet>шултыны</phonet>
+   <mg> <defNative/>
+     <tg xml:lang="fin">
+       <t pos="V">viheltää</t>
+     </tg>
+     <xg> <x>шултэм куара</x>
+       <xt xml:lang="fin">vihellys</xt>
+     </xg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="V">шумпотыны</l>
+     <stg>
+       <st Contlex="V_MONO">шумпоты</st>
+     </stg>
+   </lg> <phonet>шу́мпотыны</phonet>
+   <mg> <defNative/>
+     <tg xml:lang="fin">
+       <t pos="V">ilahtua</t>
+       <t pos="V">tulla iloiseksi</t>
+     </tg>
+     <xg> <x>шу́мпотыса</x>
+       <xt xml:lang="fin">iloiten, iloisesti</xt>
+     </xg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="V">шунаны</l>
+     <stg>
+       <st Contlex="V_UZA">шуна</st>
+     </stg>
+   </lg> <phonet>шунаны</phonet>
+   <mg> <defNative/>
+     <tg xml:lang="fin">
+       <t pos="V">sulaa</t>
+       <t pos="V">lämmetä</t>
+       <t pos="V">kuumeta</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="V">шунтыны</l>
+     <stg>
+       <st Contlex="V_MONO">шунты</st>
+     </stg>
+   </lg> <phonet>шунтыны</phonet> <etymg> <etym xml:lang="kpv">шонтыны</etym> </etymg>
+   <mg> <defNative/>
+     <tg xml:lang="fin">
+       <t pos="V">lämmittää</t>
+       <t pos="V">kuumentaa</t>
+       <t pos="V">sulattaa</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="V">шутэтскыны</l>
+     <stg>
+       <st Contlex="V_MONO">шутэтскы</st>
+     </stg>
+   </lg> <phonet>шутэтскыны</phonet>
+   <mg> <defNative/>
+     <tg xml:lang="fin">
+       <t pos="V">levätä</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="V">шуыны</l>
+     <stg>
+       <st Contlex="V_MONO">шуы</st>
+     </stg>
+   </lg> <phonet>шуыны</phonet> <etymg> <etym xml:lang="kpv">шуны</etym> </etymg>
+   <mg> <defNative/>
+     <tg xml:lang="fin">
+       <t pos="V">sanoa</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="V">шуяны</l>
+     <stg>
+       <st Contlex="V_UZA">шуя</st>
+     </stg>
+   </lg> <phonet>шуяны</phonet>
+   <mg> <defNative/>
+     <tg xml:lang="fin">
+       <t pos="V">lakastua</t>
+       <t pos="V">kuihtua</t>
+       <t pos="V">näivettyä</t>
+       <t pos="V">nuutua</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="V">шӧдыны</l>
+     <stg>
+       <st Contlex="V_MONO">шӧды</st>
+     </stg>
+   </lg> <phonet>шӧдыны</phonet>
+   <mg> <defNative/>
+     <tg xml:lang="fin">
+       <t pos="V">tuntea</t>
+       <t pos="V">aistia</t>
+       <t pos="V">tajuta</t>
+       <t pos="V">käsittää</t>
+       <t pos="V">huomata</t>
+       <t pos="V">havaita</t>
+       <t pos="V">keksiä, arvata</t>
+       <t pos="V">oivaltaa</t>
+       <t pos="V">älytä</t>
+     </tg>
+     <xg> <x>шӧдтэк шорысь</x>
+       <xt xml:lang="fin">yhtäkkiä, odottamatta</xt>
+     </xg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="V">шӧектыны</l>
+     <stg>
+       <st Contlex="V_MONO">шӧекты</st>
+     </stg>
+   </lg> <phonet>шӧектыны</phonet>
+   <mg> <defNative/>
+     <tg xml:lang="fin">
+       <t pos="V">sammua</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="V">ыбыны</l>
+     <stg>
+       <st Contlex="V_MONO">ыбы</st>
+     </stg>
+   </lg> <phonet>ыбыны</phonet>
+   <mg> <defNative/>
+     <tg xml:lang="fin">
+       <t pos="V">ampua</t>
+     </tg>
+     <xg> <x>ыбем кадь</x>
+       <xt xml:lang="fin">kuin ammuttuna, nuolena</xt>
+     </xg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="V">ыстыны</l>
+     <stg>
+       <st Contlex="V_MONO">ысты</st>
+     </stg>
+   </lg> <phonet>ыстыны</phonet> <etymg> <etym xml:lang="kpv">ыстыны</etym> </etymg>
+   <mg> <defNative/>
+     <tg xml:lang="fin">
+       <t pos="V">lähettää</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="V">ысъяськыны</l>
+     <stg>
+       <st Contlex="V_MONO">ысъяськы</st>
+     </stg>
+   </lg> <phonet>ысъяськыны</phonet>
+   <mg> <defNative/>
+     <tg xml:lang="fin">
+       <t pos="V">lähetellä</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="V">ыштыны</l>
+     <stg>
+       <st Contlex="V_MONO">ышты</st>
+     </stg>
+   </lg> <phonet>ыштыны</phonet>
+   <mg> <defNative/>
+     <tg xml:lang="fin">
+       <t pos="V">kadottaa</t>
+       <t pos="V">menettää</t>
+       <t pos="V">hukata</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="V">ышыны</l>
+     <stg>
+       <st Contlex="V_MONO">ышы</st>
+     </stg>
+   </lg> <phonet>ышыны</phonet> <etymg> <etym xml:lang="kpv">вошны</etym> </etymg>
+   <mg> <defNative/>
+     <tg xml:lang="fin">
+       <t pos="V">kadota</t>
+       <t pos="V">hävitä</t>
+       <t pos="V">hukkua</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="V">эктыны</l>
+     <stg>
+       <st Contlex="V_MONO">экты</st>
+     </stg>
+   </lg> <phonet>эктыны</phonet> <etymg> <etym xml:lang="kpv">йӧктыны</etym> </etymg>
+   <mg> <defNative/>
+     <tg xml:lang="fin">
+       <t pos="V">tanssia</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="V">эктытыны</l>
+     <stg>
+       <st Contlex="V_MONO">эктыты</st>
+     </stg>
+   </lg> <phonet>эктытыны</phonet>
+   <mg> <defNative/>
+     <tg xml:lang="fin">
+       <t pos="V">tanssittaa</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="V">эмъяськыны</l>
+     <stg>
+       <st Contlex="V_MONO">эмъяськы</st>
+     </stg>
+   </lg> <phonet>эмъяськыны</phonet>
+   <mg> <defNative/>
+     <tg xml:lang="fin">
+       <t pos="V">saada hoitoa</t>
+       <t pos="V">hoidattaa itseään</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="V">эскерыны</l>
+     <stg>
+       <st Contlex="V_MONO">эскеры</st>
+     </stg>
+   </lg> <phonet>эскерыны</phonet>
+   <mg> <defNative/>
+     <tg xml:lang="fin">
+       <t pos="V">tarkastella</t>
+       <t pos="V">tarkkailla</t>
+       <t pos="V">tarkastaa</t>
+       <t pos="V">havainnoida</t>
+       <t pos="V">tehdä havaintoja</t>
+       <t pos="V">tutkia</t>
+       <t pos="V">koettaa</t>
+       <t pos="V">kokeilla</t>
+       <t pos="V">tarkastaa</t>
+       <t pos="V">valvoa, pitääsilmällä</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="V">эстыны</l>
+     <stg>
+       <st Contlex="V_MONO">эсты</st>
+     </stg>
+   </lg> <phonet>эстыны</phonet>
+   <mg> <defNative/>
+     <tg xml:lang="fin">
+       <t pos="V">lämmittää</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="V">юалляськыны</l>
+     <stg>
+       <st Contlex="V_MONO">юалляськы</st>
+     </stg>
+   </lg> <phonet>юалляськыны</phonet>
+   <mg> <defNative/>
+     <tg xml:lang="fin">
+       <t pos="V">kysellä</t>
+       <t pos="V">haastatella</t>
+       <t pos="V">kuulustella</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="V">юаны</l>
+     <stg>
+       <st Contlex="V_UZA">юа</st>
+     </stg>
+   </lg> <phonet>юаны</phonet> <etymg> <etym xml:lang="kpv">юавны</etym> </etymg>
+   <mg> <defNative/>
+     <tg xml:lang="fin">
+       <t pos="V">kysyä</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="V">югектыны</l>
+     <stg>
+       <st Contlex="V_MONO">югекты</st>
+     </stg>
+   </lg> <phonet>югектыны</phonet>
+   <mg> <defNative/>
+     <tg xml:lang="fin">
+       <t pos="V">vaaleta</t>
+       <t pos="V">valjeta</t>
+       <t pos="V">kirkastua</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="V">юдыны</l>
+     <stg>
+       <st Contlex="V_MONO">юды</st>
+     </stg>
+   </lg> <phonet>юдыны</phonet>
+   <mg> <defNative/>
+     <tg xml:lang="fin">
+       <t pos="V">leikellä</t>
+       <t pos="V">pilkkoa</t>
+       <t pos="V">pieniä</t>
+       <t pos="V">paloitella</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="V">юмекъяны</l>
+     <stg>
+       <st Contlex="V_UZA">юмекъя</st>
+     </stg>
+   </lg> <phonet>юмекъяны</phonet>
+   <mg> <defNative/>
+     <tg xml:lang="fin">
+       <t pos="V">jomottaa</t>
+       <t pos="V">kolottaa</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="V">юнматыны</l>
+     <stg>
+       <st Contlex="V_MONO">юнматы</st>
+     </stg>
+   </lg> <phonet>юнматыны</phonet>
+   <mg> <defNative/>
+     <tg xml:lang="fin">
+       <t pos="V">lujittaa</t>
+       <t pos="V">vahvistaa</t>
+       <t pos="V">kiinnittää</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="V">юрттыны</l>
+     <stg>
+       <st Contlex="V_MONO">юртты</st>
+     </stg>
+   </lg> <phonet>юрттыны</phonet>
+   <mg> <defNative/>
+     <tg xml:lang="fin">
+       <t pos="V">auttaa</t>
+       <t pos="V">avustaa</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="V">юыны</l>
+     <stg>
+       <st Contlex="V_MONO">юы</st>
+     </stg>
+   </lg> <phonet>юыны</phonet> <etymg> <etym xml:lang="kpv">юны</etym> </etymg>
+   <mg> <defNative/>
+     <tg xml:lang="fin">
+       <t pos="V">juoda</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="V">ялыны</l>
+     <stg>
+       <st Contlex="V_MONO">ялы</st>
+     </stg>
+   </lg> <phonet>ялыны</phonet>
+   <mg> <defNative/>
+     <tg xml:lang="fin">
+       <t pos="V">ilmoittaa</t>
+       <t pos="V">julistaa</t>
+       <t pos="V">kuuluttaa</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="V">яраны</l>
+     <stg>
+       <st Contlex="V_UZA">яра</st>
+     </stg>
+   </lg> <phonet>яраны</phonet>
+   <mg> <defNative/>
+     <tg xml:lang="fin">
+       <t pos="V">sopia</t>
+       <t pos="V">kelvata</t>
+       <t pos="V">päteä</t>
+     </tg>
+     <xg> <x>ярам коть</x>
+       <xt xml:lang="fin">onpa hyvä, olipa hyvä</xt>
+     </xg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="V">яратыны</l>
+     <stg>
+       <st Contlex="V_MONO">яраты</st>
+     </stg>
+   </lg> <phonet>яратыны</phonet>
+   <mg> <defNative/>
+     <tg xml:lang="fin">
+       <t pos="V">rakastaa</t>
+       <t pos="V">pitää</t>
+       <t pos="V">tykätä</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="V">ёрмыны</l>
+     <stg>
+       <st Contlex="V_MONO">ёрмы</st>
+     </stg>
+   </lg> <phonet>ёрмыны</phonet>
+   <mg> <defNative/>
+     <tg xml:lang="fin">
+       <t pos="V">tarvita</t>
+       <t pos="V">olla jnk tarpeessa</t>
+       <t pos="V">hämmästyä</t>
+       <t pos="V">jäädä kiinni, takertua</t>
+       <t pos="V">tarttua</t>
+       <t pos="V">joutua ahdinkoon</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="V">ӝеганы</l>
+     <stg>
+       <st Contlex="V_UZA">ӝега</st>
+     </stg>
+   </lg> <phonet>ӝеганы</phonet>
+   <mg> <defNative/>
+     <tg xml:lang="fin">
+       <t pos="V">viipyä</t>
+       <t pos="V">viivästyä</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="V">ӝегатскыны</l>
+     <stg>
+       <st Contlex="V_MONO">ӝегатскы</st>
+     </stg>
+   </lg> <phonet>ӝегатскыны</phonet>
+   <mg> <defNative/>
+     <tg xml:lang="fin">
+       <t pos="V">viipyä</t>
+       <t pos="V">viivästyä</t>
+       <t pos="V">viivähtää</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="V">ӝуаны</l>
+     <stg>
+       <st Contlex="V_UZA">ӝуа</st>
+     </stg>
+   </lg> <phonet>ӝуаны</phonet>
+   <mg> <defNative/>
+     <tg xml:lang="fin">
+       <t pos="V">palaa</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="V">ӝуатыны</l>
+     <stg>
+       <st Contlex="V_MONO">ӝуаты</st>
+     </stg>
+   </lg> <phonet>ӝуатыны</phonet>
+   <mg> <defNative/>
+     <tg xml:lang="fin">
+       <t pos="V">sytyttää</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="V">ӝужаны</l>
+     <stg>
+       <st Contlex="V_UZA">ӝужа</st>
+     </stg>
+   </lg> <phonet>ӝужаны</phonet>
+   <mg> <defNative/>
+     <tg xml:lang="fin">
+       <t pos="V">ilmestyä</t>
+       <t pos="V">ilmaantua</t>
+       <t pos="V">versoa</t>
+       <t pos="V">orastaa</t>
+       <t pos="V">nousta (auringosta), kuusta)</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="V">ӝутскыны</l>
+     <stg>
+       <st Contlex="V_MONO">ӝутскы</st>
+     </stg>
+   </lg> <phonet>ӝутскыны</phonet>
+   <mg> <defNative/>
+     <tg xml:lang="fin">
+       <t pos="V">nousta</t>
+       <t pos="V">kohota</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="V">ӝутыны</l>
+     <stg>
+       <st Contlex="V_MONO">ӝуты</st>
+     </stg>
+   </lg> <phonet>ӝутыны</phonet>
+   <mg> <defNative/>
+     <tg xml:lang="fin">
+       <t pos="V">nostaa</t>
+       <t pos="V">kohottaa</t>
+       <t pos="V">korottaa</t>
+       <t pos="V">ylentää</t>
+       <t pos="V">kiihottaa, yllyttää</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="V">ӝуштыны</l>
+     <stg>
+       <st Contlex="V_MONO">ӝушты</st>
+     </stg>
+   </lg> <phonet>ӝуштыны</phonet>
+   <mg> <defNative/>
+     <tg xml:lang="fin">
+       <t pos="V">vaikertaa</t>
+       <t pos="V">voihkia</t>
+       <t pos="V">puhkua</t>
+       <t pos="V">puuskuttaa</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="V">ӝыны</l>
+     <stg>
+       <st Contlex="V_MONO">ӝы</st>
+     </stg>
+   </lg> <phonet>ӝыны</phonet> <etymg> <etym xml:lang="kpv">джын</etym> </etymg>
+   <mg> <defNative/>
+     <tg xml:lang="fin">
+       <t pos="V">puoli</t>
+     </tg>
+     <xg> <x>одӥг но ӝыны</x>
+       <xt xml:lang="fin">puolitoista</xt>
+     </xg>
+     <xg> <x>куинь но ӝыны</x>
+       <xt xml:lang="fin">kolme ja puoli</xt>
+     </xg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="V">ӟардыны</l>
+     <stg>
+       <st Contlex="V_MONO">ӟарды</st>
+     </stg>
+   </lg> <phonet>ӟардыны</phonet>
+   <mg> <defNative/>
+     <tg xml:lang="fin">
+       <t pos="V">sarastaa</t>
+       <t pos="V">valjeta</t>
+       <t pos="V">seljetä</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="V">ӟаректыны</l>
+     <stg>
+       <st Contlex="V_MONO">ӟаректы</st>
+     </stg>
+   </lg> <phonet>ӟаректыны</phonet>
+   <mg> <defNative/>
+     <tg xml:lang="fin">
+       <t pos="V">kalveta</t>
+       <t pos="V">himmetä</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="V">ӟечкыланы</l>
+     <stg>
+       <st Contlex="V_UZA">ӟечкыла</st>
+     </stg>
+   </lg> <phonet>ӟечкыланы</phonet>
+   <mg> <defNative/>
+     <tg xml:lang="fin">
+       <t pos="V">onnittella</t>
+       <t pos="V">toivottaa onnea</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="V">ӧдъяны</l>
+     <stg>
+       <st Contlex="V_UZA">ӧдъя</st>
+     </stg>
+   </lg> <phonet>ӧдъяны</phonet>
+   <mg> <defNative/>
+     <tg xml:lang="fin">
+       <t pos="V">alkaa</t>
+       <t pos="V">aloittaa</t>
+       <t pos="V">ryhtyä</t>
+       <t pos="V">ruveta</t>
+       <t pos="V">haluta</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="V">ӧжытомыны</l>
+     <stg>
+       <st Contlex="V_MONO">ӧжытомы</st>
+     </stg>
+   </lg> <phonet>ӧжытомыны</phonet>
+   <mg> <defNative/>
+     <tg xml:lang="fin">
+       <t pos="V">vähentyä</t>
+       <t pos="V">vähetä</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="V">ӧтьыны</l>
+     <stg>
+       <st Contlex="V_MONO">ӧтьы</st>
+     </stg>
+   </lg> <phonet>ӧтьыны</phonet>
+   <mg> <defNative/>
+     <tg xml:lang="fin">
+       <t pos="V">kutsua</t>
+       <t pos="V">pyytää</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="V">ӵабъяны</l>
+     <stg>
+       <st Contlex="V_UZA">ӵабъя</st>
+     </stg>
+   </lg> <phonet>ӵабъяны</phonet>
+   <mg> <defNative/>
+     <tg xml:lang="fin">
+       <t pos="V">raapia</t>
+       <t pos="V">kynsiä</t>
+       <t pos="V">tonkia</t>
+       <t pos="V">kaivella</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="V">ӵаш карыны</l>
+     <stg>
+       <st Contlex="V_MONO">ӵаш кары</st>
+     </stg>
+   </lg> <phonet>ӵаш карыны</phonet>
+   <mg> <defNative/>
+     <tg xml:lang="fin">
+       <t pos="V">kohista</t>
+       <t pos="V">kahista</t>
+       <t pos="V">humista</t>
+       <t pos="V">meluta</t>
+       <t pos="V">hälistä</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="V">ӵашетыны</l>
+     <stg>
+       <st Contlex="V_MONO">ӵашеты</st>
+     </stg>
+   </lg> <phonet>ӵашетыны</phonet>
+   <mg> <defNative/>
+     <tg xml:lang="fin">
+       <t pos="V">kohista</t>
+       <t pos="V">kahista</t>
+       <t pos="V">humista</t>
+       <t pos="V">meluta</t>
+       <t pos="V">hälistä</t>
+       <t pos="V">mekastaa, riidellä</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="V">ӵектыны</l>
+     <stg>
+       <st Contlex="V_MONO">ӵекты</st>
+     </stg>
+   </lg> <phonet>ӵектыны</phonet>
+   <mg> <defNative/>
+     <tg xml:lang="fin">
+       <t pos="V">ehdottaa</t>
+       <t pos="V">esittää</t>
+       <t pos="V">kehottaa</t>
+       <t pos="V">neuvoa</t>
+       <t pos="V">tarjota</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="V">ӵогиськыны</l>
+     <stg>
+       <st Contlex="V_MONO">ӵогиськы</st>
+     </stg>
+   </lg> <phonet>ӵогиськыны</phonet>
+   <mg> <defNative/>
+     <tg xml:lang="fin">
+       <t pos="V">katketa</t>
+       <t pos="V">leikkautua</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="V">ӵогъяны</l>
+     <stg>
+       <st Contlex="V_UZA">ӵогъя</st>
+     </stg>
+   </lg> <phonet>ӵогъяны</phonet>
+   <mg> <defNative/>
+     <tg xml:lang="fin">
+       <t pos="V">pistää</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="V">ӵоктаны</l>
+     <stg>
+       <st Contlex="V_UZA">ӵокта</st>
+     </stg>
+   </lg> <phonet>ӵоктаны</phonet>
+   <mg> <defNative/>
+     <tg xml:lang="fin">
+       <t pos="V">tukkia</t>
+       <t pos="V">panna tukkoon</t>
+       <t pos="V">sulkea</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="V">ӵошатыны</l>
+     <stg>
+       <st Contlex="V_MONO">ӵошаты</st>
+     </stg>
+   </lg> <phonet>ӵошатыны</phonet>
+   <mg> <defNative/>
+     <tg xml:lang="fin">
+       <t pos="V">verrata</t>
+       <t pos="V">vertailla</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="V">ӵужектыны</l>
+     <stg>
+       <st Contlex="V_MONO">ӵужекты</st>
+     </stg>
+   </lg> <phonet>ӵужектыны</phonet>
+   <mg> <defNative/>
+     <tg xml:lang="fin">
+       <t pos="V">kellastua</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="V">ӵужыны</l>
+     <stg>
+       <st Contlex="V_MONO">ӵужы</st>
+     </stg>
+   </lg> <phonet>ӵужыны</phonet>
+   <mg> <defNative/>
+     <tg xml:lang="fin">
+       <t pos="V">lakaista</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="V">ӵушкыны</l>
+     <stg>
+       <st Contlex="V_MONO">ӵушкы</st>
+     </stg>
+   </lg> <phonet>ӵушкыны</phonet>
+   <mg>
+     <m>
+       <head/>
+       <semRel>ӵушиськыны</semRel>
+     </m>
+     <tg xml:lang="fin">
+       <t pos="V">pyyhkiä</t>
+       <t pos="V">kuivata kasvonsa</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="V">ӵыжыны</l>
+     <stg>
+       <st Contlex="V_MONO">ӵыжы</st>
+     </stg>
+   </lg> <phonet>ӵыжыны</phonet>
+   <mg> <defNative/>
+     <tg xml:lang="fin">
+       <t pos="V">potkaista</t>
+     </tg>
+   </mg>
+</e>
+</r>

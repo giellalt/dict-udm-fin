@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<r xml:lang="udm">
+
+<e order="2">
+   <lg>
+     <l pos="A">пичи</l>
+     <stg>
+       <st Contlex="A_">пичи</st>
+     </stg>
+   </lg> <phonet>пичи</phonet>
+   <mg> <defNative />
+     <tg xml:lang="fin">
+       <t>pieni</t>
+     </tg>
+   </mg>
+</e>
+</r>

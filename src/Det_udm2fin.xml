@@ -1,0 +1,127 @@
+<?xml version="1.0" encoding="utf-8"?>
+<r xml:lang="udm">
+<e>
+   <lg><l pos="Det">витетӥ</l><orig>витеʼтӥʼ</orig>
+   </lg>
+   <mg ind="1th">
+     <tg xml:lang="fin">
+       <t>viides</t>
+     </tg>
+</mg>
+</e>
+<e>
+   <lg><l pos="Det">дасэтӥ</l><orig>дасэʼтӥʼ</orig>
+   </lg>
+   <mg>
+     <tg xml:lang="fin">
+       <t>kymmenes</t>
+     </tg>
+</mg>
+</e>
+<e>
+   <lg><l pos="Det">куатетӥ</l><orig>куатеʼтӥʼ</orig>
+   </lg>
+   <mg ind="1th">
+     <tg xml:lang="fin">
+       <t>kuudes</t>
+     </tg>
+</mg>
+</e>
+<e>
+   <lg><l pos="Det">куинетӥ</l><orig>куинеʼтӥʼ</orig>
+   </lg>
+   <mg ind="1th">
+     <tg xml:lang="fin">
+       <t>kolmas</t>
+     </tg>
+</mg>
+</e>
+<e>
+   <lg><l pos="Det;Adv">кызетӥ</l><orig>кызеʼтӥʼ</orig>
+   </lg>
+   <mg ind="1th">
+     <tg xml:lang="fin">
+       <t>kahdeskymmenes</t>
+     </tg>
+</mg>
+</e>
+<e>
+   <lg><l pos="Det">кыкетӥ</l><orig>кыкеʼтӥʼ</orig>
+   </lg>
+   <mg ind="1th">
+     <tg xml:lang="fin">
+       <t>toinen</t>
+     </tg>
+</mg>
+</e>
+<e>
+   <lg><l pos="Det;A">нырысетӥ</l><orig>нырысеʼтӥʼ</orig>
+   </lg>
+   <mg ind="1th">
+     <tg xml:lang="fin">
+       <t>ensimmäinen, ensi(=);</t>
+     </tg>
+     <xg><x>нырысетӥ этаж</x>
+       <xt xml:lang="fin">ensimmäinen kerros</xt>
+     </xg>
+</mg>
+   <mg ind="2th"><defNative>самой нырысез</defNative>
+     <tg xml:lang="fin">
+       <t>alkuperäinen</t>
+     </tg>
+</mg>
+   <mg ind="3th"><defNative>нырысетӥ интыын сылӥсь</defNative>
+     <tg xml:lang="fin">
+       <t>ensisijainen;</t>
+     </tg>
+     <xg><x>со тӥляд нырысетӥ ужды</x>
+       <xt xml:lang="fin">se on teidän ensisijainen tehtävänne</xt>
+     </xg>
+   </mg>
+</e>
+
+<e>
+   <lg><l pos="Det">ньылетӥ</l><orig>ньылеʼтӥʼ</orig>
+   </lg>
+   <mg ind="1th">
+     <tg xml:lang="fin">
+       <t>neljäs</t>
+     </tg>
+</mg>
+</e>
+<e>
+   <lg><l pos="Det">одӥгетӥ</l><orig>одӥгеʼтӥʼ</orig>
+   </lg>
+   <mg ind="1th">
+     <tg xml:lang="fin">
+       <t>=yhdes, yhdes=, =ensimmäinen;</t>
+     </tg>
+     <xg><x>дас одӥгетӥ</x>
+       <xt xml:lang="fin">yhdestoista;</xt>
+     </xg>
+     <xg><x>кызь одӥгетӥ</x>
+       <xt xml:lang="fin">kahdeskymmenesyhdes, kahdeskymmenesensimmäinen</xt>
+     </xg>
+</mg>
+</e>
+
+<e>
+   <lg><l pos="Det">вань<rom ind="2"/></l>
+   </lg>
+   <mg><note><i>pron. determ. </i></note><font face="SmolenskSGR">(<i>ваньмыз</i>)</font> <note><i>attribuuttina</i></note>
+     <tg xml:lang="fin">
+       <t>: koko, kaikki;</t>
+     </tg>
+     <xg><x>гуртысь вань калык клубе люкаськем</x>
+       <xt xml:lang="fin">kylän koko väki kokoontui (t. on kokoontunut) kerhoon;</xt>
+     </xg>
+     <xg><x>вань сюлмысь</x>
+       <xt xml:lang="fin">koko sydämestä;</xt>
+     </xg>
+     <xg><x>мон вань адямиосты татысь тодӥсько</x>
+       <xt xml:lang="fin">minä tunnen kaikki ihmiset täällä</xt>
+     </xg>
+   </mg>
+</e>
+
+</r>

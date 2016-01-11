@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<r xml:lang="udm">
+<e>
+   <lg>
+     <l pos="Po">бертӥ</l><orig>бертӥ</orig>
+   </lg>
+   <mg>
+     <tg xml:lang="fin">
+       <t>takana, taitse, takaa;</t>
+     </tg>
+     <xg><x>корка бертӥ ветлыны</x>
+       <xt xml:lang="fin">kävellä talon takana;</xt>
+     </xg>
+     <xg><x>корка бертӥ ортчыны</x>
+       <xt xml:lang="fin">kulkea (t. mennä) talon takaa (t. taitse)</xt>
+     </xg>
+   </mg>
+</e>
+
+
+</r>

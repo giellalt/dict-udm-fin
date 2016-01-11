@@ -1,0 +1,382 @@
+<?xml version="1.0" encoding="utf-8"?>
+<r xml:lang="udm">
+<e>
+   <lg>
+     <l pos="Num">вить</l><orig>вить</orig>
+   </lg>
+   <mg>
+     <tg xml:lang="fin">
+       <t>viisi;</t>
+     </tg>
+     <xg><x>дас вить</x>
+       <xt xml:lang="fin">viisitoista</xt>
+     </xg>
+   </mg>
+</e>
+
+<e>
+   <lg>
+     <l pos="Num">витьмос</l><orig>витьмос</orig>
+   </lg>
+   <mg>
+     <tg xml:lang="fin">
+       <t>viidennes, viidesosa;</t>
+     </tg>
+     <xg><x>кык витьмос</x>
+       <xt xml:lang="fin">kaksi viidesosaa (t. viidennestä)</xt>
+     </xg>
+   </mg>
+</e>
+
+<e>
+   <lg>
+     <l pos="Num">витьтон</l><orig>витьтон</orig>
+   </lg>
+   <mg>
+     <tg xml:lang="fin">
+       <t>viisikymmentä</t>
+     </tg>
+   </mg>
+</e>
+
+<e>
+   <lg>
+     <l pos="Num">дас</l><orig>дас</orig>
+   </lg>
+   <mg>
+     <tg xml:lang="fin">
+       <t>kymmenen;</t>
+     </tg>
+     <xg><x>дас аресъем</x>
+       <xt xml:lang="fin">kymmenvuotias, kymmenen vuoden ikäinen;</xt>
+     </xg>
+     <xg><x>дас кузя</x>
+       <xt xml:lang="fin">kymmenissä miehin, kymmenen yhdessä;</xt>
+     </xg>
+     <xg><x>ми дас кузя</x>
+       <xt xml:lang="fin">meitä on kymmenen;</xt>
+     </xg>
+     <xg><x>дас одӥг</x>
+       <xt xml:lang="fin">yksitoista;</xt>
+     </xg>
+     <xg><x>дас пол</x>
+       <xt xml:lang="fin">kymmenen kertaa, kymmenkertaisesti</xt>
+     </xg>
+   </mg>
+</e>
+
+<e>
+   <lg>
+     <l pos="Num">дасмос</l><orig>дасмос</orig>
+   </lg>
+   <mg>
+     <tg xml:lang="fin">
+       <t>kymmenesosa, kymmenennes;</t>
+     </tg>
+     <xg><x>кык дасмос</x>
+       <xt xml:lang="fin">kaksi kymmenesosaa (t. kymmenennestä)</xt>
+     </xg>
+   </mg>
+</e>
+
+<e>
+   <lg>
+     <l pos="Num">дасо</l><orig>дасо</orig>
+   </lg>
+   <mg ind="1th"><defNative>дас</defNative>
+     <tg xml:lang="fin">
+       <t>kymmenen</t>
+       <re>erä</re>;
+     </tg>
+     <xg><x>кык дасо курегпуз</x>
+       <xt xml:lang="fin">kaksikymmentä kananmunaa</xt>
+     </xg>
+</mg>
+   <mg ind="2th"><defNative>ог дасо</defNative>
+     <tg xml:lang="fin">
+       <t>noin kymmenen;</t>
+     </tg>
+     <xg><x>дасо нунал</x>
+       <xt xml:lang="fin">noin kymmenen päivää;</xt>
+     </xg>
+     <xg><x>дасо быдӟа</x>
+       <xt xml:lang="fin">noin kymmenen, kymmenisen;</xt>
+     </xg>
+     <xg><x>дасо мында адями</x>
+       <xt xml:lang="fin">noin kymmenen ihmistä</xt>
+     </xg>
+   </mg>
+</e>
+
+<e>
+   <lg>
+     <l pos="Num">куать</l><orig>куать</orig>
+   </lg>
+   <mg>
+     <tg xml:lang="fin">
+       <t>kuusi;</t>
+     </tg>
+     <xg><x>дас куать</x>
+       <xt xml:lang="fin">kuusitoista</xt>
+     </xg>
+   </mg>
+</e>
+
+<e>
+   <lg>
+     <l pos="Num">куатьмос</l><orig>куатьмос</orig>
+   </lg>
+   <mg>
+     <tg xml:lang="fin">
+       <t>kuudennes, kuudesosa;</t>
+     </tg>
+     <xg><x>кык куатьмос</x>
+       <xt xml:lang="fin">kaksi kuudennesta (t. kuudesosaa)</xt>
+     </xg>
+   </mg>
+</e>
+
+<e>
+   <lg>
+     <l pos="Num">куатьтон</l><orig>куатьтон</orig>
+   </lg>
+   <mg>
+     <tg xml:lang="fin">
+       <t>kuusikymmentä</t>
+     </tg>
+   </mg>
+</e>
+
+<e>
+   <lg>
+     <l pos="Num">куинь</l><orig>куинь</orig>
+   </lg>
+   <mg>
+     <tg xml:lang="fin">
+       <t>kolme;</t>
+     </tg>
+     <xg><x>дас куинь</x>
+       <xt xml:lang="fin">kolmetoista;</xt>
+     </xg>
+     <xg><x>куинь кузя</x>
+       <xt xml:lang="fin">kolmisin, kolmestaan;</xt>
+     </xg>
+     <xg><x>куинь пол</x>
+       <xt xml:lang="fin">kolme kertaa;</xt>
+     </xg>
+     <xg><x>куинь полэс</x>
+       <xt xml:lang="fin">kolminkertainen // kolminkertaisesti;</xt>
+     </xg>
+     <xg><x>куинь сэрего</x>
+       <xt xml:lang="fin">kolmikulmainen, kolmikolkkainen;</xt>
+     </xg><font face="SmolenskSGR"><b>куинь ӵошен</b></font>
+     <variants>
+       <l_syn type="&gt;">куинь кузя</l_syn>
+     </variants>
+   </mg>
+</e>
+
+<e>
+   <lg><l pos="Num">кызь<rom ind="1"/></l>
+   </lg>
+   <mg>
+     <tg xml:lang="fin">
+       <t>kaksikymmentä;</t>
+     </tg>
+     <xg><x>кызь одӥг</x>
+       <xt xml:lang="fin">kaksikymmentäyksi</xt>
+     </xg>
+   </mg>
+</e>
+
+<e>
+   <lg>
+     <l pos="Num">кыкмос</l><orig>кыкмос</orig>
+   </lg>
+   <mg>
+     <tg xml:lang="fin">
+       <t>kahdesosa;</t>
+     </tg>
+     <xg><x>одӥг кыкмос</x>
+       <xt xml:lang="fin">yksi kahdesosa</xt>
+     </xg>
+   </mg>
+</e>
+
+<e>
+   <lg>
+     <l pos="Num">миллиард</l><orig>миллиард</orig>
+   </lg>
+   <mg>
+     <tg xml:lang="fin">
+       <t>miljardi</t>
+     </tg>
+   </mg>
+</e>
+
+<e>
+   <lg>
+     <l pos="Num">миллион</l><orig>миллион</orig>
+   </lg>
+   <mg>
+     <tg xml:lang="fin">
+       <t>miljoona</t>
+     </tg>
+   </mg>
+</e>
+
+<e>
+   <lg>
+     <l pos="Num">ноль</l><orig>ноль</orig>
+   </lg>
+   <mg>
+     <tg xml:lang="fin">
+       <t>nolla</t>
+     </tg>
+   </mg>
+</e>
+
+<e>
+   <lg>
+     <l pos="Num">ньыль</l><orig>ньыль</orig>
+   </lg>
+   <mg>
+     <tg xml:lang="fin">
+       <t>neljä;</t>
+     </tg>
+     <xg><x>ньыль аресъем</x>
+       <xt xml:lang="fin">nelivuotinen;</xt>
+     </xg>
+     <xg><x>ньыль кузя</x>
+       <xt xml:lang="fin">nelisin, neljästään;</xt>
+     </xg>
+     <xg><x>ньыль чуръем кылбур</x>
+       <xt xml:lang="fin">nelisäe;</xt>
+     </xg><font face="SmolenskSGR"><b>ньыль ӵошен</b></font>
+     <variants>
+       <l_syn type="&gt;">ньыль кузя</l_syn>
+     </variants>
+   </mg>
+</e>
+
+<e>
+   <lg>
+     <l pos="Num">ньыльдон</l><orig>ньыльдон</orig>
+   </lg>
+   <mg>
+     <tg xml:lang="fin">
+       <t>neljäkymmentä</t>
+     </tg>
+   </mg>
+</e>
+
+<e>
+   <lg>
+     <l pos="Num">ньыльмос</l><orig>ньыльмос</orig>
+   </lg>
+   <mg>
+     <tg xml:lang="fin">
+       <t>neljännes;</t>
+     </tg>
+     <xg><x>куинь ньыльмос</x>
+       <xt xml:lang="fin">kolme neljännestä</xt>
+     </xg>
+   </mg>
+</e>
+
+<e>
+   <lg>
+     <l pos="Num">сизьым</l><orig>сизьым</orig>
+   </lg>
+   <mg>
+     <tg xml:lang="fin">
+       <t>seitsemän;</t>
+     </tg>
+     <xg><x>дас сизьым</x>
+       <xt xml:lang="fin">seitsemäntoista</xt>
+     </xg>
+   </mg>
+</e>
+
+<e>
+   <lg>
+     <l pos="Num">сизьыммос</l><orig>сизьыммос</orig>
+   </lg>
+   <mg>
+     <tg xml:lang="fin">
+       <t>seitsemäsosa, seitsemännes</t>
+     </tg>
+   </mg>
+</e>
+
+<e>
+   <lg>
+     <l pos="Num">сюрс</l><orig>сюрс</orig>
+   </lg>
+   <mg>
+     <tg xml:lang="fin">
+       <t>tuhat;</t>
+     </tg>
+     <xg><x>кык сюрс</x>
+       <xt xml:lang="fin">kaksi tuhatta</xt>
+     </xg>
+   </mg>
+</e>
+
+<e>
+   <lg>
+     <l pos="Num">сюрсмос</l><orig>сюрсмос</orig>
+   </lg>
+   <mg>
+     <tg xml:lang="fin">
+       <t>tuhannes, tuhannesosa</t>
+     </tg>
+   </mg>
+</e>
+
+<e>
+   <lg>
+     <l pos="Num">тямыс</l><orig>тямыс</orig>
+   </lg>
+   <mg>
+     <tg xml:lang="fin">
+       <t>kahdeksan</t>
+     </tg>
+   </mg>
+</e>
+
+<e>
+   <lg>
+     <l pos="Num">тямыстон</l><orig>тямыстон</orig>
+   </lg>
+   <mg>
+     <tg xml:lang="fin">
+       <t>kahdeksankymmentä</t>
+     </tg>
+   </mg>
+</e>
+
+<e>
+   <lg>
+     <l pos="Num">укмыс</l><orig>укмыс</orig>
+   </lg>
+   <mg>
+     <tg xml:lang="fin">
+       <t>yhdeksän</t>
+     </tg>
+   </mg>
+</e>
+
+<e>
+   <lg>
+     <l pos="Num">укмыстон</l><orig>укмыстон</orig>
+   </lg>
+   <mg>
+     <tg xml:lang="fin">
+       <t>yhdeksänkymmentä</t>
+     </tg>
+   </mg>
+</e>
+
+
+</r>
