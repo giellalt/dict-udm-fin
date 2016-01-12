@@ -124,4 +124,20 @@
    </mg>
 </e>
 
+<e>
+   <lg><l pos="Pron">котькуд</l><orig>коʼтькад</orig>
+   </lg>
+   <mg><note><i>pron. indef.</i></note><note>(<i>määritteenä</i>)</note>
+     <tg xml:lang="fin">
+       <t> joka;</t>
+     </tg>
+     <xg><x>котькуд адями</x>
+       <xt xml:lang="fin">joka ihminen;</xt>
+     </xg>
+     <xg><x>котькуд полаз</x>
+       <xt xml:lang="fin">joka kerta (t. kerralla)</xt>
+     </xg>
+   </mg>
+</e>
+
 </r>

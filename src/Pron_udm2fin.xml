@@ -208,4 +208,54 @@
      </tg>
    </mg>
 </e>
+<e> <lg><l pos="Pron">ваньды</l> </lg> <mg> <tg xml:lang="fin"> <t>te kaikki</t> </tg> </mg> </e>
+<e> <lg><l pos="Pron">ваньзы</l><orig>ваʼньзо</orig> </lg> <mg><note><i>pron.</i></note> <tg xml:lang="fin"> <t>he kaikki</t> <t>ne kaikki</t> </tg> </mg> </e>
+<e> <lg><l pos="Pron">ваньмы</l> </lg> <mg> <tg xml:lang="fin"> <t>me kaikki</t> </tg> </mg> </e>
+<e> <lg><l pos="Pron">ваньмыз</l><orig>ваʼньмоз</orig> </lg> <mg ind="1th"><note><i>pron.</i></note> <tg xml:lang="fin"> <t>kaikki;</t> </tg> <xg><x>ваньмыз умой</x> <xt xml:lang="fin">kaikki on hyvää;</xt> </xg> <xg><x>мон ваньзэ лэсьтӥ ни</x> <xt xml:lang="fin">minä tein jo kaiken;</xt> </xg> <xg><x>ваньмыз кошкизы ни</x> <xt xml:lang="fin">kaikki lähtivät jo pois</xt> </xg> </mg> <mg ind="2th"> <note><i>adv:na</i></note><font face="SmolenskSGR">(<i>ӵош</i>)</font> <tg xml:lang="fin"> <t>kaikkiaan, yhteensä</t> </tg> </mg> </e>
+<e> <lg><l pos="Pron">витьнады</l><orig>витьнаʼдо</orig> </lg> <mg ind="1th"><note><i>pron. indef.</i></note><font face="SmolenskSGR">(<i>витьты ик</i>)</font> <tg xml:lang="fin"> <t>te kaikki viisi, jokainen teistä viidestä</t> </tg> </mg> <mg ind="2th"><defNative>вить кузя</defNative> <tg xml:lang="fin"> <t>te viidestään</t> </tg> </mg> </e>
+<e> <lg><l pos="Pron">витьназы</l><orig>витьнаʼзо</orig> </lg> <mg ind="1th"><note><i>pron. indef.</i></note><font face="SmolenskSGR">(<i>витьсы ик</i>)</font> <tg xml:lang="fin"> <t>he kaikki viisi, jokainen heistä viidestä</t> </tg> </mg> <mg ind="2th"><defNative>вить кузя</defNative> <tg xml:lang="fin"> <t>he viidestään</t> </tg> </mg> </e>
+<e> <lg><l pos="Pron">витьнамы</l><orig>витьнаʼмо</orig> </lg> <mg ind="1th"><note><i>pron. indef.</i></note><font face="SmolenskSGR">(<i>витьмы ик</i>)</font> <tg xml:lang="fin"> <t>me kaikki viisi, jokainen meistä viidestä</t> </tg> </mg> <mg ind="2th"><defNative>вить кузя</defNative> <tg xml:lang="fin"> <t>me viidestään</t> </tg> </mg> </e>
+<e>
+   <lg><l pos="Pron">вочакмы, вочаксы, вочакты</l><orig>воʼчакмы, воʼчаксы, воʼчакты</orig>
+   </lg>
+   <mg><range>puhek.</range>
+     <variants>
+       <l_syn type="&gt;">ваньмы, ваньзы, ваньды</l_syn>
+     </variants>
+   </mg>
+</e>
+
+<e>
+   <lg><l pos="Pron">котькин</l><orig>коʼтькиʼн</orig>
+   </lg>
+   <mg><note><i>pron. indef.</i></note>
+     <tg xml:lang="fin">
+       <t>kuka tahansa (t. hyvänsä), jokainen;</t>
+     </tg>
+     <xg><x>котькин сое тодэ</x>
+       <xt xml:lang="fin">kuka tahansa tietää sen, kuka tahansa tuntee hänet</xt>
+     </xg>
+   </mg>
+</e>
+
+<e>
+   <lg><l pos="Pron">котькудӥз</l><orig>коʼтькудӥʼз</orig>
+   </lg>
+   <mg><note><i>pron. indef.</i></note>
+     <tg xml:lang="fin">
+       <t>jokainen, kuka tahansa (t. hyvänsä)</t>
+       <re>heistä</re>;
+     </tg>
+     <tg xml:lang="fin">
+       <t> mikä tahansa (t. hyvänsä)</t>
+       <re>niistä</re>;
+     </tg>
+     <xg><x>котькудӥз адями ас понназ ӟеч</x>
+       <xt xml:lang="fin">jokainen ihminen on sinänsä (t. itsessään) hyvä;</xt>
+     </xg>
+     <xg><x>котькудӥз мед мыноз</x>
+       <xt xml:lang="fin">menköön kuka tahansa</xt><xre>heistä</xre>
+     </xg>
+   </mg>
+</e>
 </r>

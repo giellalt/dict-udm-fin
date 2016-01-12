@@ -5841,4 +5841,789 @@
    </mg>
 </e>
 
+<e>
+   <lg>
+     <l pos="N">чыртывесь</l><orig>чыртывесь</orig>
+     <variants>
+       <l_syn>чыртыкыӵ</l_syn>
+     </variants>
+   </lg>
+   <mg>
+     <tg xml:lang="fin">
+       <t>kaulanauha, kaulakoru, helmet, käädyt</t>
+       <re>naisten kaula- ja rintakoru</re>
+     </tg>
+   </mg>
+</e>
+
+<e>
+   <lg>
+     <l pos="N">чыртыкыӵ</l><orig>чыртыкыӵ</orig>
+     <variants>
+       <l_syn>чыртывесь</l_syn>
+     </variants>
+   </lg>
+   <mg>
+     <tg xml:lang="fin">
+       <t>kaulanauha, kaulakoru, helmet, käädyt</t>
+       <re>naisten kaula- ja rintakoru</re>
+     </tg>
+   </mg>
+</e>
+
+<e>
+   <lg>
+     <l pos="N">баба</l><orig>баба</orig>
+   </lg>
+   <mg><range>murt.</range>
+   <mg ind="1th"/><defNative>атайлэн анаез</defNative>
+     <tg xml:lang="fin">
+       <t>isoäiti, mummo</t>
+       <re>isän äiti</re>
+     </tg>
+</mg>
+   <mg ind="2th"><defNative>пересь кышномурт</defNative>
+     <tg xml:lang="fin">
+       <t>(vanha) eukko, mummo, muori /</t>
+     </tg>
+     <variants>
+       <l_syn type="&gt;">песянай</l_syn>
+     </variants>
+</mg>
+   <mg ind="3th"><defNative>картлэн анаез</defNative>
+     <tg xml:lang="fin">
+       <t>anoppi</t>
+       <re>miehen äiti</re>;
+     </tg>
+     <variants>
+       <l_syn type="&gt;">анайзы<rom ind="0_2"/></l_syn>
+     </variants>
+   </mg>
+</e>
+
+<e>
+   <lg>
+     <l pos="N">бабай</l><orig>бабай</orig>
+   </lg>
+   <mg><range>murt.</range>
+   <defNative>атайлэн атаез</defNative>
+     <tg xml:lang="fin">
+       <t>isoisä, ukko</t>
+       <re>isän isä</re>
+     </tg>
+</mg>
+   <mg ind="2th"><defNative>пересь пиосмурт</defNative>
+     <tg xml:lang="fin">
+       <t>ukko, äijä, vaari /</t>
+     </tg>
+     <variants>
+       <l_syn type="&gt;">песятай</l_syn>
+     </variants>
+</mg>
+   <mg ind="3th"><defNative>вармайы я. айымурт</defNative>
+     <tg xml:lang="fin">
+       <t>appi;</t>
+     </tg>
+     <variants>
+       <l_syn type="&gt;">атайзы<rom ind="0_2"/></l_syn>
+     </variants>
+   </mg>
+</e>
+
+<e>
+   <lg>
+     <l pos="N">бабасыр</l><orig>бабасыр</orig>
+   </lg>
+   <mg><note><i>myt.</i></note>
+     <tg xml:lang="fin">
+       <t>babasyr</t>
+       <re>paha henki</re>
+     </tg>
+   </mg>
+</e>
+
+<e>
+   <lg><l pos="N">бабка<rom ind="1"/></l>
+   </lg>
+   <mg>
+     <tg xml:lang="fin">
+       <t>papukka;</t>
+     </tg>
+     <xg><x>бабкаен шудон</x>
+       <xt xml:lang="fin">papukkapeli</xt>
+     </xg>
+   </mg>
+</e>
+
+<e>
+   <lg><l pos="N">бабка<rom ind="2"/></l>
+   </lg>
+   <mg><defNative>суслон</defNative>
+     <tg xml:lang="fin">
+       <t>kuhilas</t>
+       <re>12 lyhteestä</re>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="N">бабуш</l><orig>бабуш</orig>
+   </lg>
+   <mg><range>murt.</range>
+     <tg xml:lang="fin">
+       <t>(vanha) eukko, mummo, muori;</t>
+     </tg>
+     <variants>
+       <l_syn type="&gt;">песянай<rom ind="0_2"/></l_syn>
+     </variants>
+   </mg>
+</e>
+
+<e>
+   <lg>
+     <l pos="N">бабушка</l><orig>бабушка</orig>
+   </lg>
+   <mg><range>murt.</range>
+     <tg xml:lang="fin">
+       <t>lapsenpäästäjä;</t>
+     </tg>
+     <variants>
+       <l_syn type="&gt;">гогымумы</l_syn>
+     </variants>
+   </mg>
+</e>
+
+<e>
+   <lg>
+     <l pos="N">бабыльскон</l><orig>бабыльскон</orig>
+   </lg>
+   <mg>
+     <tg xml:lang="fin">
+       <t>kähertyminen, kihartuminen</t>
+     </tg>
+   </mg>
+</e>
+
+<e> <lg><l pos="N">бабля</l><orig>бабля</orig> </lg> <mg> <tg xml:lang="fin"> <t>kihara(t), kutri(t)</t> </tg> </mg> </e>
+<e> <lg> <l pos="N">бабыльтӥськон</l><orig>бабыльтӥськон</orig> <variants> <l_syn>бабыльтӥськыны</l_syn> </variants> </lg> <mg> <variants> <l_syn type="&gt;">бабыльскон</l_syn> <l_syn>бабыльскыны</l_syn> </variants> </mg> </e>
+<e> <lg> <l pos="N">бабыльтон</l><orig>бабыльтон</orig> </lg> <mg> <tg xml:lang="fin"> <t>kähertäminen, kihartaminen</t> </tg> </mg> </e>
+<e> <lg> <l pos="N">бабыля <variants> <l_syn type="&gt;">бабля</l_syn> </variants> </l> </lg> <mg> <tg xml:lang="fin"> <t>kihara(t), kutri(t)</t> </tg> </mg> </e>
+<e> <lg> <l pos="N">бабон</l><orig>бабон</orig> </lg> <mg><note><i>last.</i></note> <tg xml:lang="fin"> <t>nukkuminen</t> </tg> </mg> </e>
+<e> <lg><l pos="N">бабытон</l><orig>бабытон</orig> </lg> <mg><note><i>last.</i></note> <tg xml:lang="fin"> <t>nukuttaminen, nukutus</t> </tg> </mg> </e>
+<e> <lg> <l pos="N">багаж</l><orig>багаж</orig> </lg> <mg> <tg xml:lang="fin"> <t>matkatavarat</t> </tg> </mg> </e>
+<e> <lg> <l pos="N">багажник</l><orig>багаʼжник</orig> </lg> <mg> <tg xml:lang="fin"> <t>tavaratila, tavarasäiliö</t> </tg> </mg> </e>
+<e> <lg> <l pos="N">багор</l><orig>багор</orig> </lg> <mg> <tg xml:lang="fin"> <t>keksi, puoshaka;</t> </tg> <xg><x>тылпу багор</x> <xt xml:lang="fin">palohaka, palokeksi</xt> </xg> </mg> </e>
+<e> <lg><l pos="A">бадӟым</l><orig>бадӟым</orig> </lg> <mg ind="1th"> <tg xml:lang="fin"> <t>iso, suuri;</t> </tg> <xg><x>бадӟым сюрес</x> <xt xml:lang="fin">päätie, iso tie, valtatie;</xt> </xg> <xg><x>бадӟым карыны</x> <xt xml:lang="fin">suurentaa, isontaa; laajentaa</xt> </xg> </mg> <mg ind="2th"><defNative>арлыдъя</defNative> <tg xml:lang="fin"> <t>vanhempi; vanhin;</t> </tg> <xg><x>бадӟымез агае</x> <xt xml:lang="fin">vanhin (t. vanhempi) veli;</xt> </xg> <xg><x>бадӟымез пие</x> <xt xml:lang="fin">vanhin poikani, esikoispoikani</xt> </xg> </mg> <mg ind="3th"><defNative>быдэ вуэм, мӧйы</defNative> <tg xml:lang="fin"> <t pos="N">aikuinen;</t> </tg> <xg><x>бадӟымъёс</x> <xt xml:lang="fin">aikuiset, aikaihmiset</xt> </xg> </mg> <mg ind="4th"><defNative>быдӟым, шӧдскымон</defNative> <tg xml:lang="fin"> <t>suuri, huomattava, merkittävä;</t> </tg> <xg><x>бадӟым дан</x> <xt xml:lang="fin">suuri kunnia (t. maine);</xt> </xg> <xg> <x>бадӟым тодосчи</x> <x>бадӟым учёной</x> <xt xml:lang="fin">merkittävä tiedemies •</xt> </xg><font face="SmolenskSGR"><b>бадӟым луыны </b></font><mwemg ind="1th"/> <tg xml:lang="fin"> <t>laajentua, laajeta, suurentua, suureta</t> </tg><mwemg ind="2th"/><defNative>быдэ вуыны</defNative> <tg xml:lang="fin"> <t>aikuistua, tulla aikuiseksi</t> </tg>◊ <xg><x>бадӟым тау</x> <xt xml:lang="fin">paljon kiitoksia, suurkiitos</xt> </xg> </mg> </e>
+<e> <lg> <l pos="N">бадӟыман</l><orig>бадӟыман</orig> </lg> <mg ind="1th"> <tg xml:lang="fin"> <t>laajeneminen, suureneminen; lisääntyminen, lisäys</t> </tg> </mg> <mg ind="2th"><defNative>быдэ вуон</defNative> <tg xml:lang="fin"> <t>aikuistuminen</t> </tg> </mg> </e>
+<e> <lg> <l pos="N">бадӟыматон</l><orig>бадӟыматон</orig> </lg> <mg> <tg xml:lang="fin"> <t>suurentaminen, suurennus, laajentaminen, laajennus; lisääminen, lisäys</t> </tg> </mg> </e>
+<e> <lg> <l pos="N">бадӟыматэм</l> </lg> <mg><drvg><inflect type="Der/Эм" drv="Prc"/><stem>бадӟыматыны</stem></drvg> </mg> <mg ind="2th"><tg xml:lang="fin"> <t>suurennus, suurentaminen, laajennus, laajentaminen</t> </tg> </mg> </e>
+<e> <lg> <l pos="N">бадӟымлык</l><orig>бадӟымлык</orig> </lg> <mg> <tg xml:lang="fin"> <t>suuruus, koko</t> </tg> </mg> </e>
+<e> <lg> <l pos="N">бадӟымъёз</l> <variants> <l_syn type="&gt;">подлежащей</l_syn> </variants> </lg> <mg><field>kiel.</field> <tg xml:lang="fin"> <t>subjekti;</t> </tg> </mg> </e>
+<e> <lg> <l pos="N">бадӟымъяськон</l><orig>бадӟымъяськон</orig> </lg> <mg ind="1th"><drvg><inflect type="Der/он" drv="V»N"/><stem>бадӟымъяськыны</stem></drvg> </mg> <mg ind="2th"><tg xml:lang="fin"> <t>kopeilu, mahtailu, ylimielisyys, koppavuus, kopeus</t> </tg> </mg> </e>
+<e> <lg><l pos="N">бадь</l><orig>бадь</orig> <variants> <l_syn type="&gt;">бадьпу</l_syn> </variants> </lg> <mg> <field>kasv.</field> <tg xml:lang="fin"> <t>paju</t> <re>Salix</re> </tg> </mg> </e>
+<e> <lg><l pos="N">бадьпу</l><orig>бадьпу</orig> </lg> <mg><field>kasv.</field> <tg xml:lang="fin"> <t>paju</t> <re>Salix</re> </tg> </mg> </e>
+<e> <lg> <l pos="N">бадья</l><orig>бадья</orig> </lg> <mg> <tg xml:lang="fin"> <t>(puu)sanko</t> </tg> </mg> </e>
+<e> <lg><l pos="N">бадяр</l><orig>бадяр</orig> </lg> <mg><field>kasv.</field> <tg xml:lang="fin"> <t>vaahtera; metsävaahtera</t> <re>Acer platanoides</re> </tg> </mg> </e>
+<e> <lg> <l pos="N">база</l><orig>баʼза</orig> </lg> <mg ind="1th"><defNative>инъет</defNative> <tg xml:lang="fin"> <t>pohja, perusta</t> </tg> </mg> <mg ind="2th"><tg xml:lang="fin"> <t>koti, keskus(asema), tukikohta;</t> </tg> <xg><x>туристъёслэн базазы, турист база</x> <xt xml:lang="fin">retkeilykeskus</xt> </xg> </mg> <mg ind="3th"><defNative>склад</defNative> <tg xml:lang="fin"> <t>varasto</t> </tg> </mg> <mg ind="4th"> <font face="SmolenskSGR">(<b>ожгар база</b>)</font> <tg xml:lang="fin"> <t>tukikohta, tukiasema, tukialue</t> </tg> </mg> </e>
+<e> <lg> <l pos="N">базар</l><orig>базар</orig> </lg> <mg ind="1th"> <tg xml:lang="fin"> <t>(kauppa)tori;</t> </tg> <xg><x>базар нунал</x> <xt xml:lang="fin">toripäivä</xt> </xg> </mg> <mg ind="2th"><defNative>вузаськон</defNative> <tg xml:lang="fin"> <t>markkinat, myyjäiset</t> </tg> </mg> </e>
+<e> <lg> <l pos="N">базя</l><orig>базя</orig> </lg> <mg> <tg xml:lang="fin"> <t>lanko</t> <re>vaimon sisaren mies</re>; </tg> <variants> <l_syn type="&gt;">бусён</l_syn> </variants> </mg> </e>
+<e> <lg><l pos="N">бай</l><orig>бай</orig> </lg> <mg><defNative>узыр мурт</defNative> <tg xml:lang="fin"> <t>pohatta; kulakki //</t> </tg></mg> <mg> <defNative>узыр</defNative> <tg xml:lang="fin"> <t>rikas</t> </tg> </mg> </e>
+<e> <lg> <l pos="N">байлык</l><orig>байлык</orig> </lg> <mg> <tg xml:lang="fin"> <t>rikkaus</t> </tg> </mg> </e>
+<e> <lg> <l pos="N">баймон</l><orig>баймон</orig> </lg> <mg> <tg xml:lang="fin"> <t>rikastuminen</t> </tg> </mg> </e>
+<e> <lg><l pos="N">бак<rom ind="1"/></l> </lg> <mg ind="1th"><defNative>кылтэм-ымтэм</defNative> <tg xml:lang="fin"> <t>mykkä;</t> </tg> <font face="SmolenskSGR">(<i>кылтэм-пельтэм</i>)</font> <tg xml:lang="fin"> <t>kuuromykkä</t> </tg> </mg> <mg ind="2th"><defNative>бакчись</defNative> <tg xml:lang="fin"> <t>änkyttäjä</t> </tg> </mg> </e>
+<e> <lg><l pos="N">бак<rom ind="2"/></l> </lg> <mg> <tg xml:lang="fin"> <t>(neste)säiliö;</t> </tg> <xg><x>ву возён бак</x> <xt xml:lang="fin">vesisäiliö</xt> </xg> </mg> </e>
+<e> <lg> <l pos="N">бака</l><orig>бака</orig> </lg> <mg><field>el.</field> <tg xml:lang="fin"> <t>sammakko;</t> </tg><font face="SmolenskSGR">(<i>мувырбака</i>)</font> <tg xml:lang="fin"> <t>rupikonna;</t> </tg> <variants> <l_syn type="&gt;">эбек</l_syn> </variants> </mg> </e>
+<e> <lg><l pos="N">бакай</l><orig>бакай</orig> </lg> <mg><range>murt.</range> <variants> <l_syn type="&gt;">бак<rom ind="1_1"/></l_syn> </variants> </mg> </e>
+<e> <lg> <l pos="N">бакалея</l><orig>бакалеʼя</orig> </lg> <mg ind="1th"><font face="SmolenskSGR">(<i>сиё</i></font><font face="SmolenskSGR"><i>н-юон</i>)</font> <tg xml:lang="fin"> <t>kuivat ruoka-aineet (t. ruokatavarat)</t> </tg> </mg> <mg ind="2th"> <font face="SmolenskSGR">(<i>магазин) </i></font> <tg xml:lang="fin"> <t>ruokakauppa</t> </tg> </mg> </e>
+<e> <lg> <l pos="N">бакель</l><orig>бакель</orig> </lg> <mg> <tg xml:lang="fin"> <t>siunaus;</t> </tg> <xg><x>бакель карон</x> <xt xml:lang="fin">siunaaminen, siunaus;</xt> </xg> <xg><x>бакель карыны</x> <xt xml:lang="fin">siunata, antaa siunauksensa</xt> </xg> </mg> </e>
+<e> <lg><l pos="N">баклажан</l><orig>баклажан</orig> </lg> <mg> <tg xml:lang="fin"> <t>munakoiso</t> </tg> </mg> </e>
+<e> <lg> <l pos="N">бакомон</l><orig>бакомон</orig> </lg> <mg><drvg><inflect type="Der/Он" drv="V»N"/><stem>бакомыны</stem></drvg> </mg> </e>
+<e> <lg><l pos="N">бактери</l><orig>бактеʼри</orig> <variants> <l_syn>бактерия</l_syn> </variants> </lg> <mg> <tg xml:lang="fin"> <t></t> </tg><font face="SmolenskSGR">[-тэ-]</font> <tg xml:lang="fin"> <t> bakteeri</t> </tg> </mg> </e>
+<e> <lg> <l pos="N">бактерия</l><orig>бактеʼрия</orig> <variants> <l_syn>бактери</l_syn> </variants> </lg> <mg> <tg xml:lang="fin"> <t></t> </tg><font face="SmolenskSGR">[-тэ-]</font> <tg xml:lang="fin"> <t> bakteeri</t> </tg> </mg> </e>
+<e> <lg><l pos="N">бакча</l><orig>бакча</orig> </lg> <mg> <tg xml:lang="fin"> <t>kasvimaa, kasvitarha, keittiöpuutarha;</t> </tg> <xg><x>муш бакча</x> <xt xml:lang="fin">mehiläistarha;</xt> </xg><font face="SmolenskSGR"><b>бакча сиён</b></font><font face="SmolenskSGR">(<b>ъёс</b>)</font> <tg xml:lang="fin"> <t>vihannekset, kasvikset</t> </tg> </mg> </e>
+<e> <lg> <l pos="N">бакчись</l> </lg> <mg><drvg><inflect type="Der/сь" drv="Prc"/><stem>бакчыны</stem></drvg> </mg> <mg ind="2th"><tg xml:lang="fin"> <t>änkyttäjä</t> </tg> </mg> </e>
+<e> <lg> <l pos="N">бакчон</l><orig>бакчон</orig> </lg> <mg> <tg xml:lang="fin"> <t>änkyttäminen, änkytys</t> </tg> </mg> </e>
+<e> <lg><l pos="N">балкон</l><orig>балкон</orig> </lg> <mg> <tg xml:lang="fin"> <t>parveke</t> </tg> </mg> </e>
+<e> <lg><l pos="N">бал</l><orig>бал</orig> </lg> <mg> <tg xml:lang="fin"> <t>tanssiaiset</t> </tg> </mg> </e>
+<e> <lg> <l pos="N">балалайка</l><orig>балалаʼйкаʼ</orig> </lg> <mg> <tg xml:lang="fin"> <t>balalaikka</t> </tg> </mg> </e>
+<e> <lg> <l pos="N">балерина</l><orig>балериʼна</orig> </lg> <mg> <tg xml:lang="fin"> <t>ballerina, (baletti)tanssijatar</t> </tg> </mg> </e>
+<e> <lg><l pos="N">балет</l><orig>балет</orig> </lg> <mg> <tg xml:lang="fin"> <t>baletti</t> </tg> </mg> </e>
+<e> <lg><l pos="N">балкар</l><orig>балкар</orig> </lg> <mg> <tg xml:lang="fin"> <t>balkaari // balkaarilainen, balkaarien;</t> </tg> <xg><x>балкар кыл</x> <xt xml:lang="fin">balkaari(n kieli)</xt> </xg> </mg> </e>
+<e> <lg> <l pos="N">балл</l><orig>балл</orig> </lg> <mg ind="1th"><defNative>оценка</defNative> <tg xml:lang="fin"> <t>arvosana, (todistus)numero, piste</t> </tg> </mg> <mg ind="2th"><defNative>кужым мертэт</defNative> <tg xml:lang="fin"> <t>aste</t> <re>voimakkuuden mitan</re>; </tg><note><i>meteor.</i></note> <tg xml:lang="fin"> <t>bofori</t> </tg> </mg> </e>
+<e> <lg> <l pos="N">баллада</l><orig>баллаʼда</orig> </lg> <mg> <tg xml:lang="fin"> <t>balladi</t> </tg> </mg> </e>
+<e> <lg> <l pos="N">баллотироваться кариськон</l> </lg> <mg> <tg xml:lang="fin"> <t>ehdokkaana olo</t> </tg> </mg> </e>
+<e> <lg> <l pos="N">балян</l><orig>балян</orig> </lg> <mg><field>el.</field> <tg xml:lang="fin"> <t>ilves</t> </tg> </mg> </e>
+<e> <lg> <l pos="N">бам</l><orig>бам</orig> </lg> <mg><font face="SmolenskSGR">(<b>=ыз</b>)</font> <mg ind="1th"/><field>anat.</field> <tg xml:lang="fin"> <t>poski;</t> </tg><font face="SmolenskSGR">(<i>ымныр</i>)</font> <tg xml:lang="fin"> <t>kasvot</t> </tg> </mg> <mg ind="2th"><defNative>бамал</defNative> <tg xml:lang="fin"> <t>rinne;</t> </tg> <xg><x>гурезь бам</x> <xt xml:lang="fin">vuoren rinne</xt> </xg> </mg> <mg ind="3th"><defNative>страница</defNative> <tg xml:lang="fin"> <t>sivu</t> <re>kirjan</re> </tg> ◊ <xg><x>сурон бам</x> <xt xml:lang="fin">hävytön, tunnoton</xt> </xg> </mg> </e>
+<e> <lg> <l pos="N">бамал</l><orig>бамал</orig> </lg> <mg><font face="SmolenskSGR">(<b>=ыз</b>)</font> <tg xml:lang="fin"> <t>rinne</t> <re>vuoren</re> </tg> </mg> </e>
+<e> <lg><l pos="N">бамбук</l><orig>бамбук</orig> </lg> <mg><field>kasv.</field> <tg xml:lang="fin"> <t>bambu</t> </tg> </mg> </e>
+<e> <lg> <l pos="N">бамкышет</l><orig>бамкышет</orig> </lg> <mg ind="1th"><defNative>ӵушкон</defNative> <tg xml:lang="fin"> <t>pyyhe(liina)</t> </tg> </mg> <mg ind="2th"><defNative>ныркышет</defNative> <tg xml:lang="fin"> <t>nenäliina</t> </tg></mg> </e>
+<e> <lg> <l pos="N">бамлёг</l> </lg> <mg><field>anat.</field> <tg xml:lang="fin"> <t>poskipää</t> </tg> </mg> </e>
+<e> <lg> <l pos="N">бамлы</l><orig>бамлы</orig> </lg> <mg><field>anat.</field> <tg xml:lang="fin"> <t>poskiluu</t> </tg> </mg> </e>
+<e> <lg><l pos="N">бамчукчо</l><orig>бамчукчо</orig> <variants> <l_syn>бамчультро</l_syn> </variants> </lg> <mg> <variants> <l_syn type="&gt;">бамлёг</l_syn> </variants> </mg> </e>
+<e> <lg><l pos="N">бамчультро</l><orig>бамчультро</orig> <variants> <l_syn>бамчукчо</l_syn> </variants> </lg> <mg> <variants> <l_syn type="&gt;">бамлёг</l_syn> </variants> </mg> </e>
+<e> <lg><l pos="N">банан</l><orig>банан</orig> </lg> <mg> <tg xml:lang="fin"> <t>banaani</t> </tg> </mg> </e>
+<e> <lg> <l pos="N">банда</l><orig>баʼнда</orig> </lg> <mg> <tg xml:lang="fin"> <t>(rosvo)joukko, jengi</t> </tg> </mg> </e>
+<e> <lg> <l pos="N">бандероль</l><orig>бандероль</orig> </lg> <mg> <tg xml:lang="fin"> <t>ristiside</t> </tg><note>(<i>postina)</i></note> </mg> </e>
+<e> <lg> <l pos="N">бандит</l> </lg> <mg> <tg xml:lang="fin"> <t>(maantie)rosvo, ryöväri, bandiitti</t> </tg> </mg> </e>
+<e> <lg> <l pos="N">банк</l><orig>банк</orig> </lg> <mg> <tg xml:lang="fin"> <t>pankki</t> </tg> </mg> </e>
+<e> <lg> <l pos="N">банка</l><orig>банка</orig> </lg> <mg> <tg xml:lang="fin"> <t>purkki, tölkki</t> </tg> </mg> </e>
+<e> <lg><l pos="N">банкет</l><orig>банкет</orig> </lg> <mg> <tg xml:lang="fin"> <t>banketti, pidot</t> </tg> </mg> </e>
+<e> <lg> <l pos="N">банкир</l><orig>банкир</orig> </lg> <mg> <tg xml:lang="fin"> <t>pankkiiri</t> </tg> </mg> </e>
+<e> <lg> <l pos="N">барабан</l><orig>барабан</orig> </lg> <mg> <tg xml:lang="fin"> <t>rumpu;</t> </tg> <xg><x>барабанэн шудыны</x> <xt xml:lang="fin">rummuttaa, lyödä rumpua</xt> </xg> </mg> </e>
+<e> <lg> <l pos="N">барин</l><orig>баʼрин</orig> </lg> <mg> <tg xml:lang="fin"> <t>tilanomistaja, tilanherra, kartanonherra; herra</t> </tg> </mg> </e>
+<e> <lg> <l pos="N">барометр</l><orig>бароʼметр</orig> </lg> <mg> <tg xml:lang="fin"> <t>ilmapuntari, barometri</t> </tg> </mg> </e>
+<e> <lg> <l pos="N">баррикада</l><orig>баррикаʼда</orig> </lg> <mg> <tg xml:lang="fin"> <t>barrikadi, katusulku</t> </tg> </mg> </e>
+<e> <lg> <l pos="N">барыня</l><orig>баʼрыня</orig> </lg> <mg> <tg xml:lang="fin"> <t>tilanrouva, kartanonrouva; rouva</t> </tg> </mg> </e>
+<e> <lg> <l pos="N">барыш</l><orig>барыш</orig> </lg> <mg> <tg xml:lang="fin"> <t>(liike)voitto;</t> </tg> <xg><x>барыш поттыны</x> <xt xml:lang="fin">saada voittoa jstak</xt> </xg> </mg> </e>
+<e> <lg><l pos="N">бас</l><orig>бас</orig> </lg> <mg> <tg xml:lang="fin"> <t>basso(ääni)</t> </tg> </mg> </e>
+<e> <lg> <l pos="N">баскетбол</l><orig>баскетбол</orig> </lg> <mg> <tg xml:lang="fin"> <t>koripallo</t> </tg> </mg> </e>
+<e> <lg> <l pos="N">басма</l><orig>басма</orig> </lg> <mg> <tg xml:lang="fin"> <t>kangas; puuvillakangas</t> </tg> </mg> </e>
+<e> <lg> <l pos="N">басня</l><orig>баʼсня</orig> </lg> <mg> <tg xml:lang="fin"> <t>satu, taru, tarina</t> </tg> </mg> </e>
+<e> <lg> <l pos="N">бассейн</l><orig>бассейн</orig> </lg> <mg> <tg xml:lang="fin"> <t>uima-allas</t> </tg> </mg> </e>
+<e> <lg><l pos="N">басылмон</l><orig>басылмон</orig> <variants> <l_syn>басылмыны</l_syn> </variants> </lg> <mg> <variants> <l_syn type="&gt;">басылскон</l_syn> <l_syn>басылскыны</l_syn> </variants> </mg> </e>
+<e> <lg> <l pos="N">басылскон</l><orig>басылскон</orig> </lg> <mg ind="1th"><defNative>адями с-сь</defNative> <tg xml:lang="fin"> <t>rauhoittuminen, tyyntyminen</t> </tg> </mg> <mg ind="2th"><defNative>инкуазь с-сь</defNative> <tg xml:lang="fin"> <t>tyyntyminen, asettuminen</t> <re>tuulen, meren</re> </tg> </mg> </e>
+<e> <lg><l pos="N">басылтӥськон</l><orig>басылтӥськон</orig> <variants> <l_syn>басылтӥськыны</l_syn> </variants> </lg> <mg> <variants> <l_syn type="&gt;">басылскон</l_syn> <l_syn>басылскыны</l_syn> </variants> </mg> </e>
+<e> <lg> <l pos="N">басьтӥськон</l><orig>басьтӥськон</orig> </lg> <mg ind="1th"><defNative>кутскон</defNative> <tg xml:lang="fin"> <t>rupeaminen, ryhtyminen</t> </tg> </mg> <mg ind="2th"><defNative>ишкалскон</defNative> <tg xml:lang="fin"> <t>irtilähtö</t> </tg> </mg> </e>
+<e> <lg> <l pos="N">басьтон</l><orig>басьтон</orig> </lg> <mg ind="1th"><defNative>кутон</defNative> <tg xml:lang="fin"> <t>ottaminen, otto</t> </tg> </mg> <mg ind="2th"><defNative>дунын</defNative> <tg xml:lang="fin"> <t>ostaminen, osto</t> </tg> </mg> <mg ind="3th"><defNative>гожтэт, уждун</defNative> <tg xml:lang="fin"> <t>saaminen, saanti</t> </tg> </mg> <mg ind="4th"><defNative>огдырлы</defNative> <tg xml:lang="fin"> <t>lainaaminen, lainaus, lainaksiotto</t> </tg> </mg> <mg ind="5th"><defNative>киултон</defNative> <tg xml:lang="fin"> <t>valtaaminen, valtaus</t> </tg> </mg> <mg ind="6th"><defNative>шобыртон</defNative> <tg xml:lang="fin"> <t>peittäminen</t> <re>vedellä, ruoholla</re> </tg> ◊ <xg><x>лешак басьтон!</x> <x>шайтан басьтон!</x> <xt xml:lang="fin">piru vieköön!</xt> </xg> </mg> </e>
+<e> <lg> <l pos="N">басьтэмкыл</l><orig>басьтэмкыл</orig> </lg> <mg><font face="SmolenskSGR">(<b>=ыз</b>)</font> <tg xml:lang="fin"> <t>sitaatti, lainaus;</t> </tg> <variants> <l_syn type="&gt;">цитата</l_syn> </variants> </mg> </e>
+<e> <lg> <l pos="N">басьян</l><orig>басьян</orig> <variants> <l_syn>басьяны</l_syn> </variants> </lg> <mg><note><i>iter. ja frekv.</i></note> <variants> <l_syn type="&gt;">басьтон</l_syn> <l_syn>басьтыны</l_syn> </variants> </mg> </e>
+<e> <lg> <l pos="N">басьяськон</l><orig>басьяськон</orig> </lg> <mg> <tg xml:lang="fin"> <t>ostaminen, ostoksien teko (t. tekeminen)</t> </tg> </mg> </e>
+<e> <lg> <l pos="N">батальон</l><orig>батальон</orig> </lg> <mg> <tg xml:lang="fin"> <t>pataljoona</t> </tg> </mg> </e>
+<e> <lg> <l pos="N">батарея</l><orig>батареʼя</orig> </lg> <mg ind="1th"><field>tekn.</field> <tg xml:lang="fin"> <t>lämpöpatteri</t> </tg> </mg> <mg ind="2th"> <field>sot.</field> <tg xml:lang="fin"> <t>patteri</t> </tg> </mg> </e>
+<e> <lg> <l pos="N">батарейка</l><orig>батареʼйка</orig> </lg> <mg> <tg xml:lang="fin"> <t>paristo</t> </tg> </mg> </e>
+<e> <lg> <l pos="N">батон</l><orig>батон</orig> </lg> <mg> <tg xml:lang="fin"> <t>polakka, ranskanleipä</t> </tg> </mg> </e>
+<e> <lg> <l pos="N">батрак</l><orig>батрак</orig> </lg> <mg> <tg xml:lang="fin"> <t>maatyöläinen, renki</t> </tg> </mg> </e>
+<e> <lg> <l pos="N">батыр</l> </lg> <mg> <tg xml:lang="fin"> <t>voimamies, sankari, urho</t> </tg> </mg> </e>
+<e> <lg> <l pos="N">батыръяськись</l> </lg> <mg ind="1th"><drvg><inflect type="Der/сь" drv="Prc"/><stem>батыръяськыны</stem></drvg> </mg> <mg ind="2th"><note><i>s.</i></note> <defNative>кышкасьтэм кариськись</defNative> <tg xml:lang="fin"> <t>huimapää, (vaaran) uhmaaja;</t> </tg> <defNative>кужыменыз ушъяськись</defNative> <tg xml:lang="fin"> <t>(voimallaan) rehentelijä (t. ylpeilijä, pullistelija)</t> </tg> </mg> </e>
+<e> <lg> <l pos="N">батыръяськон</l><orig>батыръяськон</orig> </lg> <mg><defNative>кышкасьтэм кариськон</defNative> <tg xml:lang="fin"> <t>(vaaran) uhmaaminen (t. vähättely);</t> </tg><font face="SmolenskSGR">(<i>кужымен ушъяськон</i>)</font> <tg xml:lang="fin"> <t>(voimallaan) rehentely (t. ylpeily, pullistelu)</t> </tg> </mg> </e>
+<e> <lg><l pos="N">батюшко</l><orig>батюшко</orig> </lg> <mg><range>puhek.</range> <tg xml:lang="fin"> <t>pappi;</t> </tg> <variants> <l_syn type="&gt;">поп</l_syn> </variants> </mg> </e>
+<e> <lg> <l pos="N">башмак</l><orig>башмак</orig> </lg> <mg> <tg xml:lang="fin"> <t>kenkä, kengät</t> </tg> </mg> </e>
+<e> <lg> <l pos="N">башня</l><orig>баʼшня</orig> </lg> <mg> <tg xml:lang="fin"> <t>torni</t> </tg> </mg> </e>
+<e> <lg> <l pos="N">баян</l><orig>баян</orig> </lg> <mg> <tg xml:lang="fin"> <t>hanuri</t> </tg> </mg> </e>
+<e> <lg><l pos="N">бегемот</l><orig>бегемот</orig> </lg> <mg><field>el.</field> <tg xml:lang="fin"> <t>virtahepo</t> </tg> </mg> </e>
+<e> <lg><l pos="N">беглой</l><orig>беглой</orig> </lg> <mg> <tg xml:lang="fin"> <t>karkuri, karkulainen; pakolainen</t> </tg> </mg> </e>
+<e> <lg> <l pos="N">беда</l><orig>беда</orig> </lg> <mg ind="1th"> <tg xml:lang="fin"> <t>onnettomuus, hätä, pula</t> </tg> </mg> <mg ind="2th"> <range>puhek.</range><font face="SmolenskSGR">(<i>лекос, укыр</i>)</font> <tg xml:lang="fin"> <t>kovin, hirveän, kauhean;</t> </tg> <xg><x>беда ӟеч лэсьтэм</x> <xt xml:lang="fin">hän teki (t. on tehnyt) kovin hyvin</xt> </xg> </mg> </e>
+<e> <lg> <l pos="N">бездон</l><orig>бездон</orig> </lg> <mg> <tg xml:lang="fin"> <t>haalistuminen, vaaleneminen, himmeneminen, kauhtuminen</t> </tg> </mg> </e>
+<e> <lg> <l pos="N">безика</l><orig>безика</orig> </lg> <mg><range>murt.</range> <tg xml:lang="fin"> <t>lanko</t> <re>miehen vanhempi veli</re>; </tg> <variants> <l_syn type="&gt;">агай<rom ind="0_3"/></l_syn> </variants> </mg> </e>
+<e> <lg> <l pos="N">безмен</l><orig>безмен</orig> </lg> <mg><range>vanh.</range> <tg xml:lang="fin"> <t>puntari</t> </tg> </mg> </e>
+<e> <lg> <l pos="N">безон</l><orig>безон</orig> </lg> <mg><range>murt.</range> <mg ind="1th"/><defNative>ымон</defNative> <tg xml:lang="fin"> <t>kyllästyminen</t> <re>jhk ruokalajiin</re> </tg> </mg> <mg ind="2th"><defNative>вунэтон, муртан</defNative> <tg xml:lang="fin"> <t>vieraantuminen, etääntyminen</t> </tg> </mg> </e>
+<e> <lg> <l pos="N">бекмыллян</l><orig>бекмыллян</orig> </lg> <mg> <tg xml:lang="fin"> <t>kääntely, vierittäminen, vieritys; nurin heitteleminen</t> </tg><font face="SmolenskSGR"><b>бекмылляны </b></font><note><i>iter. ja frekv.</i></note> <tg xml:lang="fin"> <t>käännellä, vierittää; heitellä nurin</t> </tg> </mg> </e>
+<e> <lg> <l pos="N">бекмылляськон</l><orig>бекмылляськон</orig> </lg> <mg> <tg xml:lang="fin"> <t>vieriskely; kuperkeikanheittely</t> </tg> </mg> </e>
+<e> <lg><l pos="N">бекмыльскон</l><orig>бекмыльскон</orig> </lg> <mg ind="1th"><defNative>кымаськон</defNative> <tg xml:lang="fin"> <t>(kumoon) kaatuminen, kumoon (t. ylösalaisin) meno, nurin (t. kumoon) kääntyminen</t> </tg> </mg> <mg ind="2th"><defNative>йыр вамен погыльскон</defNative> <tg xml:lang="fin"> <t>kuperkeikanheitto</t> </tg> </mg> </e>
+<e> <lg> <l pos="N">бекмыльтӥськон</l><orig>бекмыльтӥськон</orig> <variants> <l_syn>бекмыльтӥськыны</l_syn> </variants> </lg> <mg> <variants> <l_syn type="&gt;">бекмыльскон</l_syn> <l_syn>бекмыльскыны</l_syn> </variants> </mg> </e>
+<e> <lg> <l pos="N">бекмыльтон</l><orig>бекмыльтон</orig> </lg> <mg> <tg xml:lang="fin"> <t>(kumoon) kaato, kumoaminen, nurin kääntäminen; nurin heittäminen</t> </tg> </mg> </e>
+<e> <lg> <l pos="N">бекмылян</l><orig>бекмылян</orig> </lg> <mg> <variants> <l_syn type="&gt;">бекмыльскон</l_syn> </variants> </mg> </e>
+<e> <lg> <l pos="N">бекче</l><orig>бекче</orig> </lg> <mg> <tg xml:lang="fin"> <t>tynnyri</t> </tg> </mg> </e>
+<e> <lg> <l pos="N">бекыран</l><orig>бекыран</orig> <variants> <l_syn>бекыраны</l_syn> </variants> </lg> <mg> <variants> <l_syn type="&gt;">бекырскон, бекырскыны</l_syn> </variants> </mg> </e>
+<e> <lg> <l pos="N">бекырскон</l><orig>бекырскон</orig> </lg> <mg ind="1th"><defNative>чукинскон</defNative> <tg xml:lang="fin"> <t>kallistuminen, kallistus, kallelleen meno</t> </tg> </mg> <mg ind="2th"><defNative>кымаськон</defNative> <tg xml:lang="fin"> <t>(kumoon) kaatuminen, nurin meno</t> </tg> </mg> </e>
+<e> <lg><l pos="N">бекыртӥськон</l><orig>бекыртӥськон</orig> <variants> <l_syn>бекыртӥськыны</l_syn> </variants> </lg> <mg> <variants> <l_syn type="&gt;">бекырскон, бекырскыны</l_syn> </variants> </mg> </e>
+<e> <lg> <l pos="N">бекыртон</l><orig>бекыртон</orig> </lg> <mg ind="1th"><defNative>чукинтон</defNative> <tg xml:lang="fin"> <t>kallistaminen, kallistus, kallelleen pano</t> </tg> </mg> <mg ind="2th"><defNative>кыман</defNative> <tg xml:lang="fin"> <t>(kumoon) kaato, kumoaminen</t> </tg> </mg> </e>
+<e> <lg> <l pos="N">белогвардеʼец</l> </lg> <mg><field>hist.</field> <tg xml:lang="fin"> <t>valkokaartilainen</t> </tg> </mg> </e>
+<e> <lg> <l pos="N">белок</l><orig>белок</orig> </lg> <mg><note><i>biol., kem.</i></note> <tg xml:lang="fin"> <t>valkuaisaine, valkuainen</t> </tg> </mg> </e>
+<e> <lg> <l pos="N">бельгы</l><orig>бельгы</orig> </lg> <mg> <tg xml:lang="fin"> <t>maali(taulu);</t> </tg> <variants> <l_syn type="&gt;">мишень</l_syn> </variants> </mg> </e>
+<e> <lg> <l pos="N">бензин</l><orig>бензин</orig> </lg> <mg> <tg xml:lang="fin"> <t>bensiini</t> </tg> </mg> </e>
+<e> <lg> <l pos="N">бераллян</l><orig>бераллян</orig> </lg> <mg> <tg xml:lang="fin"> <t>vääntäminen, vääntely, kääntäminen, kääntely</t> </tg> </mg> </e>
+<e> <lg><l pos="N">бералскон</l><orig>бералскон</orig> </lg> <mg ind="1th"><defNative>берытскон, позырскон</defNative> <tg xml:lang="fin"> <t>vääntyminen, kääntyminen</t> </tg> </mg> <mg ind="2th"><defNative>вольтчон</defNative> <tg xml:lang="fin"> <t>nyrjähtäminen, nyrjähdys</t> </tg> </mg> </e>
+<e> <lg> <l pos="N">бералтӥськон</l><orig>бералтӥськон</orig> <variants> <l_syn>бералтӥськыны</l_syn> </variants> </lg> <mg> <variants> <l_syn type="&gt;">бералскон, бералскыны</l_syn> </variants> </mg> </e>
+<e> <lg> <l pos="N">бералтон</l><orig>бералтон</orig> </lg> <mg ind="1th"><defNative>берыктон, позыртон</defNative> <tg xml:lang="fin"> <t>vääntäminen, kääntäminen</t> </tg> </mg> <mg ind="2th"><defNative>вольтчытон</defNative> <tg xml:lang="fin"> <t>nyrjäyttäminen, sijoiltaanmeno</t> </tg> </mg> </e>
+<e> <lg> <l pos="N">бервыл</l><orig>бервыл</orig> </lg> <mg><font face="SmolenskSGR">(<b>=ыз</b>)</font> <mg ind="1th"/> <tg xml:lang="fin"> <t>seuraus, jälki</t> </tg> </mg> <mg ind="2th"><defNative>кылемез</defNative> <tg xml:lang="fin"> <t>jäännös</t> </tg> </mg> <mg ind="3th"><defNative>кылем-мылем</defNative> <tg xml:lang="fin"> <t>rippeet, tähteet</t> </tg> </mg> </e>
+<e> <lg> <l pos="N">берган</l><orig>берган</orig> </lg> <mg ind="1th"> <tg xml:lang="fin"> <t>pyöriminen, pyörintä, kiertäminen, kierto</t> </tg> </mg> <mg ind="2th"> <senseType>kuv.</senseType> <tg xml:lang="fin"> <t>hyöriminen, hyörintä, hääriminen, häärintä, puuhailu;</t> </tg> <xg><x>юртъер котырын берган</x> <xt xml:lang="fin">kotiaskareissa hääriminen</xt> </xg>◊ <xg><x>йыр берган</x> <xt xml:lang="fin">huimaus</xt> </xg> </mg> </e>
+<e> <lg> <l pos="N">бергатъян</l><orig>бергатъян</orig> </lg> <mg> <tg xml:lang="fin"> <t>pyörittely, pyörittäminen, pyöritys, kiertely, kiertäminen</t> </tg> </mg> </e>
+<e> <lg> <l pos="N">бергатон</l><orig>бергатон</orig> </lg> <mg> <tg xml:lang="fin"> <t>pyörittäminen, pyöritys, kiertäminen</t> </tg> </mg> </e>
+<e> <lg> <l pos="N">берекет</l><orig>берекет</orig> </lg> <mg ind="1th"><defNative>тырлык</defNative> <tg xml:lang="fin"> <t>runsaus</t> <re>ruoan, varojen</re>; </tg> <tg xml:lang="fin"> <t> (jumalan) siunaus</t> </tg> </mg> <mg ind="2th"><defNative>кӧттыро луон</defNative> <tg xml:lang="fin"> <t>täyttävyys, ravitsevuus</t> </tg> </mg> <mg ind="3th"><defNative>азинлык</defNative> <tg xml:lang="fin"> <t>joutuisuus, nopeus, menestyksellisyys, menestys</t> <re>työssä</re> </tg> ◊ <font face="SmolenskSGR"><b>берекет мед ло! </b></font><mwemg ind="1th"/><defNative>ужась муртлы</defNative> <tg xml:lang="fin"> <t>toivon (t. toivotan) menestystä!</t> </tg><mwemg ind="2th"/><defNative>сиськись муртлы</defNative> <tg xml:lang="fin"> <t>hyvää ruokahalua!</t> </tg> </mg> </e>
+<e> <lg><l pos="N">беризь</l><orig>беризь</orig> </lg> <mg><field>kasv.</field> <tg xml:lang="fin"> <t>lehmus</t> </tg> </mg> </e>
+<e> <lg> <l pos="N">беркыл</l><orig>беркыл</orig> </lg> <mg><font face="SmolenskSGR">(<b>=ыз</b>)</font> <tg xml:lang="fin"> <t>jälkisana, jälkilause</t> </tg><font face="SmolenskSGR"><b>берланес</b></font> <mg ind="1th"/><defNative>ваменэс</defNative> <tg xml:lang="fin"> <t>itsepäinen, uppiniskainen // niskoittelija</t> </tg> </mg> <mg ind="2th"><defNative>капчи визьем</defNative> <tg xml:lang="fin"> <t>huikentelevainen, kevytmielinen;</t> </tg><font face="SmolenskSGR">(<i>толыктэм</i>)</font> <tg xml:lang="fin"> <t>epäviisas, tolkuton, järjetön</t> </tg> </mg> <mg ind="3th"><defNative>мыдлань</defNative> <tg xml:lang="fin"> <t>nurin kurin (t. niskoin)</t> </tg> </mg> </e>
+<e> <lg> <l pos="N">берланьтӥськон</l><orig>берланьтӥськон</orig> <variants> <l_syn>берланьтӥськыны</l_syn> </variants> </lg> <mg> <variants> <l_syn type="&gt;">берланьскон, берланьскыны</l_syn> </variants> </mg> </e>
+<e> <lg> <l pos="N">беромон</l><orig>беромон</orig> </lg> <mg> <tg xml:lang="fin"> <t>myöhästyminen, viipyminen</t> </tg> </mg> </e>
+<e> <lg> <l pos="N">берпал</l> <variants> <l_var>берпалыз</l_var> </variants> </lg> <mg ind="1th"> <tg xml:lang="fin"> <t>perä, takaosa, takapuoli // perä=, taka=;</t> </tg> <xg><x>берпал радын пукыны</x> <xt xml:lang="fin">istua takarivissä</xt> </xg> </mg> <mg ind="2th"> <field>anat.</field> <defNative>сарвыл</defNative> <tg xml:lang="fin"> <t>takamus, takapuoli</t> </tg> </mg> </e>
+<e> <lg> <l pos="N">берпум</l> <variants><l_var>берпумыз</l_var></variants> </lg> <mg ind="1th"> <defNative>кылемез</defNative> <tg xml:lang="fin"> <t>loppu, jäännös, jäte</t> </tg> </mg> <mg ind="2th"><defNative>берпуметӥ</defNative> <tg xml:lang="fin"> <t>viimeinen, lopullinen; viime</t> </tg> </mg> </e>
+<e> <lg> <l pos="N">берпумкыл</l><orig>берпумкыл</orig> </lg> <mg><font face="SmolenskSGR">(<b>=ыз</b>)</font> <tg xml:lang="fin"> <t>loppusanat, loppulause, epilogi</t> </tg> </mg> </e>
+<e> <lg> <l pos="N">бертон</l><orig>бертон</orig> </lg> <mg> <tg xml:lang="fin"> <t>palaaminen, paluu, tuleminen, tulo, meneminen, meno</t> <re>kotiin, kotikylään</re> </tg> <tg xml:lang="fin"> <t>, kotiinpaluu</t> </tg> </mg> </e>
+<e> <lg> <l pos="N">берыг</l><orig>берыг</orig> </lg> <mg><field>tekst.</field> <tg xml:lang="fin"> <t>vyyhdinpuu, viipsinpuu</t> </tg> </mg> </e>
+<e> <lg> <l pos="N">берыктӥськон</l><orig>берыктӥськон</orig> </lg> <mg ind="1th"> <tg xml:lang="fin"> <t>kääntyminen; käännös</t> </tg> </mg> <mg ind="2th"><defNative>кожон</defNative> <tg xml:lang="fin"> <t>käännös, käänne</t> </tg> </mg> <mg ind="3th"><defNative>берен лыктон</defNative> <tg xml:lang="fin"> <t>palaaminen, takaisintulo, paluu</t> </tg>◊ <xg><x>шунды берыктӥськон</x> <xt xml:lang="fin">päivänseisaus</xt> </xg> </mg> </e>
+<e> <lg> <l pos="N">берыктон</l><orig>берыктон</orig> </lg> <mg ind="1th"> <tg xml:lang="fin"> <t>kääntäminen (ylösalaisin, kumoon, nurin)</t> </tg> </mg> <mg ind="2th"><defNative>сюрес вылысь</defNative> <tg xml:lang="fin"> <t>(matkalta) palautus (t.</t> </tg> <tg xml:lang="fin"> <t>palauttaminen)</t> </tg> </mg> <mg ind="3th"><defNative>берен сётон</defNative> <tg xml:lang="fin"> <t>palauttaminen, palautus, takaisinanto, takaisinantaminen</t> </tg> </mg> <mg ind="4th"><defNative>кылысь кылэ</defNative> <tg xml:lang="fin"> <t>kääntäminen</t> <re>kielestä toiseen</re> </tg> <tg xml:lang="fin"> <t>, tulkitseminen, tulkinta</t> </tg> </mg> <mg ind="5th"><defNative>турынэз</defNative> <tg xml:lang="fin"> <t>(heinän) pöyhintä (t. pöyhiminen)</t> </tg> </mg> <mg ind="6th"><defNative>винаез</defNative> <tg xml:lang="fin"> <t>(viinan) tislaus (t. tislaaminen)</t> </tg> </mg> <mg ind="7th"> <senseType>kuv.</senseType><defNative>кин ке пала</defNative> <tg xml:lang="fin"> <t>taivuttaminen</t> <re>jnk puoleen, suuntaan</re>; </tg> <tg xml:lang="fin"> <t> käännyttäminen;</t> </tg> <xg><x>ас пала берыктон</x> <xt xml:lang="fin">omalle puolelle (t. kannalle) taivuttaminen</xt> </xg> </mg> </e>
+<e> <lg><l pos="N">берыктэм</l><orig>берыктэм</orig> </lg> <mg ind="1th"><drvg><inflect type="Der/Эм" drv="Prc"/><stem>берыктыны</stem></drvg> </mg> <mg ind="2th"><tg xml:lang="fin"> <t>kääntäminen (ylösalaisin, kumoon, nurin)</t> </tg> </mg> <mg ind="3th"><defNative>сюрес вылысь</defNative> <tg xml:lang="fin"> <t>(matkalta) palautus (t. palauttaminen)</t> </tg> </mg> <mg ind="4th"><defNative>берен сётэм</defNative> <tg xml:lang="fin"> <t>palautus, palauttaminen, takaisinantaminen</t> </tg> </mg> <mg ind="5th"><defNative>кылысь кылэ</defNative> <tg xml:lang="fin"> <t>käännös; kääntäminen</t> <re>kielestä toiseen</re>; </tg> <tg xml:lang="fin"> <t> tulkinta, tulkitseminen</t> </tg> </mg> <mg ind="6th"><defNative>турынэз</defNative> <tg xml:lang="fin"> <t>(heinän) pöyhintä</t> </tg> </mg> <mg ind="7th"><defNative>винаез</defNative> <tg xml:lang="fin"> <t>(viinan) tislaus</t> </tg> </mg> <mg ind="8th"> <senseType>kuv.</senseType><defNative>кин ке пала</defNative> <tg xml:lang="fin"> <t>taivuttaminen</t> <re>jnk puoleen, suuntaan</re>; </tg> <tg xml:lang="fin"> <t> käännyttäminen</t> </tg> </mg> </e>
+<e> <lg> <l pos="N">берыкъян</l><orig>берыкъян</orig> <variants> <l_syn>берыкъяны</l_syn> </variants> </lg> <mg><note><i>iter. ja frekv.</i></note> <variants> <l_syn type="&gt;">берыктон, берыктыны</l_syn> </variants> </mg> </e>
+<e> <lg> <l pos="N">берыкъяськон</l><orig>берыкъяськон</orig> </lg> <mg> <tg xml:lang="fin"> <t>käännähtely, kääntelehtiminen; kääntyily</t> </tg> </mg> </e>
+<e> <lg> <l pos="N">берытскон</l><orig>берытскон</orig> <variants> <l_syn>берытскыны</l_syn> </variants> </lg> <mg> <variants> <l_syn type="&gt;">берыктӥськон, берыктӥськыны</l_syn> </variants> </mg> </e>
+<e> <lg><l pos="N">бетон<rom ind="1"/></l> </lg> <mg> <tg xml:lang="fin"> <t>betoni</t> </tg> </mg> </e>
+<e> <lg><l pos="N">бетон<rom ind="2"/></l> </lg> <mg><defNative>чорыг бышкон</defNative> <tg xml:lang="fin"> <t>atrain, ahrain</t> </tg> </mg> </e>
+<e> <lg> <l pos="N">бече</l><orig>бече</orig> </lg> <mg><range>murt.</range> <mg ind="1th"/><defNative>бускель</defNative> <tg xml:lang="fin"> <t>naapuri</t> </tg> </mg> <mg ind="2th"><defNative>ӵыжы-выжы, бӧляк</defNative> <tg xml:lang="fin"> <t>sukulainen</t> </tg> </mg> <mg ind="3th"><defNative>кышномуртлэн кышномурт эшез</defNative> <tg xml:lang="fin"> <t>kaveri</t> <re>naisen naispuolinen</re> </tg> </mg> <mg ind="4th"><defNative>огъёз адями</defNative> <tg xml:lang="fin"> <t>ikätoveri</t> </tg> </mg> </e>
+<e> <lg> <l pos="N">бечей</l><orig>бечей</orig> </lg> <mg><range>murt.</range> <mg ind="1th"/><defNative>бадӟымез брат</defNative> <tg xml:lang="fin"> <t>isoveli, (vanhempi) veli</t> </tg> </mg> <mg ind="2th"><defNative>дядя</defNative> <tg xml:lang="fin"> <t>setä</t> </tg> </mg> </e>
+<e> <lg> <l pos="N">бечоло</l><orig>бечоло</orig> </lg> <mg> <tg xml:lang="fin"> <t>sivulle valjastus;</t> </tg> <xg><x>бечолое кыткыны</x> <xt xml:lang="fin">valjastaa sivulle;</xt> </xg> <xg><x>бечоло вал</x> <xt xml:lang="fin">sivuhevonen, sivulle valjastettu hevonen</xt> </xg> </mg> </e>
+<e> <lg><l pos="N">библиографи</l><orig>библиограʼфи</orig> <variants> <l_syn>библиография</l_syn> </variants> </lg> <mg> <tg xml:lang="fin"> <t>bibliografia</t> </tg> </mg> </e>
+<e> <lg> <l pos="N">библиография</l><orig>библиограʼфия</orig> <variants> <l_syn>библиографи</l_syn> </variants> </lg> <mg> <tg xml:lang="fin"> <t>bibliografia</t> </tg> </mg> </e>
+<e> <lg> <l pos="N">библиотека</l><orig>библиотеʼка</orig> </lg> <mg> <tg xml:lang="fin"> <t>kirjasto</t> </tg> </mg> </e>
+<e> <lg> <l pos="N">библиотекарь</l><orig>библиотеʼкарь</orig> </lg> <mg> <tg xml:lang="fin"> <t>kirjastonhoitaja</t> </tg> </mg> </e>
+<e> <lg> <l pos="N">бигер</l> </lg> <mg> <tg xml:lang="fin"><t>tataari // tataarilainen, tataarien, Tatarstanin;</t></tg> <xg><x>бигер кыл</x> <xt xml:lang="fin">tataari(n kieli)</xt> </xg> </mg> </e>
+<e> <lg><l pos="N">бигермайтал</l><orig>бигермайтал</orig> </lg> <mg><field>kasv.</field> <mg ind="1th"/><defNative>жильысяська</defNative> <tg xml:lang="fin"> <t>ailakki</t> <re>Melandrium</re> </tg> </mg> <mg ind="2th"><defNative>майталтурын</defNative> <tg xml:lang="fin"> <t>suopayrtti</t> <re>Saponaria offucinalis</re> </tg> </mg> </e>
+<e> <lg><l pos="N">бидон</l><orig>бидон</orig> </lg> <mg> <tg xml:lang="fin"> <t>kannu; tonkka</t> </tg> </mg> </e>
+<e> <lg><l pos="N">бизгетон</l><orig>бизгетон</orig> </lg> <mg> <tg xml:lang="fin"> <t>iniseminen, hyriseminen</t> <re>esim. hyttysen</re> </tg> </mg> </e>
+<e> <lg> <l pos="N">бизгетэм</l> </lg> <mg ind="1th"><drvg><inflect type="Der/Эм" drv="Prc"/><stem>бизгетыны</stem></drvg> </mg> <mg ind="2th"><tg xml:lang="fin"> <t>ininä, iniseminen, hyrinä, hyriseminen</t> <re>esim. hyttysen</re> </tg> </mg> </e>
+<e> <lg> <l pos="N">билет</l><orig>билет</orig> </lg> <mg ind="1th"> <tg xml:lang="fin"> <t>lippu; pääsylippu;</t> </tg> <xg><x>автобусэ билет</x> <xt xml:lang="fin">bussilippu;</xt> </xg> <xg><x>поездэ билет</x> <xt xml:lang="fin">junalippu;</xt> </xg> <xg><x>театре билет</x> <xt xml:lang="fin">teatterilippu</xt> </xg> </mg> <mg ind="2th"><tg xml:lang="fin"> <t>kirja</t> <re>asiapaperi</re>; </tg> <tg xml:lang="fin"> <t> passi; kortti;</t> </tg> <xg><x>партийной билет</x> <xt xml:lang="fin">jäsenkirja;</xt> </xg> <xg><x>военной билет</x> <xt xml:lang="fin">sotilaspassi;</xt> </xg> <xg><x>студентлэн билетэз, студент билет</x> <xt xml:lang="fin">opiskelijakortti</xt> </xg>◊ <xg><x>лотерея билет</x> <xt xml:lang="fin">arpa</xt> </xg> </mg> </e>
+<e> <lg> <l pos="N">бильярд</l><orig>бильярд</orig> </lg> <mg> <tg xml:lang="fin"> <t>biljardi</t> </tg> </mg> </e>
+<e> <lg> <l pos="N">бинет</l><orig>бинет</orig> </lg> <mg ind="1th"><defNative>бинем маке</defNative> <tg xml:lang="fin"> <t>käärö, kääry</t> </tg> </mg> <mg ind="2th"><defNative>бинён арбери</defNative> <tg xml:lang="fin"> <t>side, kääre</t> </tg> </mg> <mg ind="3th"><defNative>канфет бумага</defNative> <tg xml:lang="fin"> <t>kääre, päällys(paperi), päällyste</t> <re>makeisien</re> </tg> </mg> </e>
+<e> <lg> <l pos="N">бинён</l><orig>бинён</orig> </lg> <mg ind="1th"><defNative>шортэз, сӥньысэз</defNative> <tg xml:lang="fin"> <t>keriminen, kerintä, vyyhteäminen, kelaaminen, kelaus;</t> </tg><font face="SmolenskSGR">(<i>к-сь коверез</i>)</font> <tg xml:lang="fin"> <t>kiertäminen, kääriminen, käärintä</t> <re>kokoon</re> </tg> </mg> <mg ind="2th"><defNative>маин ке</defNative> <tg xml:lang="fin"> <t>kääriminen, kietominen, kiedonta, sitominen, sidonta</t> </tg> </mg> </e>
+<e> <lg> <l pos="N">биниськон</l><orig>биниськон</orig> </lg> <mg> <tg xml:lang="fin"> <t>kääriytyminen, kietoutuminen, kiertyminen</t> </tg> </mg> </e>
+<e> <lg> <l pos="N">бинокль</l><orig>биноʼкль</orig> </lg> <mg> <tg xml:lang="fin"> <t>kiikari</t> </tg> </mg> </e>
+<e> <lg> <l pos="N">бинт</l><orig>бинт</orig> </lg> <mg> <tg xml:lang="fin"> <t>(harso)side;</t> </tg> <xg><x>бинтэн биньыны</x> <xt xml:lang="fin">sitoa harsositeellä</xt> <xt xml:lang="fin">kääriä harsositeellä</xt> </xg> </mg> </e>
+<e> <lg> <l pos="N">биньгозы</l><orig>биньгозы</orig> </lg> <mg> <tg xml:lang="fin"> <t>ohjat, ohjakset, ohjasnuora</t> </tg> </mg> </e>
+<e> <lg><l pos="N">бинялскон</l><orig>бинялскон</orig> </lg> <mg> <tg xml:lang="fin"> <t>kääriytyminen, kietoutuminen</t> </tg> </mg> </e>
+<e> <lg> <l pos="N">бинялтӥськон</l><orig>бинялтӥськон</orig> <variants> <l_syn>бинялтӥськыны</l_syn> </variants> </lg> <mg> <variants> <l_syn type="&gt;">бинялскон, бинялскыны</l_syn> </variants> </mg> </e>
+<e> <lg> <l pos="N">бинялтон</l><orig>бинялтон</orig> </lg> <mg ind="1th"><defNative>бинялтэм</defNative> <tg xml:lang="fin"> <t>kääriminen, käärintä, kietominen</t> </tg> </mg> <mg ind="2th"><defNative>пыд бинялтон, ыштыр</defNative> <tg xml:lang="fin"> <t>jalkarätti</t> </tg> </mg> </e>
+<e> <lg><l pos="N">биографи</l><orig>биограʼфи</orig> <variants> <l_syn>биография</l_syn> </variants> </lg> <mg> <tg xml:lang="fin"> <t>elämäkerta, biografia</t> </tg> </mg> </e>
+<e> <lg> <l pos="N">биография</l><orig>биограʼфия</orig> <variants> <l_syn>биографи</l_syn> </variants> </lg> <mg> <tg xml:lang="fin"> <t>elämäkerta, biografia</t> </tg> </mg> </e>
+<e> <lg> <l pos="N">биолог</l><orig>биоʼлог</orig> </lg> <mg> <tg xml:lang="fin"> <t>biologi</t> </tg> </mg> </e>
+<e> <lg><l pos="N">биологи</l><orig>биолоʼги</orig> </lg> <mg> <tg xml:lang="fin"> <t>biologia // biologinen</t> </tg> </mg> </e>
+<e> <lg> <l pos="N">биология</l><orig>биолоʼгия</orig> </lg> <mg> <tg xml:lang="fin"> <t>biologia</t> </tg> </mg> </e>
+<e> <lg> <l pos="N">бирды</l><orig>бирды</orig> </lg> <mg> <tg xml:lang="fin"> <t>nappi</t> </tg> </mg> </e>
+<e> <lg><l pos="N">бирдыян</l><orig>бирдыян</orig> </lg> <mg> <tg xml:lang="fin"> <t>napittaminen (t. napitus) (kiinni)</t> </tg> </mg> </e>
+<e> <lg> <l pos="N">бирдыяськон</l><orig>бирдыяськон</orig> </lg> <mg ind="1th"><defNative>адями с-сь</defNative> <tg xml:lang="fin"> <t>vaatteiden napitus</t> </tg> </mg> <mg ind="2th"><defNative>дӥсь, бирды с-сь</defNative> <tg xml:lang="fin"> <t>kiinnimeno</t> <re>vaatteiden, nappien</re> </tg> </mg> </e>
+<e> <lg> <l pos="N">биржа</l><orig>биʼржа</orig> </lg> <mg> <tg xml:lang="fin"> <t>pörssi</t> </tg> </mg> </e>
+<e> <lg> <l pos="N">бирӟы</l><orig>бирӟы</orig> </lg> <mg> <tg xml:lang="fin"> <t>nappi</t> <re>iso</re> </tg> </mg> </e>
+<e> <lg> <l pos="N">бич</l><orig>бич</orig> </lg> <mg> <tg xml:lang="fin"> <t>kutina, kutka, kutiseminen;</t> </tg> <xg><x>бичлэсь кышканы</x> <xt xml:lang="fin">kutista herkästi</xt> </xg> </mg> </e>
+<e> <lg> <l pos="N">бичан</l><orig>бичан</orig> </lg> <mg ind="1th"><defNative>октон, люкан</defNative> <tg xml:lang="fin"> <t>kokoaminen, koonti, kerääminen, keräys, poimiminen, poiminta</t> </tg> </mg> <mg ind="2th"> <field>tekst.</field><font face="SmolenskSGR">(<i>пужы</i>)</font> <tg xml:lang="fin"> <t>kuvioiden kudonta (t. kutominen)</t> </tg> </mg> <mg ind="3th"><defNative>вузъёс</defNative> <tg xml:lang="fin"> <t>ostaminen, osto, ostelu, ostosten teko</t> </tg> </mg> </e>
+<e> <lg><l pos="N">бичатон<rom ind="1"/></l> </lg> <mg><defNative>бичпоттон</defNative> <tg xml:lang="fin"> <t>kutittaminen, kutitus, kutkuttaminen, kutkutus</t> </tg> </mg> </e>
+<e> <lg><l pos="N">бичатон<rom ind="2"/></l> </lg> <mg><inflect type="Der/Он" drv="V»N"/><font face="SmolenskSGR"><b>бичатыны<rom ind="2"/></b></font> </mg> </e>
+<e> <lg> <l pos="N">бичет</l> </lg> <mg> <tg xml:lang="fin"> <t>kokoelma</t> </tg> <xg><x>кылбур бичет</x> <xt xml:lang="fin">runokokoelma;</xt> </xg> <variants> <l_syn type="&gt;">сборник</l_syn> </variants> </mg> </e>
+<e> <lg> <l pos="N">бичпотон</l><orig>бичпотон</orig> </lg> <mg> <tg xml:lang="fin"> <t>kutiseminen, kutina, kutka</t> </tg> </mg> </e>
+<e> <lg> <l pos="N">бланк</l><orig>бланк</orig> </lg> <mg> <tg xml:lang="fin"> <t>lomake</t> </tg> </mg> </e>
+<e> <lg> <l pos="N">блиндаж</l><orig>блиндаж</orig> </lg> <mg><field>sot.</field> <tg xml:lang="fin"> <t>korsu, bunkkeri</t> </tg> </mg> </e>
+<e> <lg><l pos="N">блок<rom ind="1"/></l> </lg> <mg><note><i>polit.</i></note> <tg xml:lang="fin"> <t>blokki, liittouma, liitto</t> </tg> </mg> </e>
+<e> <lg><l pos="N">блок<rom ind="2"/></l> </lg> <mg><field>tekn.</field> <tg xml:lang="fin"> <t>väkipyörä</t> </tg> </mg> </e>
+<e> <lg> <l pos="N">блокада</l><orig>блокаʼда</orig> </lg> <mg> <tg xml:lang="fin"> <t>saarto, blokadi</t> </tg> </mg> </e>
+<e> <lg> <l pos="N">бобр</l><orig>боʼбр</orig> </lg> <mg><field>el.</field> <tg xml:lang="fin"> <t>majava;</t> </tg> <variants> <l_syn type="&gt;">мый</l_syn> </variants> </mg> </e>
+<e> <lg><l pos="N">бобыкӧжы</l><orig>бобыкӧжы</orig> </lg> <mg> <tg xml:lang="fin"> <t>(härkä)papu;</t> </tg> <variants> <l_syn type="&gt;">сьӧдкӧжы</l_syn> </variants> </mg> </e>
+<e> <lg> <l pos="N">боды</l><orig>боды</orig> </lg> <mg> <tg xml:lang="fin"> <t>keppi, sauva</t> </tg> </mg> </e>
+<e> <lg> <l pos="N">бодыяськон</l><orig>бодыяськон</orig> </lg> <mg><drvg><inflect type="Der/Он" drv="V»N"/><stem>бодыяськыны</stem></drvg> </mg> </e>
+<e> <lg> <l pos="N">боец</l><orig>боец</orig> </lg> <mg ind="1th"><defNative>ожмаськись</defNative> <tg xml:lang="fin"> <t>soturi, taistelija</t> </tg> </mg> <mg ind="2th"><defNative>солдат</defNative> <tg xml:lang="fin"> <t>sotilas</t> </tg> </mg> </e>
+<e> <lg> <l pos="N">бозгетон</l><orig>бозгетон</orig> </lg> <mg> <tg xml:lang="fin"> <t>suriseminen, päriseminen</t> </tg> </mg> </e>
+<e> <lg> <l pos="N">бозгетэм</l> </lg> <mg><drvg><inflect type="Der/Эм" drv="Prc"/><stem>бозгетыны</stem></drvg> </mg> <mg><tg xml:lang="fin"> <t>surina, suriseminen, pärinä, päriseminen</t> </tg> </mg> </e>
+<e> <lg> <l pos="N">бозго</l><orig>бозго</orig> </lg> <mg><field>el.</field> <mg ind="1th"/><defNative>кибы</defNative> <tg xml:lang="fin"> <t>kuoriainen</t> </tg> </mg> <mg ind="2th"><defNative>валкибы</defNative> <tg xml:lang="fin"> <t>sontiainen, sittiäinen</t> <re>Geotrupes</re> </tg> </mg> </e>
+<e> <lg><l pos="N">бозрес куара</l><variants><l_var>бозырес куара</l_var></variants><orig>бозрес куара</orig> </lg> <mg> <tg xml:lang="fin"> <t>möreä ääni</t> </tg> </mg> </e>
+<e> <lg><l pos="N">бозырес куара</l><variants><l_var>бозрес куара</l_var></variants><orig>бозырес куара</orig> </lg> <mg> <tg xml:lang="fin"> <t>möreä ääni</t> </tg> </mg> </e>
+<e> <lg> <l pos="N">бойкот</l><orig>бойкот</orig> </lg> <mg> <tg xml:lang="fin"> <t>boikotti;</t> </tg> <xg><x>бойкот ортчытыны</x> <xt xml:lang="fin">boikotoida</xt> </xg> </mg> </e>
+<e> <lg><l pos="N">бокро<rom ind="1"/></l> </lg> <mg><field>el.</field><font face="SmolenskSGR">(<i>валбокро</i>)</font> <tg xml:lang="fin"> <t>sontiainen, sittiäinen</t> <re>Geotrupes</re>; </tg> <variants> <l_syn type="&gt;">валдоргы, валкибы</l_syn> </variants> </mg> </e>
+<e> <lg><l pos="N">бокро<rom ind="2"/></l> </lg> <mg><note><i>kas v.</i></note> <tg xml:lang="fin"> <t>aurankukka</t> <re>Agrostemma githago</re> </tg> </mg> </e>
+<e> <lg> <l pos="N">больница</l> </lg> <mg> <tg xml:lang="fin"> <t>sairaala</t> </tg> </mg> </e>
+<e> <lg> <l pos="N">большевик</l> </lg> <mg><field>hist.</field> <tg xml:lang="fin"> <t>bolševikki</t> </tg> </mg> </e>
+<e> <lg> <l pos="N">бомба</l><orig>боʼмба</orig> </lg> <mg> <tg xml:lang="fin"> <t>pommi</t> </tg> </mg> </e>
+<e> <lg> <l pos="N">борд</l><orig>борд</orig> </lg> <mg ind="1th"><defNative>борддор</defNative> <tg xml:lang="fin"> <t>seinä; muuri</t> </tg> </mg> <mg ind="2th"><defNative>забор</defNative> <tg xml:lang="fin"> <t>lauta-aita, hirsiaita</t> </tg> </mg> <mg ind="3th"> <field>tekst.</field> <tg xml:lang="fin"> <t>kudotun kankaan pituuden mitta</t> </tg> </mg> <mg ind="4th"> <pos ind="Po_Stem"/> <variants> <l_syn type="&gt;">борды, бордын, бордысен, бордысь, бордытӥ</l_syn> </variants> </mg> </e>
+<e> <lg> <l pos="N">бордгазет</l><orig>бордгазет</orig> </lg> <mg> <tg xml:lang="fin"> <t>seinälehti</t> </tg> </mg> </e>
+<e> <lg> <l pos="N">борддор</l><orig>борддор</orig> </lg> <mg> <tg xml:lang="fin"> <t>seinä; muuri</t> </tg> </mg> </e>
+<e> <lg> <l pos="N">борӟан</l><orig>борӟан</orig> </lg> <mg ind="1th"><defNative>кутэз</defNative> <tg xml:lang="fin"> <t>punomaan rupeaminen</t> <re>virsun</re> </tg> <tg xml:lang="fin"> <t>, punominen, punonta</t> <re>virsun rungon</re> </tg> </mg> <mg ind="2th"><defNative>ӵоган</defNative> <tg xml:lang="fin"> <t>sulkeminen</t> <re>salvalla, lukolla</re> </tg> <tg xml:lang="fin"> <t>, salpaanpano, lukkoonpano, salpaus, lukitus</t> </tg> </mg> </e>
+<e> <lg> <l pos="N">борӟаны</l><orig>борӟаны</orig> </lg> <mg ind="1th"><defNative>кут, корзина</defNative> <tg xml:lang="fin"> <t>ruveta punomaan</t> <re>virsu, kori</re> </tg> <tg xml:lang="fin"> <t>, punoa</t> <re>virsun runko</re> </tg> </mg> <mg ind="2th"><defNative>ӵоганы</defNative> <tg xml:lang="fin"> <t>sulkea</t> <re>salvalla, lukolla</re> </tg> <tg xml:lang="fin"> <t>, panna salpaan (t. lukkoon), salvata, lukita</t> </tg> </mg> </e>
+<e> <lg> <l pos="N">борӟаськон</l><orig>борӟаськон</orig> </lg> <mg><drvg><inflect type="Der/Он" drv="V»N"/><stem>борӟаськыны</stem></drvg> </mg> </e>
+<e> <lg> <l pos="N">борӟет</l><orig>борӟет</orig> </lg> <mg> <tg xml:lang="fin"> <t>salpa</t> </tg> </mg> </e>
+<e> <lg> <l pos="N">борт</l><orig>борт</orig> </lg> <mg ind="1th"><defNative>машиналэн</defNative> <tg xml:lang="fin"> <t>sivu, puoli</t> <re>kuorma-auton</re> </tg> </mg> <mg ind="2th"><defNative>корабльлэн</defNative> <tg xml:lang="fin"> <t>laita, kylki</t> <re>laivan</re> </tg> </mg> </e>
+<e> <lg><l pos="N">боры</l><orig>боры</orig> </lg> <mg><field>kasv.</field> <tg xml:lang="fin"> <t>karvamansikka</t> <re>Fragaria viridis</re> </tg> </mg> </e>
+<e> <lg> <l pos="N">борыян</l><orig>борыян</orig> </lg> <mg> <tg xml:lang="fin"> <t>karvamansikoiden poiminta</t> </tg> </mg> </e>
+<e> <lg><l pos="N">ботаник</l><orig>ботаʼник</orig> </lg> <mg> <tg xml:lang="fin"> <t>kasvitieteilijä, botanisti</t> </tg> </mg> </e>
+<e> <lg> <l pos="N">ботаника</l><orig>ботаʼника</orig> </lg> <mg> <tg xml:lang="fin"> <t>kasvitiede, botaniikka</t> </tg> </mg> </e>
+<e> <lg> <l pos="N">ботинка</l><orig>ботинка</orig> <variants> <l_syn>ботинки</l_syn> </variants> </lg> <mg> <tg xml:lang="fin"> <t>kenkä, kengät</t> </tg> </mg> </e>
+<e> <lg> <l pos="N">ботинки</l><orig>ботинки</orig> <variants> <l_syn>ботинка</l_syn> </variants> </lg> <mg> <tg xml:lang="fin"> <t>kenkä, kengät</t> </tg> </mg> </e>
+<e> <lg> <l pos="N">бӧдёно</l> </lg> <mg> <field>el.</field> <tg xml:lang="fin"> <t>viiriäinen</t> <re>Coturnix coturnix</re> </tg> </mg> </e>
+<e> <lg> <l pos="N">бӧксон</l><orig>бӧксон</orig> </lg> <mg> <tg xml:lang="fin"> <t>ammuminen, ammunta, mylviminen, mylvintä, määkiminen, määintä</t> </tg> </mg> </e>
+<e> <lg> <l pos="N">бӧляк</l> </lg> <mg><defNative>выжы-кумы</defNative> <tg xml:lang="fin"> <t>suku(kunta); sukulainen</t> </tg> </mg> <mg ind="2th"><defNative>бускель</defNative> <tg xml:lang="fin"> <t>naapuri</t> </tg> </mg> <mg ind="3th"> <range>murt.</range><font face="SmolenskSGR">(<i>ас гуртысь адями</i>)</font> <tg xml:lang="fin"> <t>oman (t. saman) kylän asukas</t> </tg> </mg> </e>
+<e> <lg> <l pos="N">бӧм</l><orig>бӧм</orig> </lg> <mg> <tg xml:lang="fin"> <t>heinäkasa</t> <re>pieni</re> </tg> </mg> </e>
+<e> <lg> <l pos="N">бӧрдон</l><orig>бӧрдон</orig> </lg> <mg> <tg xml:lang="fin"> <t>itkeminen, itku</t> </tg> </mg> </e>
+<e> <lg> <l pos="N">бӧрӟытон</l><orig>бӧрӟытон</orig> </lg> <mg><drvg><inflect type="Der/Он" drv="V»N"/><stem>бӧрӟытыны</stem></drvg> </mg> </e>
+<e> <lg> <l pos="N">бӧрнё</l><orig>бӧрнё</orig> </lg> <mg> <tg xml:lang="fin"> <t>myllytuutti</t> </tg> </mg> </e>
+<e> <lg><l pos="N">бӧтьыро</l><orig>бӧтьыро</orig> </lg> <mg><range>puhek.</range> <mg ind="1th"/><defNative>нылпи с-сь</defNative> <tg xml:lang="fin"> <t>jokeltaja</t> </tg> </mg> <mg ind="2th"><defNative>супыльтӥсь</defNative> <tg xml:lang="fin"> <t>lörpöttäjä, hölöttäjä, sopertaja</t> </tg> </mg> </e>
+<e> <lg> <l pos="N">бӧтьыртон</l><orig>бӧтьыртон</orig> </lg> <mg><range>puhek.</range> <mg ind="1th"/><defNative>нылпи с-сь</defNative> <tg xml:lang="fin"> <t>jokeltaminen</t> </tg> </mg> <mg ind="2th"><defNative>супыльтон</defNative> <tg xml:lang="fin"> <t>lörpöttäminen, hölöttäminen, sopertaminen</t> </tg> </mg> </e>
+<e> <lg> <l pos="N">бӧчы</l><orig>бӧчы</orig> </lg> <mg><field>el.</field> <tg xml:lang="fin"> <t>kuoriainen; turilas</t> <re>Melolontha</re> </tg> </mg> </e>
+<e> <lg> <l pos="N">брак</l><orig>брак</orig> </lg> <mg> <tg xml:lang="fin"> <t>hylkytuote, hylkytavara, virheellinen tuote (t. kappale)</t> </tg> </mg> </e>
+<e> <lg> <l pos="N">брат</l><orig>брат</orig> </lg> <mg><range>puhek.</range> <tg xml:lang="fin"> <t>veli;</t> </tg> <variants> <l_syn type="vrt0">агай 1, вын</l_syn> </variants></mg> </e>
+<e> <lg> <l pos="N">брезент</l> </lg> <mg> <tg xml:lang="fin"> <t>telttakangas; pressu</t> </tg><range>puhek.</range> </mg> </e>
+<e> <lg> <l pos="N">бреч</l> </lg> <mg> <range>murt.</range> <tg xml:lang="fin"> <t>taimilava</t> </tg> </mg> </e>
+<e> <lg> <l pos="N">бригада</l><orig>бригаʼда</orig> </lg> <mg> <tg xml:lang="fin"> <t>prikaati</t> </tg> </mg> </e>
+<e> <lg> <l pos="N">бригадир</l><orig>бригадир</orig> </lg> <mg> <tg xml:lang="fin"> <t>prikaatin johtaja</t> </tg> </mg> </e>
+<e> <lg> <l pos="N">бриллиант</l><orig>бриллиант</orig> </lg> <mg> <tg xml:lang="fin"> <t>briljantti;</t> </tg> <variants> <l_syn type="&gt;">чынмарӟан</l_syn> </variants> </mg> </e>
+<e> <lg> <l pos="N">бритва</l><orig>бритва</orig> </lg> <mg ind="1th"> <tg xml:lang="fin"> <t>partaveitsi</t> </tg> </mg> <mg ind="2th"><defNative>электро=</defNative> <tg xml:lang="fin"> <t>parranajokone</t> </tg> </mg> </e>
+<e> <lg> <l pos="N">броневик</l><orig>броневик</orig> </lg> <mg> <tg xml:lang="fin"> <t>panssariauto</t> </tg> </mg> </e>
+<e> <lg><l pos="N">броненосец</l><orig>броненоʼсец</orig> </lg> <mg> <tg xml:lang="fin"> <t>panssarilaiva</t> </tg> </mg> </e>
+<e> <lg> <l pos="N">бронепоезд</l><orig>бронепоʼезд</orig> </lg> <mg> <tg xml:lang="fin"> <t>panssarijuna</t> </tg> </mg> </e>
+<e> <lg> <l pos="N">бронза</l><orig>броʼнза</orig> </lg> <mg> <tg xml:lang="fin"> <t>tpronssi</t> </tg> </mg> </e>
+<e> <lg> <l pos="N">бронь</l><orig>бронь</orig> </lg> <mg> <tg xml:lang="fin"> <t>varaus</t> <re>jnk asian</re> </tg> </mg> </e>
+<e> <lg> <l pos="N">броня</l><orig>броня</orig> </lg> <mg> <tg xml:lang="fin"> <t>panssari</t> </tg> </mg> </e>
+<e> <lg> <l pos="N">брошка</l><orig>брошка</orig> <variants> <l_syn>брошки</l_syn> </variants> </lg> <mg> <tg xml:lang="fin"> <t>rintaneula</t> </tg> </mg> </e>
+<e> <lg> <l pos="N">брошки</l><orig>брошки</orig> <variants> <l_syn>брошка</l_syn> </variants> </lg> <mg> <tg xml:lang="fin"> <t>rintaneula</t> </tg> </mg> </e>
+<e> <lg> <l pos="N">брошюра</l><orig>брошюʼра</orig> </lg> <mg> <tg xml:lang="fin"> <t>(esite)kirjanen, esite(lehtinen), mainos(lehtinen), brosyyri</t> </tg> </mg> </e>
+<e> <lg> <l pos="N">брюки</l><orig>брюки</orig> </lg> <mg> <tg xml:lang="fin"> <t>housut</t> </tg> </mg> </e>
+<e> <lg> <l pos="N">буба</l><orig>буба</orig> </lg> <mg><range>murt.</range> <mg ind="1th"/><font face="SmolenskSGR">(<b>пересь буба</b>)</font> <font face="SmolenskSGR">(<i>атайлэн атаез</i>)</font> <tg xml:lang="fin"> <t>isoisä, ukki, vaari</t> <re>isän isä</re> </tg> </mg> <mg ind="2th"><defNative>атай</defNative> <tg xml:lang="fin"> <t>isä</t> </tg> </mg> </e>
+<e> <lg> <l pos="N">бубы</l><orig>бубы</orig> </lg> <mg><font face="SmolenskSGR">(<b>бубиз</b>)</font> <tg xml:lang="fin"> <t>isä;</t> </tg> <xg><x>пересь бубы</x> <xt xml:lang="fin">isoisä</xt><xre>isän isä</xre>; </xg> <variants> <l_syn type="&gt;">атай</l_syn> </variants> </mg> </e>
+<e> <lg> <l pos="N">бубыли</l><orig>бубыли</orig> </lg> <mg ind="1th"><field>el.</field> <tg xml:lang="fin"> <t>perhonen</t> </tg> </mg> <mg ind="2th"> <field>maat.</field> <font face="SmolenskSGR">(<i>киль</i>)</font> <tg xml:lang="fin"> <t>ruumenet</t> </tg> </mg> </e>
+<e> <lg> <l pos="N">бубы-мумы</l><orig>бубы-мумы</orig> </lg> <mg><font face="SmolenskSGR">(<b>бубиз-мумиз</b>)</font> <tg xml:lang="fin"> <t>vanhemmat;</t> </tg> <variants> <l_syn type="&gt;">мумы-бубы, анай-атай</l_syn> </variants> </mg> </e>
+<e> <lg> <l pos="N">бугол</l><orig>бугол</orig> </lg> <mg ind="1th"><defNative>жильы, дурет</defNative> <tg xml:lang="fin"> <t>kahleet, (kahle)raudat</t> </tg> </mg> <mg ind="2th"><defNative>сьӧлтэт</defNative> <tg xml:lang="fin"> <t>kammitsa</t> </tg> </mg> </e>
+<e> <lg> <l pos="N">бугор</l><orig>бугор</orig> </lg> <mg> <tg xml:lang="fin"> <t>(lanka)kerä, vyyhti, kieppi</t> </tg><font face="SmolenskSGR"><b>бугорскон </b></font><drvg><inflect type="Der/Он" drv="V»N"/><stem>бугорскыны</stem></drvg> </mg> </e>
+<e> <lg> <l pos="N">бугортӥськон</l><orig>бугортӥськон</orig> <variants> <l_syn>бугортӥськыны</l_syn> </variants> </lg> <mg> <variants> <l_syn type="&gt;">бугорскон, бугорскыны</l_syn> </variants> </mg> </e>
+<e> <lg> <l pos="N">бугортон</l><orig>бугортон</orig> </lg> <mg ind="1th"><defNative>ыльнянез</defNative> <tg xml:lang="fin"> <t>kauliminen, kaulinta</t> <re>taikinan</re> </tg> </mg> <mg ind="2th"><defNative>басма дурез</defNative> <tg xml:lang="fin"> <t>päärmääminen, päärmäys, pallistus</t> </tg> </mg> <mg ind="3th"><defNative>шортэз</defNative> <tg xml:lang="fin"> <t>keriminen, kerintä, vyyhteäminen</t> </tg> </mg> </e>
+<e> <lg> <l pos="N">бугоу</l><orig>бугоʼу</orig> </lg> <mg><range>murt.</range> <variants> <l_syn type="&gt;">бугол</l_syn> </variants> </mg> </e>
+<e> <lg> <l pos="N">бугро</l><orig>бугро</orig> </lg> <mg> <tg xml:lang="fin"> <t>salvos</t> </tg> </mg> </e>
+<e> <lg> <l pos="N">бугырскон</l><orig>бугырскон</orig> </lg> <mg ind="1th"><defNative>бугыр ӝутскон</defNative> <tg xml:lang="fin"> <t>tupruaminen, pölyäminen, pyörteenä (t. pilvenä) nouseminen</t> </tg> </mg> <mg ind="2th"><defNative>копаськон</defNative> <tg xml:lang="fin"> <t>penkominen, pengonta, tonkiminen, tonginta, kaivelu</t> </tg> </mg> <mg ind="3th"> <senseType>kuv.</senseType><defNative>пӧсекъяны кутскон</defNative> <tg xml:lang="fin"> <t>kiihtyminen, suuttuminen, levottomaksi tulo</t> </tg> </mg> </e>
+<e> <lg> <l pos="N">бугыртӥськон</l><orig>бугыртӥськон</orig> <variants> <l_syn>бугыртӥськыны</l_syn> </variants> </lg> <mg> <variants> <l_syn type="&gt;">бугырскон, бугырскыны</l_syn> </variants> </mg> </e>
+<e> <lg> <l pos="N">бугыртон</l><orig>бугыртон</orig> </lg> <mg ind="1th"><defNative>небыт карон</defNative> <tg xml:lang="fin"> <t>kuohkeuttaminen, kuohkeutus, möyhentäminen, möyhennys, pöyhintä</t> </tg> </mg> <mg ind="2th"><defNative>пазян</defNative> <tg xml:lang="fin"> <t>auki kaivaminen; pengonta (t. penkominen) (nurin)</t> </tg> </mg> <mg ind="3th"> <senseType>kuv.</senseType><defNative>исан</defNative> <tg xml:lang="fin"> <t>levottomuuden aiheuttaminen, levottomaksi (t. kiihdyksiin) saattaminen</t> </tg> </mg> </e>
+<e> <lg> <l pos="N">бугыръян</l><orig>бугыръян</orig> <variants> <l_syn>бугыръяны</l_syn> </variants> </lg> <mg><note><i>iter.</i></note> <variants> <l_syn type="&gt;">бугыртон, бугыртыны</l_syn> </variants> </mg> </e>
+<e> <lg> <l pos="N">бугыръяськон</l><orig>бугыръяськон</orig> </lg> <mg ind="1th"><defNative>копаськон</defNative> <tg xml:lang="fin"> <t>penkominen, pengonta, tonkiminen, tonginta, kaivelu</t> </tg> </mg> <mg ind="2th"><defNative>шукыръяськон</defNative> <tg xml:lang="fin"> <t>pauhaaminen, myrskyäminen</t> </tg> </mg> <mg ind="3th"><defNative>бультыртон</defNative> <tg xml:lang="fin"> <t>kuohuminen, kouhunta, poriseminen</t> </tg> </mg> <mg ind="4th"> <senseType>kuv.</senseType><defNative>бастовать карон</defNative> <tg xml:lang="fin"> <t>lakkoilu, lakko, kapinointi, kapina, mellakointi</t> </tg> </mg> </e>
+<e> <lg> <l pos="N">будильник</l><orig>будиʼльник</orig> </lg> <mg> <tg xml:lang="fin"> <t>herätyskello</t> </tg> </mg> </e>
+<e> <lg> <l pos="N">будка</l><orig>будка</orig> </lg> <mg> <tg xml:lang="fin"> <t>koppi, koju</t> </tg> </mg> </e>
+<e> <lg> <l pos="N">будон</l><orig>будон</orig> </lg> <mg ind="1th"> <tg xml:lang="fin"> <t>kasvaminen, kasvu, varttuminen</t> </tg> </mg> <mg ind="2th"><defNative>ватсаськон</defNative> <tg xml:lang="fin"> <t>nouseminen, nousu, kohoaminen, lisääntyminen, lisäys, kasvaminen, kasvu</t> </tg> </mg> </e>
+<e> <lg><l pos="N">будос</l><orig>будос</orig> </lg> <mg ind="1th"> <tg xml:lang="fin"> <t>kasvi</t> </tg> </mg> <mg ind="2th"><defNative>пушъет</defNative> <tg xml:lang="fin"> <t>itu</t> </tg></mg> </e>
+<e> <lg> <l pos="N">будэтон</l><orig>будэтон</orig> </lg> <mg ind="1th"> <tg xml:lang="fin"> <t>kasvattaminen, kasvatus; viljely</t> </tg> </mg> <mg ind="2th"><defNative>ватсан</defNative> <tg xml:lang="fin"> <t>nostaminen, kohottaminen, lisääminen, lisäys;</t> </tg> <xg><x>дунъёсты будэтон</x> <xt xml:lang="fin">hintojen kohottaminen</xt> </xg> </mg> </e>
+<e> <lg> <l pos="N">буёл</l><orig>буёл</orig> </lg> <mg> <tg xml:lang="fin"> <t>maali, väri</t> </tg> </mg> </e>
+<e> <lg> <l pos="N">буёлан</l><orig>буёлан</orig> <variants> <l_syn>буёланы</l_syn> </variants> </lg> <mg> <variants> <l_syn type="&gt;">буян, буяны</l_syn> </variants> </mg> </e>
+<e> <lg> <l pos="N">буй</l><orig>буй</orig> </lg> <mg> <tg xml:lang="fin"> <t>väri</t> </tg> </mg> </e>
+<e> <lg> <l pos="N">буйган</l><orig>буйган</orig> <variants> <l_syn>буйганы</l_syn> </variants> </lg> <mg> <variants> <l_syn type="&gt;">буйгатскон, буйгатскыны</l_syn> </variants> </mg> </e>
+<e> <lg><l pos="N">буйгатӥськон</l><orig>буйгатӥськон</orig> <variants> <l_syn>буйгатӥськыны</l_syn> </variants> </lg> <mg> <variants> <l_syn type="&gt;">буйгатскон, буйгатскыны</l_syn> </variants> </mg> </e>
+<e> <lg> <l pos="N">буйгатон</l><orig>буйгатон</orig> </lg> <mg> <tg xml:lang="fin"> <t>rauhoittaminen, rauhoitus, lohduttaminen, lohdutus</t> </tg> </mg> </e>
+<e> <lg> <l pos="N">буйгатскон</l><orig>буйгатскон</orig> </lg> <mg ind="1th"><defNative>адями с-сь</defNative> <tg xml:lang="fin"> <t>rauhoittuminen, tyyntyminen</t> </tg> </mg> <mg ind="2th"> <senseType>kuv.</senseType><defNative>инкуазь с-сь</defNative> <tg xml:lang="fin"> <t>tyyntyminen, asettuminen</t> <re>tuulen, meren</re> </tg> </mg> </e>
+<e> <lg> <l pos="N">буйгатъян</l><orig>буйгатъян</orig> </lg> <mg> <variants><note><i>iter . ja frekv.</i></note> <l_syn type="&gt;">буйгатон</l_syn> </variants> </mg> </e>
+<e> <lg> <l pos="N">буйгатыны</l> </lg> <mg> <tg xml:lang="fin"> <t>rauhoittaa, saada rauhoittumaan, lohduttaa;</t> </tg> <xg><x>бӧрдӥсь нылпиез буйгатыны</x> <xt xml:lang="fin">rauhoittaa (t. lohduttaa) itkevää lasta</xt> </xg> </mg> </e>
+<e> <lg> <l pos="N">буква</l><orig>буква</orig> </lg> <mg> <tg xml:lang="fin"> <t>kirjain;</t> </tg> <font face="SmolenskSGR"><b>ӟуч букваос </b></font><mwemg ind="1th"/> <tg xml:lang="fin"> <t>venäläiset kirjaimet</t> </tg><mwemg ind="2th"/><defNative>кириллица</defNative> <tg xml:lang="fin"> <t>kyrilliset kirjaimet;</t> </tg> <xg><x>латин букваос</x> <xt xml:lang="fin">latinalaiset kirjaimet;</xt> </xg> <variants> <l_syn type="&gt;">гожпус</l_syn> </variants> </mg> </e>
+<e> <lg> <l pos="N">букварь</l><orig>букварь</orig> </lg> <mg> <tg xml:lang="fin"> <t>aapinen, aapiskirja</t> </tg> </mg> </e>
+<e> <lg> <l pos="N">буко</l><orig>буко</orig> </lg> <mg> <tg xml:lang="fin"> <t>luokki, luokka</t> </tg> </mg> </e>
+<e> <lg><l pos="N">букос</l><orig>букос</orig> </lg> <mg> <tg xml:lang="fin"> <t>kinos, nietos, hanki;</t> </tg> <xg><x>сюрес букос</x> <xt xml:lang="fin">tiellä on kinoksia</xt> </xg> </mg> </e>
+<e> <lg> <l pos="N">букро</l><orig>букро</orig> </lg> <mg> <variants> <l_syn type="&gt;">бокро<rom ind="2"/></l_syn> </variants> </mg> </e>
+<e> <lg><l pos="N">булава</l><orig>булава</orig> </lg> <mg ind="1th"><field>hist.</field><font face="SmolenskSGR">(<i>ожнушы</i>)</font> <tg xml:lang="fin"> <t>sotanuija</t> </tg> </mg> <mg ind="2th"> <note><i>hist., urh.</i></note><font face="SmolenskSGR">(<i>боды</i>)</font> <tg xml:lang="fin"> <t>sauva</t> </tg> </mg> </e>
+<e> <lg> <l pos="N">булавка</l><orig>булавка</orig> </lg> <mg> <tg xml:lang="fin"> <t>nuppineula</t> </tg> </mg> </e>
+<e> <lg> <l pos="N">булгаръёс</l> </lg> <mg> <tg xml:lang="fin"><t>bolgaarit</t> </tg> </mg> </e>
+<e> <lg> <l pos="N">булка</l> </lg> <mg> <tg xml:lang="fin"><t>pulla, vehnänen, vehnäleipä, kahvileipä</t></tg> </mg> </e>
+<e> <lg> <l pos="N">булки</l> </lg> <mg> <tg xml:lang="fin"><t>pulla, vehnänen, vehnäleipä, kahvileipä</t></tg> </mg> </e>
+<e> <lg> <l pos="N">бултыр</l><orig>бултыр</orig> </lg> <mg ind="1th"><defNative>кышнолэн сузэрез</defNative> <tg xml:lang="fin"> <t>käly</t> <re>vaimon nuorempi sisar</re> </tg> </mg> <mg ind="2th"><defNative>кыкетӥ кышно</defNative> <tg xml:lang="fin"> <t>toinen vaimo</t> <re>ensimmäisen vaimon kuoltua</re> </tg> </mg> </e>
+<e> <lg> <l pos="N">бульккетон</l><orig>бульккетон</orig> </lg> <mg> <tg xml:lang="fin"> <t>polskahtelu, pulputtaminen, pulputus;</t> </tg><font face="SmolenskSGR">(<i>маин ке</i>)</font> <tg xml:lang="fin"> <t>hölskyttäminen, hölskytys</t> </tg> </mg> </e>
+<e> <lg> <l pos="N">бультыртон</l><orig>бультыртон</orig> </lg> <mg> <tg xml:lang="fin"> <t>polskahtelu, pulputtaminen, pulputus</t> </tg> </mg> </e>
+<e> <lg> <l pos="N">бумага</l><orig>бумага</orig> </lg> <mg> <tg xml:lang="fin"> <t>paperi;</t> </tg><font face="SmolenskSGR"><b>бумага уксё</b></font> <tg xml:lang="fin"> <t>paperiraha;</t> </tg> <variants> <l_syn type="&gt;">кагаз<rom ind="0_1"/></l_syn> </variants> </mg> </e>
+<e> <lg><l pos="N">бун</l><orig>бун</orig> </lg> <mg> <tg xml:lang="fin"> <t>niini</t> <re>liotettu</re>; </tg> <xg><x>бун чӧлтыны</x> <xt xml:lang="fin">liottaa niintä</xt> </xg> </mg> </e>
+<e> <lg> <l pos="N">бунӟектон</l><orig>бунӟектон</orig> <variants> <l_syn>бунӟектыны</l_syn> </variants> </lg> <mg> <variants> <l_syn type="&gt;">бунӟон, бунӟыны</l_syn> </variants> </mg> </e>
+<e> <lg> <l pos="N">бунӟон</l><orig>бунӟон</orig> </lg> <mg><drvg><inflect type="Der/Он" drv="V»N"/><stem>бунӟыны</stem></drvg> </mg> </e>
+<e> <lg> <l pos="N">бунӟытон</l><orig>бунӟытон</orig> </lg> <mg><drvg><inflect type="Der/Он" drv="V»N"/><stem>бунӟытыны</stem></drvg> </mg> </e>
+<e> <lg> <l pos="N">бункур</l><orig>бункур</orig> </lg> <mg> <tg xml:lang="fin"> <t>niini</t> </tg> </mg> </e>
+<e> <lg> <l pos="N">бунт</l><orig>бунт</orig> </lg> <mg> <tg xml:lang="fin"> <t>kapina, mellakka</t> </tg> </mg> </e>
+<e> <lg><l pos="N">бур<rom ind="2"/></l> </lg> <mg><defNative>мел</defNative> <tg xml:lang="fin"> <t>liitu</t> </tg> </mg> </e>
+<e> <lg><l pos="N">буран<rom ind="1"/></l> </lg> <mg><defNative>гӧп, лымыен жобан</defNative> <tg xml:lang="fin"> <t>lumimyrsky</t> </tg> </mg> </e>
+<e> <lg><l pos="N">буран<rom ind="2"/></l> </lg> <mg><defNative>мелэн тӧдьыман</defNative> <tg xml:lang="fin"> <t>liidulla valkaisu (t. valkaiseminen)</t> </tg> </mg> </e>
+<e> <lg> <l pos="N">бургы</l><orig>бургы</orig> </lg> <mg> <tg xml:lang="fin"> <t>kupariputki</t> <re>käytetään viinanpoltossa</re> </tg> </mg> </e>
+<e> <lg> <l pos="N">бурд</l><orig>бурд</orig> </lg> <mg><font face="SmolenskSGR">(<b>=ыз</b>)</font> <mg ind="1th"/> <tg xml:lang="fin"> <t>siipi;</t> </tg> <xg><x>дӧдьы бурд</x> <xt xml:lang="fin">reen siipi</xt> </xg> </mg> <mg ind="2th"><tg xml:lang="fin"> <t>evä;</t> </tg> <xg><x>чорыглэн бурдъёсыз</x> <xt xml:lang="fin">kalan evät</xt> </xg>◊ <xg><x>сяська бурд</x> <xt xml:lang="fin">terälehti</xt> </xg></mg> </e>
+<e> <lg> <l pos="N">бурдоос</l> <variants> <l_syn type="&gt;">тылобурдо</l_syn> </variants> </lg> <mg> <note><i>mon.</i></note> <tg xml:lang="fin"> <t>linnut</t> </tg> </mg> </e>
+<e> <lg> <l pos="N">бурдъян</l><orig>бурдъян</orig> </lg> <mg> <tg xml:lang="fin"> <t>siivittäminen;</t> </tg><note><i>kuv. myös</i></note> <tg xml:lang="fin"> <t>innoittaminen, kannustaminen, kannustus</t> </tg> </mg> </e>
+<e> <lg> <l pos="N">бурдъяськон</l><orig>бурдъяськон</orig> </lg> <mg> <tg xml:lang="fin"> <t>siipien saaminen;</t> </tg> <note><i>kuv. myös</i></note> <tg xml:lang="fin"> <t>innoittuminen</t> </tg> </mg> </e>
+<e> <lg> <l pos="N">буржуазия</l><orig>буржуазиʼя</orig> </lg> <mg> <tg xml:lang="fin"> <t>porvaristo</t> </tg> </mg> </e>
+<e> <lg> <l pos="N">буржуй</l><orig>буржуй</orig> </lg> <mg> <tg xml:lang="fin"> <t>porvari</t> </tg> </mg> </e>
+<e> <lg> <l pos="N">бурмон</l><orig>бурмон</orig> </lg> <mg ind="1th"><defNative>йӧнан</defNative> <tg xml:lang="fin"> <t>parantuminen, paraneminen, tervehtyminen</t> </tg> </mg> <mg ind="2th"><defNative>ог-огзы борды</defNative> <tg xml:lang="fin"> <t>yhteen (t. toisiinsa) kasvaminen;</t> </tg><font face="SmolenskSGR">(<i>вандӥськем инты с-сь</i>)</font> <tg xml:lang="fin"> <t>umpeenkasvu</t> </tg> </mg> </e>
+<e> <lg> <l pos="N">бурмытон</l><orig>бурмытон</orig> </lg> <mg><drvg><inflect type="Der/Он" drv="V»N"/><stem>бурмытыны</stem></drvg> </mg> </e>
+<e> <lg> <l pos="N">бурмытскон</l><orig>бурмытскон</orig> </lg> <mg><drvg><inflect type="Der/Он" drv="V»N"/><stem>бурмытскыны</stem></drvg> </mg> </e>
+<e> <lg> <l pos="N">бурсон</l><orig>бурсон</orig> </lg> <mg><defNative>ош</defNative> <tg xml:lang="fin"> <t>mylviminen, mylvintä</t> <re>härän</re> </tg> <tg xml:lang="fin"> <t>,</t> </tg><font face="SmolenskSGR">(<i>гондыр</i>)</font> <tg xml:lang="fin"> <t>karjuminen, karjunta</t> <re>karhun</re> </tg> </mg> </e>
+<e> <lg><l pos="N">буртчин</l><orig>буртчин</orig> </lg> <mg> <tg xml:lang="fin"> <t>silkki</t> </tg> </mg> </e>
+<e> <lg> <l pos="N">бурыс</l><orig>бурыс</orig> </lg> <mg ind="1th"> <tg xml:lang="fin"> <t>parru;</t> </tg> <xg><x>полать бурыс</x> <xt xml:lang="fin">laveriparru</xt> </xg> </mg> <mg ind="2th"> <range>vanh.</range><font face="SmolenskSGR">(<i>кор</i>)</font> <tg xml:lang="fin"> <t>tukki</t> </tg> </mg> </e>
+<e> <lg><l pos="N">бус</l><orig>бус</orig> </lg> <mg> <tg xml:lang="fin"> <t>sumu, usva, utu; höyry</t> </tg> </mg> </e>
+<e> <lg><l pos="N">бусаськон</l> </lg> <mg><defNative>бус вӧлскон</defNative> <tg xml:lang="fin"> <t>sumeneminen, sumentuminen</t> </tg> </mg> <mg ind="2th"><defNative>нюлан</defNative> <tg xml:lang="fin"> <t>hiestyminen, hiostuminen</t> <re>lasin</re> </tg> </mg> <mg ind="3th"><defNative>ӝомыт, бездыт луон</defNative> <tg xml:lang="fin"> <t>sameneminen, himmeneminen, himmentyminen</t> </tg> </mg> </e>
+<e> <lg> <l pos="N">бусён</l><orig>бусён</orig> <variants> <l_syn>бусёно</l_syn> </variants> </lg> <mg> <tg xml:lang="fin"> <t>lanko</t> <re>vaimon sisaren mies</re> </tg> </mg> </e>
+<e> <lg> <l pos="N">бусёно</l><orig>бусёно</orig> <variants> <l_syn>бусён</l_syn> </variants> </lg> <mg> <tg xml:lang="fin"> <t>lanko</t> <re>vaimon sisaren mies</re> </tg> </mg> </e>
+<e> <lg> <l pos="N">бусӥрмон</l><orig>бусӥрмон</orig> </lg> <mg><drvg><inflect type="Der/Он" drv="V»N"/><stem>бусӥрмыны</stem></drvg> </mg> </e>
+<e> <lg><l pos="N">бускель</l><orig>бускель</orig> </lg> <mg> <tg xml:lang="fin"> <t>naapuri</t> </tg> </mg> </e>
+<e> <lg><l pos="N">бусойыр</l><orig>бусойыр</orig> </lg> <mg><range>murt.</range><note><i>kasv.</i></note> <tg xml:lang="fin"> <t>ruiskaunokki, ruiskukka</t> <re>Centaurea cyanus</re>; </tg> <variants> <l_syn type="&gt;">лызйыр, лызйырсяська</l_syn> </variants> </mg> </e>
+<e> <lg><l pos="N">бустыран</l><orig>бустыран</orig> </lg> <mg> <tg xml:lang="fin"> <t>hiestyminen, hiostuminen</t> <re>lasin</re> </tg> </mg> </e>
+<e> <lg> <l pos="N">бустыри</l><orig>бустыри</orig> </lg> <mg ind="1th"><defNative>нюлам</defNative> <tg xml:lang="fin"> <t>hiki</t> <re>lasilla</re> </tg> </mg> <mg ind="2th"><defNative>гӧртэм</defNative> <tg xml:lang="fin"> <t>huurre</t> </tg> </mg> </e>
+<e> <lg><l pos="N">бусы</l><orig>бусы</orig> </lg> <mg> <tg xml:lang="fin"> <t>pelto; kenttä;</t> </tg> <xg><x>валэс бусы</x> <xt xml:lang="fin">toukopelto;</xt> </xg> <xg><x>ӟег бусы</x> <xt xml:lang="fin">ruispelto, syyspelto;</xt> </xg><font face="SmolenskSGR"><b>такыр бусы</b></font> <variants> <l_syn type="&gt;">валэс бусы; бусы ужъёс</l_syn> </variants> <tg xml:lang="fin"> <t>peltotyöt</t> </tg> </mg> </e>
+<e> <lg> <l pos="N">бутерброд</l><orig>бутерброд</orig> </lg> <mg> <tg xml:lang="fin"> <t>voileipä</t> </tg> </mg> </e>
+<e> <lg> <l pos="N">бутник</l><orig>бутник</orig> </lg> <mg><field>kasv.</field> <tg xml:lang="fin"> <t>minttu</t> <re>Mentha</re>; </tg> <tg xml:lang="fin"> <t> rantaminttu</t> <re>M. arvensis</re>; </tg><font face="SmolenskSGR" type="vrt0"><i></i></font> <variants> <l_syn type="&gt;">мята</l_syn> </variants> </mg> </e>
+<e> <lg> <l pos="N">бутылка</l> </lg> <mg> <tg xml:lang="fin"> <t>pullo</t> </tg> </mg> </e>
+<e> <lg> <l pos="N">бутыль</l><orig>бутыль</orig> </lg> <mg> <tg xml:lang="fin"> <t>(iso) pullo</t> <re>kolmen litran lasiastia</re> </tg> </mg> </e>
+<e> <lg> <l pos="N">бутьмар</l><orig>бутьмар</orig> </lg> <mg><field>kansat.</field> <tg xml:lang="fin"> <t>olkanauha, but'mar</t> <re>hopeakolikoilla koristettu olkanauha, udmurttilaisen naisen koriste</re>; </tg> <variants> <l_syn type="vrt0">камали</l_syn> </variants> </mg> </e>
+<e> <lg> <l pos="N">буфет</l><orig>буфет</orig> </lg> <mg ind="1th"> <tg xml:lang="fin"> <t>buffetti, kahvio;</t> </tg> <xg> <x>буфетын вузкарись</x> <x>буфетын ужась</x> <xt xml:lang="fin">buffetin myyjä</xt> </xg> </mg> <mg ind="2th"><defNative>кана</defNative> <tg xml:lang="fin"> <t>astiakaappi</t> </tg> </mg> </e>
+<e> <lg> <l pos="N">бухгалтер</l><orig>бухгаʼлтер</orig> </lg> <mg> <tg xml:lang="fin"> <t>kirjanpitäjä</t> </tg> </mg> </e>
+<e> <lg> <l pos="N">бухгалтери</l> </lg> <mg><defNative>отдел</defNative> <tg xml:lang="fin"> <t>kirjanpito-osasto</t> </tg> </mg> <mg ind="2th"><defNative>лыдъян-чотан</defNative> <tg xml:lang="fin"> <t>kirjanpito</t> </tg> </mg> </e>
+<e> <lg> <l pos="N">бухгалтерия</l> </lg> <mg><defNative>отдел</defNative> <tg xml:lang="fin"> <t>kirjanpito-osasto</t> </tg> </mg> <mg ind="2th"><defNative>лыдъян-чотан</defNative> <tg xml:lang="fin"> <t>kirjanpito</t> </tg> </mg> </e>
+<e> <lg><l pos="N">бахта</l><orig>бахта</orig> </lg> <mg> <tg xml:lang="fin"> <t>poukama, lahdelma</t> </tg> </mg> </e>
+<e> <lg> <l pos="N">бушан</l><orig>бушан</orig> </lg> <mg ind="1th"><defNative>тырттэммон</defNative> <tg xml:lang="fin"> <t>tyhjentyminen, tyhjeneminen, vapautuminen; autioituminen</t> </tg> </mg> <mg ind="2th"><defNative>вӧл-вӧл луон</defNative> <tg xml:lang="fin"> <t>väljentyminen</t> <re>vaatteiden</re> </tg> </mg> </e>
+<e> <lg> <l pos="N">бушатӥськон</l><orig>бушатӥськон</orig> <variants> <l_syn>бушатӥськыны</l_syn> </variants> </lg> <mg> <variants> <l_syn type="&gt;">бушатскон, бушатскыны</l_syn> </variants> </mg> </e>
+<e> <lg> <l pos="N">бушатон</l><orig>бушатон</orig> </lg> <mg ind="1th"><defNative>ӝоктон</defNative> <tg xml:lang="fin"> <t>tyhjentäminen, tyhjennys, purkaminen</t> <re>lastin, tavaran</re> </tg> </mg> <mg ind="2th"><defNative>дӥсез</defNative> <tg xml:lang="fin"> <t>väljentäminen, väljennys</t> <re>vaatteiden</re> </tg> </mg> </e>
+<e> <lg><l pos="N">бушатскон</l><orig>бушатскон</orig> </lg> <mg> <tg xml:lang="fin"> <t>tyhjentyminen, tyhjeneminen, purkautuminen</t> <re>lastin</re> </tg> </mg> </e>
+<e> <lg><l pos="N">бушкыр</l><orig>бушкыр</orig> </lg> <mg> <tg xml:lang="fin"> <t>aavikko, erämaa, autiomaa;</t> </tg> <variants> <l_syn type="&gt;">пустоня</l_syn> </variants> </mg> </e>
+<e> <lg> <l pos="N">бушомон</l><orig>бушомон</orig> <variants> <l_syn>бушомыны</l_syn> </variants> </lg> <mg> <variants> <l_syn type="&gt;">бушан, бушаны</l_syn> </variants> </mg> </e>
+<e> <lg> <l pos="N">бушомытон</l><orig>бушомытон</orig> <variants> <l_syn>бушомытыны</l_syn> </variants> </lg> <mg> <variants> <l_syn type="&gt;">бушатон, бушатыны</l_syn> </variants> </mg> </e>
+<e> <lg> <l pos="N">буян</l><orig>буян</orig> </lg> <mg> <tg xml:lang="fin"> <t>maalaaminen, maalaus; värjääminen, värjäys</t> </tg> </mg> </e>
+<e> <lg> <l pos="N">буяськон</l><orig>буяськон</orig> </lg> <mg ind="1th"> <tg xml:lang="fin"> <t>maalatuksi tuleminen; värjäytyminen</t> </tg> </mg> <mg ind="2th"><defNative>наштаськон</defNative> <tg xml:lang="fin"> <t>väriin (t. maaliin) sotkeutuminen (t. itsensä sotkeminen)</t> </tg> </mg> <mg ind="3th"><defNative>астэ, ымнырдэ буян</defNative> <tg xml:lang="fin"> <t>(itsensä) maalaaminen (t. meikkaaminen, meikkaus)</t> </tg> </mg> <mg ind="4th"><defNative>буяськонэн вырон</defNative> <tg xml:lang="fin"> <t>maalaaminen, maalaus</t> </tg> </mg> </e>
+<e> <lg> <l pos="N">быган</l><orig>быган</orig> </lg> <mg ind="1th"><defNative>быгатон</defNative> <tg xml:lang="fin"> <t>jaksaminen, voiminen, pystyminen</t> </tg> </mg> <mg ind="2th"><defNative>быдэсмон</defNative> <tg xml:lang="fin"> <t>toteutuminen;</t> </tg><font face="SmolenskSGR">(<i>пӧрмон, радъяськон</i>)</font> <tg xml:lang="fin"> <t>luontuminen, järjestyminen</t> </tg> </mg> </e>
+<e> <lg> <l pos="N">быгатон</l><orig>быгатон</orig> </lg> <mg ind="1th"><drvg><inflect type="Der/он" drv="V»N"/><stem>быгатыны</stem></drvg> </mg> <mg ind="2th"><defNative>маке карыны валан</defNative> <tg xml:lang="fin"> <t>taito, taitavuus, osaaminen;</t> </tg><font face="SmolenskSGR">(<i>быгатонлык</i>)</font> <tg xml:lang="fin"> <t>kyky, pystyvyys;</t> </tg><font face="SmolenskSGR">(<i>амаллык, дышем</i>)</font> <tg xml:lang="fin"> <t>kätevyys, näppäryys</t> </tg> </mg> </e>
+<e> <lg> <l pos="N">быгатонлык</l><orig>быгатонлык</orig> </lg> <mg ind="1th"> <tg xml:lang="fin"> <t>taitavuus, taito, kyky, lahja(t), pystyvyys;</t> </tg><font face="SmolenskSGR">(<i>амаллык, дышем</i>)</font> <tg xml:lang="fin"> <t>kätevyys, näppäryys</t> </tg> </mg> <mg ind="2th"><defNative>луонлык</defNative> <tg xml:lang="fin"> <t>mahdollisuus</t> </tg> </mg> </e>
+<e> <lg><l pos="N">быгатэм</l><orig>быгатэм</orig> </lg> <mg ind="1th"><drvg><inflect type="Der/Эм" drv="Prc"/><stem>быгатыны</stem></drvg> </mg> <mg ind="2th"><defNative>маке карыны валам</defNative> <tg xml:lang="fin"> <t>taito, taitavuus, osaaminen;</t> </tg><font face="SmolenskSGR">(<i>амаллык, дышем</i>)</font> <tg xml:lang="fin"> <t>kätevyys, näppäryys;</t> </tg><font face="SmolenskSGR">(<i>быгатонлык</i>)</font> <tg xml:lang="fin"> <t>kyky, pystyvyys</t> </tg> </mg> </e>
+<e> <lg> <l pos="N">быгы</l><orig>быгы</orig> </lg> <mg ind="1th"> <tg xml:lang="fin"> <t>hahtuva(t)</t> <re>voikukassa, lintujen takapuolessa</re>; </tg> <xg><x>лудкеч быгы</x> <xt xml:lang="fin">jäniksen hännäntypykkä (t. töpöhäntä)</xt> </xg> </mg> <mg ind="2th"> <field>kansat.</field> <tg xml:lang="fin"> <t>nauhus, nauhakoriste; tupsu, töyhtö</t> <re>hevosvaljakon t. naisen puvun koriste</re> </tg> </mg> </e>
+<e> <lg> <l pos="N">быгыли</l><orig>быгыли</orig> </lg> <mg><range>murt.</range> <mg ind="1th"/><defNative>аньы</defNative> <tg xml:lang="fin"> <t>pellavalyhde, hamppulyhde</t> <re>neljän kourallisen</re> </tg> </mg> <mg ind="2th"><defNative>кырым етӥн, пыш</defNative> <tg xml:lang="fin"> <t>kourallinen (t. kimppu) pellavaa (t. hamppua)</t> </tg> </mg> <mg ind="3th"><defNative>нугыли</defNative> <tg xml:lang="fin"> <t>vermiselli, lankamakaroni</t> <re>valmistettu happamesta taikinasta kotona</re> </tg> </mg> </e>
+<e> <lg> <l pos="N">быгыллян</l><orig>быгыллян</orig> </lg> <mg><drvg><inflect type="Der/Он" drv="V»N"/><stem>быгылляны</stem></drvg> </mg> </e>
+<e> <lg> <l pos="N">быгыльмон</l><orig>быгыльмон</orig> </lg> <mg ind="1th"><defNative>быглес луон</defNative> <tg xml:lang="fin"> <t>pyöristyminen</t> </tg> </mg> <mg ind="2th"><defNative>биниськон</defNative> <tg xml:lang="fin"> <t>kiertyminen</t> <re>rullalle, rullaksi</re>; </tg><font face="SmolenskSGR">(<i>гынмон</i>)</font> <tg xml:lang="fin"> <t>vanuminen</t> <re>villan</re> </tg> </mg> <mg ind="3th"><defNative>ныжомон</defNative> <tg xml:lang="fin"> <t>tylsyminen</t> <re>veitsen, kynän</re> </tg> </mg> <mg ind="4th"> <senseType>kuv.</senseType><defNative>кыл с-сь</defNative> <tg xml:lang="fin"> <t>kangertaminen</t> <re>kielen</re> </tg> </mg> </e>
+<e> <lg> <l pos="N">быгыльскон</l><orig>быгыльскон</orig> </lg> <mg><drvg><inflect type="Der/Он" drv="V»N"/><stem>быгыльскыны</stem></drvg> </mg> </e>
+<e> <lg><l pos="N">быгыльтӥськон</l><orig>быгыльтӥськон</orig> <variants> <l_syn>быгыльтӥськыны</l_syn> </variants> </lg> <mg> <variants> <l_syn type="&gt;">быгыльскон, быгыльскыны</l_syn> </variants> </mg> </e>
+<e> <lg> <l pos="N">быгыльтон</l><orig>быгыльтон</orig> </lg> <mg ind="1th"><defNative>быглес карон</defNative> <tg xml:lang="fin"> <t>pyöristäminen</t> </tg> </mg> <mg ind="2th"><defNative>бинён</defNative> <tg xml:lang="fin"> <t>kääriminen, käärintä</t> <re>rullalle, rullaksi</re>; </tg><font face="SmolenskSGR">(<i>гындон</i>)</font> <tg xml:lang="fin"> <t>vanuttaminen</t> <re>villan</re> </tg> </mg> <mg ind="3th"><defNative>ыльнянез</defNative> <tg xml:lang="fin"> <t>kauliminen, kaulinta</t> <re>taikinan</re> </tg> </mg> <mg ind="4th"><defNative>ныжомытон</defNative> <tg xml:lang="fin"> <t>tylsentäminen</t> </tg> </mg> </e>
+<e> <lg> <l pos="N">быгыт</l><orig>быгыт</orig> </lg> <mg ind="1th"><defNative>небыт сӥль</defNative> <tg xml:lang="fin"> <t>liha</t> <re>pehmeä</re> </tg> <tg xml:lang="fin"> <t>,</t> </tg><font face="SmolenskSGR">(<i>тыбырысь</i>)</font> <tg xml:lang="fin"> <t> filee</t> </tg> </mg> <mg ind="2th"><defNative>мышца</defNative> <tg xml:lang="fin"> <t>lihas;</t> </tg> </mg> </e>
+<e> <lg><l pos="N">быгытъёс</l><orig>быгытъёс</orig> </lg> <mg> <tg xml:lang="fin"> <t>lihakset</t> </tg> </mg> </e>
+<e> <lg> <l pos="N">быдӟала</l><orig>быдӟала</orig> </lg> <mg> <tg xml:lang="fin"> <t>koko, suuruus</t> </tg> </mg> </e>
+<e> <lg> <l pos="N">быдӟияськем</l> </lg> <mg> <drvg><inflect type="Der/Эм" drv="Prc"/><stem>быдӟияськыны</stem></drvg> </mg> <mg ind="2th"><defNative>йӧнъяськем</defNative> <tg xml:lang="fin"> <t>nokkavasti (t. nenäkkäästi, koppavasti, kopeasti) käyttäytyminen; nokkavuus, nenäkkyys, koppavuus</t> </tg> </mg> <mg ind="3th"> <font face="SmolenskSGR">(<i>вогъяськем) </i></font> <tg xml:lang="fin"> <t>oikuttelu, oikkuilu, kiukuttelu</t> </tg> </mg> </e>
+<e> <lg> <l pos="N">быдӟияськон</l><orig>быдӟияськон</orig> </lg> <mg ind="1th"><defNative>йӧнъяськон</defNative> <tg xml:lang="fin"> <t>nokkavasti (t. nenäkkäästi, koppavasti, kopeasti) käyttäytyminen; nokkavuus, nenäkkyys, koppavuus</t> </tg> </mg> <mg ind="2th"><defNative>вогъяськон</defNative> <tg xml:lang="fin"> <t>oikuttelu, oikkuilu, kiukuttelu</t> </tg> </mg> </e>
+<e> <lg><l pos="N">быдӟыматон</l><orig>быдӟыматон</orig> </lg> <mg ind="1th"> <tg xml:lang="fin"> <t>maineeseen saattaminen (t. nosto, nostaminen)</t> </tg> </mg> <mg ind="2th"><variants> <l_syn type="&gt;">бадӟыматон</l_syn> </variants> </mg> </e>
+<e> <lg> <l pos="N">быдӟымлык</l><orig>быдӟымлык</orig> </lg> <mg> <tg xml:lang="fin"> <t>suuruus, valtavuus</t> </tg><font face="SmolenskSGR"><b>быдмон </b></font><drvg><inflect type="Der/Он" drv="V»N"/><stem>быдмыны</stem></drvg> </mg> </e>
+<e> <lg> <l pos="N">быдтон</l><orig>быдтон</orig> </lg> <mg ind="1th"><defNative>йылпумъян</defNative> <tg xml:lang="fin"> <t>päättäminen, lopettaminen, loppuun suorittaminen (t. saattaminen)</t> </tg> </mg> <mg ind="2th"><defNative>ӵушон, куштон</defNative> <tg xml:lang="fin"> <t>hävittäminen, hävitys, tuhoaminen, poistaminen, poisto</t> </tg> </mg> <mg ind="3th"><defNative>виён</defNative> <tg xml:lang="fin"> <t>tuhoaminen, tappaminen;</t> </tg><font face="SmolenskSGR">(<i>сӧрон, бырон калэ вуттон</i>)</font> <tg xml:lang="fin"> <t>turmioon saattaminen</t> </tg> </mg> <mg ind="4th"><defNative>бырытозь уже кутон</defNative> <tg xml:lang="fin"> <t>(loppuun) kuluttaminen, kulutus;</t> </tg><font face="SmolenskSGR">(<i>юнме быдтон</i>)</font> <tg xml:lang="fin"> <t>hukkaaminen, tuhlaaminen</t> </tg> </mg> </e>
+<e> <lg> <l pos="N">быдтырзэ</l><orig>быдтырзэ</orig> </lg> <mg> <tg xml:lang="fin"> <t>aina, jatkuvasti, lakkaamatta; ainiaaksi, iäksi</t> </tg> </mg> </e>
+<e> <lg> <l pos="N">быдэскон</l><orig>быдэскон</orig> </lg> <mg> <tg xml:lang="fin"> <t>valmistautuminen, hankkiutuminen</t> </tg> </mg> </e>
+<e> <lg> <l pos="N">быдэслык</l><orig>быдэслык</orig> </lg> <mg> <tg xml:lang="fin"> <t>eheys, yhtenäisyys;</t> </tg> <xg><x>улосвыл быдэслык</x> <xt xml:lang="fin">alueellinen yhtenäisyys</xt> </xg> </mg> </e>
+<e> <lg> <l pos="N">быдэсмон</l><orig>быдэсмон</orig> </lg> <mg><drvg><inflect type="Der/Он" drv="V»N"/><stem>быдэсмыны</stem></drvg> </mg> </e>
+<e> <lg> <l pos="N">быдэстӥськон</l><orig>быдэстӥськон</orig> </lg> <mg ind="1th"><defNative>пӧрмон, быдэсмон</defNative> <tg xml:lang="fin"> <t>täyttyminen, toteutuminen</t> </tg> </mg> <mg ind="2th"><defNative>йылпумъяськон</defNative> <tg xml:lang="fin"> <t>päättyminen, loppuminen</t> </tg> </mg> </e>
+<e> <lg> <l pos="N">быдэстон</l><orig>быдэстон</orig> </lg> <mg> <tg xml:lang="fin"> <t>(loppuun) suorittaminen, toteuttaminen, täyttäminen, päättäminen</t> </tg> </mg> </e>
+<e> <lg> <l pos="N">быдэсъян</l><orig>быдэсъян</orig> <variants> <l_syn>быдэсъяны</l_syn> </variants> </lg> <mg><note><i>iter.</i></note> <variants> <l_syn type="&gt;">быдэстон, быдэстыны</l_syn> </variants> </mg> </e>
+<e> <lg> <l pos="N">быдэсъяськон</l><orig>быдэсъяськон</orig> <variants> <l_syn>быдэсъяськыны</l_syn> </variants> </lg> <mg><note><i>iter.</i></note> <variants> <l_syn type="&gt;">быдэстӥськон, быдэстӥськыны</l_syn> </variants> </mg> </e>
+<e> <lg> <l pos="N">быж</l><orig>быж</orig> </lg> <mg><font face="SmolenskSGR">(<b>=ыз</b>)</font> <font face="SmolenskSGR">(<i>пӧйшурлэн</i>)</font> <tg xml:lang="fin"> <t>häntä;</t> </tg><font face="SmolenskSGR">(<i>чорыглэн, тылобурдолэн, самолётлэн</i>)</font> <tg xml:lang="fin"> <t>pyrstö;</t> </tg><font face="SmolenskSGR">(<i>парсьлэн</i>)</font> <tg xml:lang="fin"> <t>saparo;</t> </tg> <xg><x>ӟичылэн быжыз</x> <xt xml:lang="fin">ketun häntä;</xt> </xg> <xg><x>самолётлэн быжыз</x> <xt xml:lang="fin">lentokoneen pyrstö</xt> </xg>◊ <font face="SmolenskSGR"><b>быжзэ сётыны </b></font><note><i>ark.</i></note> <tg xml:lang="fin"> <t>heittää veivinsä, oikaista koipensa</t> </tg> </mg> </e>
+<e> <lg><l pos="N">быз<rom ind="1"/></l> </lg> <mg><field>el.</field> <tg xml:lang="fin"> <t>sontiainen, sittiäinen</t> <re>Geotrupes</re>; </tg> <variants> <l_syn type="&gt;">бокро<rom ind="1"/></l_syn> </variants> </mg> </e>
+<e> <lg><l pos="N">быз<rom ind="2"/></l> </lg> <mg><defNative>крезьгур инструмент</defNative> <tg xml:lang="fin"> <t>säkkipilli</t> </tg> </mg> </e>
+<e> <lg> <l pos="N">бызара</l><orig>бызара</orig> </lg> <mg><field>el.</field> <mg ind="1th"/><defNative>кырчайы</defNative> <tg xml:lang="fin"> <t>hilleri</t> <re>Putorius</re> </tg> </mg> <mg ind="2th"> <range>murt.</range><font face="SmolenskSGR">(<i>суслик</i>)</font> <tg xml:lang="fin"> <t>siiseli, suslikki</t> </tg><note>(<i>Citellus)</i></note> </mg> </e>
+<e> <lg> <l pos="N">бызгетон</l><orig>бызгетон</orig> </lg> <mg ind="1th"> <tg xml:lang="fin"> <t>suriseminen, päriseminen</t> </tg> </mg> <mg ind="2th"> <senseType>kuv.</senseType><defNative>нукыртон</defNative> <tg xml:lang="fin"> <t>muriseminen, murina</t> <re>ihmisen</re> </tg> </mg> <mg ind="3th"> <senseType>kuv.</senseType><defNative>бӧрдон</defNative> <tg xml:lang="fin"> <t>(hiljainen) itkeminen (t. itku), nyyhkyttäminen, nyyhkytys</t> </tg> </mg> </e>
+<e> <lg> <l pos="N">бызгетэм</l> </lg> <mg><drvg><inflect type="Der/Эм" drv="Prc"/><stem>бызгетыны</stem></drvg> </mg> <mg ind="2th"><tg xml:lang="fin"> <t>surina, suriseminen, pärinä, päriseminen</t> </tg> </mg> <mg ind="3th"> <senseType>kuv.</senseType><defNative>нукыртэм</defNative> <tg xml:lang="fin"> <t>murina</t> </tg> </mg> <mg> <tg xml:lang="fin"> <t>muriseminen</t> <re>ihmisen</re> </tg> </mg> <mg ind="4th"> <senseType>kuv.</senseType><defNative>бӧрдэм</defNative> <tg xml:lang="fin"> <t>(hiljainen) itku (t. itkeminen), nyyhkytys, nyyhkyttäminen</t> </tg> </mg> </e>
+<e> <lg> <l pos="N">бызён</l><orig>бызён</orig> </lg> <mg ind="1th"><defNative>бызьыса мынон</defNative> <tg xml:lang="fin"> <t>juokseminen, juoksu</t> </tg> </mg> <mg ind="2th"><defNative>шур, ву</defNative> <tg xml:lang="fin"> <t>virtaaminen, virtaus</t> </tg> </mg> <mg ind="3th"><defNative>нылкышно</defNative> <tg xml:lang="fin"> <t>naimisiin meno</t> <re>naisen</re> </tg> </mg> </e>
+<e> <lg> <l pos="N">бызырмон</l><orig>бызырмон</orig> </lg> <mg><defNative>шенӟиян</defNative> <tg xml:lang="fin"> <t>rypistyminen, näivettyminen</t> <re>perunan</re>; </tg><font face="SmolenskSGR">(<i>шымырскон</i>)</font> <tg xml:lang="fin"> <t>kuristuminen</t> </tg> </mg> </e>
+<e> <lg><l pos="N">бызьги</l><orig>бызьги</orig> </lg> <mg><field>anat.</field> <tg xml:lang="fin"> <t>häntäluu; ristiluu</t> </tg></mg> </e>
+<e> <lg><l pos="N">бызьылон</l></lg> <mg><drvg><inflect type="Der/Он" drv="V»N"/><stem>бызьылыны</stem></drvg> </mg> </e>
+<e> <lg> <l pos="N">бызьылытон</l><orig>бызьылытон</orig> </lg> <mg><drvg><inflect type="Der/Он" drv="V»N"/><stem>бызьылытыны</stem></drvg> </mg> </e>
+<e> <lg> <l pos="N">быльккессин</l><orig>быльккессин</orig> </lg> <mg><field>el.</field> <tg xml:lang="fin"> <t>kiiski</t> <re>Acerina cernua</re> </tg> </mg> </e>
+<e> <lg> <l pos="N">быльым</l><orig>быльым</orig> </lg> <mg> <tg xml:lang="fin"> <t>lettu, ohukainen;</t> </tg> <variants> <l_syn type="&gt;">мыльым</l_syn> </variants> </mg> </e>
+<e> <lg> <l pos="N">бырдан</l><orig>бырдан</orig> </lg> <mg ind="1th"> <tg xml:lang="fin"> <t>(jäähän) kohvettuminen, jäähän peittyminen</t> </tg> </mg> <mg ind="2th"> <senseType>kuv.</senseType><defNative>ӟонгыран</defNative> <tg xml:lang="fin"> <t>kohmettuminen, kangistuminen, jäykistyminen</t> </tg> </mg> </e>
+<e> <lg> <l pos="N">быректон</l><orig>быректон</orig> </lg> <mg ind="1th"><defNative>пӧзён</defNative> <tg xml:lang="fin"> <t>kiehahtaminen</t> </tg> </mg> <mg ind="2th"><defNative>пӧзьтон</defNative> <tg xml:lang="fin"> <t>kiehauttaminen</t> </tg> </mg> </e>
+<e> <lg> <l pos="N">бырекъян</l><orig>бырекъян</orig> <variants> <l_syn>бырекъяны</l_syn> </variants> </lg> <mg><note><i>frekv. ja iter.</i></note> <variants> <l_syn type="&gt;">быректон, быректыны</l_syn> </variants> </mg> </e>
+<e> <lg> <l pos="N">быреч</l><orig>быреч</orig> </lg> <mg><range>murt.</range> <tg xml:lang="fin"> <t>taimilava;</t> </tg> <variants> <l_syn type="&gt;">бреч</l_syn> </variants> </mg> </e>
+<e> <lg><l pos="N">бырйиськон</l> </lg> <mg><defNative>бырйыса улон</defNative> <tg xml:lang="fin"> <t>valikointi</t> </tg> </mg> <mg ind="2th"><defNative>пӧдылляськон, тэрган</defNative> <tg xml:lang="fin"> <t>nirsoilu, valikointi</t> </tg></mg> </e>
+<e> <lg><l pos="N">быркыт</l><orig>быркыт</orig> </lg> <mg><field>el.</field> <tg xml:lang="fin"> <t>maakotka</t> <re>Aquila chrysaetus</re> </tg> </mg> </e>
+<e> <lg> <l pos="N">бырон</l><orig>бырон</orig> </lg> <mg ind="1th"><drvg><inflect type="Der/он" drv="V»N"/><stem>бырыны</stem></drvg> </mg> <mg ind="2th"><defNative>пумъяськон</defNative> <tg xml:lang="fin"> <t>loppu(minen), päättyminen, kulu(minen)</t> </tg> </mg> <mg ind="3th"><defNative>ышон</defNative> <tg xml:lang="fin"> <t>kato(aminen), häviäminen, ehtyminen</t> </tg> </mg> <mg ind="4th"><defNative>кулон</defNative> <tg xml:lang="fin"> <t>tuho, turmio, hukka, kuolema</t> </tg> </mg> </e>
+<e> <lg><l pos="N">бырттӥськон</l><orig>бырттӥськон</orig> </lg> <mg> <tg xml:lang="fin"> <t>meneminen, meno</t> <re>sisään</re> </tg> <tg xml:lang="fin"> <t>, pujottautuminen</t> </tg> </mg> </e>
+<e> <lg> <l pos="N">бырттон</l><orig>бырттон</orig> </lg> <mg ind="1th"><defNative>писъян, месон</defNative> <tg xml:lang="fin"> <t>pujottaminen, pujotus</t> </tg> </mg> <mg ind="2th"><defNative>юнматон</defNative> <tg xml:lang="fin"> <t>kiinnittäminen</t> <re>neulalla, sitomalla</re> </tg> <tg xml:lang="fin"> <t>, (kiinni) ompelu</t> </tg> </mg> </e>
+<e> <lg> <l pos="N">быръён</l><orig>быръён</orig> </lg> <mg ind="1th"> <tg xml:lang="fin"> <t>valitseminen, valinta, valikointi, lajittelu</t> </tg> </mg> <mg ind="2th"> <font face="SmolenskSGR"><b>быръёнъёс </b></font><note><i>mon.</i></note> <tg xml:lang="fin"> <t>vaalit</t> </tg> </mg> </e>
+<e> <lg> <l pos="N">быткон</l><orig>быткон</orig> </lg> <mg><field>el.</field> <tg xml:lang="fin"> <t>(ranta)törö</t> <re>Gobio go- bio</re>; </tg> <variants> <l_syn type="&gt;">чукырна</l_syn> </variants> </mg> </e>
+<e> <lg> <l pos="N">бычкы</l><orig>бычкы</orig> </lg> <mg> <tg xml:lang="fin"> <t>saha;</t> </tg> <variants> <l_syn type="&gt;">пила</l_syn> </variants> </mg> </e>
+<e> <lg><l pos="N">бычы<rom ind="1"/></l> </lg> <mg><field>kasv.</field><font face="SmolenskSGR">(<i>пучы</i>)</font> <tg xml:lang="fin"> <t>silmu;</t> </tg><font face="SmolenskSGR">(<i>пушъет</i>)</font> <tg xml:lang="fin"> <t>itu</t> </tg> </mg> </e>
+<e> <lg><l pos="N">бычы<rom ind="2"/></l> </lg> <mg> <tg xml:lang="fin"> <t>solki;</t> </tg> <xg><x>е бычы</x> <xt xml:lang="fin">(nahka)vyön solki</xt> </xg> </mg> </e>
+<e> <lg> <l pos="N">бычыран</l><orig>бычыран</orig> </lg> <mg ind="1th"><defNative>музъемысь потон</defNative> <tg xml:lang="fin"> <t>(läpi) kasvu (t. kasvaminen);</t> </tg><font face="SmolenskSGR">(<i>ныръяськон, удан</i>)</font> <tg xml:lang="fin"> <t>silmikointi, itäminen;</t> </tg><font face="SmolenskSGR">(<i>куаръёс с-сь</i>)</font> <tg xml:lang="fin"> <t>(lehteen) puhkeaminen</t> </tg> </mg> <mg ind="2th"><defNative>нюлам, синву с-сь</defNative> <tg xml:lang="fin"> <t>kihoaminen, nouseminen, kasvu</t> <re>hien, kyyneleiden</re> </tg> </mg> </e>
+<e> <lg><l pos="N">бычыян<rom ind="1"/></l> </lg> <mg><defNative>ныръяськон, удан</defNative> <tg xml:lang="fin"> <t>silmikointi, itäminen;</t> </tg><font face="SmolenskSGR">(<i>куаръёс с-сь</i>)</font> <tg xml:lang="fin"> <t>(lehteen) puhkeaminen</t> </tg> </mg> </e>
+<e> <lg><l pos="N">бычыян<rom ind="2"/></l> </lg> <mg><defNative>еэз</defNative> <tg xml:lang="fin"> <t>solkeen paneminen, soljella kiinnittäminen</t> </tg> </mg> </e>
+<e> <lg> <l pos="N">бышкалскон</l><orig>бышкалскон</orig> </lg> <mg ind="1th"><defNative>маин ке</defNative> <tg xml:lang="fin"> <t>itsensä pistäminen</t> </tg> </mg> <mg ind="2th"><defNative>пырон, мертчон</defNative> <tg xml:lang="fin"> <t>työntyminen, meneminen, meno</t> <re>sisään</re> </tg> <tg xml:lang="fin"> <t>, tunkeutuminen</t> </tg> </mg> </e>
+<e> <lg><l pos="N">бышкалтӥськон</l><orig>бышкалтӥськон</orig> <variants> <l_syn>бышкалтӥськыны</l_syn> </variants> </lg> <mg> <variants> <l_syn type="&gt;">бышкалскон, бышкалскыны</l_syn> </variants> </mg> </e>
+<e> <lg> <l pos="N">бышкалтон</l><orig>бышкалтон</orig> </lg> <mg ind="1th"> <tg xml:lang="fin"> <t>pistäminen</t> </tg> </mg> <mg ind="2th"><defNative>бырттон</defNative> <tg xml:lang="fin"> <t>kiinnittäminen</t> <re>haka-, nuppineulalla</re> </tg><drvg>бышкалтыны</drvg></mg> </e>
+<e> <lg> <l pos="N">бышкан</l><orig>бышкан</orig> </lg> <mg> <tg xml:lang="fin"> <t>pistäminen, pistely, tökkiminen, tökintä;</t> </tg><drvg>бышканы<note><i>iter.</i></note></drvg> </mg> </e>
+<e> <lg> <l pos="N">бышкаськон</l><orig>бышкаськон</orig> <variants> <l_syn>бышкаськыны</l_syn> </variants> </lg> <mg> <variants> <l_syn type="&gt;">бышкиськон 1, бышкиськыны<rom ind="0_1"/></l_syn> </variants> </mg> </e>
+<e> <lg><l pos="N">бышкиськон</l><orig>бышкиськон</orig> </lg> <mg ind="1th"> <tg xml:lang="fin"> <t>pistely, pistäminen</t> </tg> </mg> <mg ind="2th"> <senseType>kuv.</senseType><defNative>исаськон</defNative> <tg xml:lang="fin"> <t>härnäily, kiusoittelu</t> </tg> </mg> </e>
+<e> <lg> <l pos="N">бышкон</l><orig>бышкон</orig> </lg> <mg ind="1th"> <tg xml:lang="fin"> <t>pistäminen, pistely, tökkääminen, tökkäys, tökkiminen, tökintä</t> </tg> </mg> <mg ind="2th"> <senseType>kuv.</senseType><defNative>исан, исамес карон</defNative> <tg xml:lang="fin"> <t>härnääminen, kiusoittelu</t> </tg> </mg> </e>
+<e> <lg> <l pos="N">бюджет</l><orig>бюджет</orig> </lg> <mg> <tg xml:lang="fin"> <t>budjetti;</t> </tg> <variants> <l_syn type="&gt;">коньдэт</l_syn> </variants> </mg> </e>
+<e> <lg> <l pos="N">бюллетень</l><orig>бюллетень</orig> </lg> <mg ind="1th"><defNative>ивор тодытон</defNative> <tg xml:lang="fin"> <t>tiedotuslehti, tiedonanto</t> </tg> </mg> <mg ind="2th"><defNative>быръёнъёсын</defNative> <tg xml:lang="fin"> <t>vaalilippu</t> </tg> </mg> <mg ind="3th"><defNative>висем с-сь</defNative> <tg xml:lang="fin"> <t>sairaustodistus</t> </tg> </mg> </e>
+<e> <lg> <l pos="N">бюро</l><orig>бюро</orig> </lg> <mg> <tg xml:lang="fin"> <t>toimisto</t> </tg> </mg> </e>
+<e> <lg><l pos="N">бюрократ</l><orig>бюрократ</orig> </lg> <mg> <tg xml:lang="fin"> <t>byrokraatti</t> </tg> </mg> </e>
+<e> <lg><l pos="N">бюрократи</l><orig>бюрокраʼти</orig> </lg> <mg> <tg xml:lang="fin"> <t>byrokratia, virkavaltaisuus // byrokraattinen, virkavaltainen</t> </tg> </mg> </e>
+<e> <lg> <l pos="N">бюрократизм</l><orig>бюрократизм</orig> </lg> <mg> <tg xml:lang="fin"> <t>byrokratia, virkavaltaisuus</t> </tg> </mg> </e>
+<e> <lg> <l pos="N">бюрократия</l><orig>бюрокраʼтия</orig> </lg> <mg> <tg xml:lang="fin"> <t>byrokratia, virkavaltaisuus</t> </tg> </mg> </e>
+<e> <lg> <l pos="N">бюст</l><orig>бюст</orig> </lg> <mg> <tg xml:lang="fin"> <t>rintakuva(veistos)</t> </tg> </mg> </e>
+<e> <lg><l pos="N">вагон</l><orig>вагон</orig> </lg> <mg> <tg xml:lang="fin"> <t>vaunu</t> </tg> </mg> </e>
+<e> <lg> <l pos="N">вад</l><orig>вад</orig> </lg> <mg><field>el.</field><font face="SmolenskSGR">(<i>вудор</i>)</font> <tg xml:lang="fin"> <t>saukko</t> <re>Lutra lutra</re> </tg> </mg> <mg ind="2th"> <range>murt.</range><font face="SmolenskSGR">(<i>мый</i>)</font> <tg xml:lang="fin"> <t>majava</t> <re>Castor fiber</re> </tg> </mg> </e>
+<e> <lg> <l pos="N">вадес</l><orig>вадес</orig> </lg> <mg><font face="SmolenskSGR">(<b>вадескыз, вадьсыз, вадесэз</b>)</font> <mg ind="1th"/><defNative>дыр</defNative> <tg xml:lang="fin"> <t>ajankohta, aika, hetki, jakso, vaihe, tienoo;</t> </tg> <xg><x>лымшор вадес</x> <xt xml:lang="fin">puolipäivän tienoo; puolipäivän tienoissa;</xt> </xg> <xg><x>одӥг вадес</x> <xt xml:lang="fin">yhteen aikaan</xt> </xg> </mg> <mg ind="2th"><defNative>инты</defNative> <tg xml:lang="fin"> <t>kohta, paikka;</t> </tg> <xg><x>вадессэ шедьтыны</x> <xt xml:lang="fin">löytää (tarvittava) kohta;</xt> </xg> <xg><x>лек вадесказ йӧтыны</x> <xt xml:lang="fin">osua kipeään (t. arkaan) kohtaan;</xt> </xg> <xg><x>кутскы та вадескысен</x> <xt xml:lang="fin">ala tästä kohtaa (t. kohdasta)</xt> </xg> </mg> <mg ind="3th"> <pos ind="Po_Stem"/> <variants> <l_syn type="&gt;">вадескозь</l_syn> </variants><font face="SmolenskSGR">(<b>вадесозь</b>)</font><font face="SmolenskSGR"><b>, вадескы </b></font><font face="SmolenskSGR">(<b>вадесы, вадесэ</b>)</font><font face="SmolenskSGR"><b>, вадескын </b></font><font face="SmolenskSGR">(<b>вадесын</b>)</font><font face="SmolenskSGR"><b>, вадескысен </b></font><font face="SmolenskSGR">(<b>вадесысен</b>)</font><font face="SmolenskSGR"><b>, вадескысь </b></font><font face="SmolenskSGR">(<b>вадесысь</b>)</font><font face="SmolenskSGR"><b>, вадескытӥ </b></font><font face="SmolenskSGR">(<b>вадестӥ</b>)</font> </mg> </e>
+<e> <lg> <l pos="N">вадьсан</l><orig>вадьсан</orig> </lg> <mg ind="1th"><defNative>пумитан</defNative> <tg xml:lang="fin"> <t>tapaaminen</t> <re>paikalla</re> </tg> <tg xml:lang="fin"> <t>, yllättäminen</t> </tg> </mg> <mg ind="2th"><defNative>эсэпан</defNative> <tg xml:lang="fin"> <t>kaavailu, suunnittelu, sovittaminen</t> </tg> </mg> </e>
+<e> <lg> <l pos="N">вадьсаськон</l><orig>вадьсаськон</orig> </lg> <mg><drvg><inflect type="Der/Он" drv="V»N"/><stem>вадьсаськыны</stem></drvg> </mg> </e>
+<e> <lg> <l pos="N">ваёбыж</l><orig>ваёбыж</orig> </lg> <mg><field>el.</field> <tg xml:lang="fin"> <t>pääsky(nen), haarapääsky</t> <re>Hirundo</re> </tg> </mg> </e>
+<e> <lg> <l pos="N">ваён</l><orig>ваён</orig> </lg> <mg ind="1th"> <tg xml:lang="fin"> <t>tuominen, kantaminen, tuottaminen</t> </tg> </mg> <mg ind="2th"><defNative>пиян</defNative> <tg xml:lang="fin"> <t>synnyttäminen, synnytys;</t> </tg> <xg> <x>нылпи ваён</x> <x>пинал ваён</x> <xt xml:lang="fin">lapsen synnyttäminen (t. synnytys)</xt> </xg>◊ <xg><x>буре ваён</x> <xt xml:lang="fin">hyvällä muistelu;</xt> </xg><font face="SmolenskSGR"><b>тодэ ваён </b></font><mwemg ind="1th"/> <tg xml:lang="fin"> <t>muistaminen</t> </tg><mwemg ind="2th"/><defNative>выльысь дышетон</defNative> <tg xml:lang="fin"> <t>kertaaminen</t> </tg> </mg> </e>
+<e> <lg> <l pos="N">ваза</l><orig>ваʼза</orig> </lg> <mg> <tg xml:lang="fin"> <t>maljakko</t> </tg> </mg> </e>
+<e> <lg> <l pos="N">вазелин</l><orig>вазелин</orig> </lg> <mg> <tg xml:lang="fin"> <t>vaseliini</t> </tg> </mg> </e>
+<e> <lg><l pos="N">вазем</l><orig>вазем</orig> </lg> <mg ind="1th"><drvg><inflect type="Der/Эм" drv="Prc"/><stem>вазьыны </stem></drvg> </mg> <mg ind="2th"><defNative>кылӥськем</defNative> <tg xml:lang="fin"> <t>kuuluminen</t> <re>äänen</re> </tg> <tg xml:lang="fin"> <t>, sointi</t> </tg> </mg> <mg ind="3th"><defNative>пумитад верам, куаретэм</defNative> <tg xml:lang="fin"> <t>vastaus, vastaaminen</t> <re>puheeseen, huutoon</re> </tg> </mg> <mg ind="4th"><defNative>вазиськем, ӧтем</defNative> <tg xml:lang="fin"> <t>puhe, puhuminen, puheellaan jnk puoleen kääntyminen</t> </tg> </mg> </e>
+<e> <lg> <l pos="N">вазерпинь</l><orig>вазерпинь</orig> </lg> <mg> <tg xml:lang="fin"> <t>kulmahammas;</t> </tg><font face="SmolenskSGR">(<i>сьӧсьёслэн</i>)</font> <tg xml:lang="fin"> <t>torahammas, raateluhammas</t> <re>petoeläimen</re> </tg> </mg> </e>
+<e> <lg> <l pos="N">вазён</l><orig>вазён</orig> </lg> <mg ind="1th"><defNative>кылӥськон</defNative> <tg xml:lang="fin"> <t>kuuluminen</t> <re>äänen</re> </tg> <tg xml:lang="fin"> <t>, soiminen, sointi;</t> </tg> <xg><x>гырлы вазён</x> <xt xml:lang="fin">kellon soitto (t. kumina)</xt> </xg> </mg> <mg ind="2th"><defNative>пумитад веран, куаретон</defNative> <tg xml:lang="fin"> <t>vastaaminen, vastaus</t> <re>puheeseen, huutoon</re> </tg> </mg> <mg ind="3th"><defNative>вазиськон, ӧтён</defNative> <tg xml:lang="fin"> <t>puhuminen, puhe, (puheellaan) jnk puoleen kääntyminen</t> </tg> </mg> </e>
+<e> <lg> <l pos="N">вазёнкыл</l><orig>вазёнкыл</orig> </lg> <mg><field>kiel.</field> <tg xml:lang="fin"> <t>interjektio;</t> </tg> <variants> <l_syn type="&gt;">междометие</l_syn> </variants> </mg> </e>
+<e> <lg> <l pos="N">вазиськон</l><orig>вазиськон</orig> </lg> <mg ind="1th"> <tg xml:lang="fin"> <t>puheellaan jnk puoleen kääntyminen, julistus, vetoomus;</t> </tg> <xg><x>калыклы вазиськон</x> <xt xml:lang="fin">julistus (t. vetoomus) kansalle</xt> </xg> </mg> <mg ind="2th"><defNative>пумитад веран, куаретон</defNative> <tg xml:lang="fin"> <t>vastaaminen, vastaus</t> <re>puheeseen, huutoon</re> </tg> </mg> <mg ind="3th"> <field>kiel.</field> <tg xml:lang="fin"> <t>puhuttelu;</t> </tg> <variants> <l_syn type="&gt;">обращение</l_syn> </variants> </mg> </e>
+<e> <lg><l pos="N">вазь</l> </lg> <mg><note><i>s. kasv.</i></note> <tg xml:lang="fin"> <t>spelttivehnä</t> </tg></mg> </e>
+<e> <lg><l pos="N">вай<rom ind="1"/></l> </lg> <mg><note><i>s.</i></note> <mg ind="1th"/><defNative>улвай</defNative> <tg xml:lang="fin"> <t>oksa</t> </tg> </mg> <mg ind="2th"><defNative>люкиськем, висъяськем маке</defNative> <tg xml:lang="fin"> <t>haara(uma)</t> </tg> </mg> </e>
+<e> <lg> <l pos="N">вайыж</l><orig>вайыж</orig> </lg> <mg> <tg xml:lang="fin"> <t>aisa</t> </tg> </mg> </e>
+<e> <lg> <l pos="N">вайян</l><orig>вайян</orig> </lg> <mg><drvg><inflect type="Der/Он" drv="V»N"/><stem>вайяны</stem></drvg> </mg> </e>
+<e> <lg> <l pos="N">вайяськон</l><orig>вайяськон</orig> </lg> <mg><drvg><inflect type="Der/Он" drv="V»N"/><stem>вайяськыны</stem></drvg> </mg> </e>
+<e> <lg> <l pos="N">вакчиёмон</l><orig>вакчиёмон</orig> </lg> <mg> <tg xml:lang="fin"> <t>lyhentyminen, lyhennys, lyheneminen</t> </tg> </mg> </e>
+<e> <lg> <l pos="N">вакчиёмытон</l><orig>вакчиёмытон</orig> </lg> <mg> <tg xml:lang="fin"> <t>lyhentäminen, lyhennys</t> </tg> </mg> </e>
+<e> <lg> <l pos="N">вакчиян</l> <variants> <l_syn type="&gt;">вакчиёмон</l_syn> </variants> </lg> <mg> </mg> </e>
+<e> <lg> <l pos="N">вакчиятон</l><orig>вакчиятон</orig> </lg> <mg ind="1th"> <tg xml:lang="fin"> <t>lyhentäminen, lyhennys</t> </tg> </mg> <mg ind="2th"> <field>kiel.</field> <tg xml:lang="fin"> <re>вакчиятэм кыл</re> <t>lyhenne</t> </tg> </mg> </e>
+<e> <lg> <l pos="N">вакыт</l><orig>вакыт</orig> </lg> <mg> <tg xml:lang="fin"> <t>aika; (aika)kausi, (ajan)jakso, vaihe;</t> </tg> <xg><x>улонлэн выль вакытэз</x> <xt xml:lang="fin">elämän uusi vaihe;</xt> </xg> <xg><x>кезьыт вакыт</x> <xt xml:lang="fin">kylmä kausi</xt> </xg> </mg> </e>
+<e> <lg><l pos="N">вал<rom ind="1"/></l> </lg> <mg><note><i>s.</i></note> <tg xml:lang="fin"> <t>hevonen;</t> </tg> <xg><x>бурлы вал</x> <xt xml:lang="fin">harmaankimo (hevonen), harmaanpäistärikkö;</xt> </xg><font face="SmolenskSGR"><b>кашка вал</b></font> <variants> <l_syn type="&gt;">сюмъё вал; кельыт вал</l_syn> </variants> <tg xml:lang="fin"> <t>(vaalean)ruskea hevonen;</t> </tg> <xg><x>куло вал</x> <xt xml:lang="fin">(vaalean)ruunikko;</xt> </xg> <xg><x>куӵо вал</x> <xt xml:lang="fin">kirjava hevonen;</xt> </xg> <xg><x>лыз вал</x> <xt xml:lang="fin">harmaa hevonen;</xt> </xg> <xg><x>сари вал</x> <xt xml:lang="fin">voikko hevonen, hallakko;</xt> </xg> <xg><x>сур вал</x> <xt xml:lang="fin">tuhkanharmaa hevonen;</xt> </xg> <xg><x>сюмъё вал</x> <xt xml:lang="fin">laukkipäähevonen, hevonen, jolla on (valkoinen) tähti (t. täplä) otsassa;</xt> </xg> <xg><x>тӧри вал</x> <xt xml:lang="fin">ruskea hevonen, ruunikko;</xt> </xg> <xg><x>чукдор вал</x> <xt xml:lang="fin">rautias hevonen, raudikko;</xt> </xg> <xg><x>вал гид</x> <xt xml:lang="fin">talli;</xt> </xg> <xg><x>вал дурет</x> <xt xml:lang="fin">hevosenkenkä;</xt> </xg> <xg><x>вал вылын</x> <xt xml:lang="fin">ratsain;</xt> </xg><font face="SmolenskSGR"><b>вал вылын ветлыны</b> (<i>я. </i><b>ворттылыны</b>)</font> <tg xml:lang="fin"> <t>ratsastaa;</t> </tg> <xg><x>вал дурыны</x> <xt xml:lang="fin">kengittää hevonen;</xt> </xg> <xg><x>вал утись</x> <xt xml:lang="fin">tallimies, hevos(t)enhoitaja</xt> </xg> </mg> </e>
+<e> <lg> <l pos="N">валан</l><orig>валан</orig> </lg> <mg ind="1th"> <tg xml:lang="fin"> <t>ymmärtäminen, käsittäminen, ymmärrys, ymmärtämys</t> </tg> </mg> <mg ind="2th"><defNative>валанлык</defNative> <tg xml:lang="fin"> <t>käsitys; taitaminen;</t> </tg> <xg><x>солэн та сярысь нокыӵе валанэз ӧвӧл</x> <xt xml:lang="fin">hänellä ei ole tästä minkäänlaista käsitystä</xt> </xg> </mg> <mg ind="3th"><defNative>быгатон</defNative> <tg xml:lang="fin"> <t>osaaminen, taitaminen</t> </tg> </mg> <mg ind="4th"><defNative>понятие</defNative> <tg xml:lang="fin"> <t>käsite;</t> </tg> <xg><x>философи валан</x> <xt xml:lang="fin">filosofinen käsite</xt> </xg> </mg> </e>
+<e> <lg> <l pos="N">валанлык</l><orig>валанлык</orig> </lg> <mg> <tg xml:lang="fin"> <t>käsitys;</t> </tg> <xg><x>огъя валанлык</x> <xt xml:lang="fin">yleiskäsitys</xt> </xg> </mg> </e>
+<e> <lg> <l pos="N">валатон</l><orig>валатон</orig> </lg> <mg ind="1th"><drvg><inflect type="Der/он" drv="V»N"/><stem>валатыны</stem></drvg> </mg> <mg ind="2th"><defNative>валэктон</defNative> <tg xml:lang="fin"> <t>selittäminen, selvittäminen; tulkitseminen</t> </tg> </mg> <mg ind="3th"><defNative>кыллэн пуштросэз</defNative> <tg xml:lang="fin"> <t>merkitys;</t> </tg><font face="SmolenskSGR"><b>выжтэм валатон </b></font><field>kiel.</field> <tg xml:lang="fin"> <t>kuvaannollinen merkitys;</t> </tg><font face="SmolenskSGR"><b>меӵак валатон </b></font><field>kiel.</field> <tg xml:lang="fin"> <t>varsinainen merkitys;</t> </tg> <xg><x>валатон сётыны</x> <xt xml:lang="fin">tarkoittaa;</xt> </xg> <xg><x>кыӵе та кыллэн валатонэз?</x> <xt xml:lang="fin">mikä on tämän sanan merkitys?</xt> </xg> </mg> </e>
+<e> <lg> <l pos="N">валатскон</l><orig>валатскон</orig> </lg> <mg> <tg xml:lang="fin"> <t>oivaltaminen, oivallus, älyäminen</t> </tg> </mg> </e>
+<e> <lg> <l pos="N">валдоргы</l><orig>валдоргы</orig> </lg> <mg> <variants> <l_syn type="&gt;">валкибы</l_syn> </variants> </mg> </e>
+<e> <lg> <l pos="N">валдэйтурын</l><orig>валдэйтурын</orig> </lg> <mg><field>kasv.</field> <tg xml:lang="fin"> <t>peltotaskuruoho</t> <re>Thlaspi arvense</re> </tg> </mg> </e>
+<e> <lg><l pos="N">валес</l><orig>валес</orig> </lg> <mg ind="1th"> <tg xml:lang="fin"> <t>vuode;</t> </tg> <xg><x>валес котыр</x> <xt xml:lang="fin">vuodevaatteet</xt> </xg> </mg> <mg ind="2th"><defNative>тушак</defNative> <tg xml:lang="fin"> <t>patja</t> </tg>◊ <xg><x>валес мертаны</x> <xt xml:lang="fin">virua (t. loikoilla) vuoteessa</xt> </xg> </mg> </e>
+<e> <lg><l pos="N">валёк</l></lg> <mg ind="1th"><defNative>дӥсь миськон валёк</defNative> <tg xml:lang="fin"> <t>kurikka, (pesu)karttu;</t> </tg><defNative>дӥсь тышкан валёк</defNative> <tg xml:lang="fin"> <t>kaulaustukki</t> </tg> </mg> <mg ind="2th"><tg xml:lang="fin"> <t>(veto)karttu, vetovipu;</t> </tg> <xg><x>усы валёк</x> <xt xml:lang="fin">äkeen vetovipu</xt> </xg> </mg> </e>
+<e> <lg> <l pos="N">валён</l><orig>валён</orig> </lg> <mg ind="1th"> <tg xml:lang="fin"> <t>levittäminen; sijaaminen, laittaminen</t> <re>vuoteen</re> </tg> </mg> <mg ind="2th"><defNative>пыд улэ валет</defNative> <tg xml:lang="fin"> <t>alunen, alus;</t> </tg><font face="SmolenskSGR">(<i>пудолы</i>)</font> <tg xml:lang="fin"> <t>aluset, kuivikkeet</t> </tg> </mg> </e>
+<e> <lg> <l pos="N">валиськон</l><orig>валиськон</orig> </lg> <mg> <tg xml:lang="fin"> <t>vuoteen sijaaminen</t> </tg> </mg> </e>
+<e> <lg> <l pos="N">валлапал</l><orig>валлапал</orig> </lg> <mg><font face="SmolenskSGR">(<b>=ыз</b>)</font> <range>puhek.</range> <mg ind="1th"/> <tg xml:lang="fin"> <t>yläpuoli, yläosa</t> </tg> </mg> <mg ind="2th"><defNative>гуртлэн люкетэз</defNative> <tg xml:lang="fin"> <t>kylän yläosa /</t> </tg> <variants> <l_syn type="&gt;">выллапал</l_syn> </variants> </mg> </e>
+<e> <lg> <l pos="N">валтон</l><orig>валтон</orig> </lg> <mg ind="1th"><defNative>китӥ, валэз</defNative> <tg xml:lang="fin"> <t>taluttaminen, vieminen</t> <re>kädestä, suitsista</re> </tg> </mg> <mg ind="2th"><defNative>кивалтон</defNative> <tg xml:lang="fin"> <t>johtaminen</t> </tg> </mg> </e>
+<e> <lg> <l pos="N">валтос</l><orig>валтос</orig> </lg> <mg> <tg xml:lang="fin"> <t>(suoja)väline</t> </tg> </mg> </e>
+<e> <lg> <l pos="N">валтэс</l><orig>валтэс</orig> </lg> <mg ind="1th"> <tg xml:lang="fin"> <t>päällinen, päällys;</t> </tg> <xg><x>валес валтэс</x> <xt xml:lang="fin">patjanpäällinen;</xt> </xg> <xg><x>миндэр валтэс</x> <xt xml:lang="fin">tyynynpäällinen, tyynyliina;</xt> </xg><font face="SmolenskSGR"><b>пӧзь валтэс </b></font><font face="SmolenskSGR">(<i>дэралэсь</i>)</font> <tg xml:lang="fin"> <t>palttinarukkanen,</t> </tg><font face="SmolenskSGR">(<i>кулэсь</i>)</font> <tg xml:lang="fin"> <t>nahkarukkanen</t> <re>pannaan villalapasen päälle</re> </tg> </mg> <mg ind="2th"> <font face="SmolenskSGR">(<b>шаньги валтэс</b>)</font> <font face="SmolenskSGR">(<i>куарнянь</i>)</font> <tg xml:lang="fin"> <t>piirakan pohja;</t> </tg><font face="SmolenskSGR"><b>валтэсэн шаньги </b></font><range>murt.</range> <tg xml:lang="fin"> <t>perunapiirakka</t> <re>muistuttaa muodoltaan karjalanpiirakkaa</re> </tg> </mg> </e>
+<e> <lg> <l pos="N">валчечег</l><orig>валчечег</orig> </lg> <mg><field>el.</field> <tg xml:lang="fin"> <t>västäräkki</t> <re>Motacilla, M. alba</re>; </tg> <variants> <l_syn type="&gt;">чечег<rom ind="0_1"/></l_syn> </variants> </mg> </e>
+<e> <lg> <l pos="N">валчеян</l><orig>валчеян</orig> </lg> <mg ind="1th"> <tg xml:lang="fin"> <t>yhdistäminen, liittäminen</t> <re>yhteen</re> </tg> </mg> <mg ind="2th"><defNative>паръян</defNative> <tg xml:lang="fin"> <t>naittaminen</t> </tg> </mg> </e>
+<e> <lg> <l pos="N">валчеяськон</l><orig>валчеяськон</orig> </lg> <mg><drvg><inflect type="Der/Он" drv="V»N"/><stem>валчеяськыны</stem></drvg> </mg> </e>
+<e> <lg> <l pos="N">валэктон</l><orig>валэктон</orig> </lg> <mg> <tg xml:lang="fin"> <t>selittäminen; selitys;</t> </tg> <xg><x>валантэм кылъёсты валэктон</x> <xt xml:lang="fin">outojen sanojen selittäminen;</xt> </xg><xg> <x>валэктон сётъяны</x> <x>валэктонъёс сётъяны</x> <xt xml:lang="fin">antaa selityksiä</xt> </xg> </mg> </e>
+<e> <lg> <l pos="N">валэкъян</l><orig>валэкъян</orig> </lg> <mg> <tg xml:lang="fin"> <t>selittäminen, selittely</t> </tg> </mg> </e>
+<e> <lg> <l pos="N">валэс</l> </lg> <mg ind="1th"> <tg xml:lang="fin"> <t>touko, kevät=;</t> </tg> <xg><x>валэс бусы</x> <xt xml:lang="fin">toukopelto;</xt> </xg> <xg><x>валэс ю</x> <xt xml:lang="fin">kevätvilja</xt> </xg> </mg> <mg ind="2th"><defNative>пинал пудо</defNative> <tg xml:lang="fin"> <t>nuori</t> <re>karja</re>; </tg> <xg><x>валэс ыж</x> <xt xml:lang="fin">nuori uuhi, karkko</xt> </xg> </mg> </e>
+<e> <lg> <l pos="N">валяс</l><orig>валяс</orig> </lg> <mg> <tg xml:lang="fin"> <t>kaide(puu);</t> </tg> <xg><x>тубат валяс</x> <xt xml:lang="fin">porraskaide, portaiden kaidepuu</xt> </xg> </mg> </e>
+<e> <lg><l pos="N">ваменпу</l><orig>ваменпу</orig> </lg> <mg ind="1th"> <tg xml:lang="fin"> <t>poikkipuu, poikkipiena</t> </tg> </mg> <mg ind="2th"><defNative>ӧс ӵоган</defNative> <tg xml:lang="fin"> <t>(oven)salpa, telki</t> </tg> </mg> <mg ind="3th"> <note><i>kuv.</i></note><range>puhek.</range><font face="SmolenskSGR">(<i>ваменэс адями</i>)</font> <tg xml:lang="fin"> <t>niskoittelija, härkäpää, uppiniska</t> </tg> </mg> </e>
+<e> <lg> <l pos="N">ваменскон</l><orig>ваменскон</orig> </lg> <mg ind="1th"><defNative>вамен луон</defNative> <tg xml:lang="fin"> <t>poikittaiseksi tuleminen (t. tulo)</t> </tg> </mg> <mg ind="2th"> <senseType>kuv.</senseType><defNative>пумит луон</defNative> <tg xml:lang="fin"> <t>niskoittelu, niskurointi; itsepäisyys, itsepintaisuus</t> </tg> </mg> </e>
+<e> <lg> <l pos="N">ваментӥськон</l><orig>ваментӥськон</orig> <variants> <l_syn>ваментӥськыны</l_syn> </variants> </lg> <mg> <variants> <l_syn type="&gt;">ваменскон, ваменскыны</l_syn> </variants> </mg> </e>
+<e> <lg> <l pos="N">ваментон</l><orig>ваментон</orig> </lg> <mg><drvg><inflect type="Der/Он" drv="V»N"/><stem>ваментыны</stem></drvg> </mg> </e>
+<e> <lg> <l pos="N">ваментул</l><orig>ваментул</orig> </lg> <mg><range>puhek.</range><note><i>haukk.</i></note> <tg xml:lang="fin"> <t>niskoittelija, härkäpää, uppiniska</t> </tg> </mg> </e>
+<e> <lg> <l pos="N">ваменъяськон</l><orig>ваменъяськон</orig> </lg> <mg><drvg><inflect type="Der/Он" drv="V»N"/><stem>ваменъяськыны</stem></drvg> </mg> </e>
+<e> <lg> <l pos="N">вамыш</l><orig>вамыш</orig> </lg> <mg> <tg xml:lang="fin"> <t>askel; harppaus</t> </tg> </mg> </e>
+<e> <lg> <l pos="N">вамыштон</l><orig>вамыштон</orig> </lg> <mg> <tg xml:lang="fin"> <t>astuminen; harppaaminen</t> </tg> </mg> </e>
+<e> <lg> <l pos="N">вамышъян</l><orig>вамышъян</orig> </lg> <mg> <tg xml:lang="fin"> <t>astelu, astuminen; harppominen</t> </tg> </mg> </e>
+<e> <lg> <l pos="N">вандӥськон</l><orig>вандӥськон</orig> </lg> <mg><drvg><inflect type="Der/Он" drv="V»N"/><stem>вандӥськыны</stem></drvg> </mg> </e>
+<e> <lg> <l pos="N">вандон</l> </lg> <mg> <tg xml:lang="fin"> <t>leikkaaminen, leikkaus, viiltäminen, viilto</t> </tg> </mg> <mg ind="2th"><defNative>пудоез</defNative> <tg xml:lang="fin"> <t>teurastaminen, teurastus, tappaminen</t> </tg> </mg> <mg ind="3th"><defNative>пилаен</defNative> <tg xml:lang="fin"> <t>sahaaminen</t> </tg> </mg> </e>
+<e> <lg><l pos="N">вандос</l><orig>вандос</orig> </lg> <mg ind="1th"> <tg xml:lang="fin"> <t>teuraskarja, teuraseläin, teuraseläimet // teuras=;</t> </tg> <xg><x>вандос ош</x> <xt xml:lang="fin">teurashärkä</xt> </xg> </mg> <mg ind="2th"> <field>anat.</field><font face="SmolenskSGR">(<i>вандослы, вандоспум</i>)</font> <tg xml:lang="fin"> <t>kannattajanikama, atlas</t> </tg> </mg> </e>
+<e> <lg><l pos="N">вандэт</l><orig>вандэт</orig> </lg> <mg ind="1th"><defNative>кесэг</defNative> <tg xml:lang="fin"> <t>leike; pala</t> <re>leikattu</re>; </tg> <xg><x>басма вандэт</x> <xt xml:lang="fin">kangaspala(nen)</xt> </xg> </mg> <mg ind="2th"><defNative>чильтэр</defNative> <tg xml:lang="fin"> <t>pitsi;</t> </tg> <xg><x>вандэт пужы</x> <xt xml:lang="fin">pitsikuvio</xt> </xg> </mg> <mg ind="3th"> <range>murt.</range><font face="SmolenskSGR">(<i>вамен межа</i>)</font> <tg xml:lang="fin"> <t>(pellon)piennar, (pellon)pientare</t> </tg> </mg> </e>
+<e> <lg><l pos="N">ванез</l><orig>ванез</orig> </lg> <mg> <tg xml:lang="fin"> <t>se, mikä on olemassa (t. saatavissa);</t> </tg> <xg><x>али ваньзэ басьты, собере нош лыктод</x> <xt xml:lang="fin">ota nyt se, mikä on saatavissa, sitten tulet taas</xt> </xg> </mg> </e>
+<e> <lg> <l pos="N">ванем</l><orig>ванем</orig> </lg> <mg><field>el.</field> <mg ind="1th"/><defNative>аист</defNative> <tg xml:lang="fin"> <t>(katto)haikara</t> <re>Ciconia</re> </tg> </mg> <mg ind="2th"> <range>murt.</range><font face="SmolenskSGR">(<i>лёгчырты</i>)</font> <tg xml:lang="fin"> <t>haikara</t> <re>Ardea</re> </tg> </mg> </e>
+<e> <lg> <l pos="N">ванё</l><orig>ванё</orig> <variants> <l_syn>ванё-буро</l_syn> </variants> </lg> <mg> <variants> <l_syn type="&gt;">ваньбуро</l_syn> </variants> </mg> </e>
+<e> <lg> <l pos="N">ванёс</l><orig>ванёс</orig> </lg> <mg> <tg xml:lang="fin"> <t>(voima)varat, resurssit;</t> </tg> <xg><x>инкуазь ванёс</x> <xt xml:lang="fin">luonnonvarat;</xt> </xg> <xg><x>уксё ванёс</x> <xt xml:lang="fin">(raha)varat;</xt> </xg> <variants> <l_syn type="&gt;">ресурс</l_syn> </variants> </mg> </e>
+<e> <lg><l pos="N">ванной</l><orig>ваʼнной</orig> </lg> <mg> <tg xml:lang="fin"> <t>kylpyhuone</t> </tg> </mg> </e>
+<e> <lg> <l pos="N">ванскон</l><orig>ванскон</orig> <variants> <l_syn>ванскыны</l_syn> </variants> </lg> <mg> <variants> <l_syn type="&gt;">вандӥськон, вандӥськыны</l_syn> </variants> </mg> </e>
+<e> <lg> <l pos="N">ваньмон</l><orig>ваньмон</orig> </lg> <mg ind="1th"> <tg xml:lang="fin"> <t>joutaminen, ehtiminen;</t> </tg> <xg><x>ваньмон дыр</x> <xt xml:lang="fin">vapaa-aika;</xt> </xg> <xg><x>ваньмон дыръя</x> <xt xml:lang="fin">vapaana aikana, vapaa-aikana</xt> </xg> </mg> <mg ind="2th"> <note><i>kuv. ark.</i></note><font face="SmolenskSGR">(<i>кулон</i>)</font> <tg xml:lang="fin"> <t>kuolema; kuoleminen</t> </tg> </mg> </e>
+<e> <lg><l pos="N">ваньмытӥськон</l><orig>ваньмытӥськон</orig> <variants> <l_syn>ваньмытӥськыны</l_syn> </variants> </lg> <mg> <variants> <l_syn type="&gt;">ваньмытскон, ваньмытскыны</l_syn> </variants> </mg> </e>
+<e> <lg> <l pos="N">ваньмытон</l><orig>ваньмытон</orig> </lg> <mg><drvg><inflect type="Der/Он" drv="V»N"/><stem>ваньмытыны</stem></drvg> </mg> </e>
+<e> <lg> <l pos="N">ваньмытскон</l><orig>ваньмытскон</orig> </lg> <mg><drvg><inflect type="Der/Он" drv="V»N"/><stem>ваньмытскыны</stem></drvg> </mg> </e>
+<e> <lg> <l pos="N">вапум</l><orig>вапум</orig> </lg> <mg><font face="SmolenskSGR">(<b>=ез, =ыз</b>)</font> <mg ind="1th"/><defNative>вакыт</defNative> <tg xml:lang="fin"> <t>aikakausi, kausi, aika; vaihe, (ajan)jakso;</t> </tg> <xg><x>историлэн выль вапумез</x> <xt xml:lang="fin">uusi historiallinen vaihe (t. kausi)</xt> </xg> </mg> <mg ind="2th"><defNative>эра</defNative> <tg xml:lang="fin"> <t>ajanlasku;</t> </tg> <xg><x>асьме вапумлэсь азьло</x> <xt xml:lang="fin">ennen Kristusta, ennen ajanlaskun alkua</xt> </xg> </mg> <mg ind="3th"> <senseType>kuv.</senseType><defNative>эзель</defNative> <tg xml:lang="fin"> <t>kuolema</t> <re>kuoleman aika</re> </tg> <tg xml:lang="fin"> <t>, kuolo; elinajan loppu;</t> </tg> <xg><x>вапуме вуиз, лэся</x> <xt xml:lang="fin">nähtävästi kuolemani aika tuli, nähtävästi elinaikani loppui</xt> </xg> </mg> </e>
+<e> <lg><l pos="N">вар<rom ind="1"/></l> </lg> <mg ind="1th"><defNative>ляльчи</defNative> <tg xml:lang="fin"> <t>palvelija</t> </tg> </mg> <mg ind="2th"><defNative>раб</defNative> <tg xml:lang="fin"> <t>orja</t> </tg> </mg> </e>
+<e> <lg><l pos="N">вар<rom ind="2"/></l> </lg> <mg><defNative>к-сь писпуосты зыраны</defNative> <tg xml:lang="fin"> <t>piki</t> </tg> </mg> </e>
+<e> <lg> <l pos="N">варан</l><orig>варан</orig> </lg> <mg> <tg xml:lang="fin"> <t>pien hieronta (t. hierominen, hankaaminen)</t> </tg> </mg> </e>
+<e> <lg> <l pos="N">варення</l><orig>варення</orig> </lg> <mg> <tg xml:lang="fin"> <t>hillo</t> </tg> </mg> </e>
+<e> <lg> <l pos="N">вармай</l><orig>вармай</orig> </lg> <mg> <variants> <l_syn type="&gt;">варматай</l_syn> </variants> </mg> </e>
+<e> <lg> <l pos="N">вармайпи</l><orig>вармайпи</orig> </lg> <mg> <variants> <l_syn type="&gt;">вармиська</l_syn> </variants> </mg> </e>
+<e> <lg> <l pos="N">вармайы</l><orig>вармайы</orig> </lg> <mg><font face="SmolenskSGR">(<b>вармайиз</b>)</font> <variants> <l_syn type="&gt;">варматай</l_syn> </variants> </mg> </e>
+<e> <lg> <l pos="N">вармака</l><orig>вармака</orig> </lg> <mg> <tg xml:lang="fin"> <t>käly</t> <re>vaimon vanhempi sisar</re> </tg> </mg> </e>
+<e> <lg> <l pos="N">варманай</l><orig>варманай</orig> </lg> <mg> <tg xml:lang="fin"> <t>anoppi</t> <re>vaimon äiti</re> </tg> </mg> </e>
+<e> <lg> <l pos="N">варматай</l><orig>варматай</orig> </lg> <mg> <tg xml:lang="fin"> <t>appi</t> <re>vaimon isä</re> </tg> </mg> </e>
+<e> <lg> <l pos="N">вармеспи</l><orig>вармеспи</orig> <variants> <l_syn type="&gt;">вармиська</l_syn> </variants> </lg> <mg> <tg xml:lang="fin"> <t>lanko</t> <re>vaimon veli</re> </tg> </mg> </e>
+<e> <lg> <l pos="N">вармиська</l><orig>вармиська</orig> </lg> <mg> <tg xml:lang="fin"> <t>lanko</t> <re>vaimon veli</re> </tg> </mg> </e>
+<e> <lg> <l pos="N">вармумы</l><orig>вармумы</orig> </lg> <mg><font face="SmolenskSGR">(<b>вармумиз</b>)</font><font face="SmolenskSGR"><b>, варнэнэ</b></font> <variants> <l_syn type="&gt;">варманай</l_syn> </variants> </mg> </e>
+<e> <lg> <l pos="N">вары</l><orig>вары</orig> </lg> <mg><field>tekst.</field> <tg xml:lang="fin"> <t>sukkulan akseli</t> </tg><font face="SmolenskSGR"><b>варыш </b></font><field>el.</field> <tg xml:lang="fin"> <t>haukka</t> </tg> </mg> </e>
+<e> <lg> <l pos="N">васькан</l><orig>васькан</orig> </lg> <mg><drvg><inflect type="Der/Он" drv="V»N"/><stem>васьканы</stem></drvg> </mg> </e>
+<e> <lg> <l pos="N">васькон</l><orig>васькон</orig> </lg> <mg ind="1th"> <tg xml:lang="fin"> <t>laskeutuminen, laskeminen</t> <re>alas</re> </tg> <tg xml:lang="fin"> <t>, alas(päin) meno</t> </tg> </mg> <mg ind="2th"><defNative>питыран, бызён</defNative> <tg xml:lang="fin"> <t>kieriminen, kierintä</t> <re>alas</re> </tg> <tg xml:lang="fin"> <t>, vieriminen</t> <re>alas</re> </tg> <tg xml:lang="fin"> <t>, virtaaminen</t> <re>alas</re> </tg> </mg> <mg ind="3th"><defNative>транспортысь</defNative> <tg xml:lang="fin"> <t>nouseminen (t. astuminen) pois</t> <re>kulkuvälineestä</re> </tg> </mg> </e>
+<e> <lg><l pos="N">васькытон<rom ind="1"/></l> </lg> <mg ind="1th"><defNative>уллань нуон</defNative> <tg xml:lang="fin"> <t>alas(päin) vieminen (t. tuominen)</t> </tg> </mg> <mg ind="2th"><defNative>транспортысь</defNative> <tg xml:lang="fin"> <t>poistaminen, poisto</t> <re>kulkuvälineestä</re> </tg> </mg> </e>
+<e> <lg><l pos="N">васькытон<rom ind="2"/></l> </lg> <mg><defNative>шуккон, салён</defNative> <tg xml:lang="fin"> <t>iskeminen, isku, läimäyttäminen, läimäytys</t> </tg> </mg> </e>
+<e> <lg><l pos="N">васькытъян <rom ind="1,2"/></l> </lg> <mg><inflect type="Der/Он" drv="V»N"/><font face="SmolenskSGR"><b>васькытъяны <rom ind="1,2"/></b></font> </mg> </e>
+<e> <lg> <l pos="N">васьыл</l><orig>васьыл</orig> </lg> <mg> <tg xml:lang="fin"> <t>parvi;</t> </tg> <xg><x>муш васьыл</x> <xt xml:lang="fin">mehiläisparvi;</xt> </xg> <variants> <l_syn type="&gt;">палэп</l_syn> </variants> </mg> </e>
+<e> <lg> <l pos="N">васян</l><orig>васян</orig> </lg> <mg ind="1th"><defNative>кӧтсюман</defNative> <tg xml:lang="fin"> <t>nälkäiseksi</t> </tg> <tg xml:lang="fin"> <t>tuleminen</t> </tg> </mg> <mg ind="2th"><defNative>кӧттырмостэм луон</defNative> <tg xml:lang="fin"> <t>ahneeksi (t. ahnaaksi) tuleminen</t> </tg> </mg> </e>
+<e> <lg><l pos="N">вата</l><orig>вата</orig> </lg> <mg> <tg xml:lang="fin"> <t>vanu, pumpuli</t> </tg> </mg> </e>
+<e> <lg><l pos="N">ватӥськон</l><orig>ватӥськон</orig> <variants> <l_syn>ватӥськыны</l_syn> </variants> </lg> <mg> <variants> <l_syn type="&gt;">ватскон, ватскыны</l_syn> </variants> </mg> </e>
+<e> <lg> <l pos="N">ватон</l><orig>ватон</orig> </lg> <mg ind="1th"> <tg xml:lang="fin"> <t>piilottaminen, kätkeminen</t> </tg> </mg> <mg ind="2th"><defNative>вератэк улон</defNative> <tg xml:lang="fin"> <t>salaaminen, kätkeminen</t> </tg> </mg> <mg ind="3th"><defNative>кулэм муртэз</defNative> <tg xml:lang="fin"> <t>hautaaminen; hautajaiset</t> </tg> </mg> </e>
+<e> <lg> <l pos="N">ватос</l><orig>ватос</orig> </lg> <mg> <tg xml:lang="fin"> <t>varalle piilotettu esine, aarre</t> </tg> </mg> </e>
+<e> <lg> <l pos="N">ватсамъёз</l> </lg> <mg><field>kiel.</field> <tg xml:lang="fin"> <t>objekti;</t> </tg> <xg><x>меӵак ватсамъёз/></x> <xt xml:lang="fin">akkusatiiviobjekti</xt> <xt xml:lang="fin">objekti</xt> </xg> <variants> <l_syn type="&gt;">дополнение</l_syn> </variants> </mg> </e>
+<e> <lg> <l pos="N">ватсан</l><orig>ватсан</orig> </lg> <mg> <tg xml:lang="fin"> <t>lisääminen, lisäys</t> </tg> </mg> </e>
+<e> <lg> <l pos="N">ватсаськон<rom ind="1"/></l> </lg> <mg> <tg xml:lang="fin"> <t>lisääntyminen, lisäys</t> </tg> </mg> </e>
+<e> <lg> <l pos="N">ватсаськон<rom ind="2"/></l> </lg> <mg> <variants> <l_syn type="&gt;">вадьсаськон</l_syn> </variants> </mg> </e>
+<e> <lg> <l pos="N">ватскон</l><orig>ватскон</orig> </lg> <mg> <tg xml:lang="fin"> <t>piiloutuminen, kätkeytyminen, piileskely</t> </tg> </mg> </e>
+<e> <lg> <l pos="N">ватэт</l><orig>ватэт</orig> </lg> <mg> <variants> <l_syn type="&gt;">ватос</l_syn> </variants> </mg> </e>
+<e> <lg> <l pos="N">ведӥн</l><orig>ведӥн</orig> </lg> <mg> <tg xml:lang="fin"> <t>noita</t> </tg> </mg> </e>
+<e> <lg> <l pos="N">веднан</l><orig>веднан</orig> </lg> <mg> <tg xml:lang="fin"> <t>noituminen, taikominen; pilaaminen, rikkominen</t> <re>noitumalla</re> </tg> </mg> </e>
+<e> <lg> <l pos="N">веднаськон</l><orig>веднаськон</orig> </lg> <mg> <tg xml:lang="fin"> <t>noituminen, taikojen teko (t. tekeminen), noituuden (t. taikuuden) harjoittaminen</t> </tg> </mg> </e>
+<e> <lg> <l pos="N">ведомость</l><orig>веʼдомость</orig> </lg> <mg> <tg xml:lang="fin"> <t>luettelo, lista;</t> </tg> <xg><x>уждунъя ведомость</x> <xt xml:lang="fin">palkkalista</xt> </xg> </mg> </e>
+<e> <lg> <l pos="N">ведомство</l><orig>веʼдомство</orig> </lg> <mg> <tg xml:lang="fin"> <t>(keskus)virasto, laitos, hallinnonala</t> </tg> </mg> </e>
+<e> <lg> <l pos="N">ведра</l><orig>ведра</orig> </lg> <mg> <tg xml:lang="fin"> <t>sanko, ämpäri</t> </tg> </mg> </e>
+<e> <lg> <l pos="N">век</l><orig>век</orig> </lg> <mg> <tg xml:lang="fin"> <t>tiemerkki, viitta;</t> </tg><font face="SmolenskSGR"><b>сюрес кузя</b></font> </mg> </e>
+<e> <lg> <l pos="N">векан</l><orig>векан</orig> </lg> <mg><drvg><inflect type="Der/Он" drv="V»N"/><stem>веканы</stem></drvg> </mg> </e>
+<e> <lg> <l pos="N">векчиёмон</l><orig>векчиёмон</orig> </lg> <mg ind="1th"> <tg xml:lang="fin"> <t>oheneminen, ohentuminen</t> </tg> </mg> <mg ind="2th"><defNative>пичиёмон</defNative> <tg xml:lang="fin"> <t>pieneneminen, hieno(mma)ksi meno</t> </tg> </mg> <mg ind="3th"><defNative>восьмон</defNative> <tg xml:lang="fin"> <t>laihtuminen</t> </tg></mg> </e>
+<e> <lg> <l pos="N">векчиёмытон</l><orig>векчиёмытон</orig> </lg> <mg ind="1th"> <tg xml:lang="fin"> <t>ohentaminen</t> </tg> </mg> <mg ind="2th"><defNative>пичиёмытон, пыргытон</defNative> <tg xml:lang="fin"> <t>hienontaminen, pienentäminen, pieniminen</t> </tg> </mg> <mg ind="3th"><defNative>восьмытон</defNative> <tg xml:lang="fin"> <t>laihduttaminen, laihdutus</t> </tg> </mg> </e>
+<e> <lg><l pos="N">велик</l><orig>велик</orig> </lg> <mg><note><i>ark.</i></note> <tg xml:lang="fin"> <t>(polku)pyörä, fillari;</t> </tg> <variants> <l_syn type="&gt;">велосипед</l_syn> </variants> </mg> </e>
+<e> <lg> <l pos="N">велосипед</l><orig>велосипед</orig> </lg> <mg> <tg xml:lang="fin"> <t>polkupyörä;</t> </tg> <xg> <x>велосипедэн ветлӥсь</x> <x>велосипедэн ворттылӥсь</x> <xt xml:lang="fin">polkupyöräilijä</xt> </xg> </mg> </e>
+<e> <lg> <l pos="N">веме</l><orig>веме</orig> </lg> <mg> <tg xml:lang="fin"> <t>talkoot;</t> </tg> <xg><x>корка пуктон веме карыны</x> <xt xml:lang="fin">järjestää talonrakennustalkoot</xt> </xg> </mg> </e>
+<e> <lg><l pos="N">вена</l><orig>веʼна</orig> </lg> <mg><field>anat.</field> <tg xml:lang="fin"> <t>laskimo</t> </tg> </mg> </e>
+<e> <lg><l pos="N">венгр</l><orig>веʼнгр</orig> </lg> <mg> <tg xml:lang="fin"> <t>unkarilainen</t> <re>ihminen</re> </tg> </mg> </e>
+<e> <lg> <l pos="N">веник</l><orig>веник</orig> </lg> <mg ind="1th"> <tg xml:lang="fin"> <t>vihta, vasta;</t> </tg><font face="SmolenskSGR">(<i>пудоослы</i>)</font> <tg xml:lang="fin"> <t>(lehti)kerppu;</t> </tg> <xg><x>веникен пырыны</x> <xt xml:lang="fin">vihtoa, vastoa</xt> </xg> </mg> </e>
+<e> <lg> <l pos="N">венчаськон</l><orig>венчаськон</orig> <variants> <l_syn>венчаськыны</l_syn> </variants> </lg> <mg><range>puhek.</range> <variants> <l_syn type="&gt;">венчаться кариськон, венчаться кариськыны</l_syn> </variants> </mg> </e>
+<e> <lg><l pos="N">вень</l><orig>вень</orig> </lg> <mg ind="1th"> <tg xml:lang="fin"> <t>neula;</t> </tg><font face="SmolenskSGR"><b>йыро вень </b></font><mwemg ind="1th"/> <font face="SmolenskSGR">(<i>англи вень</i>)</font> <tg xml:lang="fin"> <t>hakaneula</t> </tg><mwemg ind="2th"/><defNative>булавка</defNative> <tg xml:lang="fin"> <t>nuppineula;</t> </tg><font face="SmolenskSGR"><b>тэчет</b> (<i>я. </i><b>тэчкон</b>)</font> <font face="SmolenskSGR"><b>вень </b></font><mwemg ind="1th"/><defNative>булавка</defNative> <tg xml:lang="fin"> <t>nuppineula</t> </tg><mwemg ind="2th"/><defNative>англи вень</defNative> <tg xml:lang="fin"> <t>hakaneula</t> </tg> </mg> <mg ind="2th"><defNative>будосъёслэн, пӧйшуръёслэн</defNative> <tg xml:lang="fin"> <t>piikki; neulanen;</t> </tg> <xg><x>кызлэн веньёсыз</x> <xt xml:lang="fin">kuusen neulaset;</xt> </xg> <xg><x>легезьпу веньёс</x> <xt xml:lang="fin">villiruusun piikit;</xt> </xg> <xg><x>ӵушъяллэн веньёсыз</x> <xt xml:lang="fin">siilin piikit</xt> </xg>◊ <xg><x>пӧзь вень</x> <xt xml:lang="fin">sukkapuikko</xt> </xg> </mg> </e>
+<e> <lg> <l pos="N">веньян</l><orig>веньян</orig> </lg> <mg><drvg><inflect type="Der/Он" drv="V»N"/><stem>веньяны</stem></drvg> </mg> </e>
+<e> <lg> <l pos="N">вер</l><orig>вер</orig> </lg> <mg><defNative>зурод вер</defNative> <tg xml:lang="fin"> <t>sidottu oksapari</t> <re>käytetään suovan painona</re>; </tg> <xg><x>веник вер</x> <xt xml:lang="fin">sidottu vihtapari;</xt> </xg><font face="SmolenskSGR">(<i>пудоослы</i>)</font> <tg xml:lang="fin"> <t>kerppupari;</t> </tg> <xg><x>пыштурын вер</x> <xt xml:lang="fin">sidottu meiramikimppupari</xt> </xg> </mg> </e>
+<e> <lg> <l pos="N">вера</l><orig>вера</orig> </lg> <mg> <tg xml:lang="fin"> <t>utare(et)</t> </tg> </mg> </e>
+<e> <lg><l pos="N">веран</l><orig>веран</orig> </lg> <mg ind="1th"><defNative>шуон</defNative> <tg xml:lang="fin"> <t>sanominen, sanonta;</t> </tg><font face="SmolenskSGR">(<i>ивортон</i>)</font> <tg xml:lang="fin"> <t>ilmoittaminen, ilmoitus</t> </tg> </mg> <mg ind="2th"><defNative>кыл, вераськон</defNative> <tg xml:lang="fin"> <t>puhe;</t> </tg> <xg><x>веранэз мырдэм быриз</x> <xt xml:lang="fin">(hänen) puheensa loppui vihdoinkin</xt> </xg> </mg> <mg ind="3th"><defNative>мадён</defNative> <tg xml:lang="fin"> <t>kertominen; kertomus, tarina</t> </tg> </mg> <mg ind="4th"><defNative>веран сям, выражение</defNative> <tg xml:lang="fin"> <t>sanonta(tapa), ilmaus, ilmaisu</t> </tg> </mg> <mg ind="5th"> <field>kiel.</field><font face="SmolenskSGR">(<i>предложение</i>)</font> <tg xml:lang="fin"> <t>lause</t> </tg> </mg> </e>
+<e> <lg> <l pos="N">вераськет</l><orig>вераськет</orig> </lg> <mg><field>kiel.</field> <tg xml:lang="fin"> <t>murre; alamurre;</t> </tg> <variants> <l_syn type="vrt0">диалект</l_syn> </variants> </mg> </e>
+<e> <lg><l pos="N">вераськон</l><orig>вераськон</orig> </lg> <mg> <tg xml:lang="fin"> <t>keskustelu, puhe(lu), puhuminen, juttelu;</t> </tg> <xg><x>вераськон кыл</x> <xt xml:lang="fin">puhekieli;</xt> </xg> <xg><x>вераськонэ пыриськыны</x> <xt xml:lang="fin">puuttua puheeseen</xt> </xg>◊ <font face="SmolenskSGR"><b>вераськон люкет </b></font><field>kiel.</field> <tg xml:lang="fin"> <t>sanaluokka</t> </tg> </mg> </e>
+<e> <lg> <l pos="N">верблюд</l><orig>верблюд</orig> </lg> <mg><field>el.</field> <tg xml:lang="fin"> <t>kameli;</t> </tg> <variants> <l_syn type="&gt;">дуэ</l_syn> </variants> </mg> </e>
+<e> <lg> <l pos="N">верос</l><orig>верос</orig> </lg> <mg> <tg xml:lang="fin"> <t>kertomus</t> </tg> </mg> </e>
+<e> <lg> <l pos="N">верстак</l><orig>верстак</orig> </lg> <mg> <tg xml:lang="fin"> <t>työpenkki, höyläpenkki</t> </tg> </mg> </e>
+<e> <lg> <l pos="N">верстать карон</l> </lg> <mg> <tg xml:lang="fin"> <t>taittaminen, taitto;</t> </tg> </mg> </e>
+<e> <lg> <l pos="N">верстать карыны</l> </lg> <mg> <tg xml:lang="fin"> <t>taittaa, katkaista;</t> </tg> <xg><x>газетэз верстать карыны</x> <xt xml:lang="fin">taittaa sanomalehti</xt> </xg> </mg> </e>
+<e> <lg> <l pos="N">вертолёт</l><orig>вертолёт</orig> </lg> <mg> <tg xml:lang="fin"> <t>helikopteri</t> </tg> </mg> </e>
+<e> <lg> <l pos="N">верттан</l><orig>верттан</orig> <variants> <l_syn>верттаны</l_syn> </variants> </lg> <mg> <variants> <l_syn type="&gt;">веттан, веттаны</l_syn> </variants> </mg> </e>
+<e> <lg><l pos="N">веръян<rom ind="1"/></l> </lg> <mg><defNative>шӧмъян</defNative> <tg xml:lang="fin"> <t>jnk maistaminen</t> </tg> </mg> </e>
+<e> <lg><l pos="N">веръян<rom ind="2"/></l> </lg> <mg><inflect type="Der/Он" drv="V»N"/><font face="SmolenskSGR"><b>веръяны<rom ind="2"/></b></font> </mg> </e>
+<e> <lg> <l pos="N">вес</l><orig>вес</orig> </lg> <mg ind="1th"> <tg xml:lang="fin"> <t>vaaka;</t> </tg> <xg><x>весэн мертаны</x> <xt xml:lang="fin">punnita (vaa'alla)</xt> </xg> </mg> <mg ind="2th"> <font face="SmolenskSGR"><b>Весъёс </b></font><note><i>mon. täht.</i></note> <tg xml:lang="fin"> <t>Vaaka</t> </tg> </mg> </e>
+<e> <lg><l pos="N">весь<rom ind="1"/></l> </lg> <mg><defNative>чеберман</defNative> <tg xml:lang="fin"> <t>helmi, helmet;</t> </tg> <xg><x>чот весьёс</x> <xt xml:lang="fin">helmitaulun helmet</xt> </xg> </mg> </e>
+<e> <lg> <l pos="N">веськан</l><orig>веськан</orig> </lg> <mg ind="1th"><defNative>тэрон</defNative> <tg xml:lang="fin"> <t>mahtuminen</t> <re>täyteen t. koko pituuteensa</re> </tg> </mg> <mg ind="2th"><defNative>йӧнан</defNative> <tg xml:lang="fin"> <t>lieventyminen, asettuminen</t> <re>kivun</re> </tg> </mg> </e>
+<e> <lg> <l pos="N">веськатон</l><orig>веськатон</orig> </lg> <mg><drvg><inflect type="Der/Он" drv="V»N"/><stem>веськатыны</stem></drvg> </mg> </e>
+<e> <lg> <l pos="N">веськытомон</l><orig>веськытомон</orig> </lg> <mg> <tg xml:lang="fin"> <t>ojentautuminen</t> <re>suoraksi</re> </tg> <tg xml:lang="fin"> <t>, suoristuminen; solakaksi tuleminen</t> </tg> </mg> </e>
+<e> <lg><l pos="N">веськытскон</l><orig>веськытскон</orig> </lg> <mg> <tg xml:lang="fin"> <t>ojentautuminen</t> <re>suoraksi</re> </tg> <tg xml:lang="fin"> <t>, oikeneminen, suoristuminen</t> </tg> </mg> </e>
+<e> <lg><l pos="N">ветеринар</l><orig>ветеринар</orig> </lg> <mg> <tg xml:lang="fin"> <t>eläinlääkäri</t> </tg> </mg> </e>
+<e> <lg> <l pos="N">ветлон</l><orig>ветлон</orig> </lg> <mg ind="1th"><defNative>пыдын</defNative> <tg xml:lang="fin"> <t>kävely, kulkeminen, kulku, kuljeskelu, liikkuminen;</t> </tg> <xg><x>ветлон сям</x> <xt xml:lang="fin">kävelytapa</xt> </xg> </mg> <mg ind="2th"><defNative>транспортэн</defNative> <tg xml:lang="fin"> <t>ajaminen, ajo; matkustaminen, matkustelu, matka</t> </tg> </mg> <mg ind="3th"><defNative>кытчы ке ветлон</defNative> <tg xml:lang="fin"> <t>käyminen, käynti</t> <re>jssak</re> </tg> </mg> <mg ind="4th"><defNative>транспорт с-сь</defNative> <tg xml:lang="fin"> <t>kulkeminen, kulku, liikennöinti</t> </tg> </mg> <mg ind="5th"><defNative>ӝӧквыл шудонъёсын</defNative> <tg xml:lang="fin"> <t>siirtäminen, siirto</t> <re>lautapelissä</re>; </tg><font face="SmolenskSGR">(<i>картаен шудонын</i>)</font> <tg xml:lang="fin"> <t>lyöminen, lyönti</t> <re>pöytään</re> </tg> <tg xml:lang="fin"> <t>, aloittaminen</t> <re>korttipelissä</re> </tg> </mg> </e>
+<e> <lg> <l pos="N">веттан</l><orig>веттан</orig> </lg> <mg> <tg xml:lang="fin"> <t>keinuttaminen, keinuttelu;</t> </tg> <xg><x>нуны веттан гур</x> <xt xml:lang="fin">kehtolaulu, tuutulaulu</xt> </xg> </mg> </e>
+<e> <lg> <l pos="N">веттаськон</l><orig>веттаськон</orig> </lg> <mg> <tg xml:lang="fin"> <t>keinuminen</t> </tg> </mg> </e>
+<e> <lg> <l pos="N">веттон</l><orig>веттон</orig> </lg> <mg ind="1th"> <tg xml:lang="fin"> <t>kastaminen, dippaaminen</t> </tg> </mg> <mg ind="2th"><variants> <l_syn type="&gt;">веттэт</l_syn> </variants> </mg> </e>
+<e> <lg> <l pos="N">веттэт</l><orig>веттэт</orig> </lg> <mg> <tg xml:lang="fin"> <t>(dippi)kastike, dippi;</t> </tg> <xg><x>табань веттэт</x> <xt xml:lang="fin">kakkarakastike, kakkaradippi</xt> </xg> </mg> </e>
+<e> <lg> <l pos="N">ветыл</l><orig>ветыл</orig> </lg> <mg> <tg xml:lang="fin"> <t>hieho</t> </tg> </mg> </e>
+<e> <lg> <l pos="N">вешан</l><orig>вешан</orig> </lg> <mg> <tg xml:lang="fin"> <t>taputtaminen</t> <re>hyväillen</re> </tg> </mg> </e>
+<e> <lg> <l pos="N">взвод</l><orig>взвод</orig> </lg> <mg><field>sot.</field> <tg xml:lang="fin"> <t>joukkue</t> </tg> </mg> </e>
+<e> <lg> <l pos="N">ви</l><orig>ви</orig> </lg> <mg> <tg xml:lang="fin"> <t>aika, hetki;</t> </tg> <xg><x>та вие</x> <xt xml:lang="fin">tällä hetkellä</xt> </xg> </mg> </e>
+<e> <lg> <l pos="N">вид</l> </lg> <mg> <tg xml:lang="fin"> <t>aspekti</t> </tg> <xg> <x>глаголлэн видэз</x> <field>kiel.</field> <xt xml:lang="fin">verbin aspekti</xt> </xg> </mg> </e>
+<e> <lg> <l pos="N">виён</l><orig>виён</orig> </lg> <mg ind="1th"><drvg><inflect type="Der/Он" drv="V»N"/><stem>виыны</stem></drvg> </mg> <mg ind="2th"><tg xml:lang="fin"> <t>murha(aminen), surmaaminen, tappo, tappaminen</t> </tg> </mg> </e>
+<e> <lg> <l pos="N">виз</l><orig>виз</orig> </lg> <mg><field>anat.</field> <tg xml:lang="fin"> <t>hermo;</t> </tg> <variants> <l_syn type="&gt;">нерва</l_syn> </variants> </mg> </e>
+<e> <lg> <l pos="N">визнан</l><orig>визнан</orig> </lg> <mg ind="1th"><defNative>визнаса улон</defNative> <tg xml:lang="fin"> <t>onkiminen, onginta</t> </tg> </mg> <mg ind="2th"><defNative>визнан ньӧр</defNative> <tg xml:lang="fin"> <t>onki;</t> </tg> <xg> <x>визнан ньӧр</x> <x>визнан шача</x> <xt xml:lang="fin">onkivapa, ongenvapa</xt> </xg> </mg> </e>
+<e> <lg><l pos="N">визнаськон</l> <drvg><inflect type="Der/Он" drv="V»N"/><stem>визнаськыны</stem></drvg> </lg> <mg> </mg> </e>
+<e> <lg> <l pos="N">визыл</l><orig>визыл</orig> </lg> <mg> <tg xml:lang="fin"> <t>vuolle, keskivirta, keskiuoma</t> </tg> </mg> </e>
+<e> <lg> <l pos="N">визылан</l><orig>визылан</orig> </lg> <mg><drvg><inflect type="Der/Он" drv="V»N"/><stem>визыланы</stem></drvg> </mg> </e>
+<e> <lg> <l pos="N">визь<rom ind="1"/></l> <variants><l_syn>визьмыз</l_syn></variants> </lg> <mg> <tg xml:lang="fin"> <t>järki, äly;</t> </tg> <xg><x>визь люканы</x> <xt xml:lang="fin">saada järkeä päähänsä;</xt> </xg> <xg><x>визь тырмыны</x> <xt xml:lang="fin">käsittää, ymmärtää;</xt> </xg> <xg><x>визьмы уг тырмы</x> <xt xml:lang="fin">en käsitä, en ymmärrä, ei ole riittävästi järkeä</xt> </xg>◊ <xg><x>визь потыны</x> <xt xml:lang="fin">menettää järkensä, mennä järjiltään;</xt> </xg> <xg><x>визь пырыны</x> <xt xml:lang="fin">saada järkeä päähänsä, järkiintyä, tulla järkiinsä;</xt> </xg><font face="SmolenskSGR"><b>визь сётыны</b></font> <variants> <l_syn type="&gt;">визь тырыны; визь сузьыны</l_syn> </variants> <tg xml:lang="fin"> <t>käsittää, ymmärtää;</t> </tg> <xg><x>визь сураськыны</x> <xt xml:lang="fin">menettää järkensä, mennä järjiltään;</xt> </xg> <xg><x>визь сынаны</x> <xt xml:lang="fin">tarkastaa, koetella</xt><xre>tietoja, älykkyyttä</xre>; </xg> <xg><x>визь тырыны</x> <xt xml:lang="fin">saattaa järkiinsä, saattaa oikealle tolalle</xt> </xg> </mg> </e>
+<e> <lg><l pos="N">визь<rom ind="2"/></l> </lg> <mg><defNative>визян</defNative> <tg xml:lang="fin"> <t>paasto;</t> </tg> <xg><x>визь возьыны</x> <xt xml:lang="fin">pitää paastoa, paastota</xt> </xg> </mg> </e>
+<e> <lg> <l pos="N">визьбугор</l><orig>визьбугор</orig> </lg> <mg><range>puhek.</range> <tg xml:lang="fin"> <t>älyniekka, älykkö, neropatti</t> </tg> </mg> </e>
+<e> <lg> <l pos="N">визьбур</l><orig>визьбур</orig> </lg> <mg> <tg xml:lang="fin"> <t>äly(kkyys), järki, viisaus;</t> </tg> <xg><x>визьбур люканы</x> <xt xml:lang="fin">saada järkeä päähänsä</xt> </xg> </mg> </e>
+<e> <lg> <l pos="N">визь-кенеш</l><orig>визь-кенеш</orig> </lg> <mg> <tg xml:lang="fin"> <t>neuvo, kehotus;</t> </tg> <xg><x>визь-кенеш сётыны</x> <xt xml:lang="fin">neuvoa, kehottaa</xt> </xg> </mg> </e>
+<e> <lg> <l pos="N">визькыл</l><orig>визькыл</orig> </lg> <mg> <tg xml:lang="fin"> <t>sananlasku;</t> </tg> <variants> <l_syn type="&gt;">пословица</l_syn> </variants> </mg> </e>
+<e> <lg> <l pos="N">визьлюк</l><orig>визьлюк</orig> </lg> <mg> <variants> <l_syn type="&gt;">визьбугор</l_syn> </variants> </mg> </e>
+<e> <lg><l pos="N">визьман</l><orig>визьман</orig> </lg> <mg><drvg><inflect type="Der/Он" drv="V»N"/><stem>визьманы</stem></drvg> </mg> </e>
+<e> <lg> <l pos="N">визьмаськон</l><orig>визьмаськон</orig> </lg> <mg><drvg><inflect type="Der/Он" drv="V»N"/><stem>визьмаськыны</stem></drvg> </mg> </e>
+<e> <lg> <l pos="N">визьнод</l><orig>визьнод</orig> </lg> <mg><font face="SmolenskSGR">(<b>=ыз</b>)</font> <tg xml:lang="fin"> <t>äly, käsityskyky, järki</t> </tg> </mg> </e>
+<e> <lg> <l pos="N">визьнодан</l><orig>визьнодан</orig> </lg> <mg ind="1th"><defNative>индылон</defNative> <tg xml:lang="fin"> <t>järkiinsä saaminen, järjen puhuminen; ohjaus, opastus</t> </tg> </mg> <mg ind="2th"><defNative>воспитать карон</defNative> <tg xml:lang="fin"> <t>(lasten) kasvatus</t> </tg> </mg> </e>
+<e> <lg> <l pos="N">визьпог</l><orig>визьпог</orig> <variants> <l_syn>визьпуйы</l_syn> </variants> </lg> <mg> <variants> <l_syn type="&gt;">визьбугор</l_syn> </variants> </mg> </e>
+<e> <lg><l pos="N">визьпуйы</l><orig>визьпуйы</orig> <variants> <l_syn>визьпог</l_syn> </variants> </lg> <mg> <variants> <l_syn type="&gt;">визьбугор</l_syn> </variants> </mg> </e>
+<e> <lg> <l pos="N">визьпумъян</l><orig>визьпумъян</orig> </lg> <mg> <tg xml:lang="fin"> <t>päätelmä, johtopäätös;</t> </tg> <xg><x>визьпумъян лэсьтыны</x> <xt xml:lang="fin">tehdä johtopäätös, päätellä;</xt> </xg> <variants> <l_syn type="&gt;">вовод</l_syn> </variants> </mg> </e>
+<e> <lg> <l pos="N">визьтэммон</l><orig>визьтэммон</orig> </lg> <mg ind="1th"><drvg><inflect type="Der/он" drv="V»N"/><stem>визьтэммыны</stem></drvg> </mg> <mg ind="2th"><tg xml:lang="fin"> <t>mielipuolisuus, mielenvikaisuus, hulluus</t> </tg> </mg> </e>
+<e> <lg> <l pos="N">визьтэммытон</l><orig>визьтэммытон</orig> </lg> <mg><drvg><inflect type="Der/Он" drv="V»N"/><stem>визьтэммытыны</stem></drvg> </mg> </e>
+<e> <lg> <l pos="N">визьтэмъяськон</l><orig>визьтэмъяськон</orig> </lg> <mg> <tg xml:lang="fin"> <t>hulluttelu, hassuttelu; rivosti (t. törkeästi) käyttäytyminen</t> </tg> </mg> </e>
+<e> <lg> <l pos="N">визьужась</l><orig>визьужась</orig> </lg> <mg> <tg xml:lang="fin"> <t>älymystön (t. sivistyneistön) edustaja;</t> </tg><font face="SmolenskSGR"><b>визьужасьёс </b></font><note><i>mon.</i></note> <tg xml:lang="fin"> <t>älymystö, sivistyneistö;</t> </tg> <variants> <l_syn type="vrt0">интеллигент, интеллигенци</l_syn> </variants> </mg> </e>
+<e> <lg><l pos="N">визян</l><orig>визян</orig> </lg> <mg ind="1th"><defNative>визь возён</defNative> <tg xml:lang="fin"> <t>paastoaminen</t> </tg> </mg> <mg ind="2th"><defNative>визь</defNative> <tg xml:lang="fin"> <t>paasto</t> </tg> </mg> </e>
+<e> <lg> <l pos="N">вика</l><orig>виʼкаʼ</orig> </lg> <mg> <field>kasv.</field> <tg xml:lang="fin"> <t>virna</t> </tg> </mg> </e>
+<e> <lg> <l pos="N">викон</l><orig>викон</orig> </lg> <mg> <tg xml:lang="fin"> <t>nikottelu, nikottaminen, nikotus</t> </tg> </mg> </e>
+<e> <lg> <l pos="N">викыштон</l> </lg> <mg><defNative>бӧрдыку</defNative> <tg xml:lang="fin"> <t>nyyhkäiseminen, nyyhkäisy, nyyhkäys</t> </tg> </mg> <mg ind="2th"><defNative>куӵыктон</defNative> <tg xml:lang="fin"> <t>nikotus</t> </tg></mg> </e>
+<e> <lg> <l pos="N">викышъян</l><orig>викышъян</orig> </lg> <mg ind="1th"><defNative>бӧрдыку</defNative> <tg xml:lang="fin"> <t>nyyhkyttäminen, niiskuttaminen; nyyhkytys, nyyhkintä, niiskutus</t> </tg> </mg> <mg ind="2th"><defNative>куӵыкъян</defNative> <tg xml:lang="fin"> <t>nikottelu, nikottaminen, nikotus</t> </tg> </mg> </e>
+<e> <lg> <l pos="N">вилка</l><orig>вилка</orig> </lg> <mg ind="1th"> <tg xml:lang="fin"> <t>haarukka</t> </tg> </mg> <mg ind="2th"> <field>tekn.</field> <tg xml:lang="fin"> <t>haarukka; pistoke;</t> </tg> <xg><x>велик вилка</x> <xt xml:lang="fin">polkupyörän haarukka;</xt> </xg> <xg><x>лампалэн вилкаез</x> <xt xml:lang="fin">(pöytä)lampun (t. pöytävalaisimen) pistoke</xt> </xg> </mg> </e>
+<e> <lg> <l pos="N">вим</l><orig>вим</orig> </lg> <mg><font face="SmolenskSGR">(<b>=ыз</b>)</font> <field>anat.</field><font face="SmolenskSGR">(<i>йырвим</i>)</font> <tg xml:lang="fin"> <t> aivot;</t> </tg><font face="SmolenskSGR">(<i>лывим</i>)</font> <tg xml:lang="fin"> <t> ydin;</t> </tg> <xg><x>сюрлы вим</x> <xt xml:lang="fin">selkäydin</xt> </xg> </mg> </e>
+<e> <lg><l pos="N">вина</l><orig>вина</orig> </lg> <mg> <tg xml:lang="fin"> <t>viina;</t> </tg><font face="SmolenskSGR">(<i>кышно вина</i>)</font> <tg xml:lang="fin"> <t> viini;</t> </tg> <xg><x>кабак вина</x> <x>карысь вина</x> <xt xml:lang="fin">(ostettu) viina, kaupanviina;</xt> </xg> <xg><x>кышно вина</x> <xt xml:lang="fin">viini;</xt> </xg> <xg><x>тӧдьы кышно вина</x> <xt xml:lang="fin">valkoviini;</xt> </xg> <xg><x>пӧзьтэм вина</x> <xt xml:lang="fin">pontikka, kotipolttoinen (t. kotikeittoinen) viina;</xt> </xg><font face="SmolenskSGR"><b>тӧдьы вина </b></font><mwemg ind="1th"/><defNative>водка</defNative> <tg xml:lang="fin"> <t>viina, votka;</t> </tg><mwemg ind="2th"/> <font face="SmolenskSGR">(<i>кышно вина</i>)</font> <tg xml:lang="fin"> <t> valkoviini;</t> </tg> <xg><x>горд вина</x> <xt xml:lang="fin">punaviini</xt> </xg> </mg> </e>
+<e> <lg> <l pos="N">винегрет</l><orig>винегрет</orig> </lg> <mg> <tg xml:lang="fin"> <t>sillisalaatti, rosolli</t> </tg> </mg> </e>
+<e> <lg> <l pos="N">виноград</l> </lg> <mg><field>kasv.</field> <defNative>будос</defNative> <tg xml:lang="fin"> <t>viiniköynnös</t> </tg> </mg> <mg ind="2th"><defNative>емыш</defNative> <tg xml:lang="fin"> <t>viinirypäle</t> <t>viinirypäleet</t> <t>rypäle</t> <t>rypäleet</t> </tg> <xg><x>виноград бичан</x> <xt xml:lang="fin">viininkorjuu;</xt> </xg> <xg><x>виноград вина</x> <xt xml:lang="fin">rypäleviini;</xt> </xg> <xg><x>виноград сок</x> <xt xml:lang="fin">(viini)rypälemehu</xt> </xg> </mg> </e>
+<e> <lg> <l pos="N">винт</l><orig>винт</orig> </lg> <mg> <tg xml:lang="fin"> <t>ruuvi</t> </tg> </mg> </e>
+<e> <lg><l pos="N">винты</l><orig>винты</orig> </lg> <mg ind="1th"><defNative>шуруп</defNative> <tg xml:lang="fin"> <t>ruuvi</t> </tg> </mg> <mg ind="2th"><defNative>гайка</defNative> <tg xml:lang="fin"> <t>mutteri</t> </tg> </mg> <mg ind="3th"><defNative>вентиль</defNative> <tg xml:lang="fin"> <t>venttiili</t> </tg> </mg> <mg ind="4th"><defNative>резьба</defNative> <tg xml:lang="fin"> <t>kierre</t> <re>ruuvin, mutterin</re> </tg> </mg> </e>
+<e> <lg> <l pos="N">винтыян</l><orig>винтыян</orig> </lg> <mg> <tg xml:lang="fin"> <t>kiertäminen (t. ruuvaaminen, kiristäminen)</t> </tg> </mg> </e>
+<e> <lg><l pos="N">вир</l><orig>вир</orig> </lg> <mg><font face="SmolenskSGR">(<b>=ыз, =ез</b>)</font> <tg xml:lang="fin"> <t>veri;</t> </tg> <xg><x>нырысьтым вир потэ</x> <xt xml:lang="fin">nenästäni valuu verta</xt> </xg>◊ <xg><x>вир шудэ</x> <xt xml:lang="fin">veri kuohuu;</xt> </xg><font face="SmolenskSGR"><b>вир юись </b></font><mwemg ind="1th"/> <tg xml:lang="fin"> <t>verenimijä</t> </tg><mwemg ind="2th"/> <senseType>kuv.</senseType> <tg xml:lang="fin"> <t>hirmuvaltias, itsevaltias, despootti</t> </tg> </mg> </e>
+<e> <lg> <l pos="N">вирберган</l><orig>вирберган</orig> </lg> <mg> <tg xml:lang="fin"> <t>verenkierto</t> </tg> </mg> </e>
+<e> <lg> <l pos="N">вирӟектон</l><orig>вирӟектон</orig> </lg> <mg><drvg><inflect type="Der/Он" drv="V»N"/><stem>вирӟектыны</stem></drvg> </mg> </e>
+<e> <lg> <l pos="N">вирнунал</l><orig>вирнунал</orig> </lg> <mg> <tg xml:lang="fin"> <t>keskiviikko;</t> </tg> <variants> <l_syn type="&gt;">среда</l_syn> </variants> </mg> </e>
+<e> <lg> <l pos="N">виро</l> </lg> <mg ind="2th"> <field>usk.</field> <tg xml:lang="fin"> <t>veriuhri;</t> </tg></mg> </e>
+<e> <lg> <l pos="N">виро карон</l> <variants> <l_syn type="&gt;">виро сётон; виро кисьтон</l_syn> </variants> </lg> <mg> <tg xml:lang="fin"> <t>vainajille omistettu uhritoimitus ja muistajaisateria, muistajaiset;</t> </tg> </mg> </e>
+<e> <lg> <l pos="N">виро сётон</l> <variants> <l_syn type="&gt;">виро кисьтон</l_syn> </variants> </lg> <mg ind="1th"> <tg xml:lang="fin"> <t>uhritoimitus, uhraus, uhrien toimittaminen</t> </tg> </mg> </e>
+<e> <lg><l pos="N">вирсэр</l><orig>вирсэр</orig> </lg> <mg><font face="SmolenskSGR">(<b>=ыз, =ез</b>)</font> <field>anat.</field> <tg xml:lang="fin"> <t>verisuoni;</t> <tCtn><re>вена</re> <t>laskimo;</t></tCtn> <tCtn><re>артерия</re> <t>valtimo</t></tCtn> </tg> </mg> </e>
+<e> <lg> <l pos="N">виртурын</l><orig>виртурын</orig> </lg> <mg><field>kasv.</field> <tg xml:lang="fin"> <t>kuisma</t> <re>Hypericum</re> </tg> </mg> </e>
+<e> <lg> <l pos="N">виртырем</l><orig>виртырем</orig> </lg> <mg ind="1th"><defNative>вирен колбас</defNative> <tg xml:lang="fin"> <t>verimakkara</t> </tg> </mg> <mg ind="2th"><defNative>лыз-вож луэм</defNative> <tg xml:lang="fin"> <t>mustelma, sinelmä, veripahka</t> </tg> </mg> </e>
+<e> <lg> <l pos="N">вис</l><orig>вис</orig> </lg> <mg><font face="SmolenskSGR">(<b>вискыз</b>)</font> <mg ind="1th"/> <tg xml:lang="fin"> <t>väli(matka);</t> </tg> <xg><x>писпуослэн вить метр виссы</x> <xt xml:lang="fin">puiden väli on viisi metriä</xt> </xg> </mg> <mg ind="2th"><defNative>дыр вис</defNative> <tg xml:lang="fin"> <t>väliaika, väli; intervalli; tauko;</t> </tg> <xg><x>вис карыса ужаны</x> <xt xml:lang="fin">pitää työssä(än) tauko (t. taukoja)</xt> </xg> </mg> <mg ind="3th"> <pos ind="Po_Stem"/> <variants> <l_syn type="&gt;">вискозь, вискы, вискын, вискысен, вискысь, вискытӥ</l_syn> </variants> </mg> </e>
+<e> <lg> <l pos="N">висатон</l><orig>висатон</orig> </lg> <mg ind="1th"><defNative>огдырлы дугдытон</defNative> <tg xml:lang="fin"> <t>keskeyttäminen, keskeytys;</t> </tg> <xg><x>ужез висатон</x> <xt xml:lang="fin">työn keskeytys (t. keskeyttäminen)</xt> </xg> </mg> <mg ind="2th"><defNative>висъян, вис кельтон</defNative> <tg xml:lang="fin"> <t>erottaminen, välin jättäminen</t> </tg> </mg> </e>
+<e> <lg><l pos="N">висён</l><orig>висён</orig> </lg> <mg ind="1th"><drvg><inflect type="Der/Он" drv="V»N"/><stem>висьыны</stem></drvg> </mg> <mg ind="2th"><tg xml:lang="fin"> <t>sairaus, tauti;</t> </tg> <xg><x>радэн висён</x> <xt xml:lang="fin">kulkutauti;</xt> </xg> <xg><x>секыт висён</x> <xt xml:lang="fin">vakava tauti</xt> </xg><font face="SmolenskSGR"><b>; висён пӧр</b></font> <variants> <l_syn type="&gt;">радэн висён</l_syn> </variants> </mg> </e>
+<e> <lg> <l pos="N">вискет</l><orig>вискет</orig> </lg> <mg> <tg xml:lang="fin"> <t>suhde;</t> </tg> <xg><x>калыккуспо вискетъёс</x> <xt xml:lang="fin">kansainväliset suhteet;</xt> </xg> <variants> <l_syn type="vrt0">кусып<rom ind="0_3"/></l_syn> </variants> </mg> </e>
+<e> <lg> <l pos="N">висъет</l><orig>висъет</orig> </lg> <mg ind="1th"> <tg xml:lang="fin"> <t>väliseinä; väliaita</t> </tg> </mg> <mg ind="2th"><defNative>комната</defNative> <tg xml:lang="fin"> <t>huone</t> <re>väliseinän erottama</re> </tg> </mg> </e>
+<e> <lg> <l pos="N">висъян</l><orig>висъян</orig> </lg> <mg><drvg><inflect type="Der/Он" drv="V»N"/><stem>висъяны</stem></drvg> </mg> </e>
+<e> <lg> <l pos="N">висъяськон</l><orig>висъяськон</orig> </lg> <mg ind="1th"><defNative>бордысьтыз басьтӥськон</defNative> <tg xml:lang="fin"> <t>irtoaminen, irtautuminen, erkaantuminen</t> </tg> </mg> <mg ind="2th"><defNative>нимаз кариськон</defNative> <tg xml:lang="fin"> <t>eroaminen, erottautuminen, erottuminen; eristyminen, eristäytyminen</t> </tg> </mg> <mg ind="3th"><defNative>пӧртэм луон</defNative> <tg xml:lang="fin"> <t>eroaminen, erottuminen; kunnostautuminen</t> </tg> </mg> </e>
+<e> <lg> <l pos="N">вись</l><orig>вись</orig> </lg> <mg> <tg xml:lang="fin"> <t>vaaksa</t> </tg> </mg> </e>
+<e> <lg> <l pos="N">витамин</l><orig>витамин</orig> </lg> <mg> <tg xml:lang="fin"> <t>vitamiini</t> </tg> </mg> </e>
+<e> <lg> <l pos="N">витён</l><orig>витён</orig> </lg> <mg ind="1th"><defNative>возьман</defNative> <tg xml:lang="fin"> <t>odottaminen, odotus</t> </tg> </mg> <mg ind="2th"><defNative>виятон</defNative> <tg xml:lang="fin"> <t>vuodattaminen, vuodatus, valuttaminen, juoksuttaminen</t> <re>pieninä noroina</re> </tg> </mg> <mg ind="3th"><defNative>вина пӧзьтон</defNative> <tg xml:lang="fin"> <t>viinan keittäminen (t. polttaminen)</t> </tg> </mg> </e>
+<e> <lg> <l pos="N">витиськон</l><orig>витиськон</orig> </lg> <mg><drvg><inflect type="Der/Он" drv="V»N"/><stem>витиськыны</stem></drvg> </mg> </e>
+<e> <lg><l pos="N">вишня</l><orig>вишня</orig> <variants> <l_syn type="&gt;">вишняпу</l_syn> </variants> </lg> <mg ind="1th"><defNative>емыш</defNative> <tg xml:lang="fin"> <t>kirsikka, kirsikat</t> </tg> </mg> <mg ind="2th"> <field>kasv.</field> <tg xml:lang="fin"> <t>kirsikka(puu)</t> </tg> </mg> </e> 
 </r>
