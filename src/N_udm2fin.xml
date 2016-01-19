@@ -6626,4 +6626,453 @@
 <e> <lg> <l pos="N">витён</l><orig>витён</orig> </lg> <mg ind="1th"><defNative>возьман</defNative> <tg xml:lang="fin"> <t>odottaminen, odotus</t> </tg> </mg> <mg ind="2th"><defNative>виятон</defNative> <tg xml:lang="fin"> <t>vuodattaminen, vuodatus, valuttaminen, juoksuttaminen</t> <re>pieninä noroina</re> </tg> </mg> <mg ind="3th"><defNative>вина пӧзьтон</defNative> <tg xml:lang="fin"> <t>viinan keittäminen (t. polttaminen)</t> </tg> </mg> </e>
 <e> <lg> <l pos="N">витиськон</l><orig>витиськон</orig> </lg> <mg><drvg><inflect type="Der/Он" drv="V»N"/><stem>витиськыны</stem></drvg> </mg> </e>
 <e> <lg><l pos="N">вишня</l><orig>вишня</orig> <variants> <l_syn type="&gt;">вишняпу</l_syn> </variants> </lg> <mg ind="1th"><defNative>емыш</defNative> <tg xml:lang="fin"> <t>kirsikka, kirsikat</t> </tg> </mg> <mg ind="2th"> <field>kasv.</field> <tg xml:lang="fin"> <t>kirsikka(puu)</t> </tg> </mg> </e> 
+<e>
+   <lg>
+     <l pos="N">вишняпу</l><orig>вишняпу</orig>
+   </lg>
+   <mg><field>kasv.</field>
+     <tg xml:lang="fin">
+       <t>kirsikka(puu)</t>
+     </tg></mg>
+</e>
+<e>
+   <lg>
+     <l pos="N">вишты</l>
+   </lg>
+<mg>
+       <tg xml:lang="fin"><t>täplä, pilkku, tahra</t>
+     </tg>
+</mg>
+</e>
+<e>
+   <lg>
+     <l pos="N">виштыян</l><orig>виштыян</orig>
+   </lg>
+   <mg>
+     <tg xml:lang="fin">
+       <t>tahraaminen, tahriminen</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="N">виштыяськон</l>
+<drvg><inflect type="Der/Он" drv="V»N"/><stem>виштыяськыны</stem></drvg>
+   </lg>
+<mg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="N">виым</l><orig>виым</orig>
+   </lg>
+   <mg><font face="SmolenskSGR">(<b>=ыз</b>)</font>
+     <variants>
+       <l_syn type="&gt;">вим</l_syn>
+     </variants>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="N">виян</l>
+   </lg>
+   <mg ind="1th">
+     <tg xml:lang="fin">
+       <t>valuminen, vuotaminen, virtaaminen</t>
+     </tg>
+</mg>
+   <mg ind="2th"><defNative>тысь, луо с-сь</defNative>
+     <tg xml:lang="fin">
+       <t>kariseminen, variseminen</t>
+     </tg>
+<xg><x>му пыр виян люкет! </x>
+<note><i>haukk.</i></note>
+     <xt xml:lang="fin">piru vieköön!</xt>
+     </xg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="N">виятон</l><orig>виятон</orig>
+   </lg>
+   <mg>
+     <tg xml:lang="fin">
+       <t>vuodattaminen, vuodatus, valuttaminen, juoksuttaminen</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="N">власть</l><orig>власть</orig>
+   </lg>
+   <mg>
+     <tg xml:lang="fin">
+       <t>valta;</t>
+     </tg>
+     <variants>
+       <l_syn type="&gt;">тӧрлык</l_syn>
+     </variants>
+   </mg>
+</e>
+
+<e>
+   <lg>
+     <l pos="N">влияние</l><orig>влияʼние</orig>
+   </lg>
+   <mg>
+     <tg xml:lang="fin">
+       <t>vaikutus</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="N">воган</l><orig>воган</orig>
+     <variants>
+       <l_syn>вогъяськон</l_syn>
+     </variants>
+   </lg>
+   <mg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="N">вогъяськон</l><orig>вогъяськон</orig>
+   </lg>
+   <mg>
+     <tg xml:lang="fin">
+       <t>oikuttelu; oikku;</t>
+     </tg><font face="SmolenskSGR">(<i>ваменъяськон</i>)</font>
+     <tg xml:lang="fin">
+       <t>niskoittelu, niskurointi; omapäisyys, itsepäisyys</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="N">вогыръян</l><orig>вогыръян</orig>
+<drvg><inflect type="Der/Он" drv="V»N"/><stem>вогыръяны</stem></drvg>
+   </lg>
+   <mg>
+   </mg>
+</e>
+<e>
+   <lg><l pos="N">вогыръяськон</l><orig>вогыръяськон</orig>
+   </lg>
+   <mg>
+     <tg xml:lang="fin">
+       <t>väreily, kareilu</t>
+       <re>veden pinnan</re>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="N">водолаз</l><orig>водолаз</orig>
+   </lg>
+   <mg>
+     <tg xml:lang="fin">
+       <t>sukeltaja</t>
+     </tg>
+   </mg>
+</e>
+
+<e>
+   <lg>
+     <l pos="N">водопровод</l><orig>водопровод</orig>
+   </lg>
+   <mg>
+     <tg xml:lang="fin">
+       <t>vesijohto</t>
+     </tg>
+   </mg>
+</e>
+
+<e>
+   <lg>
+     <l pos="N">водород</l><orig>водород</orig>
+   </lg>
+   <mg><field>kem.</field>
+     <tg xml:lang="fin">
+       <t>vety</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg><l pos="N">вож<rom ind="2"/></l>
+</lg>
+   <mg ind="1th"><defNative>шур вож</defNative>
+     <tg xml:lang="fin">
+       <t>joensuu</t>
+     </tg>
+</mg>
+   <mg ind="2th"> <defNative>сюрес вож</defNative>
+     <tg xml:lang="fin">
+       <t>tienristeys;</t>
+     </tg>
+     <xg><x>урам вож</x>
+       <xt xml:lang="fin">kadunristeys</xt>
+     </xg>
+   </mg>
+</e>
+
+<e>
+   <lg><l pos="N">вож<rom ind="3"/></l>
+   </lg>
+   <mg><defNative>йыркур</defNative>
+     <tg xml:lang="fin">
+       <t>viha;</t>
+     </tg>
+     <variants>
+       <l_syn type="&gt;">вож/вайыны, вож/поттыны, вож/потыны</l_syn>
+     </variants>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="N">вожан</l><orig>вожан</orig>
+   </lg>
+   <mg ind="1th"><drvg><inflect type="Der/Он" drv="V»N"/><stem>вожаны</stem></drvg>
+</mg>
+   <mg ind="2th"><tg xml:lang="fin">
+       <t>mustasukkaisuus</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="N">вожваён</l><orig>вожваён</orig>
+   </lg>
+   <mg>
+     <tg xml:lang="fin">
+       <t>suuttuminen, vihastuminen; suuttumus, vihastus</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg><l pos="N">вожвӧёгуби</l><orig>вожвӧёгуби</orig>
+   </lg>
+   <mg><field>kasv.</field>
+     <tg xml:lang="fin">
+       <t>samettitatti</t>
+       <re>Boletus subtomentosus</re>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="N">вожвылскон</l><orig>вожвылскон</orig>
+<drvg><inflect type="Der/Он" drv="V»N"/><stem>вожвылскыны</stem></drvg>
+   </lg>
+   <mg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="N">вожвылтон</l><orig>вожвылтон</orig>
+   </lg>
+   <mg><drvg><inflect type="Der/Он" drv="V»N"/><stem>вожвылтыны</stem></drvg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="N">вожӟузьы</l><orig>вожӟузьы</orig>
+   </lg>
+   <mg><field>el.</field>
+     <tg xml:lang="fin">
+       <t>vihervarpunen</t>
+       <re>Carduelis spinus</re>
+     </tg>
+   </mg>
+</e>
+
+<e>
+   <lg><l pos="N">вожкыр</l><orig>вожкыр</orig>
+   </lg>
+   <mg><field>el.</field>
+     <tg xml:lang="fin">
+       <t>vihertikka</t>
+       <re>Picus viridis</re>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="N">вожман</l><orig>вожман</orig>
+<drvg><inflect type="Der/Он" drv="V»N"/><stem>вожманы</stem></drvg>   </lg>
+   <mg>
+   </mg>
+</e>
+<e>
+   <lg><l pos="N">вожмаськон<rom ind="1"/></l>
+<drvg><inflect type="Der/Он" drv="V»N"/><stem>вожмаськыны<rom ind="1"/></stem></drvg></lg>
+<mg>
+   </mg>
+</e>
+
+<e>
+   <lg><l pos="N">вожмаськон<rom ind="2"/></l>
+   </lg>
+   <mg><defNative>ӵошатскон</defNative>
+     <tg xml:lang="fin">
+       <t>kilpailu</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg><l pos="N">вожо<rom ind="2"/></l>
+     <variants>
+       <l_syn type="&gt;">вожодыр</l_syn>
+     </variants>
+   </lg>
+   <mg ind="1th"><field>myt.</field>
+     <tg xml:lang="fin">
+       <t>vožo</t>
+       <re>paha henki</re>
+     </tg>
+</mg>
+   <mg ind="2th">
+     <tg xml:lang="fin">
+       <t>joulunpyhät</t>
+     </tg>
+   </mg>
+</e>
+
+<e>
+   <lg>
+     <l pos="N">вожодыр</l><orig>вожодыр</orig>
+   </lg>
+   <mg>
+     <tg xml:lang="fin">
+       <t>joulunpyhät</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg><l pos="N">вожомон<rom ind="1"/></l>
+   </lg>
+   <mg ind="1th"><defNative>лекомон</defNative>
+     <tg xml:lang="fin">
+       <t>suuttuminen, vihastuminen, raivostuminen</t>
+     </tg>
+</mg>
+   <mg ind="2th"><defNative>лӧптон, алекмон</defNative>
+     <tg xml:lang="fin">
+       <t>innostuminen, innostus</t>
+       <re>suuri</re>
+     </tg>
+     <tg xml:lang="fin">
+       <t>, hullaantuminen; syttyminen</t>
+     <senseType>kuv.</senseType></tg>
+   </mg>
+</e>
+
+<e>
+   <lg><l pos="N">вожомон<rom ind="2"/></l>
+   </lg>
+   <mg><defNative>вож луон</defNative>
+     <tg xml:lang="fin">
+       <t>vihertyminen</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="N">вумульы</l><orig>вумульы</orig>
+   </lg>
+   <mg><field>kasv.</field>
+     <tg xml:lang="fin">
+       <t>lumme</t>
+       <re>Nymphaea</re>;
+     </tg>
+     <variants>
+       <l_syn type="vrt0">тӧдьывумульы</l_syn>
+     </variants></mg>
+</e>
+
+<e>
+   <lg>
+     <l pos="N">вумурт</l>
+   </lg>
+<mg><field>myt.</field>
+     <tg xml:lang="fin">
+       <t>vetehinen, vesihiisi</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="N">вумус</l><orig>вумус</orig>
+   </lg>
+   <mg>
+     <tg xml:lang="fin">
+       <t>saviliuske</t>
+     </tg>
+   </mg>
+</e>
+
+<e>
+   <lg>
+     <l pos="N">вунон</l><orig>вунон</orig>
+   </lg>
+   <mg>
+     <tg xml:lang="fin">
+       <t>unohtuminen</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="N">вуныл</l><orig>вуныл</orig>
+   </lg>
+   <mg><field>myt.</field>
+     <tg xml:lang="fin">
+       <t>vedenneito, merenneito</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="N">тышкалтон</l><orig>тышкалтон</orig>
+   </lg>
+   <mg>
+     <tg xml:lang="fin">
+       <t>iskeminen, isku, lyöminen, lyönti</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="N">тыш</l><orig>тыш</orig>
+   </lg>
+   <mg>
+     <tg xml:lang="fin">
+       <t>hamara; tylsä puoli</t>
+       <re>esim. veitsen</re>;
+     </tg>
+     <xg><x>тӥр тыш</x>
+       <xt xml:lang="fin">kirveenhamara;</xt>
+     </xg>
+     <xg><x>пурт тыш</x>
+       <xt xml:lang="fin">veitsen tylsä puoli</xt>
+     </xg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="N">тэбетан</l><orig>тэбетан</orig>
+   </lg>
+   <mg>
+     <tg xml:lang="fin">
+       <t>kapalointi</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="N">тэбинён</l><orig>тэбинён</orig>
+   </lg>
+   <mg><drvg><inflect type="Der/Он" drv="V»N"/><stem>тэбиньыны</stem></drvg>
+   </mg>
+</e>
 </r>

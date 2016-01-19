@@ -8120,4 +8120,207 @@
 <e> <lg> <l pos="V">висьыны</l><orig>висьыны</orig> </lg> <mg ind="1th"> <tg xml:lang="fin"> <t>sairastaa, potea, olla</t> </tg> <tg xml:lang="fin"> <t>sairaana (t. kipeänä);</t> </tg> <xg> <x>висьыны кутскыны</x> <x>висьыны усьыны</x> <xt xml:lang="fin">sairastua;</xt> </xg> <xg><x>гриппен висьыны</x> <xt xml:lang="fin">sairastaa flunssa, olla flunssassa;</xt> </xg> <xg><x>маин висиськод?</x> <xt xml:lang="fin">mikä sairaus (t. vaiva) sinulla on?</xt> </xg> </mg> <mg ind="2th"><defNative>мугор люкетъёс с-сь</defNative> <tg xml:lang="fin"> <t>särkeä, kivistää, pakottaa, koskea, olla kipeä;</t> </tg> <xg><x>йыры висе</x> <xt xml:lang="fin">päätäni särkee;</xt> </xg> <xg><x>йыр висьытозь пыд мед висёз </x><genre>sp.</genre> <xt xml:lang="fin">särkisi(pä) jalkoja pään sijasta</xt> </xg> </mg> </e>
 <e> <lg> <l pos="V">витиськыны</l><orig>витиськыны</orig> </lg> <mg><val>intr.</val> <mg ind="1th"/><defNative>возьмаса улыны</defNative> <tg xml:lang="fin"> <t>odotella, olla odottamassa</t> </tg> </mg> <mg ind="2th"><defNative>виятыса улыны</defNative> <tg xml:lang="fin"> <t>vuodattaa, valuttaa, juoksuttaa jtak</t> <re>pieninä noroina</re> </tg> <tg xml:lang="fin"> <t>, olla vuodattamassa (t. valuttamassa, juoksuttamassa) jtak</t> <re>pieninä noroina</re> </tg> </mg> <mg ind="3th"><defNative>вина пӧзьтыны</defNative> <tg xml:lang="fin"> <t>keittää (t. polttaa) viinaa, olla keittämässä (t. polttamassa) viinaa</t> </tg> </mg> </e>
 <e> <lg> <l pos="V">витьыны</l><orig>витьыны</orig> </lg> <mg ind="1th"><defNative>возьманы</defNative> <tg xml:lang="fin"> <t>odottaa, odotella</t> </tg> </mg> <mg ind="2th"><defNative>виятыны</defNative> <tg xml:lang="fin"> <t>vuodattaa, valuttaa, juoksuttaa</t> <re>pieninä noroina</re> </tg> </mg> <mg ind="3th"><defNative>вина пӧзьтыны</defNative> <tg xml:lang="fin"> <t>keittää (t. polttaa) viinaa</t> </tg> </mg> </e>
+<e>
+   <lg>
+     <l pos="V">вогъяськыны</l><orig>вогъяськыны</orig>
+   </lg>
+   <mg>
+     <tg xml:lang="fin">
+       <t>oikutella, oikkuilla, kiukutella;</t>
+     </tg>
+   </mg>
+<mg><defNative>ваменъяськыны</defNative>
+     <tg xml:lang="fin">
+       <t>olla omapäinen</t>
+<t>olla itsepäinen</t>
+<t>niskoitella, niskuroida</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="V">виштыяны</l>
+   </lg>
+<mg>
+       <tg xml:lang="fin">
+<t>tahrata, tahria</t>
+       </tg>
+</mg>
+</e>
+<e>
+   <lg>
+     <l pos="V">виштыяськыны</l><orig>виштыяськыны</orig>
+   </lg>
+   <mg>
+     <tg xml:lang="fin">
+       <t>saada täpliä (t. pilkkuja, läiskiä)</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="V">виыны</l><orig>виыны</orig>
+   </lg>
+   <mg>
+     <tg xml:lang="fin">
+       <t>tappaa, murhata, surmata;</t>
+     </tg>
+     <xg><x>виыны пуктон</x>
+       <xt xml:lang="fin">kuolemantuomio</xt>
+     </xg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="V">вияны</l><orig>вияны</orig>
+   </lg>
+   <mg ind="1th">
+     <tg xml:lang="fin">
+       <t>valua, vuotaa, virrata;</t>
+     </tg>
+     <xg><x>бекче вия</x>
+       <xt xml:lang="fin">tynnyristä vuotaa vettä;</xt>
+     </xg>
+     <xg><x>синвуос вияло</x>
+       <xt xml:lang="fin">kyyneleet valuvat</xt>
+     </xg>
+</mg>
+   <mg ind="2th"><defNative>тысь, луо с-сь</defNative>
+     <tg xml:lang="fin">
+       <t>karista, varista;</t>
+     </tg>
+     <xg><x>мешокысь тысь вия</x>
+       <xt xml:lang="fin">jyviä karisee säkistä</xt>
+     </xg>◊ <xg>
+<x>му пыр  вияны</x>
+<x>му пыр кадь вияны</x>
+       <xt xml:lang="fin">hävitä kuin maan nielemänä (t. kuin maa olisi niellyt)</xt>
+     </xg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="V">виятыны</l><orig>виятыны</orig>
+   </lg>
+   <mg>
+     <tg xml:lang="fin">
+       <t>vuodattaa, valuttaa, juoksuttaa;</t>
+     </tg>
+     <xg><x>сурсву виятыны</x>
+       <xt xml:lang="fin">juoksuttaa (koivun)mahlaa</xt>
+     </xg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="V">воганы</l><orig>воганы</orig>
+     <variants>
+       <l_syn>вогъяськыны</l_syn>
+     </variants>
+   </lg>
+   <mg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="V">вогӟыны<rom ind="2"/></l>
+   </lg>
+   <mg>
+     <tg xml:lang="fin">
+       <t>niellä (t. nielaista) väärään kurkkuun, läkähtyä</t>
+       <re>juodessa, syödessä</re>;
+     </tg>
+     <variants>
+       <l_syn type="&gt;">воньдыны, ӵок/сузьыны</l_syn>
+     </variants>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="V">вогыръяськыны</l><orig>вогыръяськыны</orig>
+   </lg>
+   <mg>
+     <tg xml:lang="fin">
+       <t>väreillä, kareilla, karehtia;</t>
+     </tg>
+     <xg><x>ву вогыръяське</x>
+       <xt xml:lang="fin">vedenpinta väreilee</xt>
+     </xg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="V">вогыръяны</l><orig>вогыръяны</orig>
+   </lg>
+   <mg>
+     <tg xml:lang="fin">
+       <t>saada väreilemään (t. kareilemaan, karehtimaan)</t>
+       <t>panna väreilemään (t. kareilemaan, karehtimaan)</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="V">вожвылскыны</l><orig>вожвылскыны</orig>
+   </lg>
+   <mg ind="1th"><defNative>бызьыса ӵо шатскыны</defNative>
+     <tg xml:lang="fin">
+       <t>juosta kilpaa (t. kilvan);</t>
+     </tg><font face="SmolenskSGR">(<i>ортчыны</i>)</font>
+     <tg xml:lang="fin">
+       <t>olla ohittamassa</t>
+     </tg>
+</mg>
+   <mg ind="2th"><defNative>ӵошатскыны, вожвылъяськыны</defNative>
+     <tg xml:lang="fin">
+       <t>kilpailla</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="V">вожвылтыны</l><orig>вожвылтыны</orig>
+   </lg>
+   <mg ind="1th"><defNative>кырыжтыны</defNative>
+     <tg xml:lang="fin">
+       <t>tehdä vinoksi, vääristää, vääntää vääräksi</t>
+     </tg>
+</mg>
+   <mg ind="2th"><defNative>кечат-вамен карыны</defNative>
+     <tg xml:lang="fin">
+       <t>panna (t. asettaa) ristiin</t>
+     </tg>
+</mg>
+   <mg ind="3th"><defNative>ваменак ортчыны</defNative>
+     <tg xml:lang="fin">
+       <t>leikata</t>
+       <re>tie</re>
+     </tg>
+</mg>
+   <mg ind="4th"><defNative>азьпалтыны</defNative>
+     <tg xml:lang="fin">
+       <t>ohittaa, mennä (t. päästä) edelle</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="V">вожектыны</l><orig>вожектыны</orig>
+   </lg>
+   <mg ind="1th"><defNative>вож луыны</defNative>
+     <tg xml:lang="fin">
+       <t>vihertyä, tulla vihreäksi</t>
+     </tg>
+</mg>
+   <mg ind="2th"><defNative>вож адскыны</defNative>
+     <tg xml:lang="fin">
+       <t>vihertää, viheriöidä, vihannoida</t>
+     </tg>
+</mg>
+   <mg ind="3th"><defNative>азыны</defNative>
+     <tg xml:lang="fin">
+       <t>ajettua, ruveta märkimään, alkaa märkiä</t>
+     </tg>
+   </mg>
+</e>
 </r>
