@@ -11,6 +11,7 @@
      </tg>
    </mg>
 </e>
-
-
+<e> <lg> <l pos="Prc">вуоно</l><orig>вуоно</orig> </lg> <mg ind="1th"><drvg><inflect type="Der/Оно" drv="Prc"/><stem>вуыны</stem></drvg> </mg> <mg ind="2th"><tg xml:lang="fin"> <t>ensi, tuleva, vastainen;</t> </tg> <xg><x>вуоно арын</x> <xt xml:lang="fin">ensi vuonna;</xt> </xg> <xg><x>вуоно толэзе</x> <xt xml:lang="fin">ensi kuussa</xt> </xg>◊ <font face="SmolenskSGR"><b>вуоно дыр </b></font><field>kiel.</field> <tg xml:lang="fin"> <t>futuuri</t> </tg> </mg> </e>
+<e> <lg> <l pos="Prc">вылымтэ</l> <drvg><inflect type="Der/Эмтэ" drv="Prc"/><stem>вылыны</stem></drvg> </lg> <mg ind="2th"><tg xml:lang="fin"> <t>olematon, uskomaton;</t> </tg> <xg><x>вылымтэ учыр</x> <xt xml:lang="fin">olematon asia (t. tapahtuma)</xt> </xg> </mg> <mg ind="3th"> <drvg><inflect>II preteritin kieltomuoto v:stä </inflect><stem>вылыны</stem></drvg> <tg xml:lang="fin"> <t>(osoittautui, että) ei ollut (t. ole), ei ollut (t. ole) ilmeisesti (t. näköjään);</t> </tg> <xg><x>клубын туннэ нокин вылымтэ</x> <xt xml:lang="fin">(osoittautui, että) tänään kerhossa ei ollut ketään</xt> </xg> </mg> </e>
+<e> <lg> <l pos="Prc">гажано</l><orig>гажано</orig> </lg> <mg ind="1th"><defNative>дуно, сӥё-дано</defNative> <tg xml:lang="fin"> <t>arvoisa, kunnioitettava, kunnioitettu; kallis;</t> </tg> <xg><x>гажано эшъёс!</x> <xt xml:lang="fin">arvoisat ystävät (t. toverit)!;</xt> </xg> <xg><x>гажано эше</x> <xt xml:lang="fin">kallis ystäväni</xt> </xg> </mg> <mg ind="2th"><defNative>яратоно</defNative> <tg xml:lang="fin"> <t>lemmitty, mielitietty, rakastettu, rakas</t> </tg> </mg> </e>
 </r>
