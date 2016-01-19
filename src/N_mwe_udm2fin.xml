@@ -1,5 +1,54 @@
 <?xml version="1.0" encoding="utf-8"?>
 <r xml:lang="udm">
+<e> <lg><l pos="N(V::N)">бастовать карон</l> </lg> <mg> <tg xml:lang="fin"> <t>lakkoilu;</t> </tg> </mg> </e>
+<e> <lg><l pos="N(V::N)">бомбить карон</l> </lg> <mg> <tg xml:lang="fin"> <t>pommittaminen, pommitus;</t> </tg> </mg> </e>
+<e> <lg><l pos="N(V::N)">брить карон</l> </lg> <mg> <tg xml:lang="fin"> <t>(parran)ajo, (parran) ajaminen;</t> </tg> </mg> </e>
+<e> <lg><l pos="N(V::N)">бриться кариськон</l> </lg> <mg> <tg xml:lang="fin"> <t>parranajo, parran ajaminen;</t> </tg> </mg> </e>
+<e> <lg><l pos="N(V::N)">бронировать карон</l> </lg> <mg> <tg xml:lang="fin"> <t>varaaminen, varaus</t> </tg> </mg> </e>
+<e> <lg><l pos="N(V::N)">буксовать карон</l> </lg> <mg> <tg xml:lang="fin"> <t>luistaminen, liukuminen, paikallaan pyörintä (t. pyöriminen);</t> </tg> </mg> </e>
+<e> <lg> <l pos="N(V::N)">бунтовать карон</l> </lg> <mg> <tg xml:lang="fin"> <t>kapinointi, mellakointi</t> </tg> </mg> </e>
+<e> <lg><l pos="N(V::N)">венчать карон</l> </lg> <mg> <tg xml:lang="fin"> <t>vihkiminen;</t> </tg> </mg> </e>
+<e> <lg><l pos="N(V::N)">венчаться кариськон</l> </lg> <mg> <tg xml:lang="fin"> <t>vihkiminen, vihillä käyminen;</t> </tg> </mg> </e>
+<e>
+   <lg><l pos="N(V::N)">вооружить карон</l>
+   </lg>
+   <mg>
+     <tg xml:lang="fin">
+       <t>aseistaminen, varustaminen;</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg><l pos="N(V::N)">выступать карон</l>
+   </lg>
+   <mg>
+     <tg xml:lang="fin">
+       <t>esiintyminen, esitys</t>
+       <re>julkinen</re>;
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg><l pos="N(V::N)">гипсовать карон</l>
+   </lg>
+   <mg>
+     <tg xml:lang="fin">
+       <t>kipsaaminen, kipsaus;</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg><l pos="N(V::N)">воспитать карон</l>
+   </lg>
+   <mg>
+     <tg xml:lang="fin">
+       <t>kasvattaminen; kasvatus;</t>
+     </tg>
+     <xg><x>нылпиосты воспитать карон</x>
+       <xt xml:lang="fin">lasten kasvattaminen (t. kasvatus);</xt>
+     </xg>
+   </mg>
+</e>
 <e exclude="fst">
    <lg><l pos="N(N::N)">адӟон падеж</l>
      <stg>

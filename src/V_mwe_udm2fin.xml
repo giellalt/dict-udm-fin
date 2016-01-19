@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="utf-8"?>
+<r xml:lang="udm">
+<e>
+   <lg><l pos="V(V::V)">гипсовать карыны</l></lg>
+<mg>
+       <tg xml:lang="fin"><t>kipsata, panna kipsiin</t>
+     </tg>
+   </mg>
+</e>
+<e> <lg><l pos="V(V::V)">бастовать карыны</l> </lg> <mg> <tg xml:lang="fin"> <t>lakkoilla, olla lakossa</t> </tg> </mg> </e>
+<e> <lg><l pos="V(V::V)">бомбить карыны</l></lg> <mg> <tg xml:lang="fin"> <t>pommittaa</t> </tg> </mg> </e>
+<e> <lg><l pos="V(V::V)" val="TV">брить карыны</l></lg> <mg> <tg xml:lang="fin"> <t>ajaa</t> <re>parta, karvat</re> </tg> </mg> </e>
+<e> <lg><l pos="V(V::V)" val="IV">бриться кариськыны</l></lg> <mg> <tg xml:lang="fin"> <t>ajaa partansa</t> <t>ajella partansa</t> </tg> </mg> </e>
+<e> <lg><l pos="V(V::V)">бронировать карыны</l> </lg> <mg> <tg xml:lang="fin"> <t>varata</t> </tg> </mg> </e>
+<e> <lg><l pos="V(V::V)">буксовать карыны</l></lg> <mg> <tg xml:lang="fin"> <t>luistaa, liukua, pyöriä paikallaan</t> </tg> </mg> </e>
+<e> <lg> <l pos="V(V::V)">бунтовать карыны</l> </lg> <mg> <tg xml:lang="fin"> <t>kapinoida, mellakoida</t> </tg> </mg> </e>
+<e> <lg><l pos="V(V::V)">венчать карыны</l> </lg> <mg> <tg xml:lang="fin"> <t>vihkiä</t> </tg> </mg> </e>
+<e> <lg><l pos="V(V::V)">венчаться кариськыны</l></lg> <mg> <tg xml:lang="fin"> <t>käydä vihillä</t></tg> </mg> </e>
+<e>
+   <lg><l pos="V(V::V)">вооружить карыны</l>
+</lg>
+<mg>
+       <tg xml:lang="fin"><t>aseistaa, varustaa</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg><l pos="V(V::V)">воспитать карыны</l></lg>
+<mg>
+       <tg xml:lang="fin"><t>kasvattaa</t><re>lapsia</re>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg><l pos="V(V::V)">выступать карыны</l>
+   </lg>
+   <mg>
+     <tg xml:lang="fin">
+       <t>esiintyä</t>
+       <re>julkisesti</re>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="V(V::V)">грабить карыны</l>
+   </lg>
+   <mg>
+     <tg xml:lang="fin">
+       <t>ryöstää, ryövätä;</t>
+     </tg>
+     <variants>
+       <l_syn type="&gt;">таланы<rom ind="0_2"/></l_syn>
+     </variants>
+   </mg>
+</e>
+<e>
+   <lg><l pos="V(V::V)">зависеть карыны</l>
+   </lg>
+   <mg>
+     <tg xml:lang="fin">
+       <t>riippua</t>
+       <t>olla riippuvainen</t>
+     </tg>
+   </mg>
+</e>
+</r>
