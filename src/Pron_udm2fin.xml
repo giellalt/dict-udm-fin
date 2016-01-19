@@ -258,4 +258,24 @@
      </xg>
    </mg>
 </e>
+<e>
+ <lg>
+   <l pos="Pron" type="Indef">куиньназы</l>
+ </lg>
+   <mg ind="1th"><note><i>pron. indef.</i></note>
+<defNative>куиньзы ик</defNative>
+     <tg xml:lang="fin">
+       <t>he kaikki kolme, jokainen heistä kolmesta</t>
+     </tg>
+</mg>
+</e>
+<e>
+   <lg><l pos="Pron" type="Indef">куиньнамы</l><orig>куиньнаʼмо</orig>
+   </lg>
+   <mg ind="1th"><defNative>куиньмы ик</defNative>
+     <tg xml:lang="fin">
+       <t>me kaikki kolme, jokainen meistä kolmesta</t>
+     </tg>
+</mg>
+</e>
 </r>

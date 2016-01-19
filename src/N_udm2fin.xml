@@ -7075,4 +7075,198 @@
    <mg><drvg><inflect type="Der/Он" drv="V»N"/><stem>тэбиньыны</stem></drvg>
    </mg>
 </e>
+<e>
+ <lg>
+   <l pos="N">кионнин</l>
+ </lg>
+<mg><field>kasv.</field>
+     <tg xml:lang="fin">
+       <t>näsiä</t>
+       <re>Daphne mezereum</re>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="N">кионпи</l><orig>кионпи</orig>
+   </lg>
+   <mg>
+     <tg xml:lang="fin">
+       <t>sudenpentu, sudenpenikka</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="N">киоск</l><orig>киоск</orig>
+   </lg>
+   <mg>
+     <tg xml:lang="fin">
+       <t>kioski, (myynti)koju</t>
+     </tg>
+   </mg>
+</e>
+<e>
+ <lg>
+   <l pos="N">киросаськон</l>
+<drvg><inflect type="Der/Он" drv="V»N"/><stem>киросаськыны</stem></drvg>
+ </lg>
+<mg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="N">киросанай</l><orig>киросанай</orig>
+   </lg>
+   <mg>
+     <tg xml:lang="fin">
+       <t>kummitäti, naiskummi</t>
+     </tg>
+   </mg>
+</e>
+<e>
+ <lg>
+   <l pos="N">кокчаськон</l>
+<drvg><inflect type="Der/Он" drv="V»N"/><stem>кокчаськыны</stem></drvg>
+ </lg>
+<mg>
+   </mg>
+</e>
+<e>
+ <lg>
+   <l pos="N">кран<rom ind="1"/></l>
+ </lg>
+<mg><defNative>к-сь водопроводлэн</defNative>
+     <tg xml:lang="fin">
+       <t>hana</t>
+     </tg></mg>
+</e>
+<e>
+ <lg>
+   <l pos="N">кран<rom ind="2"/></l>
+ </lg>
+<mg><defNative>ӝутъян край</defNative>
+     <tg xml:lang="fin">
+       <t>nosturi, nostokurki</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="N">краска</l><orig>краска</orig>
+   </lg>
+   <mg>
+     <tg xml:lang="fin">
+       <t>maali, väri;</t>
+     </tg>
+     <variants>
+       <l_syn type="&gt;">буёл</l_syn>
+     </variants>
+   </mg>
+</e>
+<e>
+   <lg><l pos="N">крахмал</l><orig>крахмал</orig>
+   </lg>
+   <mg>
+     <tg xml:lang="fin">
+       <t>tärkkelys</t>
+     </tg>
+   </mg>
+</e>
+
+<e>
+   <lg>
+     <l pos="N">крашин</l><orig>крашин</orig>
+   </lg>
+   <mg>
+     <tg xml:lang="fin">
+       <t>kastettu (t. kristinuskoa tunnustava) tataari</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg><l pos="N">креветка</l><orig>кревеʼтка</orig>
+   </lg>
+   <mg><field>el.</field>
+     <tg xml:lang="fin">
+       <t>katkarapu</t>
+     </tg>
+   </mg>
+</e>
+
+<e>
+   <lg>
+     <l pos="N">кредит</l><orig>кредит</orig>
+   </lg>
+   <mg>
+     <tg xml:lang="fin">
+       <t>luotto;</t>
+     </tg>
+     <xg><x>кредитэн басьтыны</x>
+       <xt xml:lang="fin">ostaa luotolla (t. osamaksulla)</xt>
+     </xg>
+   </mg>
+</e>
+<e>
+ <lg>
+   <l pos="N">куака</l>
+ </lg>
+<mg><field>el.</field>
+     <tg xml:lang="fin">
+       <t>varis</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="N">куакагырлы</l><orig>куакагырлы</orig>
+   </lg>
+   <mg><field>kasv.</field>
+     <tg xml:lang="fin">
+       <t>kello(kukka)</t>
+       <re>Campanula</re>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg><l pos="N">кубо</l>
+<variants>
+<l_syn>черсон кубо</l_syn>
+</variants>
+   </lg>
+   <mg>
+<tg xml:lang="fin"><t>rukki</t></tg>
+   </mg>
+</e>
+<e>
+ <lg>
+   <l pos="N">кузёяськон</l>
+ </lg>
+   <mg ind="1th"><defNative>кузё кариськон</defNative>
+     <tg xml:lang="fin">
+       <t>isännöinti;</t>
+     </tg></mg>
+<mg>
+<defNative>кышномурт с-сь</defNative>
+     <tg xml:lang="fin">
+       <t>emännöinti;</t>
+     </tg>
+</mg><mg>
+<defNative>косъяськон</defNative>
+     <tg xml:lang="fin">
+       <t>määräily, määrääminen, käskeminen, käskyjen anto</t>
+     </tg>
+</mg>
+   <mg ind="2th"><defNative>кивалтыса улон</defNative>
+     <tg xml:lang="fin">
+       <t>hallitseminen</t>
+     </tg>◊
+     <xg><x>огнын кузёяськон</x>
+       <xt xml:lang="fin">yksinoikeus, monopoli;</xt>
+     </xg>
+     <variants>
+       <l_syn type="&gt;">монополи</l_syn>
+     </variants>
+   </mg>
+</e>
 </r>

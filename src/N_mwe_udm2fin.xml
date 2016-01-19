@@ -1047,4 +1047,14 @@
      </tg>
    </mg>
 </e>
+<e>
+   <lg><l pos="N(N::N)">черсон кубо</l>
+<variants>
+<l_syn>кубо</l_syn>
+</variants>
+   </lg>
+   <mg>
+<tg xml:lang="fin"><t>rukki</t></tg>
+   </mg>
+</e>
 </r>
