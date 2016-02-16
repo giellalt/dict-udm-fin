@@ -6677,60 +6677,9 @@
 </e>
 <e>
    <lg>
-     <l pos="N">ӝӧк</l><orig>ӝӧк</orig>
-   </lg>
-   <mg>
-     <tg xml:lang="fin">
-       <t>pöytä;</t>
-     </tg>
-     <xg><x>гожъяськон ӝӧк</x>
-       <xt xml:lang="fin">kirjoituspöytä;</xt>
-     </xg>
-     <xg><x>ужан ӝӧк</x>
-       <xt xml:lang="fin">työpöytä;</xt>
-     </xg>
-     <xg><x>ӝӧк пул</x>
-       <xt xml:lang="fin">pöytälevy;</xt>
-     </xg>
-     <xg><x>ӝӧк выл</x>
-       <xt xml:lang="fin">pöydän pinta;</xt>
-     </xg>
-     <xg><x>ӝӧк выл тыр сиён-юон</x>
-       <xt xml:lang="fin">täysi pöytä (t. pöydällinen) ruokia;</xt>
-     </xg>
-     <xg><x>ӝӧк вылын</x>
-       <xt xml:lang="fin">pöydällä;</xt>
-     </xg>
-     <xg><x>ӝӧк пушкын</x>
-       <xt xml:lang="fin">pöytälaatikossa;</xt>
-     </xg>
-     <xg><x>ӝӧк сьӧр кырӟан</x>
-       <xt xml:lang="fin">juomalaulu, pöytälaulu;</xt>
-     </xg>
-     <xg><x>ӝӧк сьӧры пуксьыны</x>
-       <xt xml:lang="fin">istua (t. istuutua) pöytään;</xt>
-     </xg>
-     <xg><x>ӝӧк сьӧрын пукыны</x>
-       <xt xml:lang="fin">istua pöydässä;</xt>
-     </xg>
-     <xg><x>ӝӧке поныны</x>
-       <xt xml:lang="fin">panna pöytälaatikkoon;</xt>
-     </xg><FIXME1/>
-     <xg><x>ӝӧкын</x>
-       <xt xml:lang="fin">pöytälaatikossa</xt>
-     </xg>
-   </mg>
-</e>
-<e>
-   <lg>
      <l pos="Prc">ӝуась</l><orig>ӝуась</orig>
    </lg>
-   <mg><drvg><inflect type="Der/сь" drv="Prc"/><stem>ӝуаны <FIX2/>ӝуасьнумыр </stem></drvg><field>el.</field>
-     <tg xml:lang="fin">
-       <t>kiiltomato</t>
-       <re>Lampyris noctiluca</re>
-     </tg>
-   </mg>
+   <mg><drvg><inflect type="Der/сь" drv="Prc"/><stem>ӝуаны</stem></drvg></mg>
 </e>
 <e>
    <lg><l>ӝуатӥськон</l><orig>ӝуатӥськон</orig>
