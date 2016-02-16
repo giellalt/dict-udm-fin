@@ -1802,4 +1802,37 @@
      </tg>
    </mg>
 </e>
+<e>
+   <lg>
+     <l pos="N">ООН</l><orig>ООН</orig>
+   </lg>
+   <mg>
+     <tg xml:lang="fin">
+       <t pos="N">YK</t>
+     </tg>
+     <variants>
+       <l_syn type="&gt;">огазеяськем<rom ind="0_1"/></l_syn>
+     </variants>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="N">Швейцария</l><orig>Швейцаʼрия</orig>
+   </lg>
+   <mg>
+     <tg xml:lang="fin">
+       <t pos="N">Sveitsi</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="N">Шотландия</l><orig>Шотлаʼндия</orig>
+   </lg>
+   <mg>
+     <tg xml:lang="fin">
+       <t pos="N">Skotlanti</t>
+     </tg>
+   </mg>
+</e>
 </r>
