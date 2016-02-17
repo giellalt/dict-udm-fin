@@ -18075,4 +18075,6130 @@
    </mg>
 </e>
 <e> <lg><l pos="Descr">вӧш-вӧш: вӧш-вӧш кылльыны</l> </lg> <mg> <tg xml:lang="fin"> <t>loikoa (t.</t> </tg> <tg xml:lang="fin"> <t>maata) kädet levällään</t> </tg> </mg> </e>
+<e>
+   <lg>
+     <l pos="Descr">чакыр</l><orig>чакыр</orig>
+   </lg>
+   <mg><note><i>onom. kuvaa kuivien esineiden rousketta, hampaiden narsketta</i></note>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Descr">чан-чан</l><orig>чан-чан</orig>
+   </lg>
+   <mg><note><i>onom. kuvaa metalliesineiden kuminaa</i></note>
+     <tg xml:lang="fin">
+       <t>:</t>
+     </tg>
+     <xg><x>чан-чан гырлы вазе</x>
+       <xt xml:lang="fin">kello kumisee</xt>
+     </xg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Descr">чап-чап</l><orig>чап-чап</orig>
+   </lg>
+   <mg><note><i>onom. kuvaa maiskutusääntä</i></note>
+     <tg xml:lang="fin">
+       <t>:</t>
+     </tg>
+     <xg><x>чап-чап карон</x>
+       <xt xml:lang="fin">maiskuttaminen, maiskutus, maiskuttelu;</xt>
+     </xg>
+     <xg><x>чап-чап карыны</x>
+       <xt xml:lang="fin">maiskuttaa, maiskutella</xt>
+     </xg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Descr">чапыль-чапыль</l><orig>чапыль-чапыль</orig>
+   </lg>
+   <mg ind="1th"><note><i>onom. kuvaa ääntä, joka syntyy kun hanhet t. ankat etsivät ruokaa vedessä</i></note>
+     <tg xml:lang="fin">
+       <t>:</t>
+     </tg>
+     <xg><x>чапыль-чапыль поттыны</x>
+       <xt xml:lang="fin">polskia, loiskia, polskuttaa, loiskuttaa,</xt><xre>hanhi, ankka</xre>
+     </xg>
+   </mg>
+   <mg ind="2th"> <range>murt.</range><font face="SmolenskSGR">(<i>пачыл</i>)</font>
+     <tg xml:lang="fin">
+       <t>täynnä, reunoja (t. laitoja) myöten</t>
+       <re>neste</re>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Descr">чар</l><orig>чар</orig>
+   </lg>
+   <mg><note><i>onom. kuvaa kankaan t. paperin repimisen ääntä</i></note>
+     <tg xml:lang="fin">
+       <t>:</t>
+     </tg>
+     <xg><x>чар кесьыны</x>
+       <xt xml:lang="fin">repiä kangas ritisyttäen</xt>
+     </xg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Descr">чарк-нальк</l><orig>чарк-нальк</orig>
+   </lg>
+   <mg>
+     <tg xml:lang="fin">
+       <t>pyydys</t>
+       <re>eläimiä varten</re>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Descr">чиз-чиз</l><orig>чиз-чиз</orig>
+   </lg>
+   <mg><note><i>onom. kuvaa veden t. maidon kapeana suihkuna purskahtamisen ääntä</i></note>
+     <tg xml:lang="fin">
+       <t>:</t>
+     </tg>
+     <xg><x>чиз-чиз ву пызъе</x>
+       <xt xml:lang="fin">vesi purskahtaa suihkuna</xt>
+     </xg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Descr">чизык-чизык</l><orig>чизык-чизык</orig>
+   </lg>
+   <mg>
+     <variants>
+       <l_syn type="&gt;">чиз-чиз</l_syn>
+     </variants>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Descr">чик-чилик</l><orig>чик-чилик</orig>
+   </lg>
+   <mg><note><i>onom. kuvaa varpusen ja muutamien muiden lintujen ääntä</i></note>
+     <tg xml:lang="fin">
+       <t>: tirskuna</t>
+     </tg>
+     <xg><x>чик-чилик вазиз ӟольгыри</x>
+       <xt xml:lang="fin">varpunen tirskui</xt>
+     </xg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Descr">чик-чирик</l><orig>чик-чирик</orig>
+   </lg>
+   <mg>
+     <variants>
+       <l_syn type="&gt;">чик-чилик</l_syn>
+     </variants>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Descr">чикыр-чикыр</l><orig>чикыр-чикыр</orig>
+   </lg>
+   <mg><note><i>onom. kuvaa hampaiden narskutuksen ääntä t. hiiren vikinää</i></note>
+     <tg xml:lang="fin">
+       <t>:</t>
+     </tg>
+     <xg><x>пиньыныз чикыр-чикыр каре</x>
+       <xt xml:lang="fin">hän narskuttaa hampaitaan;</xt>
+     </xg>
+     <xg><x>шыр чикыр-чикыр каре</x>
+       <xt xml:lang="fin">hiiri vikisee</xt>
+     </xg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Descr">чили-били</l><orig>чили-биʼли</orig>
+   </lg>
+   <mg>
+     <variants>
+       <l_syn type="&gt;">seur.</l_syn>
+     </variants>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Descr">чили-вали</l><orig>чили-ваʼли</orig>
+   </lg>
+   <mg><note><i>deskr. kuvaa joko värien välkettä tai auringon loistetta vedessä</i></note>
+     <tg xml:lang="fin">
+       <t>:</t>
+     </tg>
+     <xg><x>шунды шорын чили-вали ву шудэ</x>
+       <xt xml:lang="fin">vesi kimaltelee auringonpaisteessa;</xt>
+     </xg>
+     <xg><x>чили-вали кисьтаськыны</x>
+       <xt xml:lang="fin">välkehtiä, välkkyä, läikehtiä, läikkyä, kimallella</xt>
+     </xg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Descr">чиль: чиль чиляны</l>
+   </lg>
+   <mg>
+     <tg xml:lang="fin">
+       <t>kimallella, välkehtiä</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Descr">чиль-валь</l><orig>чиль-валь</orig>
+     <variants>
+       <l_syn>чиль-дол</l_syn>
+     </variants>
+   </lg>
+   <mg>
+     <variants>
+       <l_syn type="&gt;">чили-вали</l_syn>
+     </variants>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Descr">чиль-дол</l><orig>чиль-дол</orig>
+     <variants>
+       <l_syn>чиль-валь</l_syn>
+     </variants>
+   </lg>
+   <mg>
+     <variants>
+       <l_syn type="&gt;">чили-вали</l_syn>
+     </variants>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Descr">чильк-вальк</l><orig>чильк-вальк</orig>
+   </lg>
+   <mg><note><i>deskr. kuvaa värien välkettä t. vaihtelua</i></note>
+     <tg xml:lang="fin">
+       <t>: loistaen, kimaltaen</t>
+     </tg>
+     <xg><x>ву чильк-вальк кисьтаське</x>
+       <xt xml:lang="fin">vesi kimaltaen välkkyy;</xt>
+     </xg>
+     <xg><x>сапегзэ чильк-вальк карем</x>
+       <xt xml:lang="fin">hän kiillotti saappaansa</xt>
+     </xg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Descr">чильк-чильк</l><orig>чиʼльк-чильк</orig>
+   </lg>
+   <mg>
+     <variants>
+       <l_syn type="&gt;">чиль-чиль</l_syn>
+     </variants>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Descr">чиль-чиль: чиль-чиль сьӧд</l>
+   </lg>
+   <mg>
+     <tg xml:lang="fin">
+       <t>kiiltävän musta, mustaakin mustempi</t>
+     </tg>◊
+     <xg><x>шунды чиль-чиль пиштэ</x>
+       <xt xml:lang="fin">aurinko paistaa kirkkaasti (t. heleästi)</xt>
+     </xg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Descr">чиндыр-вандыр</l><orig>чиндыр-ваʼндыр</orig>
+   </lg>
+   <mg>
+     <tg xml:lang="fin">
+       <t>viisto, vino, kalteva, kiero; kiemurteleva, mutkainen, polveileva // vinosti, vinossa, kierossa; kiemurtelevasti, mutkaisesti, polveilevasti</t>
+     </tg>
+     <xg><x>чиндыр-вандыр пичи сюрес</x>
+       <xt xml:lang="fin">kiemurteleva polku;</xt>
+     </xg>
+     <xg><x>чиндыр-вандыр вырыны</x>
+       <xt xml:lang="fin">kiemurrella, luikerella, mutkitella, polveilla;</xt>
+     </xg>
+     <xg><x>чиндыр-вандыр бызе шур</x>
+       <xt xml:lang="fin">joki virtaa kiemurrellen</xt>
+     </xg>◊
+     <xg><x>чиндыр-вандыр мугоро</x>
+       <xt xml:lang="fin">hintelä, heiveröinen, laiha</xt>
+     </xg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Descr">чиоп</l><orig>чиоп</orig>
+   </lg>
+   <mg>
+     <variants>
+       <l_syn type="&gt;">чиоп-чиоп</l_syn>
+     </variants>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Descr">чиоп-чиоп</l><orig>чиоп-чиоп</orig>
+   </lg>
+   <mg><note><i>onom. kuvaa kananpoikasten piipitystä</i></note>
+     <tg xml:lang="fin">
+       <t>:</t>
+     </tg>
+     <xg><x>чипыос чиоп-чиоп каро</x>
+       <xt xml:lang="fin">kananpoikaset piipittävät</xt>
+     </xg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Descr">чип-чип</l><orig>чип-чип</orig>
+   </lg>
+   <mg ind="1th"><note><i>onom. kuvaa linnunpoikasten piipitystä</i></note>
+   </mg>
+   <mg ind="2th">
+     <variants>
+       <l_syn type="&gt;">чипы-чипы</l_syn>
+     </variants>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Descr">чирк</l><orig>чирк</orig>
+     <variants>
+       <l_syn>чирк-чирк-чирк</l_syn>
+     </variants>
+   </lg>
+   <mg><note><i>onom. kuvaa sirkan sirinää</i></note>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Descr">чирк-чирк-чирк</l><orig>чирк-чирк-чирк</orig>
+     <variants>
+       <l_syn>чирк</l_syn>
+     </variants>
+   </lg>
+   <mg><note><i>onom. kuvaa sirkan sirinää</i></note>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Descr">чомбляк</l><orig>чоʼмбляʼк</orig>
+   </lg>
+   <mg>
+     <tg xml:lang="fin">
+       <t>polskis, molskis, loiskis</t>
+     </tg>
+     <xg><x>чомбляк вуэ тэтчиз</x>
+       <xt xml:lang="fin">hän polskahti veteen</xt>
+     </xg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Descr">чомбыляк</l><orig>чоʼмбыляʼк</orig>
+   </lg>
+   <mg>
+     <variants>
+       <l_syn type="&gt;">чомбляк</l_syn>
+     </variants>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Descr">чорк</l><orig>чорк</orig>
+   </lg>
+   <mg ind="1th"><note><i>deskr.</i></note>
+     <tg xml:lang="fin">
+       <t>:</t>
+     </tg>
+     <xg><x>чорк султӥз но кошкиз</x>
+       <xt xml:lang="fin">hän nousi yhtäkkiä ja lähti</xt>
+     </xg>
+   </mg>
+   <mg ind="2th"> <range>puhek.</range>
+     <tg xml:lang="fin">
+       <t>aivan, ihan</t>
+     </tg>
+     <xg><x>чорк огнам кыли</x>
+       <xt xml:lang="fin">jäin ypöyksin (t. aivan yksin)</xt>
+     </xg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Descr">чорк-чорк</l><orig>чоʼрк-чорк</orig>
+   </lg>
+   <mg ind="1th"><note><i>deskr.</i></note>
+     <tg xml:lang="fin">
+       <t>:</t>
+     </tg>
+     <xg><x>чорк-чорк кариськыны</x>
+       <xt xml:lang="fin">oieta, suoristua, suoristautua, ojentua, ojentautua;</xt>
+     </xg>
+     <xg><x>пельёссэ вал чорк-чорк выретэ</x>
+       <xt xml:lang="fin">hevonen höristää korviaan</xt>
+     </xg>
+   </mg>
+   <mg ind="2th"> <range>murt.</range>
+     <tg xml:lang="fin">
+       <t>aivan, ihan</t>
+     </tg>
+     <xg><x>чорк-чорк огнам улӥсько</x>
+       <xt xml:lang="fin">asun ypöyksin (t. aivan yksin)</xt>
+     </xg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Descr">чуз-чуз</l><orig>чаз-чуз</orig>
+   </lg>
+   <mg><note><i>onom. ja deskr.</i></note>
+     <tg xml:lang="fin">
+       <t>:</t>
+     </tg>
+     <xg><x>чуз-чуз куара чузъяське</x>
+       <xt xml:lang="fin">ääni kuuluu kaikuna;</xt>
+     </xg>
+     <xg><x>чуз-чуз кезьыт</x>
+       <xt xml:lang="fin">(kouriin)tuntuva kylmä (t. kylmyys)</xt>
+     </xg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Descr">чукыр-чакыр</l><orig>чукыр-чаʼкыр</orig>
+   </lg>
+   <mg>
+     <variants>
+       <l_syn type="&gt;">чукыр-бекыр</l_syn>
+     </variants>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Descr">чульк</l><orig>чульк</orig>
+   </lg>
+   <mg>
+     <tg xml:lang="fin">
+       <t>yhtäkkiä, äkkiä, heti, hetkessä, silmänräpäyksessä</t>
+     </tg>
+     <xg><x>пасьысь шыр чульк потӥз</x>
+       <xt xml:lang="fin">yhtäkkiä hiiri pisti päänsä ulos raosta</xt>
+     </xg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Descr">чульк-чульк</l><orig>чульк-чульк</orig>
+   </lg>
+   <mg>
+     <xg><x>йырзэ укное чульк-чульк мычылэ</x>
+       <xt xml:lang="fin">hän pistää päänsä ulos ikkunasta</xt>
+     </xg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Descr">чур<rom ind="2"/></l>
+   </lg>
+   <mg><note><i>onom.</i></note>
+     <tg xml:lang="fin">
+       <t>:</t>
+     </tg>
+     <xg><x>чур вияны</x>
+       <xt xml:lang="fin">valua (t. virrata, juosta) kapeana suihkuna (t. virtana)</xt>
+     </xg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Descr">чурт-чурт</l><orig>чарт-чурт</orig>
+   </lg>
+   <mg>
+     <tg xml:lang="fin">
+       <t>lujasti, vankasti, varmasti</t>
+     </tg>
+     <xg><x>чурт-чурт вамышъяны</x>
+       <xt xml:lang="fin">astella (t. kulkea) varmoina;</xt>
+     </xg>
+     <xg><x>куараез чурт-чурт луиз</x>
+       <xt xml:lang="fin">hänen äänensä tuli varmaksi</xt>
+     </xg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Descr">чутык</l><orig>чутык</orig>
+     <variants>
+       <l_syn>чутык-чутык</l_syn>
+     </variants>
+   </lg>
+   <mg><note><i>deskr. kuvaa ontuvan ihmisen kävelytyyliä</i></note>
+     <tg xml:lang="fin">
+       <t>:</t>
+     </tg>
+     <xg><x>чутык кошкыны</x>
+       <xt xml:lang="fin">lähteä ontuen;</xt>
+     </xg>
+     <xg><x>чутык кыльыны</x>
+       <xt xml:lang="fin">jäädä ontuvaksi (t. rammaksi)</xt>
+     </xg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Descr">чутык-чутык</l><orig>чатык-чатык</orig>
+     <variants>
+       <l_syn>чутык</l_syn>
+     </variants>
+   </lg>
+   <mg><note><i>deskr. kuvaa ontuvan ihmisen kävelytyyliä</i></note>
+     <tg xml:lang="fin">
+       <t>:</t>
+     </tg>
+     <xg><x>чутык-чутык кошкыны</x>
+       <xt xml:lang="fin">lähteä ontuen;</xt>
+     </xg>
+     <xg><x>чутык-чутык кыльыны</x>
+       <xt xml:lang="fin">jäädä ontuvaksi (t. rammaksi)</xt>
+     </xg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Descr">чыс-с-с</l><orig>чыс-с-с</orig>
+   </lg>
+   <mg><note><i>onom. kuvaa käärmeen sihinää t. sähinää</i></note>
+     <tg xml:lang="fin">
+       <t>:</t>
+     </tg>
+     <xg><x>чыс-с-с карыны</x>
+       <xt xml:lang="fin">sihistä, sähistä;</xt>
+     </xg>
+     <xg><x>кый чыс-с-с каре</x>
+       <xt xml:lang="fin">käärme sihisee (t. sähisee)</xt>
+     </xg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Descr">ӵажак</l><orig>ӵаʼжаʼк</orig>
+   </lg>
+   <mg ind="1th"><note><i>onom. kuvaa kankaan </i></note><note>(<i>t. paperin</i>)</note> <note><i>repimistä</i></note>
+     <tg xml:lang="fin">
+       <t>:</t>
+     </tg>
+     <xg><x>бумагаез ӵажак кесьыны</x>
+       <xt xml:lang="fin">repiä paperi ritisyttäen</xt>
+     </xg>
+   </mg>
+   <mg ind="2th"> <note><i>deskr.</i></note>
+     <tg xml:lang="fin">
+       <t>:</t>
+     </tg>
+     <xg><x>сюкуасьмемез ӵажак юзматыны</x>
+       <xt xml:lang="fin">sammuttaa janonsa</xt>
+     </xg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Descr">ӵажыр</l><orig>ӵажыр</orig>
+   </lg>
+   <mg><note><i>onom. kuvaa kuivien havunneulasten palamisen t. kankaan repimisen ääntä</i></note>
+     <tg xml:lang="fin">
+       <t>:</t>
+     </tg>
+     <xg><x>ӵажыр карыны</x>
+       <xt xml:lang="fin">rätistä, ritistä;</xt>
+     </xg>
+     <xg><x>ӵажыр корманы</x>
+       <xt xml:lang="fin">raapia (t. kynsiä) kovasti;</xt>
+     </xg>
+     <xg><x>куро ӵажыр ӝуа</x>
+       <xt xml:lang="fin">oljet palavat ritisten</xt>
+     </xg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Descr">ӵаш</l><orig>ӵаш</orig>
+   </lg>
+   <mg><note><i>onom. kuvaa sateen kohinaa t. metsän huminaa t. (väki)joukon melua: </i></note>
+     <tg xml:lang="fin">
+       <t>kohina, kahina, humina, humu, melu, hälinä</t>
+     </tg>
+     <xg><x>ӵаш карись адями</x>
+       <xt xml:lang="fin">meluava (t. meluisa) ihminen;</xt>
+     </xg><font face="SmolenskSGR"><b>ӵаш карон</b> (<i>я. </i><b>поттон) </b></font><mwemg ind="1th"/><defNative>куашетон</defNative>
+     <tg xml:lang="fin">
+       <t>humina, humu, kahina, kohina, melu, hälinä</t>
+     </tg><font face="SmolenskSGR">2) </font><font face="SmolenskSGR">(<i>споръяськон</i>)</font>
+     <tg xml:lang="fin">
+       <t>kiista, kiistely, väittely, kinaaminen, kinastelu</t>
+     </tg><mwemg ind="3th"/><defNative>керетон</defNative>
+     <tg xml:lang="fin">
+       <t>riita, riitely, metakka, rähinä</t>
+     </tg><font face="SmolenskSGR"><b>ӵаш карыны</b> (<i>я. </i><b>поттыны) </b></font><mwemg ind="1th"/><defNative>куашетыны</defNative>
+     <tg xml:lang="fin">
+       <t>humista, kahista, kohista, meluta, hälistä</t>
+     </tg><mwemg ind="2th"/><defNative>споръяськыны</defNative>
+     <tg xml:lang="fin">
+       <t>kiistellä, väitellä, kinata, kinastella</t>
+     </tg><mwemg ind="3th"/><defNative>керетыны</defNative>
+     <tg xml:lang="fin">
+       <t>riidellä, nostaa meteli (t. metakka, rähinä)</t>
+     </tg>
+     <xg><x>нюлэскын ӵаш вазе</x>
+       <xt xml:lang="fin">metsässä humisee (t. kohisee)</xt>
+     </xg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Descr">ӵаштыр</l><orig>ӵаштыр</orig>
+   </lg>
+   <mg><note><i>onom. kuvaa lehtien t. muiden esineiden kahinaa: </i></note>
+     <tg xml:lang="fin">
+       <t>kahisten, siristen, suhisten</t>
+     </tg>
+     <xg><x>сӥзьыл куазен куаръёс ӵаштыр карыса усьыло</x>
+       <xt xml:lang="fin">syksyllä lehdet putoavat kahisten</xt>
+     </xg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Descr">ӵаштыр-ӵаштыр</l><orig>ӵаштыр-ӵаштыр</orig>
+   </lg>
+   <mg><note><i>onom. kuvaa lehtien t. muiden esineiden kahinaa</i></note>
+     <tg xml:lang="fin">
+       <t>: kahisten, siristen, suhisten</t>
+     </tg>
+     <xg><x>ӵаштыр-ӵаштыр карыны</x>
+       <xt xml:lang="fin">kahista (t. suhista, rahista) kovasti;</xt>
+     </xg>
+     <xg><x>ӵаштыр-ӵаштыр поттыны</x>
+       <xt xml:lang="fin">kahistella, rapistella, kahisuttaa, rahisuttaa;</xt>
+     </xg><font face="SmolenskSGR"><b>пыд улын куаръёс ӵаштыр-ӵаштыр вазё</b></font>
+     <tg xml:lang="fin">
+       <t>jalkojen alla lehdet kahisevat</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Descr">ӵогыр-ӵогыр</l><orig>ӵогор-ӵогыр</orig>
+   </lg>
+   <mg>
+     <variants>
+       <l_syn type="vrt0">ӵогрес; ӵогыр-ӵогыр кариськыны </l_syn>
+     </variants>
+     <tg xml:lang="fin">
+       <t>rohkaistua, rohkaista mielensä, piristyä</t>
+     </tg>
+     <xg><x>йырсиез ӵогыр-ӵогыр</x>
+       <xt xml:lang="fin">tukka on kuin parransänki (t. pystytukka, siilitukka);</xt>
+     </xg>
+     <xg><x>пелъёссэ вал ӵогыр-ӵогыр пуктэ</x>
+       <xt xml:lang="fin">hevonen nostaa korvansa pystyyn;</xt>
+     </xg>
+     <xg><x>узьым ӵогыр-ӵогыр ӝужа</x>
+       <xt xml:lang="fin">syysvilja orastaa nopeasti, syysviljat kasvavat nopeasti</xt>
+     </xg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Descr">ӵокыр-ӵокыр</l><orig>ӵокор-ӵокыр</orig>
+   </lg>
+   <mg>
+     <tg xml:lang="fin">
+       <t>karhea, rosoinen, karkea, epätasainen</t>
+       <re>pinta</re>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Descr">ӵуш-паш</l><orig>ӵуш-паш</orig>
+   </lg>
+   <mg><note><i>onom. kuvaa laahustuksen ääntä</i></note>
+     <tg xml:lang="fin">
+       <t>:</t>
+     </tg>
+     <xg><x>ӵуш-паш ветлыны</x>
+       <xt xml:lang="fin">kävellä laahaavin askelin</xt>
+     </xg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Descr">ӵуштыр</l><orig>ӵуштыр</orig>
+   </lg>
+   <mg ind="1th"><note><i>onom. kuvaa kuivien lehtien, heinän, paperin tms. kahinaa, suhinaa, rahinaa</i></note>
+     <tg xml:lang="fin">
+       <t>:</t>
+     </tg><font face="SmolenskSGR"><b>ӵуштыр карыны</b></font>
+     <variants>
+       <l_syn type="&gt;">ӵуштыртыны</l_syn>
+     </variants>
+   </mg>
+   <mg ind="2th"><pos ind="Descr"/><font face="SmolenskSGR">(<i>каллен</i>)</font>
+     <tg xml:lang="fin">
+       <t>hiljaa, hiljakseen, hiljaisesti</t>
+     </tg><font face="SmolenskSGR">(<i>калленак</i>)</font>
+     <tg xml:lang="fin">
+       <t>vähin äänin, huomaamatta, huomaattomasti</t>
+     </tg>
+     <xg><x>ӵуштыр гинэ огназ пуке</x>
+       <xt xml:lang="fin">hän istuu yksin hiljaa (t. hiljakseen)</xt>
+     </xg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Descr">ӵуш-ӵуш</l><orig>ӵуш-ӵуш</orig>
+   </lg>
+   <mg>
+     <variants>
+       <l_syn type="&gt;">ӵуш-паш</l_syn>
+     </variants>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Descr">ӵыж<rom ind="2"/></l>
+   </lg>
+   <mg><note><i>onom. kuvaa veden, öljyn t. rasvan sihisevää ääntä kuumalla paistinpannulla</i></note>
+     <tg xml:lang="fin">
+       <t>: sihinä, sähinä, pihinä</t>
+     </tg>
+     <xg><x>пӧсь табаын вӧй ӵыж вазе</x>
+       <xt xml:lang="fin">öljy sihisee kuumalla paistinpannulla</xt>
+     </xg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Descr">ӵыштыр</l><orig>ӵыштыр</orig>
+   </lg>
+   <mg><note><i>onom. kuvaa lehtien t. muiden esineiden kahinaa</i></note>
+     <tg xml:lang="fin">
+       <t>: kahisten, sihisten, suhisten</t>
+     </tg>
+     <xg><x>сӥзьыл куазен куаръёс ӵыштыр карыса усьыло</x>
+       <xt xml:lang="fin">syksyllä lehdet putoavat kahisten</xt>
+     </xg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Descr">ӵыштыр-ӵаштыр, ӵыштыр-ӵуштыр</l><orig>ӵыштыр-ӵаʼштыр, ӵыштыр- ӵаштыр</orig>
+   </lg>
+   <mg><note><i>onom. kuvaa lehtien t. muiden esineiden kahinaa</i></note>
+     <tg xml:lang="fin">
+       <t>: kahisten, sihisten, suhisten</t>
+     </tg>
+     <xg><x>ӵыштыр-ӵаштыр карыны</x>
+       <xt xml:lang="fin">kahista (t. suhista, rahista)</xt><xre>kovasti</xre>;
+     </xg>
+     <xg><x>ӵыштыр-ӵаштыр поттыны</x>
+       <xt xml:lang="fin">kahistella, rapistella kahisuttaa, rahisuttaa;</xt>
+     </xg><font face="SmolenskSGR"><b>пыд улын куаръёс ӵыштыр-ӵаштыр вазё</b></font>
+     <tg xml:lang="fin">
+       <t>lehdet kahisevat jalkojen alla</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Descr">шакыр-шакыр</l><orig>шакор-шакыр</orig>
+   </lg>
+   <mg><note><i>deskr. kuvaa pinnan t. maan karheutta t. rosoisuutta, epätasaisuutta</i></note>
+     <tg xml:lang="fin">
+       <t>:</t>
+     </tg><font face="SmolenskSGR"><b>шакыр-шакыр куасьмыны </b></font><mwemg ind="1th"/><defNative>вогыриё куасьмыны</defNative>
+     <tg xml:lang="fin">
+       <t>kuivua (t. kuivettua) karheaksi (t. epätasaiseksi)</t>
+       <re>esim. pinnan maalaamisen jälkeen</re>
+     </tg> <mwemg ind="2th"/><defNative>юн куасьмыны</defNative>
+     <tg xml:lang="fin">
+       <t>kuivua kovaksi, kuivettua</t>
+     </tg>
+     <xg><x>музъем шакыр-шакыр куасьмиз</x>
+       <xt xml:lang="fin">maaperä on kuivunut kovasti;</xt>
+     </xg>
+     <xg><x>шакыр-шакыр луыны</x>
+       <xt xml:lang="fin">karheutua, karheta</xt>
+     </xg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Descr">шалтрак</l><orig>шаʼлтраʼк</orig>
+   </lg>
+   <mg ind="1th"><note><i>onom. kuvaa puuesineiden, tyhjien metallipurkkien, sankojen, rattaiden aiheuttamaa yksittäistä vaimeaa ääntä</i></note>
+     <tg xml:lang="fin">
+       <t>: kola(hd)us, kalahdus, kopa(hd)us, jysä(hd)ys</t>
+     </tg>
+     <xg><x>пу писъёс шалтрак музъем вылэ усизы</x>
+       <xt xml:lang="fin">halot putosivat kolahtaen (t. jysähtäen) maahan</xt>
+     </xg>
+   </mg>
+   <mg ind="2th"> <range>murt.</range>
+     <tg xml:lang="fin">
+       <t>aivan, ihan</t>
+     </tg>
+     <xg><x>шалтрак буш корка</x>
+       <xt xml:lang="fin">aivan tyhjä talo</xt>
+     </xg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Descr">шалтыр</l><orig>шалтыр</orig>
+   </lg>
+   <mg ind="1th"><note><i>onom. kuvaa puuesineiden, metallipurkkien, tyhjien sankojen, rattaiden aiheuttamaa useasti toistuvaa vaimeaa ääntä</i></note>
+     <tg xml:lang="fin">
+       <t>:</t>
+     </tg><font face="SmolenskSGR"><b>шалтыр карыны </b></font><font face="SmolenskSGR">(<i>маке</i>)</font>
+     <tg xml:lang="fin">
+       <t>kolista</t>
+     </tg><font face="SmolenskSGR">(<i>маин ке</i>)</font>
+     <tg xml:lang="fin">
+       <t>kolisuttaa, kolistaa</t>
+     </tg>
+     <xg><x>ведра шалтыр карыса музъем вылэ усиз</x>
+       <xt xml:lang="fin">sanko putosi kolisten maahan;</xt>
+     </xg>
+     <xg><x>бодыен палисадник борды шалтыр карыны</x>
+       <xt xml:lang="fin">kolistaa kepillä kukkatarhan aitaa;</xt>
+     </xg>
+     <xg><x>шалтыр поттыны</x>
+       <xt xml:lang="fin">kolisuttaa, kolistaa</xt>
+     </xg>
+   </mg>
+   <mg ind="2th"> <pos ind="Descr"/><font face="SmolenskSGR">(<i>туж умой</i>)</font>
+     <tg xml:lang="fin">
+       <t>kovin (t. oikein) hyvin</t>
+     </tg>
+     <xg><x>удмурт кылын шалтыр вераськыны</x>
+       <xt xml:lang="fin">puhua hyvin (t. sujuvasti) udmurttia</xt>
+     </xg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Descr">шалтыр-шалтыр</l><orig>шалтыр-шалтыр</orig>
+   </lg>
+   <mg ind="1th"><note><i>onom. kuvaa puuesineiden, metallipurkkien, tyhjien sankojen, rattaiden aiheuttamaa useasti toistuvaa vaimeaa ääntä</i></note>
+     <tg xml:lang="fin">
+       <t>:</t>
+     </tg>
+     <xg><x>шалтыр-шалтыр карыса буш уробоен кошкизы</x>
+       <xt xml:lang="fin">he lähtivät kolistellen tyhjillä rattailla</xt>
+     </xg>
+   </mg>
+   <mg ind="2th"> <range>murt.</range>
+     <tg xml:lang="fin">
+       <t>aivan, ihan</t>
+     </tg>
+     <xg><x>корка пушсы шалтыр-шалтыр буш</x>
+       <xt xml:lang="fin">heidän talonsa sisäpuoli on aivan tyhjä</xt>
+     </xg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Descr">шальк</l><orig>шальк</orig>
+   </lg>
+   <mg><note><i>onom. kuvaa säpin t. linkun sulkemisen, paukutuksen t. paukkeen ääntä</i></note>
+     <tg xml:lang="fin">
+       <t>:</t>
+     </tg>
+     <xg><x>шальк карыны</x>
+       <xt xml:lang="fin">kolista, kalista, kopista, paukkua;</xt>
+     </xg>
+     <xg><x>капка пуннет шальк ворсаськиз</x>
+       <xt xml:lang="fin">portin linkku sulkeutui (t. meni kiinni) kolisten</xt>
+     </xg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Descr">шальк-шальк</l><orig>шаʼльк-шальк</orig>
+   </lg>
+   <mg>
+     <tg xml:lang="fin">
+       <t>niin kuin valikoituja</t>
+     </tg>
+     <xg><x>шальк-шальк тӧдьы парсьпиос</x>
+       <xt xml:lang="fin">valkoiset porsaat ovat isoja niin kuin olisivat varta vasten valikoituja;</xt>
+     </xg>
+     <xg><x>шальк-шальк чебер картофка</x>
+       <xt xml:lang="fin">perunat ovat suuria niin kuin olisivat varta vasten valikoituja</xt>
+     </xg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Descr">шальтрак</l><orig>шаʼльтраʼк</orig>
+   </lg>
+   <mg ind="1th"><note><i>onom. kuvaa metalli- t. puuesineiden, rattaiden aiheuttamaa yksittäistä heleää ääntä</i></note>
+     <tg xml:lang="fin">
+       <t>: helähdys, kilahdus</t>
+     </tg>
+     <xg><x>выж вылэ маке шальтрак усиз</x>
+       <xt xml:lang="fin">jokin putosi lattialle kilahtaen</xt>
+     </xg>
+   </mg>
+   <mg ind="2th"> <note><i>deskr. kuvaa odottamatonta heikkoutta</i></note>
+     <tg xml:lang="fin">
+       <t>:</t>
+     </tg>
+     <xg><x>шальтрак луыны</x>
+       <xt xml:lang="fin">tulla voimattomaksi, heiketä, nääntyä, uupua;</xt>
+     </xg>
+     <xg><x>пыдъёсы шальтрак луизы</x>
+       <xt xml:lang="fin">jalat herpaantuivat odottamattomasti (t. äkkiarvaamattomasti)</xt>
+     </xg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Descr">шальт-шальт</l><orig>шальт-шальт</orig>
+   </lg>
+   <mg><note><i>onom. kuvaa metalliesineiden (kolikkojen, metallikorujen tms.) jaksoittain toistuvaa heleää ääntä</i></note>
+     <tg xml:lang="fin">
+       <t>:</t>
+     </tg><font face="SmolenskSGR"><b>шальт-шальт карыны </b></font><font face="SmolenskSGR">(<i>маке</i>)</font>
+     <tg xml:lang="fin">
+       <t>helistä, helkkyä, helskyä, kilistä</t>
+     </tg> <font face="SmolenskSGR">(<i>маин ке</i>)</font>
+     <tg xml:lang="fin">
+       <t>helistää, helistellä, kilistää</t>
+     </tg>
+     <xg><x>чигвесез шальт-шальт каре</x>
+       <xt xml:lang="fin">hänen kaulakorunsa helisee</xt>
+     </xg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Descr">шальтыр</l><orig>шальтыр</orig>
+   </lg>
+   <mg ind="1th"><note><i>onom. kuvaa metalliesineiden (esim. kolikkojen) t. pienten puuesineiden useasti toistuvaa heleää ääntä</i></note>
+     <tg xml:lang="fin">
+       <t>: helinä, kilinä</t>
+     </tg>
+   </mg>
+   <mg ind="2th">
+     <variants>
+       <l_syn type="&gt;">шалтыр<rom ind="0_2"/></l_syn>
+     </variants>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Descr">шап<rom ind="1"/></l>
+   </lg>
+   <mg><note><i>onom. kuvaa pisaran t. tipan tippumista ropisten</i></note>
+     <tg xml:lang="fin">
+       <t>:</t>
+     </tg>
+     <xg><x>ву шап! усиз</x>
+       <xt xml:lang="fin">pisara tippui ropisten</xt>
+     </xg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Descr">шап-шап<rom ind="1"/></l>
+   </lg>
+   <mg><note><i>onom. kuvaa pisaroiden t. tippojen tippumista ropisten</i></note>
+     <tg xml:lang="fin">
+       <t>: tipoittain, pisaroittain</t>
+     </tg>
+     <xg><x>ву шап-шап вия</x>
+       <xt xml:lang="fin">vesi valuu (t. tippuu) pisaroittain</xt>
+     </xg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Descr">шапыр-шапыр</l><orig>шапор-шапыр</orig>
+   </lg>
+   <mg>
+     <variants>
+       <l_syn type="&gt;">шапыр</l_syn>
+     </variants>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Descr">шар<rom ind="2"/></l>
+   </lg>
+   <mg>
+     <xg><x>синвуосыз шар васько</x> <x>синвуосыз шар вияло</x>
+       <xt xml:lang="fin">kyyneleet juoksevat (t. vuotavat, valuvat) virtanaan</xt>
+     </xg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Descr">шаркак</l><orig>шаʼркаʼк</orig>
+   </lg>
+   <mg>
+     <variants>
+       <l_syn type="&gt;">шарк</l_syn>
+     </variants>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Descr">шарк-шарк</l><orig>шарк-шарк</orig>
+   </lg>
+   <mg><note><i>onom. kuvaa kovaan pintaan vasaralla, sauvalla tms. lyömisestä syntyvää vaimeaa toistuvaa ääntä</i></note>
+     <tg xml:lang="fin">
+       <t>: kolahtelu, kolautus, koputus, naputus</t>
+     </tg>
+     <xg><x>молотэн шарк-шарк йыганы</x>
+       <xt xml:lang="fin">kolautella vasaralla;</xt>
+     </xg>
+     <xg><x>сӥзь шарк-шарк йыга</x>
+       <xt xml:lang="fin">tikka koputtaa puuta: kop-kop</xt>
+     </xg>◊
+     <xg><x>шарк-шарк ветлыны</x>
+       <xt xml:lang="fin">laahustaa, kävellä laahaavin askelin</xt>
+     </xg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Descr">шатыр</l><orig>шатыр</orig>
+   </lg>
+   <mg ind="1th"><note><i>onom. kuvaa sateen, raesateen, naulojen, metalliesineiden tiheää putoilua katolle t. muille pinnoille </i></note><note>(<i>erityisesti peltipinnoille</i>)</note>
+     <tg xml:lang="fin">
+       <t>: ropina</t>
+     </tg><font face="SmolenskSGR"><b>шатыр карыны </b></font><font face="SmolenskSGR">(<i>маке</i>)</font>
+     <tg xml:lang="fin">
+       <t>ropista</t>
+     </tg><font face="SmolenskSGR">(<i>маин ке</i>)</font>
+     <tg xml:lang="fin">
+       <t>ropisuttaa</t>
+     </tg>
+     <xg><x>зор липетэз шатыр каре</x>
+       <xt xml:lang="fin">sade ropisuttaa kattoa;</xt>
+     </xg>
+     <xg><x>шатыр поттыны</x>
+       <xt xml:lang="fin">ropisuttaa;</xt>
+     </xg>
+     <xg><x>йӧ шатыр усе липет вылэ</x>
+       <xt xml:lang="fin">rakeet ropisevat kattoon</xt>
+     </xg>
+   </mg>
+   <mg ind="2th"> <pos ind="Descr"/><font face="SmolenskSGR">(<i>туж умой</i>)</font>
+     <tg xml:lang="fin">
+       <t>kovin (t. oikein) hyvin</t>
+     </tg>
+     <xg><x>удмурт кылын шатыр вераськыны</x>
+       <xt xml:lang="fin">puhua hyvin (t. sujuvasti) udmurttia;</xt>
+     </xg>
+     <xg><x>шатыр гинэ лыдӟе</x>
+       <xt xml:lang="fin">lukea selvästi (t. kompastelematta)</xt>
+     </xg>◊
+     <xg><x>сюлэм шатыр каре</x>
+       <xt xml:lang="fin">olla huolissaan (t. huolestunut), touhuta, hätäillä</xt>
+     </xg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Descr">шач</l><orig>шач</orig>
+   </lg>
+   <mg><note><i>onom. kuvaa hutkimisen, pieksemisen ääntä </i></note><note>(<i>esim. piiskalla, ruoskalla</i>)</note>
+     <tg xml:lang="fin">
+       <t>:</t>
+     </tg>
+     <xg><x>шач шуккылыны</x>
+       <xt xml:lang="fin">piestä, ruoskia, piiskata, hutkia, suomia</xt>
+     </xg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Descr">шенгыль-печкыль</l><orig>шенгыль-печкыль</orig>
+   </lg>
+   <mg><note><i>deskr.</i></note>
+     <tg xml:lang="fin">
+       <t>:</t>
+     </tg><font face="SmolenskSGR"><b>шенгыль-печкыль вераськыны</b></font>
+     <variants>
+       <l_syn type="&gt;">шенглес вераськыны</l_syn>
+     </variants>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Descr">шерык-вайык</l><orig>шерык-ваʼйык</orig>
+   </lg>
+   <mg><note><i>deskr.</i></note>
+     <tg xml:lang="fin">
+       <t>:</t>
+     </tg>
+     <xg><x>шерык-вайык ветлыны</x>
+       <xt xml:lang="fin">huojahdella kävellessään;</xt>
+     </xg>
+     <xg><x>шерык-вайык вырыны</x>
+       <xt xml:lang="fin">käyttäytyä rivosti (t. törkeästi)</xt>
+     </xg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Descr">шильк-шальк</l><orig>шильк-шальк</orig>
+   </lg>
+   <mg><note><i>onom. kuvaa </i></note><note>(<i>ensisijaisesti metalliesineiden</i>)</note> <note><i>vaihtelevaa kalinaa, kalistelua, kolistelua</i></note>
+     <tg xml:lang="fin">
+       <t>:</t>
+     </tg><font face="SmolenskSGR"><b>шильк-шальк карыны </b></font><font face="SmolenskSGR">(<i>маке</i>)</font>
+     <tg xml:lang="fin">
+       <t>kalista, kilistä</t>
+     </tg><font face="SmolenskSGR">(<i>маин ке</i>)</font>
+     <tg xml:lang="fin">
+       <t>kalistaa, kalistella</t>
+     </tg>
+     <xg><x>ӧсэз шильк-шальк йыганы</x>
+       <xt xml:lang="fin">panna ovi kiinni kilauttaen</xt><xre>esim. panna säppiin</xre>
+     </xg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Descr">шильтыр</l><orig>шильтыр</orig>
+   </lg>
+   <mg><note><i>onom. kuvaa pienten metalliesineiden kilinää, kalinaa, kalistelua: </i></note><font face="SmolenskSGR"><b>шильтыр карыны </b></font><font face="SmolenskSGR">(<i>маке</i>)</font>
+     <tg xml:lang="fin">
+       <t>kilistä, kilahdella, helistä</t>
+     </tg><font face="SmolenskSGR">(<i>маин ке</i>)</font>
+     <tg xml:lang="fin">
+       <t>kilistää, kilistellä, helistää, helistellä</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Descr">шир</l><orig>шир</orig>
+   </lg>
+   <mg><note><i>deskr. kuvaa esineen pyörimistä nopeasti t. vauhdikkaasti</i></note>
+     <tg xml:lang="fin">
+       <t>:</t>
+     </tg>
+     <xg><x>шир берганы</x>
+       <xt xml:lang="fin">pyöriä nopeasti (t. vauhdikkaasti)</xt>
+     </xg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Descr">шлӥч-шлач</l><orig>шлӥч-шлач</orig>
+   </lg>
+   <mg><note><i>onom. kuvaa parittaisen läimäytyksen (t. lätkäytyksen, piiskan sivalluksen) ääntä</i></note>
+     <tg xml:lang="fin">
+       <t>:</t>
+     </tg>
+     <xg><x>шлӥч-шлач шуккылыны</x>
+       <xt xml:lang="fin">(lyödä) läimäytellä, lyödä läiskiä, lätkäytellä, läiskäytellä</xt>
+     </xg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Descr">шок-поль</l><orig>шок-поль</orig>
+   </lg>
+   <mg><note><i>deskr.</i></note>
+     <tg xml:lang="fin">
+       <t>:</t>
+     </tg>
+     <xg><x>шок-поль потыны</x>
+       <xt xml:lang="fin">alkaa olla hengästyksissään, hengästyä;</xt>
+     </xg>
+     <xg><x>шок-поль шоканы</x>
+       <xt xml:lang="fin">olla hengästyksissään</xt>
+     </xg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Descr">шок-пуль</l><orig>шок-пуль</orig>
+   </lg>
+   <mg>
+     <variants>
+       <l_syn type="&gt;">шок-поль</l_syn>
+     </variants>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Descr">шонӥ-панӥ</l><orig>шонӥ-паʼнӥ</orig>
+   </lg>
+   <mg><note><i>deskr.</i></note>
+     <tg xml:lang="fin">
+       <t>:</t>
+     </tg>
+     <xg><x>шонӥ-панӥ мурт</x>
+       <xt xml:lang="fin">huikenteleva (t. kevytmielinen, pinnallinen, epävakaa) ihminen;</xt>
+     </xg>
+     <xg><x>шонӥ-панӥ ветлыны</x>
+       <xt xml:lang="fin">kulkea löntystäen; löntystää, kävellä hoippuen (t. horjuen, hoiperrellen)</xt>
+     </xg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Descr">шӧнгыль-печкыль</l><orig>шӧнгыль-печкыль</orig>
+   </lg>
+   <mg>
+     <variants>
+       <l_syn type="&gt;">шенгыль-печкыль</l_syn>
+     </variants>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Descr">шук-шак</l><orig>шук-шак</orig>
+   </lg>
+   <mg><note><i>deskr.</i></note>
+     <tg xml:lang="fin">
+       <t>:</t>
+     </tg><font face="SmolenskSGR">(<i>дыртӥт-вуттӥт</i>)</font>
+     <tg xml:lang="fin">
+       <t>kiireessä, hätäpäissään; kiireesti, hätäisesti; huitaisten</t>
+     </tg>
+     <xg><x>шук-шак вырыны</x>
+       <xt xml:lang="fin">touhuta, hyöriä;</xt>
+     </xg>
+     <xg><x>шук-шак лэсьтыны</x>
+       <xt xml:lang="fin">tehdä kiireessä (t. hätäpäissään, kiireesti);</xt>
+     </xg>
+     <xg><x>уж шук-шак лэсьтэмын</x>
+       <xt xml:lang="fin">työ on tehty kiireessä (t. huitaisten)</xt>
+     </xg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Descr">шук-шук</l><orig>шак-шук</orig>
+   </lg>
+   <mg><note><i>deskr.</i></note>
+     <tg xml:lang="fin">
+       <t>:</t>
+     </tg>
+     <xg><x>шук-шук бӧрдыны</x>
+       <xt xml:lang="fin">itkeä hillittömästi;</xt>
+     </xg>
+     <xg><x>шук-шук луыны</x>
+       <xt xml:lang="fin">uupua, nääntyä, tulla voimattomaksi;</xt>
+     </xg>
+     <xg><x>ымнырыз шук-шук луиз</x>
+       <xt xml:lang="fin">hänen kasvonsa kalpenivat</xt>
+     </xg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Descr">шукыр-букыр</l><orig>шукыр-букыр</orig>
+   </lg>
+   <mg><note><i>deskr.</i></note>
+     <tg xml:lang="fin">
+       <t>:</t>
+     </tg><font face="SmolenskSGR"><b>шукыр-букыр вырыны </b></font><mwemg ind="1th"/><defNative>огыр-бугыр вырыны</defNative>
+     <tg xml:lang="fin">
+       <t>olla</t>
+     </tg>
+     <tg xml:lang="fin">
+       <t>huolissaan (t. huolestunut, levoton)</t>
+     </tg>
+     <xg><x>калык шукыр-букыр выре</x>
+       <xt xml:lang="fin">yleisö liikehtii levottomana</xt>
+     </xg><mwemg ind="2th"/><defNative>лӧптэм мылкыдо луыны</defNative>
+     <tg xml:lang="fin">
+       <t>käyttäytyä kiihtyneesti</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Descr">шул-шул</l><orig>шал-шул</orig>
+   </lg>
+   <mg><note><i>deskr.</i></note>
+     <tg xml:lang="fin">
+       <t>:</t>
+     </tg>
+     <xg><x>шул-шул луыны</x>
+       <xt xml:lang="fin">kalveta, tulla kalpeaksi;</xt>
+     </xg>
+     <xg><x>курдаса шул-шул</x>
+       <xt xml:lang="fin">kalveta pelosta</xt>
+     </xg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Descr">шуль</l><orig>шуль</orig>
+   </lg>
+   <mg>
+     <tg xml:lang="fin">
+       <t>märkä, kostea</t>
+       <re>lumi, tie</re>;
+     </tg>
+     <xg><x>шуль лымы</x>
+       <xt xml:lang="fin">räntä</xt>
+     </xg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Descr">шур<rom ind="2"/></l>
+   </lg>
+   <mg><note><i>onom. kuvaa lintujen siipien räpyttämisen aiheuttamaa ääntä </i></note>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Descr">шур-р-р</l><orig>шур-р-р</orig>
+   </lg>
+   <mg>
+     <variants>
+       <l_syn type="&gt;">шур<rom ind="2"/></l_syn>
+     </variants>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Descr">шылтыр-шалтыр</l><orig>шылтыр-шаʼлтыр</orig>
+   </lg>
+   <mg><note><i>onom. kuvaa puuesineiden, metallipurkkien, tyhjien sankojen, rattaiden aiheuttamaa useasti toistuvaa vaimeaa ääntä</i></note>
+     <tg xml:lang="fin">
+       <t>:</t>
+     </tg><font face="SmolenskSGR"><b>шылтыр-шалтыр карыны </b></font><font face="SmolenskSGR">(<i>маке</i>)</font>
+     <tg xml:lang="fin">
+       <t>kolista</t>
+     </tg><font face="SmolenskSGR">(<i>маин ке</i>)</font>
+     <tg xml:lang="fin">
+       <t>kolisuttaa, kolistaa</t>
+     </tg>
+     <xg><x>ведра шылтыр-шалтыр карыса музъем вылэ усиз</x>
+       <xt xml:lang="fin">sanko putosi kolisten maahan;</xt>
+     </xg>
+     <xg><x>палисадникез бодыен шылтыр-шалтыр карыны</x>
+       <xt xml:lang="fin">kolistaa kepillä kukkatarhan aitaan</xt>
+     </xg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Descr">шыльтыр-шальтыр</l><orig>шыльтыр-шаʼльтыр</orig>
+   </lg>
+   <mg ind="1th"><note><i>onom. kuvaa lasi- ja metalliastioiden, metalliesineiden, kaulakorun rahojen helinää, kilinää</i></note>
+     <tg xml:lang="fin">
+       <t>:</t>
+     </tg>
+     <xg><x>уксё тӥрлык шыльтыр-шальтыр каре</x>
+       <xt xml:lang="fin">kaulakoru helisee (t. kilisee)</xt>
+     </xg>
+   </mg>
+   <mg ind="2th"> <pos ind="Descr"/><font face="SmolenskSGR">(<i>вырись, кылясь</i>)</font>
+     <tg xml:lang="fin">
+       <t>liikkuva, huojuva, horjuva</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Descr">шыпыр</l><orig>шыпыр</orig>
+   </lg>
+   <mg><note><i>onom. kuvaa pisaroiden t. tippojen tippumista </i></note><note>(<i>esim. lehdille</i>)</note><note><i>, kuiskaten puhumista</i></note>
+     <tg xml:lang="fin">
+       <t>:</t>
+     </tg>
+     <xg><x>зор шыпыр вия</x>
+       <xt xml:lang="fin">sadepisarat tippuvat ropisten;</xt>
+     </xg>
+     <xg><x>шыпыр вераськыны</x>
+       <xt xml:lang="fin">puhua kuiskaten, kuiskailla</xt>
+     </xg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Descr">шытыр-шатыр</l><orig>шытыр-шаʼтыр</orig>
+   </lg>
+   <mg><note><i>onom. kuvaa hiirten jyvän jyrsimisen t. nakertamisen ääntä</i></note>
+     <tg xml:lang="fin">
+       <t>:</t>
+     </tg>
+     <xg><x>шыръёс шытыр-шатыр потто</x>
+       <xt xml:lang="fin">hiiret ripisevät</xt>
+     </xg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Descr">шыч-шач</l><orig>шыч-шач</orig>
+   </lg>
+   <mg><note><i>onom. kuvaa piiskalla t. ruoskalla läimäyttämisen, korvapuustin antamisen ääntä ja viikatteen viuhuntaa niitettäessä</i></note>
+     <tg xml:lang="fin">
+       <t>:</t>
+     </tg><font face="SmolenskSGR"><b>кусоос шыч-шач вазё</b></font>
+     <tg xml:lang="fin">
+       <t>viikatteet viuhuvat</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Descr">юз</l><orig>юз</orig>
+   </lg>
+   <mg>
+     <tg xml:lang="fin">
+       <t>raikas, viileä, vilpoinen</t>
+     </tg>
+     <xg><x>юз кезьыт ву юыны</x>
+       <xt xml:lang="fin">juoda raikkaan kylmää vettä;</xt>
+     </xg>
+     <xg><x>тыысь юз лыктэ</x> <x>тыысь юз ыртэ</x>
+       <xt xml:lang="fin">järveltä alkoi huokua viileää, järveltä huokuu viileyttä;</xt>
+     </xg>
+     <xg><x>куазь юз луиз</x>
+       <xt xml:lang="fin">sää alkoi olla viileä (t. vilpoinen), sää muuttui viileäksi (t. vilpoiseksi)</xt>
+     </xg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Descr">юз-юз</l><orig>юʼз-юз</orig>
+   </lg>
+   <mg>
+     <variants>
+       <l_syn type="&gt;">юз</l_syn>
+     </variants>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Descr">бугыр</l><orig>бугыр</orig>
+   </lg>
+   <mg><note><i>deskr. kuvaa savutupruja, pilviä, tupruamista:</i></note>
+     <xg><x>бугыр потыны</x>
+       <xt xml:lang="fin">tupruta;</xt>
+     </xg>
+     <xg><x>ӵын муръёысь бугыр потэ</x>
+       <xt xml:lang="fin">savu nousee piipusta tupruten</xt>
+     </xg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Descr">бугыр-бугыр</l><orig>бугыʼр-бугыр</orig>
+   </lg>
+   <mg ind="1th">
+     <variants>
+       <l_syn type="&gt;">бугыр</l_syn>
+     </variants>
+   </mg>
+   <mg ind="2th">
+     <variants>
+       <l_syn type="&gt;">бугрес<rom ind="0_1"/></l_syn>
+     </variants>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Descr">буй-буй</l><orig>буʼй-буй</orig>
+   </lg>
+   <mg>
+     <tg xml:lang="fin">
+       <t>pöyheä, möyheä, kuohkea, (hyvin) pehmeä</t>
+     </tg>
+     <xg><x>нянь буй-буй</x>
+       <xt xml:lang="fin">leipä on kuohkeaa (t. hyvin pehmeää)</xt>
+     </xg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Descr">бульк</l><orig>бульк</orig>
+   </lg>
+   <mg><note><i>onom. kuvaa polskahdusta, molskahdusta:</i></note>
+     <xg><x>бульк вуэ усиз</x>
+       <xt xml:lang="fin">se putosi polskahtaen veteen, se polskahti (t. molskahti) veteen</xt>
+     </xg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Descr">бультыр</l><orig>бультыр</orig>
+   </lg>
+   <mg><note><i>onom.</i></note>
+     <tg xml:lang="fin">
+       <t>kuvaa jatkuvaa polskahtelua, pulputusta</t>
+     </tg>
+     <xg><x>бультыр вазьыны</x>
+       <xt xml:lang="fin">polskahdella, pulputtaa</xt>
+     <variants>
+       <l_syn type="&gt;">бультыр карыны</l_syn>
+     </variants>
+     </xg>
+     <xg><x>бультыр карыны</x>
+       <xt xml:lang="fin">polskahdella, pulputtaa</xt>
+     </xg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Descr">бус-бус</l><orig>буʼс-бус</orig>
+   </lg>
+   <mg>
+     <tg xml:lang="fin">
+       <t>höyteinen, hyvin pehmeä</t>
+     </tg>
+     <xg><x>бус-бус лымы</x>
+       <xt xml:lang="fin">höyteinen lumi</xt>
+     </xg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Descr">быг-быг</l><orig>быʼг-быг</orig>
+   </lg>
+   <mg>
+     <tg xml:lang="fin">
+       <t>kuohkea; höyteinen</t>
+     </tg><font face="SmolenskSGR"><b>лымы быг-быг </b></font><font face="SmolenskSGR">(<b>небыт</b>)</font>
+     <tg xml:lang="fin">
+       <t>lumi on höyteistä</t>
+     </tg><font face="SmolenskSGR"><b>нянь быг-быг </b></font><font face="SmolenskSGR">(<b>небыт</b>)</font>
+     <tg xml:lang="fin">
+       <t>leipä</t>
+     </tg>
+     <tg xml:lang="fin">
+       <t>on kuohkeaa</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Descr">быгыль-быгыль</l><orig>быголь-быгыль</orig>
+   </lg>
+   <mg>
+     <tg xml:lang="fin">
+       <t>pullea</t>
+     </tg>
+     <xg><x>быгыль-быгыль бамъёс</x>
+       <xt xml:lang="fin">pulleat posket</xt>
+     </xg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Descr">быльк, быльк-быльк</l><orig>быльк, больк-быльк</orig>
+   </lg>
+   <mg>
+     <xg><x>быльк-быльк учкыны</x>
+       <xt xml:lang="fin">tuijottaa</xt>
+     </xg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Descr">вальк-вальк</l><orig>ваʼльк-вальк</orig>
+   </lg>
+   <mg ind="1th"><defNative>вольыт</defNative> <note><i>kuvaa sileää, liukasta, luistavaa pintaa</i></note>
+     <tg xml:lang="fin">
+       <t>:</t>
+     </tg>
+     <xg><x>вальк-вальк вольыт сюрес</x>
+       <xt xml:lang="fin">hyvin sileä (t. liukas) tie</xt>
+     </xg>
+   </mg>
+   <mg ind="2th"><defNative>чили-вали</defNative> <note><i>kuvaa välkkymistä, kiiltämistä</i></note>
+     <tg xml:lang="fin">
+       <t>:</t>
+     </tg>
+     <xg><x>йӧ вальк-вальк кисьтаське</x>
+       <xt xml:lang="fin">jää välkähtelee</xt>
+     </xg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Descr">гаӵ</l><orig>гаӵ</orig>
+   </lg>
+   <mg>
+     <variants>
+       <l_syn type="&gt;">гаӵ-гаӵ</l_syn>
+     </variants>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Descr">гебыль</l><orig>гебыль</orig>
+     <variants>
+       <l_syn type="&gt;">гебыль-гебыль</l_syn>
+     </variants>
+   </lg>
+   <mg>
+     <tg xml:lang="fin">
+       <t>kuvaa kuhinaa, kihinää, verkkaista liikkumista</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Descr">гебыль-гебыль</l><orig>геболь-геболь</orig>
+   </lg>
+   <mg>
+     <tg xml:lang="fin">
+       <t>kuvaa kuhinaa, kihinää, verkkaista liikkumista</t>
+     </tg>
+     <xg><x>гебыль-гебыль вырыны</x>
+       <xt xml:lang="fin">(kuhisemalla) kuhista, (kihisemällä) kihistä;</xt>
+     </xg>
+     <xg><x>кузьылиос гебыль-гебыль выро</x>
+       <xt xml:lang="fin">muurahaisia on kihisemällä;</xt>
+     </xg><font face="SmolenskSGR"><b>гебыль-гебыль ветлыны </b></font><mwemg ind="1th"/>
+     <tg xml:lang="fin">
+       <t>liikkua verkkaisesti (t. hitaasti); madella hädin (t. töin) tuskin</t>
+     </tg><mwemg ind="2th"/>
+     <variants>
+       <l_syn type="&gt;">гебыль-гебыль вырыны</l_syn>
+     </variants>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Descr">гебыр</l><orig>гебыр</orig>
+     <variants>
+       <l_syn type="&gt;">гебыр-гебыр</l_syn>
+     </variants>
+   </lg>
+   <mg>
+     <tg xml:lang="fin">
+       <t>verkkaisesti, hitaasti, hädin (t. töin) tuskin</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Descr">гебыр-гебыр</l><orig>гебор-гебор</orig>
+   </lg>
+   <mg>
+     <tg xml:lang="fin">
+       <t>verkkaisesti, hitaasti, hädin (t. töin) tuskin</t>
+     </tg>
+     <xg><x>пересь гебыр-гебыр ветлэ</x>
+       <xt xml:lang="fin">vanhus hädin tuskin kulkee (t. liikkuu)</xt>
+     </xg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Descr">геньыр</l><orig>геньыр</orig>
+     <variants>
+       <l_syn>геньыр-геньыр</l_syn>
+     </variants>
+   </lg>
+   <mg>
+     <variants>
+       <l_syn type="&gt;">гебыль-гебыль</l_syn>
+     </variants>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Descr">геньыр-геньыр</l><orig>геньор-геньор</orig>
+     <variants>
+       <l_syn>геньыр</l_syn>
+     </variants>
+   </lg>
+   <mg>
+     <variants>
+       <l_syn type="&gt;">гебыль-гебыль</l_syn>
+     </variants>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Descr">гизи-гази</l><orig>гизи-гаʼзи</orig>
+     <variants>
+       <l_syn>гизи-гизи</l_syn>
+     </variants>
+   </lg>
+   <mg><note><i>deskr.</i></note>
+     <tg xml:lang="fin">
+       <t>:</t>
+     </tg><font face="SmolenskSGR"><b>сюлэм гизи-гази </b></font><font face="SmolenskSGR">(<b>луэ</b>)</font>
+     <tg xml:lang="fin">
+       <t>sydäntä särkee (t. kaihertaa); käy hermoille</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Descr">гизи-гизи</l><orig>гизи-гиʼзи</orig>
+     <variants>
+       <l_syn>гизи-гази</l_syn>
+     </variants>
+   </lg>
+   <mg><note><i>deskr.</i></note>
+     <tg xml:lang="fin">
+       <t>:</t>
+     </tg><font face="SmolenskSGR"><b>сюлэм гизи-гизи </b></font><font face="SmolenskSGR">(<b>луэ</b>)</font>
+     <tg xml:lang="fin">
+       <t>sydäntä särkee (t. kaihertaa); käy hermoille</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Descr">гизьыр</l><orig>гизьыр</orig>
+     <variants>
+       <l_syn>гизьыр-гизьыр</l_syn>
+     </variants>
+   </lg>
+   <mg><note><i>deskr.</i></note>
+     <tg xml:lang="fin">
+       <t>:</t>
+     </tg><font face="SmolenskSGR"><b>гизьыр карыны</b></font>
+     <variants>
+       <l_syn type="&gt;">гизьыртыны</l_syn>
+     </variants>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Descr">гизьыр-гизьыр</l><orig>гизьыр-гизьыр</orig>
+     <variants>
+       <l_syn>гизьыр</l_syn>
+     </variants>
+   </lg>
+   <mg><note><i>deskr.</i></note>
+     <tg xml:lang="fin">
+       <t>:</t>
+     </tg><font face="SmolenskSGR"><b>гизьыр-гизьыр карыны</b></font>
+     <variants>
+       <l_syn type="&gt;">гизьыртыны</l_syn>
+     </variants>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Descr">гичыр</l><orig>гичыр</orig>
+     <variants>
+       <l_syn>гичыр-гичыр</l_syn>
+     </variants>
+   </lg>
+   <mg>
+     <variants>
+       <l_syn type="&gt;">гизьыр</l_syn>
+     </variants>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Descr">гичыр-гичыр</l><orig>гичыр-гичыр</orig>
+     <variants>
+       <l_syn>гичыр</l_syn>
+     </variants>
+   </lg>
+   <mg>
+     <variants>
+       <l_syn type="&gt;">гизьыр</l_syn>
+     </variants>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Descr">гор</l><orig>гор</orig>
+     <variants>
+       <l_syn>гор-гор</l_syn>
+     </variants>
+   </lg>
+   <mg><note><i>deskr.</i></note>
+     <tg xml:lang="fin">
+       <t>:</t>
+     </tg>
+     <xg><x>гор серекъяны</x>
+       <xt xml:lang="fin">hohottaa, nauraa ääneen</xt>
+     </xg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Descr">гор-гор</l><orig>гоʼр-гор</orig>
+     <variants>
+       <l_syn>гор</l_syn>
+     </variants>
+   </lg>
+   <mg><note><i>deskr.</i></note>
+     <tg xml:lang="fin">
+       <t>:</t>
+     </tg>
+     <xg><x>гор-гор серекъяны</x>
+       <xt xml:lang="fin">hohottaa, nauraa ääneen</xt>
+     </xg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Descr">гурак</l><orig>гараʼк</orig>
+   </lg>
+   <mg>
+     <tg xml:lang="fin">
+       <t>joukolla, miehissä</t>
+     </tg>
+     <xg><x>гурак серектыны</x>
+       <xt xml:lang="fin">naurahtaa miehissä (t. koko jouklla), päästää naurunremahdus</xt><xre>joukkona</xre>;
+     </xg>
+     <xg><x>гурак уж борды басьтӥськыны</x>
+       <xt xml:lang="fin">ryhtyä miehissä työhön</xt>
+     </xg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Descr">гыж-кал</l><orig>гыж-кал</orig>
+   </lg>
+   <mg><note><i>deskr .</i></note>
+     <tg xml:lang="fin">
+       <t>:</t>
+     </tg>
+     <xg><x>гыж-кал кыскыса нуыны</x>
+       <xt xml:lang="fin">laahata, raahata, hinata, kiskoa, vetää (retuuttamalla, laahaamalla)</xt>
+     </xg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Descr">гызмыль</l><orig>гызмыль</orig>
+   </lg>
+   <mg><note><i>deskr.</i></note>
+     <tg xml:lang="fin">
+       <t>: verkkaisesti, hitaasti, hädin (t. töin) tuskin</t>
+     </tg>
+     <xg><x>гызмыль ветлыны</x>
+       <xt xml:lang="fin">liikkua verkkaisesti (t. hitaasti); ryömiä (t. madella) hädin (t. töin) tuskin</xt>
+     </xg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Descr">гызыль</l><orig>гызыль</orig>
+     <variants>
+       <l_syn>гызыр</l_syn>
+     </variants>
+   </lg>
+   <mg>
+     <variants>
+       <l_syn type="&gt;">гызмыль</l_syn>
+     </variants>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Descr">гызыр</l><orig>гызыр</orig>
+     <variants>
+       <l_syn>гызыль</l_syn>
+     </variants>
+   </lg>
+   <mg>
+     <variants>
+       <l_syn type="&gt;">гызмыль</l_syn>
+     </variants>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Descr">дамбыр</l><orig>дамбыр</orig>
+   </lg>
+   <mg ind="1th"><note><i>onom. kuvaa jytinää, jylinää, kolinaa, töminää</i></note>
+     <tg xml:lang="fin">
+       <t>:</t>
+     </tg><font face="SmolenskSGR"><b>дамбыр карыны </b></font><font face="SmolenskSGR">(<i>маке с-сь</i>)</font>
+     <tg xml:lang="fin">
+       <t>jytistä, jylistä, kolista, tömistä</t>
+     </tg><font face="SmolenskSGR">(<i>маин ке</i>)</font>
+     <tg xml:lang="fin">
+       <t>jytistää, jylistää, kolistaa, tömistää</t>
+     </tg>
+     <xg><x>дамбыр поттыны</x>
+       <xt xml:lang="fin">jytistää, jylistää, kolistaa, tömistää;</xt>
+     </xg>
+     <xg><x>пиналъёс дамбыр бызьыло</x>
+       <xt xml:lang="fin">lapset juosta tömistävät</xt>
+     </xg>
+   </mg>
+   <mg ind="2th"> <range>murt.</range><defNative>копак</defNative>
+     <tg xml:lang="fin">
+       <t>aivan, ihan</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Descr">дангыр</l><orig>дангыр</orig>
+   </lg>
+   <mg>
+     <variants>
+       <l_syn type="&gt;">дынгыр, дымбыр</l_syn>
+     </variants>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Descr">домбыль-домбыль</l><orig>домболь-домбыль</orig>
+     <variants>
+       <l_syn>домбылё</l_syn>
+     </variants>
+   </lg>
+   <mg> <pos ind="Descr"/>
+     <variants>
+       <l_syn type="&gt;">домблё</l_syn>
+     </variants>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Descr">дыбыр</l><orig>дыбыр</orig>
+   </lg>
+   <mg ind="1th"><note><i>onom. kuvaa jytinää, jylinää, kolinaa, töminää:</i></note>
+     <xg><x>дыбыр поттыны</x>
+       <xt xml:lang="fin">jytistää, jylistää, kolistaa, tömistää</xt>
+     </xg>
+   </mg>
+   <mg ind="2th"><defNative>бызьыса, ӝог</defNative>
+     <tg xml:lang="fin">
+       <t>juosten, juoksujalkaa, nopeasti</t>
+     </tg>
+     <xg><x>дыбыр мыныны</x>
+       <xt xml:lang="fin">juosta</xt>
+     </xg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Descr">дыбыр-дабыр</l><orig>дыбыр-даʼбыр</orig>
+   </lg>
+   <mg ind="1th"><note><i>onom. kuvaa jytinää, kolinaa, töminää; kuvaa isojen esineiden kaatumista jymähtäen</i></note>
+     <tg xml:lang="fin">
+       <t>:</t>
+     </tg>
+     <xg><x>дыбыр-дабыр усьыны</x>
+       <xt xml:lang="fin">(kaatua) läjähtää (t. rojahtaa)</xt>
+     </xg>
+   </mg>
+   <mg ind="2th">
+     <tg xml:lang="fin">
+       <t>kiireesti, kiireenvilkkaa</t>
+     </tg>
+     <xg><x>дыбыр-дабыр кошкыны</x>
+       <xt xml:lang="fin">lähteä (t. mennä ohi) kiireesti</xt>
+     </xg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Descr">дыбыр-йыг</l><orig>дыбыр-йыг</orig>
+   </lg>
+   <mg><note><i>onom. kuvaa jytinää, kolinaa:</i></note>
+     <xg><x>дыбыр-йыг усьыны</x>
+       <xt xml:lang="fin">(kaatua) jysähtää (t. rojahtaa)</xt>
+     </xg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Descr">дыбыр-колтыр</l><orig>дыбыр-коʼлтыр</orig>
+     <variants>
+       <l_syn>дыбыр-калтыр</l_syn>
+     </variants>
+   </lg>
+   <mg><note><i>onom. kuvaa jytinää, kolinaa:</i></note><font face="SmolenskSGR"><b>дыбыр-колтыр карыны </b></font><font face="SmolenskSGR">(<i>маке</i>)</font>
+     <tg xml:lang="fin">
+       <t>jytistä, kolista</t>
+     </tg><font face="SmolenskSGR">(<i>маин ке</i>)</font>
+     <tg xml:lang="fin">
+       <t>jytistää, kolistaa</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Descr">дыбыр-шалтыр</l><orig>дыбыр-шаʼлтыр</orig>
+   </lg>
+   <mg><note><i>onom. kuvaa jytinää, jylinää, kolinaa, töminää:</i></note><font face="SmolenskSGR"><b>дыбыр-шалтыр карыны </b></font><font face="SmolenskSGR">(<i>маке</i>)</font>
+     <tg xml:lang="fin">
+       <t>jytistä, jylistä, kolista, tömistä</t>
+     </tg><font face="SmolenskSGR">(<i>маин ке</i>)</font>
+     <tg xml:lang="fin">
+       <t>jytistää, jylistää, kolistaa, tömistää</t>
+     </tg>
+     <xg><x>дыбыр-шалтыр корка пырыны</x>
+       <xt xml:lang="fin">tulla tömistäen tupaan;</xt>
+     </xg>
+     <xg><x>дыбыр-шалтыр усьыны</x>
+       <xt xml:lang="fin">(kaatua) läjähtää (t. rojahtaa)</xt>
+     </xg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Descr">дыг-мог: дыг-мог вераськыны</l>
+   </lg>
+   <mg>
+     <tg xml:lang="fin">
+       <t>puhua takellellen</t>
+     </tg>
+     <xg><x>дыг-мог луыны</x>
+       <xt xml:lang="fin">takellella, takerrella, tankkailla;</xt>
+     </xg>
+     <xg><x>дыг-мог лыдӟыны</x>
+       <xt xml:lang="fin">lukea takeltelemalla (t. takellellen)</xt>
+     </xg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Descr">дыгыр</l><orig>дыгыр</orig>
+   </lg>
+   <mg>
+     <variants>
+       <l_syn type="&gt;">дынгыр</l_syn>
+     </variants>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Descr">дымбыр</l>
+     <variants>
+       <l_syn type="&gt;">дыбыр<rom ind="0_1"/></l_syn>
+     </variants>
+   </lg>
+   <mg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Descr">дымбыр-дамбыр</l><orig>дымбыр-даʼмбыр</orig>
+   </lg>
+   <mg>
+     <variants>
+       <l_syn type="&gt;">дыбыр-дабыр<rom ind="0_1"/></l_syn>
+     </variants>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Descr">дымбыр-йыг</l><orig>дымбыр-йыг</orig>
+   </lg>
+   <mg>
+     <variants>
+       <l_syn type="&gt;">дыбыр-йыг</l_syn>
+     </variants>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Descr">дымбыр-шалтыр</l><orig>дымбыр-шаʼлтыр</orig>
+   </lg>
+   <mg>
+     <variants>
+       <l_syn type="&gt;">дыбыр-шалтыр</l_syn>
+     </variants>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Descr">дынгыр</l><orig>дынгыр</orig>
+   </lg>
+   <mg><note><i>onom. kuvaa kolinaa, räminää, tärinää – kulkuvälineiden mennessä kovalla pinnalla</i></note>
+     <tg xml:lang="fin">
+       <t>:</t>
+     </tg>
+     <xg><x>кын сюрес вылтӥ уробо дынгыр вазе</x>
+       <xt xml:lang="fin">routaisella tiellä rattaat rämisevät</xt>
+     </xg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Descr">дыр-р</l><orig>дыр-р</orig>
+   </lg>
+   <mg><note><i>deskr.</i></note>
+     <tg xml:lang="fin">
+       <t>:</t>
+     </tg>
+     <xg><x>дыр-р куалекъяны</x>
+       <xt xml:lang="fin">vapista, väristä, täristä</xt><xre>kylmästä, pelosta</xre>
+     </xg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Descr">жаль<rom ind="2"/></l>
+   </lg>
+   <mg><note><i>onom. kuvaa veden, sateen valumista</i></note>
+     <tg xml:lang="fin">
+       <t>:</t>
+     </tg>
+     <xg><x>жолобысь ву жаль вия</x>
+       <xt xml:lang="fin">vesikourusta vesi valuu (t. virtaa) liristen;</xt>
+     </xg>
+     <xg><x>жаль зоре</x>
+       <xt xml:lang="fin">sataa kuin saavista kaataen</xt>
+     </xg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Descr">жаль-жаль</l><orig>жаʼль-жаль</orig>
+   </lg>
+   <mg ind="1th"><note><i>onom. kuvaa veden valumista, virtaamista, runsasta sadekuuroa</i></note>
+     <tg xml:lang="fin">
+       <t>:</t>
+     </tg>
+     <xg><x>канаваетӥ ву жаль-жаль бызе</x>
+       <xt xml:lang="fin">ojassa vesi virtaa solisten</xt>
+     </xg>
+   </mg>
+   <mg ind="2th"> <note><i>deskr.</i></note>
+     <tg xml:lang="fin">
+       <t>:</t>
+     </tg>
+     <xg><x>жаль-жаль кот</x>
+       <xt xml:lang="fin">läpimärkä, likomärkä;</xt>
+     </xg>
+     <xg><x>жаль-жаль котмыны</x>
+       <xt xml:lang="fin">kastua läpimäräksi (t. likomäräksi)</xt>
+     </xg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Descr">жальк</l><orig>жальк</orig>
+     <variants>
+       <l_syn>жалькак</l_syn>
+     </variants>
+   </lg>
+   <mg><note><i>onom.</i></note>
+   <mg ind="1th"/><defNative>ву, тулкымъёс с-сь</defNative> <note><i>kuvaa aaltojen loiskahtamista</i></note>
+     <tg xml:lang="fin">
+       <t>: loiskis</t>
+     </tg>
+     <xg><x>ярдуре тулкымъёс жальк шуккисько</x>
+       <xt xml:lang="fin">aallot lyövät rantaan loiskahtaen, aallot läiskyvät rantaan</xt>
+     </xg>
+   </mg>
+   <mg ind="2th"><defNative>векчи металл арбериос с-сь</defNative> <note><i>kuvaa pienten metalliesineiden</i></note><note>(<i>avainten, kolikkojen</i>)</note> <note><i>kilinää</i></note>
+     <tg xml:lang="fin">
+       <t>:</t>
+     </tg>
+     <xg><x>коньдон кисыын жальк кариз</x>
+       <xt xml:lang="fin">taskussa kolikot kilahtivat</xt>
+     </xg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Descr">жальтыр</l><orig>жальтыр</orig>
+   </lg>
+   <mg><note><i>onom.</i></note>
+   <mg ind="1th"/><defNative>ву с-сь</defNative> <note><i>kuvaa veden lorinaa, solinaa</i></note>
+     <tg xml:lang="fin">
+       <t>:</t>
+     </tg>
+     <xg><x>ву жальтыр вия</x>
+       <xt xml:lang="fin">vesi valuu liristen (t. loristen);</xt>
+     </xg>
+     <xg><x>жальтыр вазьыны</x>
+       <xt xml:lang="fin">lorista, solista</xt>
+     </xg>
+   </mg>
+   <mg ind="2th"><defNative>векчи металл арбериос с-сь</defNative> <note><i>kuvaa pienten metalliesineiden</i></note><note>(<i>avainten, kolikkojen</i>)</note> <note><i>kilinää</i></note>
+     <tg xml:lang="fin">
+       <t>:</t>
+     </tg>
+     <xg><x>жальтыр карыны</x>
+       <xt xml:lang="fin">kilahdella, kilistä;</xt>
+     </xg>
+     <xg><x>коньдон кисыын жальтыр каре</x>
+       <xt xml:lang="fin">kolikot kilahtelevat taskussa</xt>
+     </xg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Descr">жальыр</l><orig>жальыр</orig>
+   </lg>
+   <mg><note><i>onom. kuvaa veden lorinaa, solinaa</i></note>
+     <tg xml:lang="fin">
+       <t>:</t>
+     </tg>
+     <xg><x>жальыр вияны</x>
+       <xt xml:lang="fin">valua (t. virrata) loristen;</xt>
+     </xg>
+     <xg><x>жальыр карыны</x>
+       <xt xml:lang="fin">lorista, solista</xt>
+     </xg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Descr">жальыр-жальыр</l><orig>жальор-жальыр</orig>
+   </lg>
+   <mg><note><i>onom. kuvaa veden äänekästä lorinaa, solinaa</i></note>
+     <tg xml:lang="fin">
+       <t></t>
+     </tg>
+     <variants>
+       <l_syn type="vrt0">жальыр</l_syn>
+     </variants>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Descr">жиль-жиль</l><orig>жиʼль-жиль</orig>
+   </lg>
+   <mg ind="1th"><note><i>kuvaa hyvännäköisiä, hyvänlaatuisia hedelmiä, jyviä, siemeniä</i></note>
+     <tg xml:lang="fin">
+       <t>:</t>
+     </tg>
+     <xg><x>жиль-жиль огкадесь улмоос</x>
+       <xt xml:lang="fin">omenat ovat tasalaatuisia, valikoituja</xt>
+     </xg>
+   </mg>
+   <mg ind="2th"> <note><i>kuvaa heikkouden, herpaannuksen, raukeuden tunnetta</i></note>
+     <tg xml:lang="fin">
+       <t>:</t>
+     </tg>
+     <xg><x>вылтыры жиль-жиль луиз</x>
+       <xt xml:lang="fin">kehoni tuli miellyttävän raukeaksi;</xt>
+     </xg>
+     <xg><x>пыдъёсы жиль-жиль луизы</x>
+       <xt xml:lang="fin">polveni herpaantuivat</xt>
+     </xg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Descr">жильтыр</l><orig>жильтыр</orig>
+   </lg>
+   <mg><note><i>onom.</i></note>
+   <mg ind="1th"/><defNative>жильы но мк. металл арбериос с-сь</defNative> <note><i>kuvaa ketjun ja muiden metalliesineiden kilinää</i></note>
+     <tg xml:lang="fin">
+       <t>:</t>
+     </tg>
+     <xg><x>жильтыр карыны</x>
+       <xt xml:lang="fin">kilistä, helistä, kilahdella;</xt>
+     </xg>
+     <xg><x>жильы жильтыр каре</x>
+       <xt xml:lang="fin">ketju kilisee</xt>
+     </xg>
+   </mg>
+   <mg ind="2th">
+     <variants>
+       <l_syn type="&gt;">жильыр</l_syn>
+     </variants>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Descr">жильтырак</l><orig>жиʼльтыраʼк</orig>
+   </lg>
+   <mg><note><i>kuvaa ketjun ja muiden metalliesineiden kilahdusta</i></note>
+     <tg xml:lang="fin">
+       <t>:</t>
+     </tg>
+     <xg><x>жильтырак жильы усиз</x>
+       <xt xml:lang="fin">ketju putosi kilahtaen</xt>
+     </xg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Descr">жильыр</l><orig>жильыр</orig>
+   </lg>
+   <mg><note><i>onom. kuvaa veden lirinää, solinaa</i></note>
+     <tg xml:lang="fin">
+       <t>:</t>
+     </tg>
+     <xg><x>ошмес жильыр бызе</x>
+       <xt xml:lang="fin">lähteen vesi virtaa liristen</xt>
+     </xg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Descr">жильыр-жальыр</l><orig>жильыр-жаʼльыр</orig>
+   </lg>
+   <mg><note><i>onom. kuvaa veden lirinää, lorinaa, solinaa</i></note>
+     <tg xml:lang="fin">
+       <t>:</t>
+     </tg>
+     <xg><x>ву жильыр-жальыр ваське</x>
+       <xt xml:lang="fin">vesi valuu solisten</xt>
+     </xg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Descr">жильыр-жильыр</l><orig>жильор-жильыр</orig>
+   </lg>
+   <mg>
+     <variants>
+       <l_syn type="&gt;">жильыр</l_syn>
+     </variants>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Descr">жин</l><orig>жин</orig>
+   </lg>
+   <mg><note><i>onom. kuvaa lasi- tai metalliesineiden helähtämistä, kilahtamista</i></note>
+     <tg xml:lang="fin">
+       <t>:</t>
+     </tg>
+     <xg><x>кусо жин вазе</x>
+       <xt xml:lang="fin">viikate helähtelee</xt><xre>niitettäessä</xre>;
+     </xg>
+     <xg><x>тэркы жин пилиськиз</x>
+       <xt xml:lang="fin">lautanen särkyi helähtäen</xt>
+     </xg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Descr">жинграк</l><orig>жиʼнграʼк</orig>
+   </lg>
+   <mg><note><i>onom. kuvaa lasi- ja metalliastioiden, metalliesineiden ainutkertaista ääntä, helähdystä, laulun sointuvuutta</i></note>
+     <tg xml:lang="fin">
+       <t>:</t>
+     </tg>
+     <xg><x>жинграк карыны</x>
+       <xt xml:lang="fin">helähtää, rämähtää;</xt>
+     </xg>
+     <xg><x>кытын ке жинграк серектӥзы</x>
+       <xt xml:lang="fin">jostakin kuului raikuva naurahdus</xt>
+     </xg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Descr">жингыр</l><orig>жингыр</orig>
+   </lg>
+   <mg><note><i>onom. kuvaa lasi- ja metalliastioiden, metalliesineiden helinää, kilinää, laulun helinää</i></note>
+     <tg xml:lang="fin">
+       <t>:</t>
+     </tg>
+     <xg><x>гырлы жингыр вазе</x>
+       <xt xml:lang="fin">kello (t. kulkunen) helisee (t. kilisee);</xt>
+     </xg>
+     <xg><x>кусоез жингыр шеро</x>
+       <xt xml:lang="fin">viikatteita teroitetaan niin että ne helähtelevät;</xt>
+     </xg>
+     <xg><x>жингыр поттыса кырӟало</x>
+       <xt xml:lang="fin">lauletaan sointuvaan ääneen</xt>
+     </xg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Descr">жингырак</l><orig>жиʼнгыраʼк</orig>
+   </lg>
+   <mg>
+     <variants>
+       <l_syn type="&gt;">жинграк</l_syn>
+     </variants>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Descr">жин-жин</l><orig>жин-жин</orig>
+   </lg>
+   <mg><note><i>onom. kuvaa lasi- tai metalliesineiden helinää, kilinää, helkkyvää ääntä</i></note>
+     <tg xml:lang="fin">
+       <t>:</t>
+     </tg>
+     <xg><x>жин-жин куараос</x>
+       <xt xml:lang="fin">helkkyvät äänet;</xt>
+     </xg><font face="SmolenskSGR"><b>жин-жин</b></font> <font face="SmolenskSGR">(<b>-жин</b>)</font>
+     <xg><x>гырлы вазе</x>
+       <xt xml:lang="fin">(kili)kello kilisee</xt>
+     </xg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Descr">жир</l><orig>жир</orig>
+   </lg>
+   <mg><note><i>onom.</i></note>
+     <tg xml:lang="fin">
+       <t>:</t>
+     </tg>
+     <xg><x>жир кесяськыны</x>
+       <xt xml:lang="fin">kirkua, vinkua</xt><xre>korvia vihlovasti</xre>
+     </xg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Descr">жомбляк</l><orig>жоʼмбляʼк</orig>
+   </lg>
+   <mg><note><i>onom.</i></note>
+     <tg xml:lang="fin">
+       <t>polskis, molskis, loiskis</t>
+     </tg>
+     <xg><x>жомбляк вуэ зымиз</x>
+       <xt xml:lang="fin">polskis hän (t. se) sukelsi veteen;</xt>
+     </xg>
+     <xg><x>жомбляк вуэ усиз</x>
+       <xt xml:lang="fin">polskis se (t. hän) putosi veteen</xt>
+     </xg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Descr">жомбыль</l><orig>жомбыль</orig>
+   </lg>
+   <mg><note><i>onom. kuvaa veden polskintaa, loisketta, loiskinaa</i></note>
+     <tg xml:lang="fin">
+       <t>:</t>
+     </tg><font face="SmolenskSGR"><b>жомбыль карыны</b></font>
+     <variants>
+       <l_syn type="&gt;">жомбыльтыны; ярдурын чорыгъёс жомбыль уяло</l_syn>
+     </variants>
+     <tg xml:lang="fin">
+       <t>kalat uivat polskahdellen rannalla</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Descr">жомбыляк</l><orig>жоʼмбыляʼк</orig>
+   </lg>
+   <mg>
+     <variants>
+       <l_syn type="&gt;">жомбляк</l_syn>
+     </variants>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Descr">жон</l><orig>жон</orig>
+   </lg>
+   <mg><note><i>onom. kuvaa ison kellon, sangon, nestesäiliön kumahdusta</i></note>
+     <tg xml:lang="fin">
+       <t>:</t>
+     </tg>
+     <xg><x>ведра жон вазиз</x>
+       <xt xml:lang="fin">sanko kumahti;</xt>
+     </xg>
+     <xg><x>черк гырлы жон вазе</x>
+       <xt xml:lang="fin">kirkonkellon kumina kuuluu</xt>
+     </xg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Descr">жон-жон</l><orig>жон-жон</orig>
+   </lg>
+   <mg><note><i>onom. kuvaa ison kellon, sangon, nestesäiliön kuminaa, kumahtelua</i></note>
+     <tg xml:lang="fin">
+       <t>:</t>
+     </tg>
+     <xg><x>черк гырлыос жон-жон чузъясько</x>
+       <xt xml:lang="fin">kirkonkellojen kumahtelu kaikuu</xt>
+     </xg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Descr">жӧл</l><orig>жӧл</orig>
+   </lg>
+   <mg><note><i>deskr.</i></note>
+     <tg xml:lang="fin">
+       <t>:</t>
+     </tg>
+     <xg> <x>жӧл кошкыны</x> <x>жӧл луыны</x>
+       <xt xml:lang="fin">pyörryttää (t. huimata) (päätä);</xt>
+     </xg><font face="SmolenskSGR"><b>йыр жӧл кошке</b> (<i>я. </i><b>луэ</b>)</font>
+     <tg xml:lang="fin">
+       <t>(päätä) pyörryttää (t. huimaa)</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Descr">ӝабрак</l><orig>ӝаʼбраʼк</orig>
+   </lg>
+   <mg ind="1th"><note><i>onom. ja deskr. kuvaa raapaisemista, kynsäisemistä</i></note>
+     <tg xml:lang="fin">
+       <t>:</t>
+     </tg>
+     <xg><x>ӝабрак кормыштыны</x>
+       <xt xml:lang="fin">raapaista, kynsäistä</xt>
+     </xg>
+   </mg>
+   <mg ind="2th"> <note><i>deskr. kuvaa lujaa tarttumista jhk, sitkeää rupeamista töihin</i></note><note>(<i>t. asioihin</i>)</note><note>(<i>hetkessä</i>);</note><font face="SmolenskSGR"><b>ӝабрак кутскыны </b></font><mwemg ind="1th"/>
+     <tg xml:lang="fin">
+       <t>tarttua (t. tarrata) lujasti kiinni</t>
+     </tg><mwemg ind="2th"/><defNative>ваньзы ӵош</defNative>
+     <tg xml:lang="fin">
+       <t>tarttua (t. tarrata) yhdessä tuumin</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Descr">ӝабыр</l><orig>ӝабыр</orig>
+     <variants>
+       <l_syn>ӝабыр-ӝабыр</l_syn>
+     </variants>
+   </lg>
+   <mg ind="1th"><note><i>deskr. kuvaa raapimista, kynsimistä</i></note>
+     <tg xml:lang="fin">
+       <t>:</t>
+     </tg>
+     <xg><x>ӝабыр корманы</x>
+       <xt xml:lang="fin">raapia (t. kynsiä) kovasti</xt>
+     </xg>
+   </mg>
+   <mg ind="2th"> <note><i>deskr. kuvaa lujaa tarttumista jhk, sitkeää, reipasta rupeamista töihin</i></note><note>(<i>t. asioihin</i>)</note>
+     <tg xml:lang="fin">
+       <t>:</t>
+     </tg>
+     <xg><x>ӝабыр кырмыны</x>
+       <xt xml:lang="fin">tarttua (t. tarrata) lujasti kiinni;</xt>
+     </xg>
+     <xg><x>ӝабыр ужа</x>
+       <xt xml:lang="fin">tekee töitä riuskasti (t. reippaasti)</xt>
+     </xg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Descr">ӝабыр-ӝабыр</l><orig>ӝабор-ӝабор</orig>
+     <variants>
+       <l_syn>ӝабыр</l_syn>
+     </variants>
+   </lg>
+   <mg ind="1th"><note><i>deskr. kuvaa raapimista, kynsimistä</i></note>
+     <tg xml:lang="fin">
+       <t>:</t>
+     </tg>
+     <xg><x>ӝабыр-ӝабыр корманы</x>
+       <xt xml:lang="fin">raapia (t. kynsiä) kovasti</xt>
+     </xg>
+   </mg>
+   <mg ind="2th"> <note><i>deskr. kuvaa lujaa tarttumista jhk, sitkeää, reipasta rupeamista töihin</i></note><note>(<i>t. asioihin</i>)</note>
+     <tg xml:lang="fin">
+       <t>:</t>
+     </tg>
+     <xg><x>ӝабыр-ӝабыр кырмыны</x>
+       <xt xml:lang="fin">tarttua (t. tarrata) lujasti kiinni;</xt>
+     </xg>
+     <xg><x>ӝабыр-ӝабыр ужа</x>
+       <xt xml:lang="fin">tekee töitä riuskasti (t. reippaasti)</xt>
+     </xg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Descr">ӝабырак</l><orig>ӝаʼбыраʼк</orig>
+   </lg>
+   <mg>
+     <variants>
+       <l_syn type="&gt;">ӝабрак</l_syn>
+     </variants>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Descr">ӝик-ӝик</l><orig>ӝиʼк-ӝик</orig>
+   </lg>
+   <mg ind="1th"><defNative>ӝикыт</defNative>
+     <tg xml:lang="fin">
+       <t>(hyvin) huolellisesti, huolitellusti</t>
+     </tg>
+     <xg><x>ӝик-ӝик дӥсяськемын</x>
+       <xt xml:lang="fin">hän on pukeutunut (hyvin) huolellisesti</xt>
+     </xg>
+   </mg>
+   <mg ind="2th"><defNative>ӝим-ӝим, юн</defNative>
+     <tg xml:lang="fin">
+       <t>(hyvin) kireästi, kireälle, tiukasti, lujasti</t>
+     </tg>
+     <xg><x>ӝик-ӝик керттыны</x>
+       <xt xml:lang="fin">sitoa lujasti (t. tiukasti)</xt>
+     </xg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Descr">ӝок-ӝок</l><orig>ӝоʼк-ӝок</orig>
+   </lg>
+   <mg ind="1th">
+     <variants>
+       <l_syn type="&gt;">ӝокыт</l_syn>
+     </variants>
+   </mg>
+   <mg ind="2th">
+       <l_syn type="&gt;">ӝокак</l_syn>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Descr">ӝом-ӝом</l><orig>ӝоʼм-ӝом</orig>
+   </lg>
+   <mg>
+     <tg xml:lang="fin">
+       <t>pilkkopimeä, pilkkosen pimeä</t>
+     </tg>
+     <xg><x>куазь ӝом-ӝом кариськиз</x>
+       <xt xml:lang="fin">(ulkona) tuli pilkkopimeä;</xt>
+     </xg>
+     <xg><x>нюлэскын ӝом-ӝом пеймыт</x>
+       <xt xml:lang="fin">metsässä on pilkkopimeä</xt>
+     </xg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Descr">ӝот-ӝот</l><orig>ӝоʼт-ӝот</orig>
+   </lg>
+   <mg ind="1th">
+     <variants>
+       <l_syn type="&gt;">ӝотыр, ӝотыр-ӝотыр 2;</l_syn>
+     </variants>
+   </mg>
+   <mg ind="2th">
+       <l_syn type="&gt;">ӝотак<rom ind="0_2"/></l_syn>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Descr">ӝотыр</l><orig>ӝотыр</orig>
+     <variants>
+       <l_syn>ӝотыр-ӝотыр</l_syn>
+     </variants>
+   </lg>
+   <mg ind="1th"><note><i>onom. kuvaa rusahtelua, rasahtelua</i></note>
+     <tg xml:lang="fin">
+       <t>:</t>
+     </tg><font face="SmolenskSGR"><b>ӝотыр вазьыны</b> (<i>я. </i><b>карыны, кылӥськыны</b>)</font>
+     <tg xml:lang="fin">
+       <t>rusahdella, rasahdella</t>
+     </tg>
+     <xg><x>пыд улын улвайёс ӝотыр тӥясько</x>
+       <xt xml:lang="fin">jalkojen alla oksat murtuvat rasahdellen</xt>
+     </xg>
+   </mg>
+   <mg ind="2th"> <note><i>deskr.</i></note>
+     <tg xml:lang="fin">
+       <t>:</t>
+     </tg>
+     <xg><x>ӝотыр вандылыны</x>
+       <xt xml:lang="fin">leikata (t. leikellä) paloiksi;</xt>
+     </xg>
+     <xg><x>ӝотыр кесяны</x>
+       <xt xml:lang="fin">repiä paloiksi</xt>
+     </xg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Descr">ӝотыр-ӝотыр</l><orig>ӝотор-ӝотыр</orig>
+     <variants>
+       <l_syn>ӝотыр</l_syn>
+     </variants>
+   </lg>
+   <mg ind="1th"><note><i>onom. kuvaa rusahtelua, rasahtelua</i></note>
+     <tg xml:lang="fin">
+       <t>:</t>
+     </tg><font face="SmolenskSGR"><b>ӝотыр-ӝотыр вазьыны</b> (<i>я. </i><b>карыны, кылӥськыны</b>)</font>
+     <tg xml:lang="fin">
+       <t>rusahdella, rasahdella</t>
+     </tg>
+     <xg><x>пыд улын улвайёс ӝотыр-ӝотыр тӥясько</x>
+       <xt xml:lang="fin">jalkojen alla oksat murtuvat rasahdellen</xt>
+     </xg>
+   </mg>
+   <mg ind="2th"> <note><i>deskr.</i></note>
+     <tg xml:lang="fin">
+       <t>:</t>
+     </tg>
+     <xg><x>ӝотыр-ӝотыр вандылыны</x>
+       <xt xml:lang="fin">leikata (t. leikellä) paloiksi;</xt>
+     </xg>
+     <xg><x>ӝотыр-ӝотыр кесяны</x>
+       <xt xml:lang="fin">repiä paloiksi</xt>
+     </xg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Descr">ӝуй-ӝуй</l><orig>ӝай-ӝуй</orig>
+   </lg>
+   <mg>
+     <tg xml:lang="fin">
+       <t>tuuhea, kuohkea, (hyvin) pehmeä</t>
+     </tg>
+     <xg><x>ӝуй-ӝуй небыт табань</x>
+       <xt xml:lang="fin">hyvin pehmeä kakkara;</xt>
+     </xg>
+     <xg><x>табань ӝуй-ӝуй</x>
+       <xt xml:lang="fin">kakkara on kuohkea, kakkarat ovat kuohkeita;</xt>
+     </xg>
+     <xg><x>узьым ӝуй-ӝуй ӝужаз</x>
+       <xt xml:lang="fin">syysvilja on noussut oraalle tuuheana</xt>
+     </xg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Descr">зӥб-зӥб</l><orig>зӥʼб-зӥб</orig>
+   </lg>
+   <mg>
+     <tg xml:lang="fin">
+       <t>hiljaa, rauhallisesti, sävyisästi // hiljainen, rauhallinen, sävyisä</t>
+     </tg>
+     <xg><x>зӥб-зӥб пукыны</x>
+       <xt xml:lang="fin">istua hiljaa (t. rauhallisesti);</xt>
+     </xg>
+     <xg><x>зӥб-зӥб адями</x>
+       <xt xml:lang="fin">hiljainen (t. sävyisä) ihminen</xt>
+     </xg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Descr">зӥр</l><orig>зӥр</orig>
+   </lg>
+   <mg><note><i>deskr.</i></note>
+     <tg xml:lang="fin">
+       <t>:</t>
+     </tg>
+     <xg><x>зӥр берганы</x>
+       <xt xml:lang="fin">pyöriä rajusti</xt>
+     </xg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Descr">зӥр-зӥр</l><orig>зӥʼр-зӥр</orig>
+   </lg>
+   <mg>
+     <variants>
+       <l_syn type="&gt;">зӥр</l_syn>
+     </variants>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Descr">зуняк</l><orig>заняʼк</orig>
+   </lg>
+   <mg><note><i>deskr.</i></note>
+     <tg xml:lang="fin">
+       <t>:</t>
+     </tg>
+     <xg><x>зуняк усьыны</x>
+       <xt xml:lang="fin">kaatua pitkin pituuttaan</xt>
+     </xg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Descr">зурак</l><orig>зараʼк</orig>
+   </lg>
+   <mg><note><i>deskr.</i></note>
+     <tg xml:lang="fin">
+       <t>:</t>
+     </tg>
+     <xg><x>зурак кыскыны</x>
+       <xt xml:lang="fin">tempaista (t. nykäistä, vetäistä) rajusti (t. terävästi);</xt>
+     </xg>
+     <xg><x>зурак луыны</x>
+       <xt xml:lang="fin">hätkähtää, säpsähtää, vavahtaa</xt>
+     </xg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Descr">зурк</l><orig>зурк</orig>
+   </lg>
+   <mg><note><i>deskr.</i></note>
+     <tg xml:lang="fin">
+       <t>:</t>
+     </tg>
+     <xg><x>зурк кыскыны</x>
+       <xt xml:lang="fin">tempaista (t. nykäistä, vetäistä) rajusti (t. terävästi)</xt>
+     </xg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Descr">зуркак</l><orig>заркаʼк</orig>
+   </lg>
+   <mg><note><i>deskr.</i></note>
+     <tg xml:lang="fin">
+       <t>:</t>
+     </tg><font face="SmolenskSGR"><b>зуркак кариськыны</b> (<i>я. </i><b>луыны, потыны</b>)</font>
+     <tg xml:lang="fin">
+       <t>hätkähtää, säpsähtää</t>
+       <re>kylmästä, pelosta</re>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Descr">зыл, зыл-зыл</l><orig>зыл, зол-зыл</orig>
+   </lg>
+   <mg>
+     <tg xml:lang="fin">
+       <t>tasaisesti, sulavasti</t>
+     </tg>
+     <xg><x>зыл бызе Кам шур</x>
+       <xt xml:lang="fin">Kamajoki virtaa tasaisesti;</xt>
+     </xg>
+     <xg><x>пилемъёс зыл кошко</x>
+       <xt xml:lang="fin">pilvet liikkuvat tasaisesti</xt>
+     </xg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Descr">ӟильыр-ӟильыр</l><orig>ӟильыр-ӟильыр</orig>
+   </lg>
+   <mg><note><i>onom.</i></note>
+   <mg ind="1th"/><note><i>kuvaa veden lirinää</i></note>
+     <tg xml:lang="fin">
+       <t>:</t>
+     </tg><font face="SmolenskSGR"><b>ошмес </b></font><font face="SmolenskSGR">(<b>ву</b>)</font>
+     <xg><x>ӟильыр-ӟильыр бызе</x>
+       <xt xml:lang="fin">lähteen vesi virtaa liristen</xt>
+     </xg>
+   </mg>
+   <mg ind="2th"> <note><i>kuvaa lintujen tirskumista, sirkuttamista, visertämistä</i></note>
+     <tg xml:lang="fin">
+       <t>:</t>
+     </tg>
+     <xg><x>ӟольгыриос ӟильыр-ӟильыр каро</x>
+       <xt xml:lang="fin">varpuset tirskuvat (t. visertävät)</xt>
+     </xg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Descr">ӟон-ӟон</l><orig>ӟоʼн-ӟоʼн</orig>
+   </lg>
+   <mg>
+     <tg xml:lang="fin">
+       <t>(hyvin) kova, vahva, luja // (hyvin) kovasti, kovaa(n), vahvasti, lujasti, lujaa(n)</t>
+     </tg>
+     <xg><x>ӟон-ӟон кор</x>
+       <xt xml:lang="fin">kova hirsi;</xt>
+     </xg>
+     <xg><x>ӟон-ӟон пиосмурт</x>
+       <xt xml:lang="fin">vahva mies;</xt>
+     </xg>
+     <xg><x>ву ӟон-ӟон кынмемын</x>
+       <xt xml:lang="fin">vesi on jäätynyt (kiven)kovaksi;</xt>
+     </xg>
+     <xg><x>музъем ӟон-ӟон кынмемын</x>
+       <xt xml:lang="fin">maa on kovassa roudassa, maa on routaantunut (kiven)kovaksi</xt>
+     </xg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Descr">ӟуз</l><orig>ӟуз</orig>
+   </lg>
+   <mg><note><i>deskr.</i></note>
+     <tg xml:lang="fin">
+       <t>:</t>
+     </tg>
+     <xg><x>ӟуз вияны</x>
+       <xt xml:lang="fin">vuotaa (t. valua) runsaasti (t. virtanaan);</xt>
+     </xg><font face="SmolenskSGR"><b>вир ӟуз вия</b> (<i>я. </i><b>кошке</b>)</font>
+     <tg xml:lang="fin">
+       <t>veri vuotaa runsaasti (t. virtanaan)</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Descr">ӟуз-ӟаз</l><orig>ӟуз-ӟаз</orig>
+   </lg>
+   <mg>
+     <variants>
+       <l_syn type="&gt;">ӟузыр-ӟазыр</l_syn>
+     </variants>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Descr">ӟукыр</l><orig>ӟукыр</orig>
+   </lg>
+   <mg><note><i>onom. kuvaa ovien, puiden, jalkineiden narinaa, narskumista</i></note>
+     <tg xml:lang="fin">
+       <t>:</t>
+     </tg>
+     <xg> <x>ӟукыр вазьыны</x> <x>ӟукыр карыны</x>
+       <xt xml:lang="fin">narista, narskua;</xt>
+     </xg><font face="SmolenskSGR"><b>ӧс ӟукыр вазе</b> (<i>я. </i><b>каре</b>)</font>
+     <tg xml:lang="fin">
+       <t>ovi narisee</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Descr">ӟукыр-ӟакыр</l><orig>ӟукыр-ӟаʼкыр</orig>
+   </lg>
+   <mg><note><i>onom. kuvaa ovien, puiden, jalkineiden toistuvaa vaihtuvaäänistä narinaa, narskumista</i></note>
+     <tg xml:lang="fin">
+       <t></t>
+     </tg>
+     <variants>
+       <l_syn type="vrt0">ӟукыр</l_syn>
+     </variants>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Descr">ӟукыр-ӟукыр</l><orig>ӟукыр-ӟукыр</orig>
+   </lg>
+   <mg><note><i>onom. kuvaa ovien, puiden, jalkineiden toistuvaa narinaa, narskumista</i></note>
+     <tg xml:lang="fin">
+       <t></t>
+     </tg>
+     <variants>
+       <l_syn type="vrt0">ӟукыр</l_syn>
+     </variants>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Descr">икыр-кукыр</l><orig>икыр-какор</orig>
+   </lg>
+   <mg><note><i>deskr.</i></note>
+     <tg xml:lang="fin">
+       <t>vääristynyt, käyristynyt, kieroksi vääntynyt, koukistunut, käyrä, väärä, kiero</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Descr">йыг</l><orig>йыг</orig>
+     <variants>
+       <l_syn>йыгак</l_syn>
+     </variants>
+   </lg>
+   <mg><note><i>onom. kuvaa yksittäistä kopausta, kolahdusta:</i></note><font face="SmolenskSGR"><b>йыг карыны </b></font><font face="SmolenskSGR">(<i>маке с-сь</i>)</font>
+     <tg xml:lang="fin">
+       <t>kopahtaa, kolahtaa</t>
+     </tg><font face="SmolenskSGR">(<i>маин ке</i>)</font>
+     <tg xml:lang="fin">
+       <t>kopauttaa, kolkuttaa, aiheuttaa kopahdus (t. kolahdus)</t>
+     </tg>
+     <xg><x>ӧсэз йыг ворсаны</x>
+       <xt xml:lang="fin">sulkea ovi kolauttaen</xt>
+     </xg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Descr">йыгак</l><orig>йогаʼк</orig>
+     <variants>
+       <l_syn>йыг</l_syn>
+     </variants>
+   </lg>
+   <mg><note><i>onom. kuvaa yksittäistä kopausta, kolahdusta:</i></note><font face="SmolenskSGR"><b>йыгак карыны </b></font><font face="SmolenskSGR">(<i>маке с-сь</i>)</font>
+     <tg xml:lang="fin">
+       <t>kopahtaa, kolahtaa</t>
+     </tg><font face="SmolenskSGR">(<i>маин ке</i>)</font>
+     <tg xml:lang="fin">
+       <t>kopauttaa, kolkuttaa, aiheuttaa kopahdus (t. kolahdus)</t>
+     </tg>
+     <xg><x>ӧсэз йыгак ворсаны</x>
+       <xt xml:lang="fin">sulkea ovi kolauttaen</xt>
+     </xg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Descr">йыг-йыг</l><orig>йыг-йыг</orig>
+   </lg>
+   <mg ind="1th"><note><i>onom. kuvaa toistuvaa koputusta, kolahtelua</i></note>
+     <tg xml:lang="fin">
+       <t>: kop kop, kops kops</t>
+     </tg>
+     <xg><x>ӧсэ йыг-йыг йыгаськыны</x> <x>йыг-йыг-йыг йыгаськыны</x>
+       <xt xml:lang="fin">koputtaa oveen: kop kop</xt>
+     </xg>
+   </mg>
+   <mg ind="2th"> <font face="SmolenskSGR">(<b>йыг-йыг</b>)</font> <pos ind="Descr"/><font face="SmolenskSGR">(<i>йӧн-йӧн</i>)</font>
+     <tg xml:lang="fin">
+       <t>vakavasti, lujasti, lujaan, vakaasti; kunnolla; varmasti // vakava, luja, vakaa; kunnon, kunnollinen</t>
+     </tg>
+     <xg><x>йыг-йыг думыны</x>
+       <xt xml:lang="fin">sitoa lujaan;</xt>
+     </xg>
+     <xg><x>корка йыг-йыг лэсьтэмын</x>
+       <xt xml:lang="fin">talo on rakennettu lujasti (t. kunnolla);</xt>
+     </xg>
+     <xg><x>йыг-йыг адями</x>
+       <xt xml:lang="fin">vakava (t. kunnon) ihminen;</xt>
+     </xg>
+     <xg><x>йыг-йыг выж</x>
+       <xt xml:lang="fin">vakaa (t. tukeva) silta</xt>
+     </xg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Descr">кеж-кеж</l><orig>кеʼж-кеж</orig>
+   </lg>
+   <mg><note><i>deskr. ja onom.</i></note>
+     <tg xml:lang="fin">
+       <t>:</t>
+     </tg>
+     <xg><x>кеж-кеж кӧс турын</x>
+       <xt xml:lang="fin">narskuvan (t. liian) kuiva heinä;</xt>
+     </xg>
+     <xg><x>кеж-кеж кызыны</x>
+       <xt xml:lang="fin">yskiä koristen</xt>
+     </xg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Descr">кизьыр-пазьыр</l><orig>кизьыр-паʼзьыр</orig>
+   </lg>
+   <mg>
+     <tg xml:lang="fin">
+       <t>hajalle(en), hujan hajan, eri suuntiin</t>
+     </tg>
+     <variants>
+       <l_syn type="&gt;">кир-пазь</l_syn>
+     </variants>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Descr">кир-пазь</l><orig>кир-пазь</orig>
+   </lg>
+   <mg>
+     <tg xml:lang="fin">
+       <t>hajalle(en), hujan hajan, eri suuntiin</t>
+     </tg><font face="SmolenskSGR"><b>кир-пазь карыны</b> (<i>я. куяны</i>)</font>
+     <tg xml:lang="fin">
+       <t>heitellä hajalleen (t. hujan hajan)</t>
+     </tg>
+     <xg><x>кир-пазь пегӟыны</x>
+       <xt xml:lang="fin">paeta eri suuntiin (t. sinne tänne)</xt>
+     </xg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Descr">кокыр-кокыр</l><orig>кокор-кокыр</orig>
+   </lg>
+   <mg>
+     <tg xml:lang="fin">
+       <t>koukistunut, koukistettu; köyry(=), kyyry(=)</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Descr">кольтыр</l><orig>кольтыр</orig>
+     <variants>
+       <l_syn>кольтыр-кольтыр</l_syn>
+     </variants>
+   </lg>
+   <mg> <note><i>onom. kuvaa vatsan aiheuttamaa ääntä tai nesteen porisemista</i></note>
+     <tg xml:lang="fin">
+       <t>:</t>
+     </tg>
+     <xg><x>ӝук кольтыр пӧзе</x>
+       <xt xml:lang="fin">puuro kiehuu poristen;</xt>
+     </xg>
+     <xg><x>кӧт(ын) кольтыр каре</x>
+       <xt xml:lang="fin">vatsa(ssa) kurisee (t. murisee)</xt>
+     </xg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Descr">кольтыр-кольтыр</l><orig>кольтыр-кольтыр</orig>
+     <variants>
+       <l_syn>кольтыр</l_syn>
+     </variants>
+   </lg>
+   <mg> <note><i>onom. kuvaa vatsan aiheuttamaa ääntä tai nesteen porisemista</i></note>
+     <tg xml:lang="fin">
+       <t>:</t>
+     </tg>
+     <xg><x>ӝук кольтыр-кольтыр пӧзе</x>
+       <xt xml:lang="fin">puuro kiehuu poristen;</xt>
+     </xg>
+     <xg><x>кӧт(ын) кольтыр-кольтыр каре</x>
+       <xt xml:lang="fin">vatsa(ssa) kurisee (t. murisee)</xt>
+     </xg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Descr">кольыр</l><orig>кольыр</orig>
+     <variants>
+       <l_syn>кольыр-кольыр</l_syn>
+     </variants>
+   </lg>
+   <mg>
+     <variants>
+       <l_syn type="&gt;">кольтыр</l_syn>
+     </variants>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Descr">кольыр-кольыр</l><orig>кольыр-кольыр</orig>
+     <variants>
+       <l_syn>кольыр</l_syn>
+     </variants>
+   </lg>
+   <mg>
+     <variants>
+       <l_syn type="&gt;">кольтыр</l_syn>
+     </variants>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Descr">конгыль</l><orig>конгыль</orig>
+   </lg>
+   <mg>
+     <tg xml:lang="fin">
+       <t>käyrä, väärä, koukkuinen</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Descr">куажыр</l><orig>куажыр</orig>
+   </lg>
+   <mg><note><i>onom. kuvaa narskuntaa, risahtelua, rousketta</i></note>
+     <tg xml:lang="fin">
+       <t>:</t>
+     </tg>
+     <xg><x>куажыр яблокез сиыны</x>
+       <xt xml:lang="fin">syödä omena rouskuttaen</xt>
+     </xg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Descr">куань-куань</l><orig>куань-куань</orig>
+   </lg>
+   <mg><note><i>onom.</i></note>
+     <tg xml:lang="fin">
+       <t>:</t>
+     </tg>
+     <xg><x>куань-куань карыны</x>
+       <xt xml:lang="fin">vikistä, vinkua</xt><xre>koira, penikka</xre>
+     </xg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Descr">куаш-куаш</l><orig>куаʼш-куаш</orig>
+   </lg>
+   <mg><note><i>deskr.</i></note>
+     <tg xml:lang="fin">
+       <t>:</t>
+     </tg>
+     <xg><x>куаш-куаш вераськыны</x>
+       <xt xml:lang="fin">keskustella mielellään; keskustella avomielisesti;</xt>
+     </xg>
+     <xg><x>куаш-куаш сиськыны</x>
+       <xt xml:lang="fin">syödä mielellään</xt>
+     </xg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Descr">куаштыр</l><orig>куаштыр</orig>
+   </lg>
+   <mg><note><i>onom. kuvaa kuivan heinän, kuivien olkien kahinaa</i></note>
+     <tg xml:lang="fin">
+       <t>:</t>
+     </tg>
+     <xg><x>куаштыр карыны</x>
+       <xt xml:lang="fin">kahista</xt>
+     </xg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Descr">куж-куж</l><orig>куʼж-куж</orig>
+   </lg>
+   <mg><note><i>deskr.</i></note>
+     <tg xml:lang="fin">
+       <t>:</t>
+     </tg>
+     <xg><x>куж-куж карыны</x>
+       <xt xml:lang="fin">kolottaa; kirvellä, kirveltää;</xt>
+     </xg>
+     <xg><x>пыды куж-куж кыскаса висе</x>
+       <xt xml:lang="fin">jalkaani kolottaa</xt>
+     </xg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Descr">купыр-купыр</l><orig>купор-купыр</orig>
+   </lg>
+   <mg>
+     <tg xml:lang="fin">
+       <t>köyristyen, koukistuen //</t>
+     </tg><font face="SmolenskSGR">(<i>купырскем</i>)</font>
+     <tg xml:lang="fin">
+       <t>köyristynyt, koukistunut</t>
+     </tg>
+     <xg><x>купыр-купыр ветлыны</x>
+       <xt xml:lang="fin">kävellä köyryssä (t. koukussa);</xt>
+     </xg>
+     <xg><x>купыр-купыр куасалскыны</x>
+       <xt xml:lang="fin">painua kyyryyn (t. kasaan)</xt>
+     </xg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Descr">кыштыр</l><orig>кыштыр</orig>
+   </lg>
+   <mg ind="1th"><note><i>onom. kuvaa kahinaa, suhinaa:</i></note><font face="SmolenskSGR"><b>кыштыр карыны</b></font>
+     <variants>
+       <l_syn type="&gt;">кыштыртыны 1, 2;</l_syn>
+     </variants>
+   </mg>
+   <mg ind="2th"><defNative>каллен гинэ</defNative>
+     <tg xml:lang="fin">
+       <t>hiljaa; pikku hiljaa, hiljakseen</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Descr">лабыр</l><orig>лабыр</orig>
+   </lg>
+   <mg>
+     <variants>
+       <l_syn type="&gt;">лабыр-лабыр</l_syn>
+     </variants>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Descr">лабыр-лабыр</l><orig>лабор-лабыр</orig>
+   </lg>
+   <mg><note><i>onom.</i></note>
+     <tg xml:lang="fin">
+       <t>:</t>
+     </tg><font face="SmolenskSGR"><b>лабыр-лабыр вераськыны </b></font><mwemg ind="1th"/><defNative>шум-куаш поттыса</defNative>
+     <tg xml:lang="fin">
+       <t>keskustella meluisasti (t. äänekkäästi)</t>
+     </tg><mwemg ind="2th"/><defNative>сюлмысь</defNative>
+     <tg xml:lang="fin">
+       <t>keskustella sydämellisesti, haastella sovussa (t. ystävällisesti)</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Descr">лакрак</l><orig>лаʼкраʼк</orig>
+   </lg>
+   <mg><note><i>onom.</i></note>
+     <tg xml:lang="fin">
+       <t>rusahtaen, rouskahtaen</t>
+     </tg>
+     <xg><x>лакрак карыны</x>
+       <xt xml:lang="fin">rusahtaa, rouskahtaa;</xt>
+     </xg>
+     <xg><x>лакрак чигиськыны</x>
+       <xt xml:lang="fin">murtua rusahtaen</xt>
+     </xg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Descr">лакыр</l><orig>лакыр</orig>
+   </lg>
+   <mg><note><i>onom. kuvaa murtuvan luun t. paksun oksan, kuivan nahan aiheuttamaa jatkuvaa matalasävyistä ääntä</i></note>
+     <tg xml:lang="fin">
+       <t>: rouske, rusahtelu, rouskunta, naksahtelu</t>
+     </tg><font face="SmolenskSGR"><b>лакыр карыны</b></font>
+     <variants>
+       <l_syn type="&gt;">лакыртыны</l_syn>
+     </variants>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Descr">лакырак</l><orig>лаʼкыраʼк</orig>
+   </lg>
+   <mg>
+     <variants>
+       <l_syn type="&gt;">лакрак</l_syn>
+     </variants>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Descr">лангыр</l><orig>лангыр</orig>
+   </lg>
+   <mg><note><i>onom. kuvaa kellojen t. metalliesineiden kuminaa, kumua</i></note>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Descr">лачыр</l><orig>лачыр</orig>
+   </lg>
+   <mg><note><i>onom.</i></note>
+     <tg xml:lang="fin">
+       <t>:</t>
+     </tg>
+     <xg><x>лачыр карыны</x>
+       <xt xml:lang="fin">rätistä, ritistä, ratista</xt>
+     </xg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Descr">лёгыр-лёгыр</l><orig>лёгор-лёгыр</orig>
+   </lg>
+   <mg>
+     <tg xml:lang="fin">
+       <t>rosoinen, karkea, epätasainen</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Descr">либыр-либыр</l><orig>либор-либыр</orig>
+   </lg>
+   <mg><note><i>deskr.</i></note>
+     <tg xml:lang="fin">
+       <t>:</t>
+     </tg>
+     <xg><x>либыр-либыр луыны</x>
+       <xt xml:lang="fin">nääntyä, menehtyä, tulla voimattomaksi;</xt>
+     </xg>
+     <xg><x>быдэс мугор либыр-либыр луиз</x>
+       <xt xml:lang="fin">koko keho nääntyi (t. tuli voimattomaksi)</xt>
+     </xg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Descr">лики-ляки</l><orig>лики-ляʼки</orig>
+     <variants>
+       <l_syn>ликыр-лякыр</l_syn>
+     </variants>
+   </lg>
+   <mg><note><i>deskr. kuvaa huojuvaa, horjuvaa, höllää esinettä</i></note>
+     <tg xml:lang="fin">
+       <t>: huojuva, horjuva, höllä, löyhä</t>
+     </tg>
+     <xg><x>лики-ляки вырыны</x>
+       <xt xml:lang="fin">olla huojuva (t. horjuva), olla höllässä (t. löyhässä)</xt>
+     </xg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Descr">ликыр-лякыр</l><orig>ликыр-ляʼкыр</orig>
+     <variants>
+       <l_syn>лики-ляки</l_syn>
+     </variants>
+   </lg>
+   <mg><note><i>deskr. kuvaa huojuvaa, horjuvaa, höllää esinettä</i></note>
+     <tg xml:lang="fin">
+       <t>: huojuva, horjuva, höllä, löyhä</t>
+     </tg>
+     <xg><x>ликыр-лякыр вырыны</x>
+       <xt xml:lang="fin">olla huojuva (t. horjuva), olla höllässä (t. löyhässä)</xt>
+     </xg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Descr">лопыр</l><orig>лопыр</orig>
+     <variants>
+       <l_syn>лопыр-лопыр</l_syn>
+     </variants>
+   </lg>
+   <mg><note><i>onom.</i></note>
+   <mg ind="1th"/><defNative>лопыръяськем куара</defNative> <note><i>kuvaa siipien räpyttämisen, kankaan, lipun lepattamisen aiheuttamaa ääntä</i></note>
+     <tg xml:lang="fin">
+       <t>:</t>
+     </tg>
+     <xg><x>флаг лопыр карыса тӧла</x>
+       <xt xml:lang="fin">lippu liehuu lepattaen</xt>
+     </xg>
+   </mg>
+   <mg ind="2th"><defNative>куальтыр</defNative> <note><i>kuvaa kiehuvan puuron, veden porinaa:</i></note>
+     <xg><x>ӝук лопыр карыса пӧзе</x>
+       <xt xml:lang="fin">puuro kiehuu poristen</xt>
+     </xg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Descr">лопыр-лопыр</l><orig>лопор-лопыр</orig>
+     <variants>
+       <l_syn>лопыр</l_syn>
+     </variants>
+   </lg>
+   <mg><note><i>onom.</i></note>
+   <mg ind="1th"/><defNative>лопыръяськем куара</defNative> <note><i>kuvaa siipien räpyttämisen, kankaan, lipun lepattamisen aiheuttamaa ääntä</i></note>
+     <tg xml:lang="fin">
+       <t>:</t>
+     </tg>
+     <xg><x>флаг лопыр-лопыр карыса тӧла</x>
+       <xt xml:lang="fin">lippu liehuu lepattaen</xt>
+     </xg>
+   </mg>
+   <mg ind="2th"><defNative>куальтыр</defNative> <note><i>kuvaa kiehuvan puuron, veden porinaa:</i></note>
+     <xg><x>ӝук лопыр-лопыр карыса пӧзе</x>
+       <xt xml:lang="fin">puuro kiehuu poristen</xt>
+     </xg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Descr">лосыр</l><orig>лосыр</orig>
+   </lg>
+   <mg><note><i>onom. kuvaa murtuvan luun t. paksun oksan aiheuttamaa jatkuvaa matalasävyistä ääntä</i></note>
+     <tg xml:lang="fin">
+       <t>: rouske, rusahtelu, rouskunta, naksahtelu</t>
+     </tg><font face="SmolenskSGR"><b>лосыр вазьыны</b> (<i>я. </i><b>карыны)</b></font>
+     <variants>
+       <l_syn type="&gt;">лосыртыны</l_syn>
+     </variants>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Descr">лук-лук</l><orig>лук-лук</orig>
+   </lg>
+   <mg ind="1th"><note><i>onom. kuvaa sydämen jyskyttämistä</i></note>
+     <tg xml:lang="fin">
+       <t>:</t>
+     </tg>
+     <xg><x>сюлэм лук-лук жугиське</x>
+       <xt xml:lang="fin">sydän lyö jyskyttäen, sydän jyskyttää</xt>
+     </xg>
+   </mg>
+   <mg ind="2th"> <note><i>deskr.</i></note>
+     <tg xml:lang="fin">
+       <t>:</t>
+     </tg>
+     <xg><x>лук-лук ветлыны</x>
+       <xt xml:lang="fin">kulkea läähättäen (t. huohottaen);</xt>
+     </xg>
+     <xg><x>лак-лук котмыны</x>
+       <xt xml:lang="fin">kastua läpimäräksi (t. likomäräksi)</xt>
+     </xg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Descr">лукыр-лакыр</l><orig>лукыр-лаʼкыр</orig>
+   </lg>
+   <mg ind="1th"><defNative>ӟузыр-ӟазыр</defNative>
+     <tg xml:lang="fin">
+       <t>repaleinen, rikkinäinen, risainen, kulunut</t>
+     </tg>
+   </mg>
+   <mg ind="2th"><defNative>ӝикыттэм</defNative>
+     <tg xml:lang="fin">
+       <t>epäsiisti, siivoton</t>
+     </tg>
+   </mg>
+   <mg ind="3th"><defNative>суп-сап, чакласькытэк</defNative>
+     <tg xml:lang="fin">
+       <t>huolimattomasti, hutiloiden, leväperäisesti</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Descr">лукыр-лукыр</l><orig>лукор-лукыр</orig>
+   </lg>
+   <mg ind="1th"><defNative>ӟузыр-ӟазыр</defNative>
+     <tg xml:lang="fin">
+       <t>repaleinen, rikkinäinen, risainen, kulunut</t>
+     </tg>
+   </mg>
+   <mg ind="2th"><defNative>туж пересьмем</defNative>
+     <tg xml:lang="fin">
+       <t>vanhan näköinen, ikäloppu, ikäkulu</t>
+     </tg>
+     <xg><x>лукыр-лукыр пересьмыны</x>
+       <xt xml:lang="fin">tulla aivan vanhan näköiseksi, vanhentua (t. vanheta) kovin, tulla ikälopuksi (t. ikäkuluksi)</xt>
+     </xg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Descr">луп-луп</l><orig>луп-луп</orig>
+   </lg>
+   <mg>
+     <variants>
+       <l_syn type="&gt;">лук-лук</l_syn>
+     </variants>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Descr">лупыр-лапыр</l><orig>лупыр-лаʼпыр</orig>
+   </lg>
+   <mg>
+     <variants>
+       <l_syn type="&gt;">лукыр-лакыр</l_syn>
+     </variants>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Descr">лусьтыр-лусьтыр</l><orig>лусьтор-лусьтыр</orig>
+   </lg>
+   <mg ind="1th"><defNative>гон, йырси с-сь</defNative>
+     <tg xml:lang="fin">
+       <t>pörröinen, takkuinen; pörrökarvainen; pörröturkkinen</t>
+     </tg>
+   </mg>
+   <mg ind="2th"><defNative>ӟузыр-ӟазыр</defNative>
+     <tg xml:lang="fin">
+       <t>repaleinen, rikkinäinen, risainen</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Descr">луть-луть</l><orig>луть-луть</orig>
+   </lg>
+   <mg>
+     <variants>
+       <l_syn type="&gt;">лук-лук<rom ind="0_2"/></l_syn>
+     </variants>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Descr">лып-лап</l><orig>лып-лап</orig>
+   </lg>
+   <mg>
+     <tg xml:lang="fin">
+       <t>löntystäen</t>
+     </tg>
+     <xg><x>лып-лап ветлыны</x>
+       <xt xml:lang="fin">kulkea löntystäen, löntystää</xt>
+     </xg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Descr">люгыр</l><orig>люгыр</orig>
+   </lg>
+   <mg>
+     <tg xml:lang="fin">
+       <t>tiheässä, yhdessä, joukolla</t>
+     </tg>
+     <xg><x>ыжъёс люгыр ветло</x>
+       <xt xml:lang="fin">lampaat kulkevat tiheässä</xt>
+     </xg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Descr">люр-ляр</l><orig>люр-ляр</orig>
+   </lg>
+   <mg ind="1th"><note><i>onom.</i></note>
+     <tg xml:lang="fin">
+       <t>:</t>
+     </tg>
+     <xg><x>люр-ляр карыны</x>
+       <xt xml:lang="fin">hälistä, meluta;</xt>
+     </xg>
+     <xg><x>пиналъёс люр-ляр кесясько</x>
+       <xt xml:lang="fin">lapset huutavat kilpaa</xt>
+     </xg>
+   </mg>
+   <mg ind="2th"> <pos ind="Descr"/>
+     <tg xml:lang="fin">
+       <t>hajanaisena joukkona, hajallaan, sekavasti</t>
+     </tg>
+     <xg><x>люр-ляр ветлыны</x>
+       <xt xml:lang="fin">kulkea hajallaan</xt>
+     </xg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Descr">меӵыр</l><orig>меӵыр</orig>
+   </lg>
+   <mg>
+     <tg xml:lang="fin">
+       <t>pystyssä, sojossa; pystyyn, sojoon</t>
+     </tg>
+     <xg><x>ӵушъяллэн веньёсыз меӵыр</x>
+       <xt xml:lang="fin">siilin piikit ovat pystyssä;</xt>
+     </xg>
+     <xg><x>меӵыр султыны</x>
+       <xt xml:lang="fin">nousta pystyyn</xt><xre>piikit, hiukset</xre>
+     </xg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Descr">мугыль-магыль</l><orig>мугыль-маʼгыль</orig>
+   </lg>
+   <mg><note><i>deskr.</i></note>
+     <tg xml:lang="fin">
+       <t>:</t>
+     </tg>
+     <xg><x>мугыль-магыль вераськыны</x>
+       <xt xml:lang="fin">sammaltaa, takellella, tankata;</xt>
+     </xg><font face="SmolenskSGR"><b>мугыль-магыль сыскыны </b></font><mwemg ind="1th"/>
+     <tg xml:lang="fin">
+       <t>pureskella, jauhaa (suussa), mässyttää</t>
+     </tg> <note>(<i>hampaaton ihminen</i>)</note> <mwemg ind="2th"/><senseType>kuv.</senseType><font face="SmolenskSGR">(<i>гызмыльтыны</i>)</font>
+     <tg xml:lang="fin">
+       <t>nyhjätä, nuhjata, kuhnailla</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Descr">мыгыль-магыль</l><orig>мыгыль-маʼгыль</orig>
+   </lg>
+   <mg>
+     <variants>
+       <l_syn type="&gt;">мугыль-магыль</l_syn>
+     </variants>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Descr">мяу</l><orig>мяʼу</orig>
+   </lg>
+   <mg><note><i>onom. kissan naukumista jäljittelevä huudahdus:</i></note>
+     <tg xml:lang="fin">
+       <t>miau</t>
+     </tg>
+     <variants>
+       <l_syn type="&gt;">няу</l_syn>
+     </variants>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Descr">непыль-непыль</l><orig>неполь-непыль</orig>
+   </lg>
+   <mg><note><i>deskr.</i></note>
+     <tg xml:lang="fin">
+       <t>:</t>
+     </tg><font face="SmolenskSGR"><b>непыль-непыль карыны </b></font><mwemg ind="1th"/><defNative>непыльӟытыны</defNative>
+     <tg xml:lang="fin">
+       <t>pehmittää, muuttaa liejuksi</t>
+     </tg><mwemg ind="2th"/><defNative>паньгатыны</defNative>
+     <tg xml:lang="fin">
+       <t>musertaa</t>
+     </tg><font face="SmolenskSGR"><b>непыль-непыль луыны </b></font><mwemg ind="1th"/><defNative>непыльӟыны</defNative>
+     <tg xml:lang="fin">
+       <t>liettyä pehmeäksi, muuttua liejuksi</t>
+     </tg><mwemg ind="2th"/><defNative>паньганы</defNative>
+     <tg xml:lang="fin">
+       <t>musertua</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Descr">норс-норс</l><orig>норс-норс</orig>
+   </lg>
+   <mg>
+     <variants>
+       <l_syn type="&gt;">нурс-нурс</l_syn>
+     </variants>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Descr">нӧкыр-нӧкыр</l><orig>нӧкор-нӧкыр</orig>
+   </lg>
+   <mg><note><i>deskr. kuvaa oluen kuohumista, maidon vaahtoamista</i></note>
+     <tg xml:lang="fin">
+       <t>:</t>
+     </tg>
+     <xg><x>суре нӧкыр-нӧкыр ческыт</x>
+       <xt xml:lang="fin">olueni on kuohuvaa ja hyvänmakuista;</xt>
+     </xg>
+     <xg><x>нӧкыр-нӧкыр шукыяськыны</x>
+       <xt xml:lang="fin">kuohua, vaahdota kuohuen</xt>
+     </xg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Descr">нур-нур</l><orig>нар-нур</orig>
+   </lg>
+   <mg><note><i>deskr. ja onom.</i></note>
+     <tg xml:lang="fin">
+       <t>:</t>
+     </tg><font face="SmolenskSGR"><b>нур-нур пӧзьыны </b></font><mwemg ind="1th"/><defNative>сылмыны</defNative>
+     <tg xml:lang="fin">
+       <t>kiehua hajalle (t. muusiksi)</t>
+     </tg><mwemg ind="2th"/><defNative>куальтыртыса</defNative>
+     <tg xml:lang="fin">
+       <t>kiehua poristen</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Descr">ныгыль-ныгыль</l><orig>ныголь-ныгыль</orig>
+   </lg>
+   <mg>
+     <tg xml:lang="fin">
+       <t>pulska, lihava, pullea</t>
+     </tg>
+     <xg><x>ныгыль-ныгыль парсьпиос</x>
+       <xt xml:lang="fin">pulskat (t. lihavat) possut</xt>
+     </xg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Descr">ньыж</l><orig>ньыж</orig>
+   </lg>
+   <mg>
+     <variants>
+       <l_syn type="&gt;">нюж</l_syn>
+     </variants>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Descr">нюж</l><orig>нюж</orig>
+   </lg>
+   <mg><note><i>desk.</i></note>
+     <tg xml:lang="fin">
+       <t>:</t>
+     </tg>
+     <xg><x>нюж кыскыны</x>
+       <xt xml:lang="fin">laahata, raahata, hinata;</xt>
+     </xg>
+     <xg><x>нюж кыстӥськыны</x>
+       <xt xml:lang="fin">laahata, viistää, laahautua</xt>
+     </xg>◊ <font face="SmolenskSGR"><b>нюж ветлӥсьёс </b></font><note><i>mon. el.</i></note>
+     <tg xml:lang="fin">
+       <t>matelijat</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Descr">нюж-нюж</l><orig>нюʼж-нюж</orig>
+   </lg>
+   <mg ind="1th"><defNative>кузь</defNative>
+     <tg xml:lang="fin">
+       <t>(hyvin) pitkä, riippuva</t>
+     </tg>
+     <xg><x>нюж-нюж кузь дӥсь</x>
+       <xt xml:lang="fin">(hyvin) pitkät vaatteet</xt>
+     </xg>
+   </mg>
+   <mg ind="2th"><defNative>дыртытэк</defNative>
+     <tg xml:lang="fin">
+       <t>verkalleen, verkkaisesti, tasaisesti, tasatahtisesti</t>
+     </tg>
+     <xg><x>нюж-нюж ветлыны</x>
+       <xt xml:lang="fin">kävellä verkalleen (t. tasaisesti)</xt>
+     </xg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Descr">някыр-някыр</l><orig>някор-някыр</orig>
+   </lg>
+   <mg>
+     <variants>
+       <l_syn type="&gt;">някрес 1,<rom ind="0_2"/></l_syn>
+     </variants>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Descr">няу</l><orig>няʼу</orig>
+   </lg>
+   <mg><note><i>onom. kissan naukumista jäljittelevä huudahdus</i></note>
+     <tg xml:lang="fin">
+       <t>: miau</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Descr">огыр-бугыр</l><orig>огыр-бугыр</orig>
+   </lg>
+   <mg>
+     <tg xml:lang="fin">
+       <t>levoton, rauhaton, epävakaa</t>
+     </tg>
+     <xg><x>огыр-бугыр вакыт</x>
+       <xt xml:lang="fin">levoton (t. rauhaton, epävakaa) aika(kausi);</xt>
+     </xg>
+     <xg><x>огыр-бугыр вырон</x>
+       <xt xml:lang="fin">hössötys, touhu, tohina; sekasorto;</xt>
+     </xg>
+     <xg><x>огыр-бугыр вырыны</x>
+       <xt xml:lang="fin">touhottaa, touhuta, hössöttää</xt>
+     </xg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Descr">пазь-пазь</l><orig>паʼзь-пазь</orig>
+   </lg>
+   <mg><note><i>deskr.</i></note>
+     <tg xml:lang="fin">
+       <t>:</t>
+     </tg>
+     <xg><x>пазь-пазь беризь</x>
+       <xt xml:lang="fin">laajalatvainen (t. leveälatvainen) lehmus;</xt>
+     </xg>
+     <xg><x>пазь-пазь луыны</x>
+       <xt xml:lang="fin">olla pystyssä (t. pörröllään); nousta pystyyn (t. pörrölleen), pörhistyä;</xt>
+     </xg>
+     <xg><x>пазь-пазь мыныны</x>
+       <xt xml:lang="fin">mennä (t. kulkea) virkeästi</xt>
+     </xg>
+     <xg><x>пазьылэс: пазь-пазь тэркы</x>
+       <xt xml:lang="fin">matala lautanen</xt>
+     </xg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Descr">пежыр, пежыр-пежыр</l><orig>пежыр, пежор-пежыр</orig>
+   </lg>
+   <mg>
+     <tg xml:lang="fin">
+       <t>pystyssä, sojossa; pystyyn, sojoon</t>
+     </tg>
+     <xg><x>кышкаменыз йырсиосыз пежыр султӥзы</x>
+       <xt xml:lang="fin">hänen hiuksensa nousivat pystyyn pelosta</xt>
+     </xg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Descr">пештыр</l><orig>пештыр</orig>
+   </lg>
+   <mg>
+     <tg xml:lang="fin">
+       <t>pystyssä, pörröllään; pystyyn, pörrölleen</t>
+     </tg>
+     <xg><x>гонэз пештыр ӝутскиз</x>
+       <xt xml:lang="fin">karvat nousivat pystyyn (t. pörrölleen)</xt>
+     </xg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Descr">пештыр-пештыр</l><orig>пештор-пештыр</orig>
+   </lg>
+   <mg>
+     <variants>
+       <l_syn type="&gt;">пештыр</l_syn>
+     </variants>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Descr">питыр</l><orig>питыр</orig>
+   </lg>
+   <mg><note><i>deskr. kuvaa pyörintää, vierintää:</i></note>
+     <xg><x>туп питыр гинэ диван улэ пыриз</x>
+       <xt xml:lang="fin">pallo meni pyörien sohvan alle</xt>
+     </xg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Descr">питыр-питыр</l><orig>питор-питыр</orig>
+   </lg>
+   <mg>
+     <variants>
+       <l_syn type="&gt;">питыр; питыр-питыр питыраса усё пипу куаръёсыд</l_syn>
+     </variants><note><i>kansanl.</i></note>
+     <tg xml:lang="fin">
+       <t>haavan lehdet putoavat pyörähdellen</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Descr">пурак</l><orig>параʼк</orig>
+   </lg>
+   <mg>
+     <variants>
+       <l_syn type="&gt;">пуркак</l_syn>
+     </variants>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Descr">пуркак</l><orig>паркаʼк</orig>
+   </lg>
+   <mg><note><i>deskr. kuvaa savun tupruamista</i></note>
+     <tg xml:lang="fin">
+       <t>:</t>
+     </tg>
+     <xg><x>муръёысь ӵын пуркак потӥз</x>
+       <xt xml:lang="fin">savu tuli (t. nousi) piipusta tupruten</xt>
+     </xg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Descr">пур-пур</l><orig>пар-пур</orig>
+   </lg>
+   <mg ind="1th"><font face="SmolenskSGR">(<i>быг-быг</i>) </font>
+     <tg xml:lang="fin">
+       <t>höyteinen, pöyheä</t>
+     </tg>
+     <xg><x>пур-пур лымы</x>
+       <xt xml:lang="fin">höytylumi</xt>
+     </xg>
+   </mg>
+   <mg ind="2th"> <font face="SmolenskSGR">(<i>будос ӟуски, шеп с-сь</i>) </font>
+     <tg xml:lang="fin">
+       <t>tuuhea</t>
+       <re>kasvien kukinto, tähkä</re>
+     </tg>
+   </mg>
+   <mg ind="3th"><defNative>вӧл-вӧл</defNative>
+     <tg xml:lang="fin">
+       <t>väljä</t>
+       <re>vaate</re>;
+     </tg>
+     <xg><x>пур-пур дэрем</x>
+       <xt xml:lang="fin">väljä leninki (t. paita)</xt>
+     </xg>
+   </mg>
+   <mg ind="4th"><defNative>мычиськем – басма, дӥсь</defNative>
+     <tg xml:lang="fin">
+       <t>törröttävä, pullottava</t>
+       <re>kangas, vaate</re>
+     </tg>
+   </mg>
+   <mg ind="5th">
+     <tg xml:lang="fin">
+       <t>tupruttaen, tuprutellen, tupruten</t>
+     </tg>
+     <xg><x>пур-пур тамак кыскыны</x>
+       <xt xml:lang="fin">polttaa tupakkaa tuprutellen, tupruttaa tupakkaa</xt>
+     </xg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Descr">пускыль-пускыль</l><orig>пусколь-пускыль</orig>
+   </lg>
+   <mg><note><i>deskr.</i></note>
+     <tg xml:lang="fin">
+       <t>pullea</t>
+       <re>keho, ruumiinosat</re>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Descr">путыр-путыр</l><orig>путор-путыр</orig>
+   </lg>
+   <mg><note><i>deskr. kuvaa kovasti halkeillutta (t. säröillyttä) esinettä</i></note>
+     <tg xml:lang="fin">
+       <t>:</t>
+     </tg>
+     <xg><x>путыр-путыр пилиськылыны</x>
+       <xt xml:lang="fin">halkeilla, säröillä, rakoilla</xt><xre>kovasti</xre>
+     </xg>
+     <tg xml:lang="fin">
+       <t>, tulla säröiseksi</t>
+     </tg>
+     <xg><x>музъем путыр-путыр пилиськылэмын</x>
+       <xt xml:lang="fin">maa on halkeillut</xt><xre>kovasti</xre>
+     </xg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Descr">пыльк</l><orig>пыльк</orig>
+   </lg>
+   <mg><note><i>deskr.</i></note>
+     <tg xml:lang="fin">
+       <t>:</t>
+     </tg><font face="SmolenskSGR"><b>пыльк потыны </b></font><mwemg ind="1th"/><range>puhek.</range><defNative>усьыны, кыляны</defNative>
+     <tg xml:lang="fin">
+       <t>pudota (t. lähteä irti) yhtäkkiä</t>
+       <re>ruuvi, jnk pohja</re>
+     </tg> <mwemg ind="2th"/><defNative>азе</defNative>
+     <tg xml:lang="fin">
+       <t>ilmestyä (t. tulla esiin) yhtäkkiä</t>
+     </tg><mwemg ind="3th"/><defNative>синъёс с-сь</defNative>
+     <tg xml:lang="fin">
+       <t>pullistua</t>
+       <re>silmät</re>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Descr">пыльк-пыльк</l><orig>польк-пыльк</orig>
+   </lg>
+   <mg>
+     <variants>
+       <l_syn type="&gt;">пыльккес</l_syn>
+     </variants>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Descr">резь</l><orig>резь</orig>
+   </lg>
+   <mg><note><i>onom. ja deskr.</i></note>
+     <tg xml:lang="fin">
+       <t>:</t>
+     </tg><font face="SmolenskSGR"><b>резь мыныны</b></font><mwemg ind="1th"/><defNative>шуметыса</defNative>
+     <tg xml:lang="fin">
+       <t>mennä rymistää</t>
+     </tg><mwemg ind="2th"/><senseType>kuv.</senseType><font face="SmolenskSGR">(<i>азьтэм-бертэм, малпаськытэк</i>)</font>
+     <tg xml:lang="fin">
+       <t>panna töpinäksi (t. tuulemaan), toimia sumeilematta</t>
+     </tg>
+     <xg><x>резь поттыны</x>
+       <xt xml:lang="fin">aiheuttaa hälinää (t. melua), hälistä, meluta;</xt>
+     </xg><font face="SmolenskSGR"><b>резь поттыса ужаны </b></font><mwemg ind="1th"/><defNative>шуметыса</defNative>
+     <tg xml:lang="fin">
+       <t>tehdä töitä aiheuttaen hälinää (t. melua)</t>
+     </tg><mwemg ind="2th"/><senseType>kuv.</senseType><font face="SmolenskSGR">(<i>гижысь-пиньысь</i>)</font>
+     <tg xml:lang="fin">
+       <t>tehdä töitä innokkaasti (t. innostuneesti, sitkeästi)</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Descr">резь-куаж</l><orig>резь-куаж</orig>
+   </lg>
+   <mg><note><i>onom. ja deskr.</i></note>
+     <tg xml:lang="fin">
+       <t>hälisten, meluten</t>
+     </tg>
+     <xg><x>резь-куаж поттыны</x>
+       <xt xml:lang="fin">aiheuttaa hälinää (t. melua), hälistä, meluta</xt>
+     </xg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Descr">руз</l><orig>руз</orig>
+     <variants>
+       <l_syn>руз-руз</l_syn>
+     </variants>
+   </lg>
+   <mg><note><i>deskr.</i></note>
+     <tg xml:lang="fin">
+       <t>:</t>
+     </tg>
+     <xg><x>руз ваньзэ тӥяны</x>
+       <xt xml:lang="fin">katkoa (t. rikkoa) kaikki rajusti (t. jyrkästi);</xt>
+     </xg>
+     <xg><x>руз ужаны</x>
+       <xt xml:lang="fin">tehdä töitä riuskasti</xt>
+     </xg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Descr">руз-руз</l><orig>раз-руз</orig>
+     <variants>
+       <l_syn>руз</l_syn>
+     </variants>
+   </lg>
+   <mg><note><i>deskr.</i></note>
+     <tg xml:lang="fin">
+       <t>:</t>
+     </tg>
+     <xg><x>руз-руз ваньзэ тӥяны</x>
+       <xt xml:lang="fin">katkoa (t. rikkoa) kaikki rajusti (t. jyrkästi);</xt>
+     </xg>
+     <xg><x>руз-руз ужаны</x>
+       <xt xml:lang="fin">tehdä töitä riuskasti</xt>
+     </xg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Descr">сальк-сальк</l><orig>саʼльк-сальк</orig>
+   </lg>
+   <mg><font face="TimesNewRomanPS" type="&gt;"><b>сальккес</b></font>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Descr">сапыр-сапыр</l><orig>сапор-сапыр</orig>
+   </lg>
+   <mg ind="1th">
+     <variants>
+       <l_syn type="&gt;">сапыр</l_syn>
+     </variants>
+   </mg>
+   <mg ind="2th"><note><i>deskr. kuvaa ylikypsiä marjoja, hedelmiä, pehmeäksi t. hajalle kiehuneita vihanneksia, kalaa tms.</i></note>
+     <tg xml:lang="fin">
+       <t>:</t>
+     </tg>
+     <xg><x>эмезь сапыр-сапыр вуэмын ни</x>
+       <xt xml:lang="fin">vadelma on jo kypsynyt liikaa</xt>
+     </xg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Descr">сарк-сарк</l><orig>саʼрк-сарк</orig>
+   </lg>
+   <mg><note><i>deskr.</i></note>
+     <tg xml:lang="fin">
+       <t>:</t>
+     </tg>
+     <xg><x>бамыз сарк-сарк луэм ни</x>
+       <xt xml:lang="fin">nänen kasvonsa ovat jo täynnä ryppyjä;</xt>
+     </xg>
+     <xg><x>сарк-сарк пересьмыны</x>
+       <xt xml:lang="fin">vanhentua täysin (t. kovin), raihnaantua</xt>
+     </xg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Descr">сач-сач</l><orig>саʼч-сач</orig>
+   </lg>
+   <mg><note><i>deskr. kuvaa esineen märkyyttä tilaa t. (kostean) esineen painavuutta</i></note>
+     <tg xml:lang="fin">
+       <t>:</t>
+     </tg>
+     <xg><x>дэреме сач-сач котмиз</x>
+       <xt xml:lang="fin">paitani kastui läpimäräksi (t. likomäräksi)</xt>
+     </xg>◊
+     <xg><x>сач-сач вераны</x>
+       <xt xml:lang="fin">sanoa (aivan) suoraan</xt>
+     </xg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Descr">сачыр</l><orig>сачыр</orig>
+   </lg>
+   <mg ind="1th"><note><i>deskr. kuvaa esineen märkää kuraisuutta</i></note>
+     <tg xml:lang="fin">
+       <t>:</t>
+     </tg>
+     <xg><x>азбарын сачыр дэри</x>
+       <xt xml:lang="fin">piha on täynnä kuraa</xt>
+     </xg>
+   </mg>
+   <mg ind="2th"> <note><i>onom. kuvaa kuran, veden roiskunaa, veden lorinaa, kalojen, ankkojen tms. polskintaa:</i></note>
+     <xg><x>жолобысь сачыр гинэ ву вия</x>
+       <xt xml:lang="fin">vesi valuu vesikourusta loristen</xt>
+     </xg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Descr">сачыр-сачыр</l><orig>сачор-сачыр</orig>
+   </lg>
+   <mg><note><i>deskr. kuvaa esineen märkää kuraisuutta</i></note>
+     <tg xml:lang="fin">
+       <t>:</t>
+     </tg>
+     <xg><x>сачыр-сачыр котмыны</x>
+       <xt xml:lang="fin">kastua läpimäräksi (t. likomäräksi);</xt>
+     </xg>
+     <xg><x>урамын сачыр-сачыр дэри</x>
+       <xt xml:lang="fin">katu on täynnä kuraa</xt>
+     </xg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Descr">сопыр</l><orig>сопыр</orig>
+   </lg>
+   <mg>
+     <variants>
+       <l_syn type="&gt;">сапыр</l_syn>
+     </variants>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Descr">сопыр-сопыр</l><orig>сопор-сопыр</orig>
+   </lg>
+   <mg>
+     <variants>
+       <l_syn type="&gt;">сапыр-сапыр</l_syn>
+     </variants>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Descr">сор</l><orig>сор</orig>
+   </lg>
+   <mg><note><i>onom.</i></note>
+     <tg xml:lang="fin">
+       <t>:</t>
+     </tg>
+     <xg><x>сор карыны</x>
+       <xt xml:lang="fin">kuorsata;</xt>
+     </xg>
+     <xg><x>сор карыса изьыны</x>
+     <tg xml:lang="fin">nukkua kuorsaten
+     </tg>
+     </xg>
+     <xg><x>кужмо умен</x>
+       <xt xml:lang="fin">nukkua sikeästi (t. sikeää unta)</xt>
+     </xg>
+     <xg><x>сор поттыны</x>
+       <xt xml:lang="fin">kuorsata</xt>
+     </xg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Descr">суп-сап</l><orig>суп-сап</orig>
+   </lg>
+   <mg><note><i>deskr.</i></note>
+     <tg xml:lang="fin">
+       <t>huolimattomasti, leväperäisesti, hutiloiden</t>
+     </tg>
+     <xg><x>суп-сап ужаны</x>
+       <xt xml:lang="fin">tehdä töitä huolimattomasti (t. hutiloiden)</xt>
+     </xg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Descr">супыль-сапыль</l><orig>супыль-саʼпыль</orig>
+   </lg>
+   <mg><note><i>deskr. ja onom. kuvaa puolijuoksevia aineita ja niiden aiheuttamaa ääntä</i></note>
+     <tg xml:lang="fin">
+       <t>:</t>
+     </tg>
+     <xg><x>пыд улын супыль-сапыль дэри</x>
+       <xt xml:lang="fin">jalkojen alus on täynnä (vetelää) kuraa</xt>
+     </xg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Descr">супыль-супыль</l><orig>суполь-супыль</orig>
+   </lg>
+   <mg><note><i>deskr. ja onom. kuvaa puolijuoksevia, tahmeita aineita ja niiden aiheuttamaa ääntä</i></note>
+     <tg xml:lang="fin">
+       <t>:</t>
+     </tg>
+     <xg><x>супыль-супыль кисаль</x>
+       <xt xml:lang="fin">vetelä (kaura)kiisseli;</xt>
+     </xg>
+     <xg><x>супыль-супыль лымы</x>
+       <xt xml:lang="fin">räntä (t. märkä lumi);</xt>
+     </xg>
+     <xg><x>супыль-супыль кӧй парсь сӥль</x>
+       <xt xml:lang="fin">pehmeä runsasihrainen sianliha</xt>
+     </xg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Descr">супыр-супыр</l><orig>супор-супыр</orig>
+   </lg>
+   <mg ind="1th"><note><i>kuvaa hajalle kiehuneita vihanneksia, kalaa tms.</i></note>
+     <tg xml:lang="fin">
+       <t>:</t>
+     </tg>
+     <xg><x>супыр-супыр пӧзьыны</x>
+       <xt xml:lang="fin">kiehua hajalle (t. muusiksi, aivan pehmeäksi)</xt>
+     </xg>
+   </mg>
+   <mg ind="2th"> <note><i>kuvaa syvää väsymystä</i></note>
+     <tg xml:lang="fin">
+       <t>:</t>
+     </tg>
+     <xg><x>супыр-супыр жадьыны</x>
+       <xt xml:lang="fin">väsyä kovin (t. aivan), olla aivan väsynyt, olla aivan poikki (t. kuitti)</xt>
+     </xg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Descr">сырк-сырк</l><orig>сорк-сырк</orig>
+   </lg>
+   <mg>
+     <variants>
+       <l_syn type="&gt;">сарк-сарк</l_syn>
+     </variants>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Descr">сыр-сыр</l><orig>сор-сыр</orig>
+   </lg>
+   <mg><note><i>deskr.</i></note>
+     <tg xml:lang="fin">
+       <t>:</t>
+     </tg>
+     <xg><x>сыр-сыр куалекъяны</x>
+       <xt xml:lang="fin">vapista, väristä, täristä</xt><xre>kylmästä, pelosta</xre>
+     </xg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Descr">сюл-кал</l><orig>сюл-кал</orig>
+   </lg>
+   <mg ind="1th"><note><i>kuvaa laahaamista t. peräänantamatonta seuraamista</i></note>
+     <tg xml:lang="fin">
+       <t>:</t>
+     </tg>
+     <xg><x>сюл-кал кыскыны</x>
+       <xt xml:lang="fin">laahata, raahata, hinata;</xt>
+     </xg>
+     <xg><x>сюл-кал мыныны</x>
+       <xt xml:lang="fin">seurata jtak (t. mennä perässä) sinnikkäästi</xt>
+     </xg>
+   </mg>
+   <mg ind="2th"> <note><i>kuvaa lerpallaan olevia t. epäjärjestyksessä riippuvia esineitä</i></note>
+     <tg xml:lang="fin">
+       <t>:</t>
+     </tg>
+     <xg><x>сюл-кал ошкыны</x>
+       <xt xml:lang="fin">olla lerpallaan (t. riipuksissa);</xt>
+     </xg>
+     <xg><x>дӥсез сюл-кал ошылыны</x>
+       <xt xml:lang="fin">ripustella vaatteet hujan hajan</xt>
+     </xg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Descr">сюр-вай</l><orig>сюр-вай</orig>
+   </lg>
+   <mg>
+     <tg xml:lang="fin">
+       <t>hajallaan, hujan hajan, levällään; hajalleen, levälleen</t>
+     </tg><font face="SmolenskSGR"><b>сюр-вай карыны </b></font><mwemg ind="1th"/>
+     <variants>
+       <l_syn type="&gt;">сюр-вай куяны</l_syn>
+     </variants><mwemg ind="2th"/><senseType>kuv.</senseType><font face="SmolenskSGR">(<i>ыштыны</i>)</font>
+     <tg xml:lang="fin">
+       <t>kadottaa, hukata</t>
+       <re>vähitellen</re>;
+     </tg>
+     <tg xml:lang="fin">
+       <t> tuhlata</t>
+     </tg>
+     <xg><x>сюр-вай куяны</x>
+       <xt xml:lang="fin">heitellä (t. viskellä) hajalleen (t. hujan hajan)</xt>
+     </xg>◊
+     <xg><x>сюр-вай луыны</x>
+       <xt xml:lang="fin">kadota, hävitä, hukkaantua</xt>
+     </xg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Descr">такыр<rom ind="2"/></l>
+   </lg>
+   <mg><note><i>onom. kuvaa naputtelua, naksuttelua, rätinää</i></note>
+     <tg xml:lang="fin">
+       <t>:</t>
+     </tg><font face="SmolenskSGR"><b>такыр вазьыны</b></font>
+     <variants>
+       <l_syn type="&gt;">такыртыны</l_syn>
+     </variants>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Descr">такыр-такыр</l><orig>такор-такыр</orig>
+   </lg>
+   <mg><note><i>deskr.</i></note>
+     <tg xml:lang="fin">
+       <t>:</t>
+     </tg>
+     <xg><x>такыр-такыр куасьмем музъем</x>
+       <xt xml:lang="fin">hyvin kuivunut (t. kovettunut) maa</xt>
+     </xg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Descr">тарс</l><orig>тарс</orig>
+   </lg>
+   <mg><note><i>onom. kuvaa kuivan herneenpalon avaamisen t. oksan murtamisen ääntä</i></note>
+     <tg xml:lang="fin">
+       <t>:</t>
+     </tg>
+     <xg><x>улвай тарс чигиз</x>
+       <xt xml:lang="fin">oksa murtui raksahtaen</xt>
+     </xg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Descr">тачыр</l><orig>тачыр</orig>
+   </lg>
+   <mg><note><i>onom. kuvaa murtuvan kuivan oksan t. palavan polttopuun ääntä</i></note>
+     <tg xml:lang="fin">
+       <t>: räiske, räiskynä, rätinä</t>
+     </tg>
+     <xg><x>тачыр карыны</x>
+       <xt xml:lang="fin">rätistä, ratista, räiskyä</xt>
+     </xg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Descr">таӵ-таӵ</l><orig>таʼӵ-таӵ</orig>
+   </lg>
+   <mg>
+     <variants>
+       <l_syn type="&gt;">таʼш-таш</l_syn>
+     </variants>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Descr">таш-таш</l>
+   </lg>
+   <mg>
+     <tg xml:lang="fin">
+       <t>tiivis</t>
+       <t>kovaksi (t. tiiviiksi) puristunut</t>
+     </tg>
+     <xg><x>музъем таш-таш</x>
+       <xt xml:lang="fin">tiivis maa</xt>
+     </xg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Descr">теплес</l><orig>теплес</orig>
+   </lg>
+   <mg>
+     <tg xml:lang="fin">
+       <t>niljakas, niljainen, liukas(pintainen)</t>
+     </tg>
+     <xg><x>теплес губи</x>
+       <xt xml:lang="fin">niljainen sieni;</xt>
+     </xg>
+     <variants>
+       <l_syn type="&gt;">тяплес</l_syn>
+     </variants>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Descr">тепылес</l><orig>тепылес</orig>
+   </lg>
+   <mg>
+     <variants>
+       <l_syn type="&gt;">теплес</l_syn>
+     </variants>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Descr">тепыль-тепыль</l><orig>теполь-тепыль</orig>
+   </lg>
+   <mg>
+     <variants>
+       <l_syn type="&gt;">теплес</l_syn>
+     </variants>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Descr">тёр</l><orig>тёр</orig>
+   </lg>
+   <mg><note><i>onom. kuvaa nesteen valumista t. kuivan aineen karisemista</i></note>
+     <tg xml:lang="fin">
+       <t>:</t>
+     </tg>
+     <xg><x>ву тёр вия</x>
+       <xt xml:lang="fin">vesi virtaa liristen</xt>
+     </xg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Descr">торк-торк</l><orig>торк-торк</orig>
+   </lg>
+   <mg><note><i>onom. kuvaa kovan esineen kolahtelun kumeaa ääntä</i></note>
+     <tg xml:lang="fin">
+       <t>:</t>
+     </tg>
+     <tg xml:lang="fin">
+       <t>kolahdus, kopahdus, jymähdys</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Descr">туп-тап</l><orig>туп-тап</orig>
+   </lg>
+   <mg>
+     <tg xml:lang="fin">
+       <t>huolimattomasti, häthätää, kiireisesti, epätäsmällisesti</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Descr">тур<rom ind="3"/></l>
+   </lg>
+   <mg><note><i>onom. kuvaa siipien räpyttämisen aiheuttamaa ääntä linnun noustessa</i></note>
+     <tg xml:lang="fin">
+       <t>: kohina, humina</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Descr">тур-пар</l><orig>тур-пар</orig>
+   </lg>
+   <mg><note><i>deskr.</i></note>
+     <tg xml:lang="fin">
+       <t>:</t>
+     </tg>
+     <xg><x>тур-пар вырыны</x>
+       <xt xml:lang="fin">touhuta, hyöriä, hääriä;</xt>
+     </xg>
+     <xg><x>тур-пар лэсьтыны</x>
+       <xt xml:lang="fin">tehdä kiiressä (t. huolimattomasti)</xt>
+     </xg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Descr">тып-тып</l><orig>топ-тып</orig>
+   </lg>
+   <mg>
+     <tg xml:lang="fin">
+       <t>aivan kiinni; tiiviisti, tukevasti</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Descr">тыпыль-тапыль</l><orig>тыпыль-таʼпыль</orig>
+   </lg>
+   <mg>
+     <tg xml:lang="fin">
+       <t>niljakas, niljainen, limainen, liukas(pintainen)</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Descr">тыпыр-тапыр</l><orig>тыпыр-таʼпыр</orig>
+   </lg>
+   <mg><note><i>onom. kuvaa jalkojen kopiseva ääntä t. töminää</i></note>
+     <tg xml:lang="fin">
+       <t>:</t>
+     </tg>
+     <tg xml:lang="fin">
+       <t>tömp(s)-tömp(s)</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Descr">тэтэ: тэтэ карыны</l>
+   </lg>
+   <mg><note><i>last.</i></note>
+     <tg xml:lang="fin">
+       <t>ryhtyä kulkemaan</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Descr">ур<rom ind="2"/></l>
+   </lg>
+   <mg><note><i>onom. kuvaa (väki)joukon meluamisen ääntä</i></note>
+     <tg xml:lang="fin">
+       <t>: melu, hälinä, häly, kohina</t>
+     </tg>
+     <xg><x>ур карыны</x> <x>ур поттыны</x>
+       <xt xml:lang="fin">meluta, hälistä, kohista;</xt>
+     </xg>
+     <xg><x>пиналъёс ур каро</x>
+       <xt xml:lang="fin">lapset meluavat (t. hälisevät)</xt>
+     </xg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Descr">усьтыр-табыр</l><orig>усьтыр-таʼбыр</orig>
+   </lg>
+   <mg><note><i>deskr.</i></note>
+     <tg xml:lang="fin">
+       <t>:</t>
+     </tg>
+     <xg><x>усьтыр-табыр луыны</x>
+       <xt xml:lang="fin">mennä (t. joutua) hämilleen; hämmentyä, häkeltyä, hätääntyä;</xt>
+     </xg>
+     <xg><x>усьтыр-табыр потыны</x>
+       <xt xml:lang="fin">poistua (t. lähteä) kiireesti (t. kiireisesti, hätäisesti);</xt>
+     </xg>
+     <xg><x>усьтыр-табыр тубыны</x>
+       <xt xml:lang="fin">mennä ylös kiireesti (t. hätäisesti); kiivetä kiireesti (t. hätäisesti)</xt>
+     </xg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Descr">чакыр</l><orig>чакыр</orig>
+   </lg>
+   <mg><note><i>onom. kuvaa kuivien esineiden rousketta, hampaiden narsketta</i></note>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Descr">чан-чан</l><orig>чан-чан</orig>
+   </lg>
+   <mg><note><i>onom. kuvaa metalliesineiden kuminaa</i></note>
+     <tg xml:lang="fin">
+       <t>:</t>
+     </tg>
+     <xg><x>чан-чан гырлы вазе</x>
+       <xt xml:lang="fin">kello kumisee</xt>
+     </xg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Descr">чап-чап</l><orig>чап-чап</orig>
+   </lg>
+   <mg><note><i>onom. kuvaa maiskutusääntä</i></note>
+     <tg xml:lang="fin">
+       <t>:</t>
+     </tg>
+     <xg><x>чап-чап карон</x>
+       <xt xml:lang="fin">maiskuttaminen, maiskutus, maiskuttelu;</xt>
+     </xg>
+     <xg><x>чап-чап карыны</x>
+       <xt xml:lang="fin">maiskuttaa, maiskutella</xt>
+     </xg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Descr">чапыль-чапыль</l><orig>чапыль-чапыль</orig>
+   </lg>
+   <mg ind="1th"><note><i>onom. kuvaa ääntä, joka syntyy kun hanhet t. ankat etsivät ruokaa vedessä</i></note>
+     <tg xml:lang="fin">
+       <t>:</t>
+     </tg>
+     <xg><x>чапыль-чапыль поттыны</x>
+       <xt xml:lang="fin">polskia, loiskia, polskuttaa, loiskuttaa,</xt><xre>hanhi, ankka</xre>
+     </xg>
+   </mg>
+   <mg ind="2th"> <range>murt.</range><defNative>пачыл</defNative>
+     <tg xml:lang="fin">
+       <t>täynnä, reunoja (t. laitoja) myöten</t>
+       <re>neste</re>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Descr">чар</l><orig>чар</orig>
+   </lg>
+   <mg><note><i>onom. kuvaa kankaan t. paperin repimisen ääntä</i></note>
+     <tg xml:lang="fin">
+       <t>:</t>
+     </tg>
+     <xg><x>чар кесьыны</x>
+       <xt xml:lang="fin">repiä kangas ritisyttäen</xt>
+     </xg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Descr">чарк-нальк</l><orig>чарк-нальк</orig>
+   </lg>
+   <mg>
+     <tg xml:lang="fin">
+       <t>pyydys</t>
+       <re>eläimiä varten</re>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Descr">чиз-чиз</l><orig>чиз-чиз</orig>
+   </lg>
+   <mg><note><i>onom. kuvaa veden t. maidon kapeana suihkuna purskahtamisen ääntä</i></note>
+     <tg xml:lang="fin">
+       <t>:</t>
+     </tg>
+     <xg><x>чиз-чиз ву пызъе</x>
+       <xt xml:lang="fin">vesi purskahtaa suihkuna</xt>
+     </xg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Descr">чизык-чизык</l><orig>чизык-чизык</orig>
+   </lg>
+   <mg>
+     <variants>
+       <l_syn type="&gt;">чиз-чиз</l_syn>
+     </variants>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Descr">чик-чилик</l><orig>чик-чилик</orig>
+   </lg>
+   <mg><note><i>onom. kuvaa varpusen ja muutamien muiden lintujen ääntä</i></note>
+     <tg xml:lang="fin">
+       <t>: tirskuna</t>
+     </tg>
+     <xg><x>чик-чилик вазиз ӟольгыри</x>
+       <xt xml:lang="fin">varpunen tirskui</xt>
+     </xg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Descr">чик-чирик</l><orig>чик-чирик</orig>
+   </lg>
+   <mg>
+     <variants>
+       <l_syn type="&gt;">чик-чилик</l_syn>
+     </variants>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Descr">чикыр-чикыр</l><orig>чикыр-чикыр</orig>
+   </lg>
+   <mg><note><i>onom. kuvaa hampaiden narskutuksen ääntä t. hiiren vikinää</i></note>
+     <tg xml:lang="fin">
+       <t>:</t>
+     </tg>
+     <xg><x>пиньыныз чикыр-чикыр каре</x>
+       <xt xml:lang="fin">hän narskuttaa hampaitaan;</xt>
+     </xg>
+     <xg><x>шыр чикыр-чикыр каре</x>
+       <xt xml:lang="fin">hiiri vikisee</xt>
+     </xg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Descr">чили-били</l><orig>чили-биʼли</orig>
+   </lg>
+   <mg>
+     <variants>
+       <l_syn type="&gt;">seur.</l_syn>
+     </variants>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Descr">чили-вали</l><orig>чили-ваʼли</orig>
+   </lg>
+   <mg><note><i>deskr. kuvaa joko värien välkettä tai auringon loistetta vedessä</i></note>
+     <tg xml:lang="fin">
+       <t>:</t>
+     </tg>
+     <xg><x>шунды шорын чили-вали ву шудэ</x>
+       <xt xml:lang="fin">vesi kimaltelee auringonpaisteessa;</xt>
+     </xg>
+     <xg><x>чили-вали кисьтаськыны</x>
+       <xt xml:lang="fin">välkehtiä, välkkyä, läikehtiä, läikkyä, kimallella</xt>
+     </xg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Descr">чиль: чиль чиляны</l>
+   </lg>
+   <mg>
+     <tg xml:lang="fin">
+       <t>kimallella, välkehtiä</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Descr">чиль-валь</l><orig>чиль-валь</orig>
+     <variants>
+       <l_syn>чиль-дол</l_syn>
+     </variants>
+   </lg>
+   <mg>
+     <variants>
+       <l_syn type="&gt;">чили-вали</l_syn>
+     </variants>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Descr">чиль-дол</l><orig>чиль-дол</orig>
+     <variants>
+       <l_syn>чиль-валь</l_syn>
+     </variants>
+   </lg>
+   <mg>
+     <variants>
+       <l_syn type="&gt;">чили-вали</l_syn>
+     </variants>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Descr">чильк-вальк</l><orig>чильк-вальк</orig>
+   </lg>
+   <mg><note><i>deskr. kuvaa värien välkettä t. vaihtelua</i></note>
+     <tg xml:lang="fin">
+       <t>: loistaen, kimaltaen</t>
+     </tg>
+     <xg><x>ву чильк-вальк кисьтаське</x>
+       <xt xml:lang="fin">vesi kimaltaen välkkyy;</xt>
+     </xg>
+     <xg><x>сапегзэ чильк-вальк карем</x>
+       <xt xml:lang="fin">hän kiillotti saappaansa</xt>
+     </xg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Descr">чильк-чильк</l><orig>чиʼльк-чильк</orig>
+   </lg>
+   <mg>
+     <variants>
+       <l_syn type="&gt;">чиль-чиль</l_syn>
+     </variants>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Descr">чиль-чиль: чиль-чиль сьӧд</l>
+   </lg>
+   <mg>
+     <tg xml:lang="fin">
+       <t>kiiltävän musta, mustaakin mustempi</t>
+     </tg>◊
+     <xg><x>шунды чиль-чиль пиштэ</x>
+       <xt xml:lang="fin">aurinko paistaa kirkkaasti (t. heleästi)</xt>
+     </xg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Descr">чильыр-чильыр<rom ind="1"/></l>
+   </lg>
+   <mg><note><i>onom. kuvaa lintujen tirskumista, sirkuttamista, visertämistä</i></note>
+     <tg xml:lang="fin">
+       <t>:</t>
+     </tg>
+     <xg><x>ӟольгыриос чильыр-чильыр каро</x>
+       <xt xml:lang="fin">varpuset tirskuvat (t. visertävät)</xt>
+     </xg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Descr">чильыр-чильыр<rom ind="2"/></l>
+   </lg>
+   <mg> <note><i>deskr. kuvaa värien välkettä t. vaihtelua</i></note>
+     <tg xml:lang="fin">
+       <t>: loistaen, kimaltaen</t>
+     </tg>
+     <xg><x>кизилиос чильыр-чильыр чиляло</x>
+       <xt xml:lang="fin">tähdet loistavat (t. kimmeltävät)</xt>
+     </xg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Descr">чиндыр-вандыр</l><orig>чиндыр-ваʼндыр</orig>
+   </lg>
+   <mg>
+     <tg xml:lang="fin">
+       <t>viisto, vino, kalteva, kiero; kiemurteleva, mutkainen, polveileva // vinosti, vinossa, kierossa; kiemurtelevasti, mutkaisesti, polveilevasti</t>
+     </tg>
+     <xg><x>чиндыр-вандыр пичи сюрес</x>
+       <xt xml:lang="fin">kiemurteleva polku;</xt>
+     </xg>
+     <xg><x>чиндыр-вандыр вырыны</x>
+       <xt xml:lang="fin">kiemurrella, luikerella, mutkitella, polveilla;</xt>
+     </xg>
+     <xg><x>чиндыр-вандыр бызе шур</x>
+       <xt xml:lang="fin">joki virtaa kiemurrellen</xt>
+     </xg>◊
+     <xg><x>чиндыр-вандыр мугоро</x>
+       <xt xml:lang="fin">hintelä, heiveröinen, laiha</xt>
+     </xg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Descr">чиоп</l><orig>чиоп</orig>
+   </lg>
+   <mg>
+     <variants>
+       <l_syn type="&gt;">чиоп-чиоп</l_syn>
+     </variants>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Descr">чиоп-чиоп</l><orig>чиоп-чиоп</orig>
+   </lg>
+   <mg><note><i>onom. kuvaa kananpoikasten piipitystä</i></note>
+     <tg xml:lang="fin">
+       <t>:</t>
+     </tg>
+     <xg><x>чипыос чиоп-чиоп каро</x>
+       <xt xml:lang="fin">kananpoikaset piipittävät</xt>
+     </xg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Descr">чип-чип</l><orig>чип-чип</orig>
+   </lg>
+   <mg ind="1th"><note><i>onom. kuvaa linnunpoikasten piipitystä</i></note>
+   </mg>
+   <mg ind="2th">
+     <variants>
+       <l_syn type="&gt;">чипы-чипы</l_syn>
+     </variants>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Descr">чирк</l><orig>чирк</orig>
+     <variants>
+       <l_syn>чирк-чирк-чирк</l_syn>
+     </variants>
+   </lg>
+   <mg><note><i>onom. kuvaa sirkan sirinää</i></note>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Descr">чирк-чирк-чирк</l><orig>чирк-чирк-чирк</orig>
+     <variants>
+       <l_syn>чирк</l_syn>
+     </variants>
+   </lg>
+   <mg><note><i>onom. kuvaa sirkan sirinää</i></note>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Descr">чомбляк</l><orig>чоʼмбляʼк</orig>
+   </lg>
+   <mg>
+     <tg xml:lang="fin">
+       <t>polskis, molskis, loiskis</t>
+     </tg>
+     <xg><x>чомбляк вуэ тэтчиз</x>
+       <xt xml:lang="fin">hän polskahti veteen</xt>
+     </xg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Descr">чомбыляк</l><orig>чоʼмбыляʼк</orig>
+   </lg>
+   <mg>
+     <variants>
+       <l_syn type="&gt;">чомбляк</l_syn>
+     </variants>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Descr">чорк</l><orig>чорк</orig>
+   </lg>
+   <mg ind="1th"><note><i>deskr.</i></note>
+     <tg xml:lang="fin">
+       <t>:</t>
+     </tg>
+     <xg><x>чорк султӥз но кошкиз</x>
+       <xt xml:lang="fin">hän nousi yhtäkkiä ja lähti</xt>
+     </xg>
+   </mg>
+   <mg ind="2th"> <range>puhek.</range>
+     <tg xml:lang="fin">
+       <t>aivan, ihan</t>
+     </tg>
+     <xg><x>чорк огнам кыли</x>
+       <xt xml:lang="fin">jäin ypöyksin (t. aivan yksin)</xt>
+     </xg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Descr">чорк-чорк</l><orig>чоʼрк-чорк</orig>
+   </lg>
+   <mg ind="1th"><note><i>deskr.</i></note>
+     <tg xml:lang="fin">
+       <t>:</t>
+     </tg>
+     <xg><x>чорк-чорк кариськыны</x>
+       <xt xml:lang="fin">oieta, suoristua, suoristautua, ojentua, ojentautua;</xt>
+     </xg>
+     <xg><x>пельёссэ вал чорк-чорк выретэ</x>
+       <xt xml:lang="fin">hevonen höristää korviaan</xt>
+     </xg>
+   </mg>
+   <mg ind="2th"> <range>murt.</range>
+     <tg xml:lang="fin">
+       <t>aivan, ihan</t>
+     </tg>
+     <xg><x>чорк-чорк огнам улӥсько</x>
+       <xt xml:lang="fin">asun ypöyksin (t. aivan yksin)</xt>
+     </xg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Descr">чуз-чуз</l><orig>чаз-чуз</orig>
+   </lg>
+   <mg><note><i>onom. ja deskr.</i></note>
+     <tg xml:lang="fin">
+       <t>:</t>
+     </tg>
+     <xg><x>чуз-чуз куара чузъяське</x>
+       <xt xml:lang="fin">ääni kuuluu kaikuna;</xt>
+     </xg>
+     <xg><x>чуз-чуз кезьыт</x>
+       <xt xml:lang="fin">(kouriin)tuntuva kylmä (t. kylmyys)</xt>
+     </xg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Descr">чукыр-чакыр</l><orig>чукыр-чаʼкыр</orig>
+   </lg>
+   <mg>
+     <variants>
+       <l_syn type="&gt;">чукыр-бекыр</l_syn>
+     </variants>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Descr">чульк</l><orig>чульк</orig>
+   </lg>
+   <mg>
+     <tg xml:lang="fin">
+       <t>yhtäkkiä, äkkiä, heti, hetkessä, silmänräpäyksessä</t>
+     </tg>
+     <xg><x>пасьысь шыр чульк потӥз</x>
+       <xt xml:lang="fin">yhtäkkiä hiiri pisti päänsä ulos raosta</xt>
+     </xg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Descr">чульк-чульк</l><orig>чульк-чульк</orig>
+   </lg>
+   <mg>
+     <xg><x>йырзэ укное чульк-чульк мычылэ</x>
+       <xt xml:lang="fin">hän pistää päänsä ulos ikkunasta</xt>
+     </xg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Descr">чур<rom ind="2"/></l>
+   </lg>
+   <mg><note><i>onom.</i></note>
+     <tg xml:lang="fin">
+       <t>:</t>
+     </tg>
+     <xg><x>чур вияны</x>
+       <xt xml:lang="fin">valua (t. virrata, juosta) kapeana suihkuna (t. virtana)</xt>
+     </xg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Descr">чурт-чурт</l><orig>чарт-чурт</orig>
+   </lg>
+   <mg>
+     <tg xml:lang="fin">
+       <t>lujasti, vankasti, varmasti</t>
+     </tg>
+     <xg><x>чурт-чурт вамышъяны</x>
+       <xt xml:lang="fin">astella (t. kulkea) varmoina;</xt>
+     </xg>
+     <xg><x>куараез чурт-чурт луиз</x>
+       <xt xml:lang="fin">hänen äänensä tuli varmaksi</xt>
+     </xg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Descr">чутык</l><orig>чутык</orig>
+     <variants>
+       <l_syn>чутык-чутык</l_syn>
+     </variants>
+   </lg>
+   <mg><note><i>deskr. kuvaa ontuvan ihmisen kävelytyyliä</i></note>
+     <tg xml:lang="fin">
+       <t>:</t>
+     </tg>
+     <xg><x>чутык кошкыны</x>
+       <xt xml:lang="fin">lähteä ontuen;</xt>
+     </xg>
+     <xg><x>чутык кыльыны</x>
+       <xt xml:lang="fin">jäädä ontuvaksi (t. rammaksi)</xt>
+     </xg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Descr">чутык-чутык</l><orig>чатык-чатык</orig>
+     <variants>
+       <l_syn>чутык</l_syn>
+     </variants>
+   </lg>
+   <mg><note><i>deskr. kuvaa ontuvan ihmisen kävelytyyliä</i></note>
+     <tg xml:lang="fin">
+       <t>:</t>
+     </tg>
+     <xg><x>чутык-чутык кошкыны</x>
+       <xt xml:lang="fin">lähteä ontuen;</xt>
+     </xg>
+     <xg><x>чутык-чутык кыльыны</x>
+       <xt xml:lang="fin">jäädä ontuvaksi (t. rammaksi)</xt>
+     </xg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Descr">чыс-с-с</l><orig>чыс-с-с</orig>
+   </lg>
+   <mg><note><i>onom. kuvaa käärmeen sihinää t. sähinää</i></note>
+     <tg xml:lang="fin">
+       <t>:</t>
+     </tg>
+     <xg><x>чыс-с-с карыны</x>
+       <xt xml:lang="fin">sihistä, sähistä;</xt>
+     </xg>
+     <xg><x>кый чыс-с-с каре</x>
+       <xt xml:lang="fin">käärme sihisee (t. sähisee)</xt>
+     </xg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Descr">ӵажак</l><orig>ӵаʼжаʼк</orig>
+   </lg>
+   <mg ind="1th"><note><i>onom. kuvaa kankaan </i></note><note>(<i>t. paperin</i>)</note> <note><i>repimistä</i></note>
+     <tg xml:lang="fin">
+       <t>:</t>
+     </tg>
+     <xg><x>бумагаез ӵажак кесьыны</x>
+       <xt xml:lang="fin">repiä paperi ritisyttäen</xt>
+     </xg>
+   </mg>
+   <mg ind="2th"> <note><i>deskr.</i></note>
+     <tg xml:lang="fin">
+       <t>:</t>
+     </tg>
+     <xg><x>сюкуасьмемез ӵажак юзматыны</x>
+       <xt xml:lang="fin">sammuttaa janonsa</xt>
+     </xg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Descr">ӵаж-ӵаж</l><orig>ӵаж-ӵаж</orig>
+   </lg>
+   <mg ind="1th"> <font face="SmolenskSGR"><b>(ӵаʼж-ӵаʼж) </b></font><note><i>onom. kuvaa sahan hyrisevää, sateen kohisevaa ääntä</i></note>
+     <tg xml:lang="fin">
+       <t>:</t>
+     </tg><font face="SmolenskSGR"><b>пилаос ӵаж-ӵаж вазё</b></font>
+     <tg xml:lang="fin">
+       <t>sahat hyrisevät</t>
+     </tg>
+     <xg><x>ӵаж-ӵаж зоре</x>
+       <xt xml:lang="fin">sataa kohisten</xt>
+     </xg>
+   </mg>
+   <mg ind="2th"> <font face="SmolenskSGR"><b>(ӵаж-ӵаж) </b></font><note><i>deskr.</i></note>
+     <tg xml:lang="fin">
+       <t>:</t>
+     </tg>
+     <xg><x>ӵаж-ӵаж кезьыт сюкась юыны</x>
+       <xt xml:lang="fin">juoda hyvin kylmää kaljaa;</xt>
+     </xg>
+     <xg><x>ӵаж-ӵаж корманы</x>
+       <xt xml:lang="fin">kovasti kyhnyttää (t. kynsiä) itseään</xt>
+     </xg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Descr">ӵажыр</l><orig>ӵажыр</orig>
+   </lg>
+   <mg><note><i>onom. kuvaa kuivien havunneulasten palamisen t. kankaan repimisen ääntä</i></note>
+     <tg xml:lang="fin">
+       <t>:</t>
+     </tg>
+     <xg><x>ӵажыр карыны</x>
+       <xt xml:lang="fin">rätistä, ritistä;</xt>
+     </xg>
+     <xg><x>ӵажыр корманы</x>
+       <xt xml:lang="fin">raapia (t. kynsiä) kovasti;</xt>
+     </xg>
+     <xg><x>куро ӵажыр ӝуа</x>
+       <xt xml:lang="fin">oljet palavat ritisten</xt>
+     </xg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Descr">ӵаш</l><orig>ӵаш</orig>
+   </lg>
+   <mg><note><i>onom. kuvaa sateen kohinaa t. metsän huminaa t. (väki)joukon melua: </i></note>
+     <tg xml:lang="fin">
+       <t>kohina, kahina, humina, humu, melu, hälinä</t>
+     </tg>
+     <xg><x>ӵаш карись адями</x>
+       <xt xml:lang="fin">meluava (t. meluisa) ihminen;</xt>
+     </xg><font face="SmolenskSGR"><b>ӵаш карон</b> (<i>я. </i><b>поттон) </b></font><mwemg ind="1th"/><defNative>куашетон</defNative>
+     <tg xml:lang="fin">
+       <t>humina, humu, kahina, kohina, melu, hälinä</t>
+     </tg><font face="SmolenskSGR">2) </font><font face="SmolenskSGR">(<i>споръяськон</i>)</font>
+     <tg xml:lang="fin">
+       <t>kiista, kiistely, väittely, kinaaminen, kinastelu</t>
+     </tg><mwemg ind="3th"/><defNative>керетон</defNative>
+     <tg xml:lang="fin">
+       <t>riita, riitely, metakka, rähinä</t>
+     </tg><font face="SmolenskSGR"><b>ӵаш карыны</b> (<i>я. </i><b>поттыны) </b></font><mwemg ind="1th"/><defNative>куашетыны</defNative>
+     <tg xml:lang="fin">
+       <t>humista, kahista, kohista, meluta, hälistä</t>
+     </tg><mwemg ind="2th"/><defNative>споръяськыны</defNative>
+     <tg xml:lang="fin">
+       <t>kiistellä, väitellä, kinata, kinastella</t>
+     </tg><mwemg ind="3th"/><defNative>керетыны</defNative>
+     <tg xml:lang="fin">
+       <t>riidellä, nostaa meteli (t. metakka, rähinä)</t>
+     </tg>
+     <xg><x>нюлэскын ӵаш вазе</x>
+       <xt xml:lang="fin">metsässä humisee (t. kohisee)</xt>
+     </xg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Descr">ӵаштыр</l><orig>ӵаштыр</orig>
+   </lg>
+   <mg><note><i>onom. kuvaa lehtien t. muiden esineiden kahinaa: </i></note>
+     <tg xml:lang="fin">
+       <t>kahisten, siristen, suhisten</t>
+     </tg>
+     <xg><x>сӥзьыл куазен куаръёс ӵаштыр карыса усьыло</x>
+       <xt xml:lang="fin">syksyllä lehdet putoavat kahisten</xt>
+     </xg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Descr">ӵаштыр-ӵаштыр</l><orig>ӵаштыр-ӵаштыр</orig>
+   </lg>
+   <mg><note><i>onom. kuvaa lehtien t. muiden esineiden kahinaa</i></note>
+     <tg xml:lang="fin">
+       <t>: kahisten, siristen, suhisten</t>
+     </tg>
+     <xg><x>ӵаштыр-ӵаштыр карыны</x>
+       <xt xml:lang="fin">kahista (t. suhista, rahista) kovasti;</xt>
+     </xg>
+     <xg><x>ӵаштыр-ӵаштыр поттыны</x>
+       <xt xml:lang="fin">kahistella, rapistella, kahisuttaa, rahisuttaa;</xt>
+     </xg><font face="SmolenskSGR"><b>пыд улын куаръёс ӵаштыр-ӵаштыр вазё</b></font>
+     <tg xml:lang="fin">
+       <t>jalkojen alla lehdet kahisevat</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Descr">ӵогыр-ӵогыр</l><orig>ӵогор-ӵогыр</orig>
+   </lg>
+   <mg>
+     <variants>
+       <l_syn type="vrt0">ӵогрес; ӵогыр-ӵогыр кариськыны </l_syn>
+     </variants>
+     <tg xml:lang="fin">
+       <t>rohkaistua, rohkaista mielensä, piristyä</t>
+     </tg>
+     <xg><x>йырсиез ӵогыр-ӵогыр</x>
+       <xt xml:lang="fin">tukka on kuin parransänki (t. pystytukka, siilitukka);</xt>
+     </xg>
+     <xg><x>пелъёссэ вал ӵогыр-ӵогыр пуктэ</x>
+       <xt xml:lang="fin">hevonen nostaa korvansa pystyyn;</xt>
+     </xg>
+     <xg><x>узьым ӵогыр-ӵогыр ӝужа</x>
+       <xt xml:lang="fin">syysvilja orastaa nopeasti, syysviljat kasvavat nopeasti</xt>
+     </xg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Descr">ӵокыр-ӵокыр</l><orig>ӵокор-ӵокыр</orig>
+   </lg>
+   <mg>
+     <tg xml:lang="fin">
+       <t>karhea, rosoinen, karkea, epätasainen</t>
+       <re>pinta</re>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Descr">ӵуш-паш</l><orig>ӵуш-паш</orig>
+   </lg>
+   <mg><note><i>onom. kuvaa laahustuksen ääntä</i></note>
+     <tg xml:lang="fin">
+       <t>:</t>
+     </tg>
+     <xg><x>ӵуш-паш ветлыны</x>
+       <xt xml:lang="fin">kävellä laahaavin askelin</xt>
+     </xg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Descr">ӵуштыр</l><orig>ӵуштыр</orig>
+   </lg>
+   <mg ind="1th"><note><i>onom. kuvaa kuivien lehtien, heinän, paperin tms. kahinaa, suhinaa, rahinaa</i></note>
+     <tg xml:lang="fin">
+       <t>:</t>
+     </tg><font face="SmolenskSGR"><b>ӵуштыр карыны</b></font>
+     <variants>
+       <l_syn type="&gt;">ӵуштыртыны</l_syn>
+     </variants>
+   </mg>
+   <mg ind="2th"><pos ind="Descr"/><font face="SmolenskSGR">(<i>каллен</i>)</font>
+     <tg xml:lang="fin">
+       <t>hiljaa, hiljakseen, hiljaisesti</t>
+     </tg><font face="SmolenskSGR">(<i>калленак</i>)</font>
+     <tg xml:lang="fin">
+       <t>vähin äänin, huomaamatta, huomaattomasti</t>
+     </tg>
+     <xg><x>ӵуштыр гинэ огназ пуке</x>
+       <xt xml:lang="fin">hän istuu yksin hiljaa (t. hiljakseen)</xt>
+     </xg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Descr">ӵуш-ӵуш</l><orig>ӵуш-ӵуш</orig>
+   </lg>
+   <mg>
+     <variants>
+       <l_syn type="&gt;">ӵуш-паш</l_syn>
+     </variants>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Descr">ӵыж<rom ind="2"/></l>
+   </lg>
+   <mg><note><i>onom. kuvaa veden, öljyn t. rasvan sihisevää ääntä kuumalla paistinpannulla</i></note>
+     <tg xml:lang="fin">
+       <t>: sihinä, sähinä, pihinä</t>
+     </tg>
+     <xg><x>пӧсь табаын вӧй ӵыж вазе</x>
+       <xt xml:lang="fin">öljy sihisee kuumalla paistinpannulla</xt>
+     </xg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Descr">ӵыштыр</l><orig>ӵыштыр</orig>
+   </lg>
+   <mg><note><i>onom. kuvaa lehtien t. muiden esineiden kahinaa</i></note>
+     <tg xml:lang="fin">
+       <t>: kahisten, sihisten, suhisten</t>
+     </tg>
+     <xg><x>сӥзьыл куазен куаръёс ӵыштыр карыса усьыло</x>
+       <xt xml:lang="fin">syksyllä lehdet putoavat kahisten</xt>
+     </xg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Descr">ӵыштыр-ӵаштыр, ӵыштыр-ӵуштыр</l><orig>ӵыштыр-ӵаʼштыр, ӵыштыр- ӵаштыр</orig>
+   </lg>
+   <mg><note><i>onom. kuvaa lehtien t. muiden esineiden kahinaa</i></note>
+     <tg xml:lang="fin">
+       <t>: kahisten, sihisten, suhisten</t>
+     </tg>
+     <xg><x>ӵыштыр-ӵаштыр карыны</x>
+       <xt xml:lang="fin">kahista (t. suhista, rahista)</xt><xre>kovasti</xre>;
+     </xg>
+     <xg><x>ӵыштыр-ӵаштыр поттыны</x>
+       <xt xml:lang="fin">kahistella, rapistella kahisuttaa, rahisuttaa;</xt>
+     </xg><font face="SmolenskSGR"><b>пыд улын куаръёс ӵыштыр-ӵаштыр вазё</b></font>
+     <tg xml:lang="fin">
+       <t>lehdet kahisevat jalkojen alla</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Descr">шакыр-шакыр</l><orig>шакор-шакыр</orig>
+   </lg>
+   <mg><note><i>deskr. kuvaa pinnan t. maan karheutta t. rosoisuutta, epätasaisuutta</i></note>
+     <tg xml:lang="fin">
+       <t>:</t>
+     </tg><font face="SmolenskSGR"><b>шакыр-шакыр куасьмыны </b></font><mwemg ind="1th"/><defNative>вогыриё куасьмыны</defNative>
+     <tg xml:lang="fin">
+       <t>kuivua (t. kuivettua) karheaksi (t. epätasaiseksi)</t>
+       <re>esim. pinnan maalaamisen jälkeen</re>
+     </tg> <mwemg ind="2th"/><defNative>юн куасьмыны</defNative>
+     <tg xml:lang="fin">
+       <t>kuivua kovaksi, kuivettua</t>
+     </tg>
+     <xg><x>музъем шакыр-шакыр куасьмиз</x>
+       <xt xml:lang="fin">maaperä on kuivunut kovasti;</xt>
+     </xg>
+     <xg><x>шакыр-шакыр луыны</x>
+       <xt xml:lang="fin">karheutua, karheta</xt>
+     </xg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Descr">шалтрак</l><orig>шаʼлтраʼк</orig>
+   </lg>
+   <mg ind="1th"><note><i>onom. kuvaa puuesineiden, tyhjien metallipurkkien, sankojen, rattaiden aiheuttamaa yksittäistä vaimeaa ääntä</i></note>
+     <tg xml:lang="fin">
+       <t>: kola(hd)us, kalahdus, kopa(hd)us, jysä(hd)ys</t>
+     </tg>
+     <xg><x>пу писъёс шалтрак музъем вылэ усизы</x>
+       <xt xml:lang="fin">halot putosivat kolahtaen (t. jysähtäen) maahan</xt>
+     </xg>
+   </mg>
+   <mg ind="2th"> <range>murt.</range>
+     <tg xml:lang="fin">
+       <t>aivan, ihan</t>
+     </tg>
+     <xg><x>шалтрак буш корка</x>
+       <xt xml:lang="fin">aivan tyhjä talo</xt>
+     </xg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Descr">шалтыр</l><orig>шалтыр</orig>
+   </lg>
+   <mg ind="1th"><note><i>onom. kuvaa puuesineiden, metallipurkkien, tyhjien sankojen, rattaiden aiheuttamaa useasti toistuvaa vaimeaa ääntä</i></note>
+     <tg xml:lang="fin">
+       <t>:</t>
+     </tg><font face="SmolenskSGR"><b>шалтыр карыны </b></font><font face="SmolenskSGR">(<i>маке</i>)</font>
+     <tg xml:lang="fin">
+       <t>kolista</t>
+     </tg><font face="SmolenskSGR">(<i>маин ке</i>)</font>
+     <tg xml:lang="fin">
+       <t>kolisuttaa, kolistaa</t>
+     </tg>
+     <xg><x>ведра шалтыр карыса музъем вылэ усиз</x>
+       <xt xml:lang="fin">sanko putosi kolisten maahan;</xt>
+     </xg>
+     <xg><x>бодыен палисадник борды шалтыр карыны</x>
+       <xt xml:lang="fin">kolistaa kepillä kukkatarhan aitaa;</xt>
+     </xg>
+     <xg><x>шалтыр поттыны</x>
+       <xt xml:lang="fin">kolisuttaa, kolistaa</xt>
+     </xg>
+   </mg>
+   <mg ind="2th"> <pos ind="Descr"/><font face="SmolenskSGR">(<i>туж умой</i>)</font>
+     <tg xml:lang="fin">
+       <t>kovin (t. oikein) hyvin</t>
+     </tg>
+     <xg><x>удмурт кылын шалтыр вераськыны</x>
+       <xt xml:lang="fin">puhua hyvin (t. sujuvasti) udmurttia</xt>
+     </xg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Descr">шалтыр-шалтыр</l><orig>шалтыр-шалтыр</orig>
+   </lg>
+   <mg ind="1th"><note><i>onom. kuvaa puuesineiden, metallipurkkien, tyhjien sankojen, rattaiden aiheuttamaa useasti toistuvaa vaimeaa ääntä</i></note>
+     <tg xml:lang="fin">
+       <t>:</t>
+     </tg>
+     <xg><x>шалтыр-шалтыр карыса буш уробоен кошкизы</x>
+       <xt xml:lang="fin">he lähtivät kolistellen tyhjillä rattailla</xt>
+     </xg>
+   </mg>
+   <mg ind="2th"> <range>murt.</range>
+     <tg xml:lang="fin">
+       <t>aivan, ihan</t>
+     </tg>
+     <xg><x>корка пушсы шалтыр-шалтыр буш</x>
+       <xt xml:lang="fin">heidän talonsa sisäpuoli on aivan tyhjä</xt>
+     </xg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Descr">шальк</l><orig>шальк</orig>
+   </lg>
+   <mg><note><i>onom. kuvaa säpin t. linkun sulkemisen, paukutuksen t. paukkeen ääntä</i></note>
+     <tg xml:lang="fin">
+       <t>:</t>
+     </tg>
+     <xg><x>шальк карыны</x>
+       <xt xml:lang="fin">kolista, kalista, kopista, paukkua;</xt>
+     </xg>
+     <xg><x>капка пуннет шальк ворсаськиз</x>
+       <xt xml:lang="fin">portin linkku sulkeutui (t. meni kiinni) kolisten</xt>
+     </xg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Descr">шальк-шальк</l><orig>шаʼльк-шальк</orig>
+   </lg>
+   <mg>
+     <tg xml:lang="fin">
+       <t>niin kuin valikoituja</t>
+     </tg>
+     <xg><x>шальк-шальк тӧдьы парсьпиос</x>
+       <xt xml:lang="fin">valkoiset porsaat ovat isoja niin kuin olisivat varta vasten valikoituja;</xt>
+     </xg>
+     <xg><x>шальк-шальк чебер картофка</x>
+       <xt xml:lang="fin">perunat ovat suuria niin kuin olisivat varta vasten valikoituja</xt>
+     </xg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Descr">шальтрак</l><orig>шаʼльтраʼк</orig>
+   </lg>
+   <mg ind="1th"><note><i>onom. kuvaa metalli- t. puuesineiden, rattaiden aiheuttamaa yksittäistä heleää ääntä</i></note>
+     <tg xml:lang="fin">
+       <t>: helähdys, kilahdus</t>
+     </tg>
+     <xg><x>выж вылэ маке шальтрак усиз</x>
+       <xt xml:lang="fin">jokin putosi lattialle kilahtaen</xt>
+     </xg>
+   </mg>
+   <mg ind="2th"> <note><i>deskr. kuvaa odottamatonta heikkoutta</i></note>
+     <tg xml:lang="fin">
+       <t>:</t>
+     </tg>
+     <xg><x>шальтрак луыны</x>
+       <xt xml:lang="fin">tulla voimattomaksi, heiketä, nääntyä, uupua;</xt>
+     </xg>
+     <xg><x>пыдъёсы шальтрак луизы</x>
+       <xt xml:lang="fin">jalat herpaantuivat odottamattomasti (t. äkkiarvaamattomasti)</xt>
+     </xg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Descr">шальт-шальт</l><orig>шальт-шальт</orig>
+   </lg>
+   <mg><note><i>onom. kuvaa metalliesineiden (kolikkojen, metallikorujen tms.) jaksoittain toistuvaa heleää ääntä</i></note>
+     <tg xml:lang="fin">
+       <t>:</t>
+     </tg><font face="SmolenskSGR"><b>шальт-шальт карыны </b></font><font face="SmolenskSGR">(<i>маке</i>)</font>
+     <tg xml:lang="fin">
+       <t>helistä, helkkyä, helskyä, kilistä</t>
+     </tg> <font face="SmolenskSGR">(<i>маин ке</i>)</font>
+     <tg xml:lang="fin">
+       <t>helistää, helistellä, kilistää</t>
+     </tg>
+     <xg><x>чигвесез шальт-шальт каре</x>
+       <xt xml:lang="fin">hänen kaulakorunsa helisee</xt>
+     </xg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Descr">шальтыр</l><orig>шальтыр</orig>
+   </lg>
+   <mg ind="1th"><note><i>onom. kuvaa metalliesineiden (esim. kolikkojen) t. pienten puuesineiden useasti toistuvaa heleää ääntä</i></note>
+     <tg xml:lang="fin">
+       <t>: helinä, kilinä</t>
+     </tg>
+   </mg>
+   <mg ind="2th">
+     <variants>
+       <l_syn type="&gt;">шалтыр<rom ind="0_2"/></l_syn>
+     </variants>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Descr">шап<rom ind="1"/></l>
+   </lg>
+   <mg><note><i>onom. kuvaa pisaran t. tipan tippumista ropisten</i></note>
+     <tg xml:lang="fin">
+       <t>:</t>
+     </tg>
+     <xg><x>ву шап! усиз</x>
+       <xt xml:lang="fin">pisara tippui ropisten</xt>
+     </xg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Descr">шап-шап<rom ind="1"/></l>
+   </lg>
+   <mg><note><i>onom. kuvaa pisaroiden t. tippojen tippumista ropisten</i></note>
+     <tg xml:lang="fin">
+       <t>: tipoittain, pisaroittain</t>
+     </tg>
+     <xg><x>ву шап-шап вия</x>
+       <xt xml:lang="fin">vesi valuu (t. tippuu) pisaroittain</xt>
+     </xg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Descr">шапыр</l><orig>шапыр</orig>
+   </lg>
+   <mg><note><i>onom. ja deskr. kuvaa pisaroiden t. tippojen tippumista jnk pinnalle (esim. lehdille)</i></note>
+     <tg xml:lang="fin">
+       <t>:</t>
+     </tg>
+     <xg><x>зор шапыр вия</x>
+       <xt xml:lang="fin">sadepisarat tippuvat ropisten;</xt>
+     </xg>
+     <xg><x>синвуэз шапыр вия</x>
+       <xt xml:lang="fin">kyyneleet juoksevat (t. tippuvat) virtanaan</xt>
+     </xg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Descr">шапыр-шапыр</l><orig>шапор-шапыр</orig>
+   </lg>
+   <mg>
+     <variants>
+       <l_syn type="&gt;">шапыр</l_syn>
+     </variants>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Descr">шар<rom ind="2"/></l>
+   </lg>
+   <mg>
+     <xg><x>синвуосыз шар васько</x> <x>синвуосыз шар вияло</x>
+       <xt xml:lang="fin">kyyneleet juoksevat (t. vuotavat, valuvat) virtanaan</xt>
+     </xg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Descr">шаркак</l><orig>шаʼркаʼк</orig>
+   </lg>
+   <mg>
+     <variants>
+       <l_syn type="&gt;">шарк</l_syn>
+     </variants>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Descr">шарк-шарк</l><orig>шарк-шарк</orig>
+   </lg>
+   <mg><note><i>onom. kuvaa kovaan pintaan vasaralla, sauvalla tms. lyömisestä syntyvää vaimeaa toistuvaa ääntä</i></note>
+     <tg xml:lang="fin">
+       <t>: kolahtelu, kolautus, koputus, naputus</t>
+     </tg>
+     <xg><x>молотэн шарк-шарк йыганы</x>
+       <xt xml:lang="fin">kolautella vasaralla;</xt>
+     </xg>
+     <xg><x>сӥзь шарк-шарк йыга</x>
+       <xt xml:lang="fin">tikka koputtaa puuta: kop-kop</xt>
+     </xg>◊
+     <xg><x>шарк-шарк ветлыны</x>
+       <xt xml:lang="fin">laahustaa, kävellä laahaavin askelin</xt>
+     </xg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Descr">шатыр</l><orig>шатыр</orig>
+   </lg>
+   <mg ind="1th"><note><i>onom. kuvaa sateen, raesateen, naulojen, metalliesineiden tiheää putoilua katolle t. muille pinnoille </i></note><note>(<i>erityisesti peltipinnoille</i>)</note>
+     <tg xml:lang="fin">
+       <t>: ropina</t>
+     </tg><font face="SmolenskSGR"><b>шатыр карыны </b></font><font face="SmolenskSGR">(<i>маке</i>)</font>
+     <tg xml:lang="fin">
+       <t>ropista</t>
+     </tg><font face="SmolenskSGR">(<i>маин ке</i>)</font>
+     <tg xml:lang="fin">
+       <t>ropisuttaa</t>
+     </tg>
+     <xg><x>зор липетэз шатыр каре</x>
+       <xt xml:lang="fin">sade ropisuttaa kattoa;</xt>
+     </xg>
+     <xg><x>шатыр поттыны</x>
+       <xt xml:lang="fin">ropisuttaa;</xt>
+     </xg>
+     <xg><x>йӧ шатыр усе липет вылэ</x>
+       <xt xml:lang="fin">rakeet ropisevat kattoon</xt>
+     </xg>
+   </mg>
+   <mg ind="2th"> <pos ind="Descr"/><font face="SmolenskSGR">(<i>туж умой</i>)</font>
+     <tg xml:lang="fin">
+       <t>kovin (t. oikein) hyvin</t>
+     </tg>
+     <xg><x>удмурт кылын шатыр вераськыны</x>
+       <xt xml:lang="fin">puhua hyvin (t. sujuvasti) udmurttia;</xt>
+     </xg>
+     <xg><x>шатыр гинэ лыдӟе</x>
+       <xt xml:lang="fin">lukea selvästi (t. kompastelematta)</xt>
+     </xg>◊
+     <xg><x>сюлэм шатыр каре</x>
+       <xt xml:lang="fin">olla huolissaan (t. huolestunut), touhuta, hätäillä</xt>
+     </xg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Descr">шач</l><orig>шач</orig>
+   </lg>
+   <mg><note><i>onom. kuvaa hutkimisen, pieksemisen ääntä </i></note><note>(<i>esim. piiskalla, ruoskalla</i>)</note>
+     <tg xml:lang="fin">
+       <t>:</t>
+     </tg>
+     <xg><x>шач шуккылыны</x>
+       <xt xml:lang="fin">piestä, ruoskia, piiskata, hutkia, suomia</xt>
+     </xg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Descr">шенгыль-печкыль</l><orig>шенгыль-печкыль</orig>
+   </lg>
+   <mg><note><i>deskr.</i></note>
+     <tg xml:lang="fin">
+       <t>:</t>
+     </tg><font face="SmolenskSGR"><b>шенгыль-печкыль вераськыны</b></font>
+     <variants>
+       <l_syn type="&gt;">шенглес вераськыны</l_syn>
+     </variants>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Descr">шерык-вайык</l><orig>шерык-ваʼйык</orig>
+   </lg>
+   <mg><note><i>deskr.</i></note>
+     <tg xml:lang="fin">
+       <t>:</t>
+     </tg>
+     <xg><x>шерык-вайык ветлыны</x>
+       <xt xml:lang="fin">huojahdella kävellessään;</xt>
+     </xg>
+     <xg><x>шерык-вайык вырыны</x>
+       <xt xml:lang="fin">käyttäytyä rivosti (t. törkeästi)</xt>
+     </xg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Descr">шильк-шальк</l><orig>шильк-шальк</orig>
+   </lg>
+   <mg><note><i>onom. kuvaa </i></note><note>(<i>ensisijaisesti metalliesineiden</i>)</note> <note><i>vaihtelevaa kalinaa, kalistelua, kolistelua</i></note>
+     <tg xml:lang="fin">
+       <t>:</t>
+     </tg><font face="SmolenskSGR"><b>шильк-шальк карыны </b></font><font face="SmolenskSGR">(<i>маке</i>)</font>
+     <tg xml:lang="fin">
+       <t>kalista, kilistä</t>
+     </tg><font face="SmolenskSGR">(<i>маин ке</i>)</font>
+     <tg xml:lang="fin">
+       <t>kalistaa, kalistella</t>
+     </tg>
+     <xg><x>ӧсэз шильк-шальк йыганы</x>
+       <xt xml:lang="fin">panna ovi kiinni kilauttaen</xt><xre>esim. panna säppiin</xre>
+     </xg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Descr">шильтыр</l><orig>шильтыр</orig>
+   </lg>
+   <mg><note><i>onom. kuvaa pienten metalliesineiden kilinää, kalinaa, kalistelua: </i></note><font face="SmolenskSGR"><b>шильтыр карыны </b></font><font face="SmolenskSGR">(<i>маке</i>)</font>
+     <tg xml:lang="fin">
+       <t>kilistä, kilahdella, helistä</t>
+     </tg><font face="SmolenskSGR">(<i>маин ке</i>)</font>
+     <tg xml:lang="fin">
+       <t>kilistää, kilistellä, helistää, helistellä</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Descr">шир</l><orig>шир</orig>
+   </lg>
+   <mg><note><i>deskr. kuvaa esineen pyörimistä nopeasti t. vauhdikkaasti</i></note>
+     <tg xml:lang="fin">
+       <t>:</t>
+     </tg>
+     <xg><x>шир берганы</x>
+       <xt xml:lang="fin">pyöriä nopeasti (t. vauhdikkaasti)</xt>
+     </xg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Descr">шлӥч-шлач</l><orig>шлӥч-шлач</orig>
+   </lg>
+   <mg><note><i>onom. kuvaa parittaisen läimäytyksen (t. lätkäytyksen, piiskan sivalluksen) ääntä</i></note>
+     <tg xml:lang="fin">
+       <t>:</t>
+     </tg>
+     <xg><x>шлӥч-шлач шуккылыны</x>
+       <xt xml:lang="fin">(lyödä) läimäytellä, lyödä läiskiä, lätkäytellä, läiskäytellä</xt>
+     </xg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Descr">шок-поль</l><orig>шок-поль</orig>
+   </lg>
+   <mg><note><i>deskr.</i></note>
+     <tg xml:lang="fin">
+       <t>:</t>
+     </tg>
+     <xg><x>шок-поль потыны</x>
+       <xt xml:lang="fin">alkaa olla hengästyksissään, hengästyä;</xt>
+     </xg>
+     <xg><x>шок-поль шоканы</x>
+       <xt xml:lang="fin">olla hengästyksissään</xt>
+     </xg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Descr">шок-пуль</l><orig>шок-пуль</orig>
+   </lg>
+   <mg>
+     <variants>
+       <l_syn type="&gt;">шок-поль</l_syn>
+     </variants>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Descr">шонӥ-панӥ</l><orig>шонӥ-паʼнӥ</orig>
+   </lg>
+   <mg><note><i>deskr.</i></note>
+     <tg xml:lang="fin">
+       <t>:</t>
+     </tg>
+     <xg><x>шонӥ-панӥ мурт</x>
+       <xt xml:lang="fin">huikenteleva (t. kevytmielinen, pinnallinen, epävakaa) ihminen;</xt>
+     </xg>
+     <xg><x>шонӥ-панӥ ветлыны</x>
+       <xt xml:lang="fin">kulkea löntystäen; löntystää, kävellä hoippuen (t. horjuen, hoiperrellen)</xt>
+     </xg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Descr">шӧнгыль-печкыль</l><orig>шӧнгыль-печкыль</orig>
+   </lg>
+   <mg>
+     <variants>
+       <l_syn type="&gt;">шенгыль-печкыль</l_syn>
+     </variants>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Descr">шук-шак</l><orig>шук-шак</orig>
+   </lg>
+   <mg><note><i>deskr.</i></note>
+     <tg xml:lang="fin">
+       <t>:</t>
+     </tg><font face="SmolenskSGR">(<i>дыртӥт-вуттӥт</i>)</font>
+     <tg xml:lang="fin">
+       <t>kiireessä, hätäpäissään; kiireesti, hätäisesti; huitaisten</t>
+     </tg>
+     <xg><x>шук-шак вырыны</x>
+       <xt xml:lang="fin">touhuta, hyöriä;</xt>
+     </xg>
+     <xg><x>шук-шак лэсьтыны</x>
+       <xt xml:lang="fin">tehdä kiireessä (t. hätäpäissään, kiireesti);</xt>
+     </xg>
+     <xg><x>уж шук-шак лэсьтэмын</x>
+       <xt xml:lang="fin">työ on tehty kiireessä (t. huitaisten)</xt>
+     </xg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Descr">шук-шук</l><orig>шак-шук</orig>
+   </lg>
+   <mg><note><i>deskr.</i></note>
+     <tg xml:lang="fin">
+       <t>:</t>
+     </tg>
+     <xg><x>шук-шук бӧрдыны</x>
+       <xt xml:lang="fin">itkeä hillittömästi;</xt>
+     </xg>
+     <xg><x>шук-шук луыны</x>
+       <xt xml:lang="fin">uupua, nääntyä, tulla voimattomaksi;</xt>
+     </xg>
+     <xg><x>ымнырыз шук-шук луиз</x>
+       <xt xml:lang="fin">hänen kasvonsa kalpenivat</xt>
+     </xg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Descr">шукыр-букыр</l><orig>шукыр-букыр</orig>
+   </lg>
+   <mg><note><i>deskr.</i></note>
+     <tg xml:lang="fin">
+       <t>:</t>
+     </tg><font face="SmolenskSGR"><b>шукыр-букыр вырыны </b></font><mwemg ind="1th"/><defNative>огыр-бугыр вырыны</defNative>
+     <tg xml:lang="fin">
+       <t>olla</t>
+     </tg>
+     <tg xml:lang="fin">
+       <t>huolissaan (t. huolestunut, levoton)</t>
+     </tg>
+     <xg><x>калык шукыр-букыр выре</x>
+       <xt xml:lang="fin">yleisö liikehtii levottomana</xt>
+     </xg><mwemg ind="2th"/><defNative>лӧптэм мылкыдо луыны</defNative>
+     <tg xml:lang="fin">
+       <t>käyttäytyä kiihtyneesti</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Descr">шул-шул</l><orig>шал-шул</orig>
+   </lg>
+   <mg><note><i>deskr.</i></note>
+     <tg xml:lang="fin">
+       <t>:</t>
+     </tg>
+     <xg><x>шул-шул луыны</x>
+       <xt xml:lang="fin">kalveta, tulla kalpeaksi;</xt>
+     </xg>
+     <xg><x>курдаса шул-шул</x>
+       <xt xml:lang="fin">kalveta pelosta</xt>
+     </xg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Descr">шуль</l><orig>шуль</orig>
+   </lg>
+   <mg>
+     <tg xml:lang="fin">
+       <t>märkä, kostea</t>
+       <re>lumi, tie</re>;
+     </tg>
+     <xg><x>шуль лымы</x>
+       <xt xml:lang="fin">räntä</xt>
+     </xg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Descr">шур<rom ind="2"/></l>
+   </lg>
+   <mg><note><i>onom. kuvaa lintujen siipien räpyttämisen aiheuttamaa ääntä </i></note>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Descr">шур-р-р</l><orig>шур-р-р</orig>
+   </lg>
+   <mg>
+     <variants>
+       <l_syn type="&gt;">шур<rom ind="2"/></l_syn>
+     </variants>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Descr">шылтыр-шалтыр</l><orig>шылтыр-шаʼлтыр</orig>
+   </lg>
+   <mg><note><i>onom. kuvaa puuesineiden, metallipurkkien, tyhjien sankojen, rattaiden aiheuttamaa useasti toistuvaa vaimeaa ääntä</i></note>
+     <tg xml:lang="fin">
+       <t>:</t>
+     </tg><font face="SmolenskSGR"><b>шылтыр-шалтыр карыны </b></font><font face="SmolenskSGR">(<i>маке</i>)</font>
+     <tg xml:lang="fin">
+       <t>kolista</t>
+     </tg><font face="SmolenskSGR">(<i>маин ке</i>)</font>
+     <tg xml:lang="fin">
+       <t>kolisuttaa, kolistaa</t>
+     </tg>
+     <xg><x>ведра шылтыр-шалтыр карыса музъем вылэ усиз</x>
+       <xt xml:lang="fin">sanko putosi kolisten maahan;</xt>
+     </xg>
+     <xg><x>палисадникез бодыен шылтыр-шалтыр карыны</x>
+       <xt xml:lang="fin">kolistaa kepillä kukkatarhan aitaan</xt>
+     </xg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Descr">шыльтыр-шальтыр</l><orig>шыльтыр-шаʼльтыр</orig>
+   </lg>
+   <mg ind="1th"><note><i>onom. kuvaa lasi- ja metalliastioiden, metalliesineiden, kaulakorun rahojen helinää, kilinää</i></note>
+     <tg xml:lang="fin">
+       <t>:</t>
+     </tg>
+     <xg><x>уксё тӥрлык шыльтыр-шальтыр каре</x>
+       <xt xml:lang="fin">kaulakoru helisee (t. kilisee)</xt>
+     </xg>
+   </mg>
+   <mg ind="2th"> <pos ind="Descr"/><font face="SmolenskSGR">(<i>вырись, кылясь</i>)</font>
+     <tg xml:lang="fin">
+       <t>liikkuva, huojuva, horjuva</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Descr">шыпыр</l><orig>шыпыр</orig>
+   </lg>
+   <mg><note><i>onom. kuvaa pisaroiden t. tippojen tippumista </i></note><note>(<i>esim. lehdille</i>)</note><note><i>, kuiskaten puhumista</i></note>
+     <tg xml:lang="fin">
+       <t>:</t>
+     </tg>
+     <xg><x>зор шыпыр вия</x>
+       <xt xml:lang="fin">sadepisarat tippuvat ropisten;</xt>
+     </xg>
+     <xg><x>шыпыр вераськыны</x>
+       <xt xml:lang="fin">puhua kuiskaten, kuiskailla</xt>
+     </xg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Descr">шытыр-шатыр</l><orig>шытыр-шаʼтыр</orig>
+   </lg>
+   <mg><note><i>onom. kuvaa hiirten jyvän jyrsimisen t. nakertamisen ääntä</i></note>
+     <tg xml:lang="fin">
+       <t>:</t>
+     </tg>
+     <xg><x>шыръёс шытыр-шатыр потто</x>
+       <xt xml:lang="fin">hiiret ripisevät</xt>
+     </xg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Descr">шыч-шач</l><orig>шыч-шач</orig>
+   </lg>
+   <mg><note><i>onom. kuvaa piiskalla t. ruoskalla läimäyttämisen, korvapuustin antamisen ääntä ja viikatteen viuhuntaa niitettäessä</i></note>
+     <tg xml:lang="fin">
+       <t>:</t>
+     </tg><font face="SmolenskSGR"><b>кусоос шыч-шач вазё</b></font>
+     <tg xml:lang="fin">
+       <t>viikatteet viuhuvat</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Descr">юз</l><orig>юз</orig>
+   </lg>
+   <mg>
+     <tg xml:lang="fin">
+       <t>raikas, viileä, vilpoinen</t>
+     </tg>
+     <xg><x>юз кезьыт ву юыны</x>
+       <xt xml:lang="fin">juoda raikkaan kylmää vettä;</xt>
+     </xg>
+     <xg><x>тыысь юз лыктэ</x> <x>тыысь юз ыртэ</x>
+       <xt xml:lang="fin">järveltä alkoi huokua viileää, järveltä huokuu viileyttä;</xt>
+     </xg>
+     <xg><x>куазь юз луиз</x>
+       <xt xml:lang="fin">sää alkoi olla viileä (t. vilpoinen), sää muuttui viileäksi (t. vilpoiseksi)</xt>
+     </xg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Descr">юз-юз</l><orig>юʼз-юз</orig>
+   </lg>
+   <mg>
+     <variants>
+       <l_syn type="&gt;">юз</l_syn>
+     </variants>
+   </mg>
+</e>
 </r>

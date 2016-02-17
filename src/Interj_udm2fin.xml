@@ -34,4 +34,861 @@
    </mg>
 </e>
 <e> <lg><l pos="Interj">возем<rom ind="2"/></l> <range>murt.</range></lg> <mg><defNative>ӟеч лу</defNative> <tg xml:lang="fin"> <t>näkemiin!</t> </tg> </mg> </e>
+<e>
+   <lg>
+     <l pos="Interj">чале</l><orig>чаʼле</orig>
+     <variants>
+       <l_syn>чалелэ</l_syn>
+     </variants>
+   </lg>
+   <mg>
+     <tg xml:lang="fin">
+       <t>tulkaa</t>
+       <re>käsky tulla puhujan suuntaan</re>;
+     </tg>
+     <xg><x>чале татчы!</x>
+       <xt xml:lang="fin">tulkaa tänne</xt>
+     </xg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Interj">чалелэ</l><orig>чаʼлелэ</orig>
+     <variants>
+       <l_syn>чале</l_syn>
+     </variants>
+   </lg>
+   <mg>
+     <tg xml:lang="fin">
+       <t>tulkaa</t>
+       <re>käsky tulla puhujan suuntaan</re>;
+     </tg>
+     <xg><x>чалелэ татчы!</x>
+       <xt xml:lang="fin">tulkaa tänne</xt>
+     </xg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Interj">чиге-чиге</l><orig>чиге-чиге</orig>
+   </lg>
+   <mg><note><i>huudahdus</i></note>
+     <tg xml:lang="fin">
+       <t>,</t>
+     </tg><note><i>jolla kutsutaan lampaita</i></note>
+     <tg xml:lang="fin">
+       <t></t>
+     </tg>
+     <variants>
+       <l_syn type="&gt;">быле-быле</l_syn>
+     </variants>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Interj">чур<rom ind="3"/></l>
+   </lg>
+   <mg><note><i>last.</i></note>
+     <tg xml:lang="fin">
+       <t>:</t>
+     </tg><font face="SmolenskSGR"><b>чур, мон нырысез </b></font><pos ind="Interj"/>
+     <tg xml:lang="fin">
+       <t>apus minä ensin</t>
+     </tg>
+     <xg><x>чур карыны</x>
+       <xt xml:lang="fin">haluta välttää etsijäksi joutuminen</xt><xre>peleissä, esim. hippasilla, sokkosilla</xre>
+     </xg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Interj">ыш-ыш</l><orig>ыш-ыш</orig>
+     <variants>
+       <l_syn>ыш-ыш-ыш</l_syn>
+     </variants>
+   </lg>
+   <mg><note><i>interj.</i></note><range>puhek.</range>
+     <tg xml:lang="fin">
+       <t>huh, huh</t>
+       <re>kylmän tunteesta</re>;
+     </tg>
+     <xg><x>ыш-ыш, кынмисько</x>
+       <xt xml:lang="fin">huh, kun on kylmä;</xt>
+     </xg>
+     <xg><x>ыш-ыш, туж кезьыт</x>
+       <xt xml:lang="fin">huh, onpas kylmä;</xt>
+     </xg>
+     <xg><x>педлон ыш-ыш</x>
+       <xt xml:lang="fin">ulkona on kylmä (t. kolea)</xt>
+     </xg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Interj">ыш-ыш-ыш</l><orig>ыш-ыш-ыш</orig>
+     <variants>
+       <l_syn>ыш-ыш</l_syn>
+     </variants>
+   </lg>
+   <mg><note><i>interj.</i></note><range>puhek.</range>
+     <tg xml:lang="fin">
+       <t>huh, huh</t>
+       <re>kylmän tunteesta</re>;
+     </tg>
+     <xg><x>ыш-ыш-ыш, кынмисько</x>
+       <xt xml:lang="fin">huh, kun on kylmä;</xt>
+     </xg>
+     <xg><x>ыш-ыш-ыш, туж кезьыт</x>
+       <xt xml:lang="fin">huh, onpas kylmä;</xt>
+     </xg>
+     <xg><x>педлон ыш-ыш-ыш</x>
+       <xt xml:lang="fin">ulkona on kylmä (t. kolea)</xt>
+     </xg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Interj">э</l><orig>э</orig>
+   </lg>
+   <mg><note><i>ilmaisee ihmettelyä, ihastusta, sääliä tms.</i></note>
+     <tg xml:lang="fin">
+       <t>: ah, oi, voi, oh; ai, kas</t>
+     </tg>
+     <xg><x>э, кыӵе жаль потэ со мыным</x>
+       <xt xml:lang="fin">oi, miten minun on häntä sääli;</xt>
+     </xg>
+     <xg><x>э, кыӵе чебер куазед!</x>
+       <xt xml:lang="fin">voi, miten kaunis on ilma (t. sää)!;</xt>
+     </xg>
+     <xg><x>э, кыӵе эктэ нош со!</x>
+       <xt xml:lang="fin">voi, miten kauniisti (t. kovasti) hän tanssiikaan!;</xt>
+     </xg>
+     <xg><x>э, тон ук со вылэмед</x>
+       <xt xml:lang="fin">ai (t. kas), sinäkö siinä oletkin;</xt>
+     </xg>
+     <xg><x>э, янгыш лэсьтоно ӧй вал</x>
+       <xt xml:lang="fin">oh, ei pitänyt erehtyä (t. tehdä virhettä)</xt>
+     </xg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Interj">эй</l><orig>эй</orig>
+   </lg>
+   <mg>
+     <tg xml:lang="fin">
+       <t>hei, hoi</t>
+     </tg>
+     <xg><x>эй, кин со отын?</x>
+       <xt xml:lang="fin">hei, kuka siellä?</xt>
+     </xg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Interj">эк</l><orig>эк</orig>
+   </lg>
+   <mg><note><i>ilmaisee ihmettelyä, ihastusta, sääliä, moitetta, pahoittelua, kivun tunnetta tms.</i></note>
+     <tg xml:lang="fin">
+       <t>voi, oi, oijoi</t>
+     </tg>
+     <xg><x>эк, кыӵе жаль!</x>
+       <xt xml:lang="fin">voi, miten sääli!;</xt>
+     </xg>
+     <xg><x>эк, пие!</x>
+       <xt xml:lang="fin">voi poikani!</xt>
+     </xg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Interj">эк-ек-ек</l><orig>эк-ек-ек</orig>
+   </lg>
+   <mg><note><i>ilmaisee pahoittelua, mielipahaa, moitetta: </i></note>
+     <tg xml:lang="fin">
+       <t>voi voi, oi voi</t>
+     </tg>
+     <xg><x>эк-ек-ек, кыӵе жаль!</x>
+       <xt xml:lang="fin">voi voi, miten sääli!</xt>
+     </xg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Interj">э-э</l><orig>э-э</orig>
+   </lg>
+   <mg><note><i>ilmaisee ihmettelyä, ihastusta, sääliä, moitetta, pahoittelua tms.</i></note>
+     <tg xml:lang="fin">
+       <t>: voi, hei, äh</t>
+     </tg>
+     <xg><x>э-э, инмаре-куазе!</x>
+       <xt xml:lang="fin">voi herra jumala!, voi hyvä luoja!</xt>
+     </xg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Interj">бле-бле</l><orig>бле-бле</orig>
+   </lg>
+   <mg><note><i>huudahdus, jolla kutsutaan lampaita</i></note>
+     <tg xml:lang="fin">
+       <t></t>
+     </tg>
+     <variants>
+       <l_syn type="&gt;">быле-быле, чиге-чиге</l_syn>
+     </variants>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Interj">быле-быле</l><orig>быле-быле</orig>
+   </lg>
+   <mg><note><i>huudahdus, jolla kutsutaan lampaita</i></note>
+     <tg xml:lang="fin">
+       <t></t>
+     </tg>
+     <variants>
+       <l_syn type="&gt;">чиге-чиге</l_syn>
+     </variants>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Interj">вераським</l>
+   </lg>
+   <mg>
+     <tg xml:lang="fin">
+       <t>sovittu!</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Interj">дӥго-дӥго</l><orig>дӥго-дӥго</orig>
+   </lg>
+   <mg><note><i>kutsuhuuto hanhille</i></note>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Interj">кыш</l><orig>кыш</orig>
+   </lg>
+   <mg>
+     <tg xml:lang="fin">
+       <t>hus, hys</t>
+       <re>lintujen karkoitushuudahdus</re>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Interj">ме</l><orig>ме</orig>
+   </lg>
+   <mg>
+     <tg xml:lang="fin">
+       <t>(kas) tässä!, noh!, ota!</t>
+     </tg>
+     <xg><x>ме, басьты!</x>
+       <xt xml:lang="fin">noh, ota nyt!</xt>
+     </xg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Interj">ну<rom ind="1"/></l>
+   </lg>
+   <mg><note><i>interj.</i></note><range>puhek.</range>
+     <tg xml:lang="fin">
+       <t>no(h), noo</t>
+     </tg><font face="SmolenskSGR">(<i>ну бен</i>)</font>
+     <tg xml:lang="fin">
+       <t>no (kylläpä)</t>
+     </tg>
+     <xg><x>ну бен куазь зоре ук туннэ!</x>
+       <xt xml:lang="fin">no kylläpä sataa vettä tänään</xt>
+     </xg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Interj">ой</l><orig>ой</orig>
+   </lg>
+   <mg>
+     <tg xml:lang="fin">
+       <t>oi, voi</t>
+     </tg>
+     <xg><x>ой, кыӵе чебер!</x>
+       <xt xml:lang="fin">oi, kuinka kaunista!;</xt>
+     </xg>
+     <xg><x>ой-ой, кыӵе вӧсь!</x>
+       <xt xml:lang="fin">oijoi (t. voi voi, oi oi) miten sattuu (t. koskee)!</xt>
+     </xg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Interj">ойдолэ</l><orig>оʼйдолэ</orig>
+   </lg>
+   <mg><note><i>käytetään vain useita ihmisiä kehotettaessa</i></note>
+     <tg xml:lang="fin">
+       <t>:</t>
+     </tg>
+   <mg ind="1th"/>
+     <tg xml:lang="fin">
+       <t>mennään, mentiin, lähdetään, lähdettiin; tulkaa; tullaan</t>
+     </tg>
+     <xg><x>ойдолэ пыласькыны</x>
+       <xt xml:lang="fin">mennään uimaan;</xt>
+     </xg>
+     <xg><x>ойдолэ татчы</x>
+       <xt xml:lang="fin">tullaan tänne; tulkaa tänne</xt>
+     </xg>
+   </mg>
+   <mg ind="2th">
+     <tg xml:lang="fin">
+       <t>(no) ruvetaan(pas)</t>
+     </tg><note><i>käännetään</i></note>
+     <tg xml:lang="fin">
+       <t>(no)</t>
+     </tg><note><i>+ passiivi</i></note>
+     <tg xml:lang="fin">
+       <t>+</t>
+     </tg><note><i>=pas / =päs-sanayhtymällä</i></note>
+     <tg xml:lang="fin">
+       <t></t>
+     </tg>
+     <xg><x>ойдолэ кырӟалом(е)</x> <x>ойдолэ кырӟаломы</x>
+       <xt xml:lang="fin">ruvetaan(pas) laulamaan</xt>
+     </xg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Interj">олӥ-и</l><orig>олӥ-и</orig>
+     <variants>
+       <l_syn>олӥ-олӥ</l_syn>
+     </variants>
+   </lg>
+   <mg><note><i>ilmaisee ihmettelyä t. surkuttelua</i></note>
+     <tg xml:lang="fin">
+       <t>: oi, voi</t>
+     </tg>
+     <xg><x>олӥ-и, штаниед кыӵе наштаськем!</x>
+       <xt xml:lang="fin">voi voi, miten housusi ovat likaantuneet!</xt>
+     </xg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Interj">олӥ-олӥ</l><orig>оʼлӥ-олӥʼ</orig>
+     <variants>
+       <l_syn>олӥ-и</l_syn>
+     </variants>
+   </lg>
+   <mg><note><i>ilmaisee ihmettelyä t. surkuttelua</i></note>
+     <tg xml:lang="fin">
+       <t>: oi, voi</t>
+     </tg>
+     <xg><x>олӥ-олӥ, штаниед кыӵе наштаськем!</x>
+       <xt xml:lang="fin">voi voi, miten housusi ovat likaantuneet!</xt>
+     </xg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Interj">олле</l><orig>оʼлле</orig>
+   </lg>
+   <mg><range>puhek.</range>
+     <variants>
+       <l_syn type="&gt;">ойдолэ</l_syn>
+     </variants>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Interj">олошай</l><orig>олошай</orig>
+   </lg>
+   <mg><note><i>ark.</i></note>
+     <tg xml:lang="fin">
+       <t>(piru) ties mikä (t. mitä)</t>
+     </tg>
+     <xg><x>олошае пыриз</x>
+       <xt xml:lang="fin">piru ties mihin hän hävisi (t. häipyi)</xt>
+     </xg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Interj">осто</l><orig>оʼсто</orig>
+     <variants>
+       <l_syn>остэ</l_syn>
+     </variants>
+   </lg>
+   <mg ind="1th"><note><i>usk. käytetään rukouksissa jumalaa puhuteltaessa</i></note>
+     <tg xml:lang="fin">
+       <t>: Herra (Jumala)</t>
+     </tg>
+     <xg><x>осто, Инмаре, шуддэ-бурдэ сёт!</x>
+       <xt xml:lang="fin">Herra Jumala, suokaa onnea!</xt>
+     </xg>
+   </mg>
+   <mg ind="2th"> <pos ind="Interj"/>
+     <tg xml:lang="fin">
+       <t>herra (t. hyvä) jumala (t. luoja)</t>
+     </tg>
+     <xg><x>осто инмар(е)!</x>
+       <xt xml:lang="fin">(voi) herra jumala, (voi) hyvä jumala; herra jesta(s)!, herranen aika!;</xt>
+     </xg>
+     <xg><x>осто быри!</x>
+       <xt xml:lang="fin">herra varjelkoon (t. varjele)!; hyvä jumala!;</xt>
+     </xg>
+     <xg><x>осто козма!</x>
+       <xt xml:lang="fin">jumala, siunatkoon!</xt>
+     </xg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Interj">остэ</l><orig>оʼстэ</orig>
+     <variants>
+       <l_syn>осто</l_syn>
+     </variants>
+   </lg>
+   <mg ind="1th"><note><i>usk. käytetään rukouksissa jumalaa puhuteltaessa</i></note>
+     <tg xml:lang="fin">
+       <t>: Herra (Jumala)</t>
+     </tg>
+     <xg><x>остэ, Инмаре, шуддэ-бурдэ сёт!</x>
+       <xt xml:lang="fin">Herra Jumala, suokaa onnea!</xt>
+     </xg>
+   </mg>
+   <mg ind="2th"> <pos ind="Interj"/>
+     <tg xml:lang="fin">
+       <t>herra (t. hyvä) jumala (t. luoja)</t>
+     </tg>
+     <xg><x>остэ инмар(е)!</x>
+       <xt xml:lang="fin">(voi) herra jumala, (voi) hyvä jumala; herra jesta(s)!, herranen aika!;</xt>
+     </xg>
+     <xg><x>остэ быри!</x>
+       <xt xml:lang="fin">herra varjelkoon (t. varjele)!; hyvä jumala!;</xt>
+     </xg>
+     <xg><x>остэ козма!</x>
+       <xt xml:lang="fin">jumala, siunatkoon!</xt>
+     </xg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Interj">ӧб-ӧб</l><orig>ӧб-ӧб</orig>
+     <variants>
+       <l_syn>ӧб-ӧб-ӧб</l_syn>
+     </variants>
+   </lg>
+   <mg><note><i>käytetään äkillisen kivun tuntuessa</i></note>
+     <tg xml:lang="fin">
+       <t>:</t>
+     </tg>
+     <xg><x>ӧб-ӧб, кыӵе вӧсь!</x>
+       <xt xml:lang="fin">voi, kuinka tekee kipeää!</xt>
+     </xg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Interj">ӧб-ӧб-ӧб</l><orig>ӧб-ӧб-ӧб</orig>
+     <variants>
+       <l_syn>ӧб-ӧб</l_syn>
+     </variants>
+   </lg>
+   <mg><note><i>käytetään äkillisen kivun tuntuessa</i></note>
+     <tg xml:lang="fin">
+       <t>:</t>
+     </tg>
+     <xg><x>ӧб-ӧб-ӧб, кыӵе вӧсь!</x>
+       <xt xml:lang="fin">voi, kuinka tekee kipeää!</xt>
+     </xg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Interj">ӧч</l><orig>ӧч</orig>
+   </lg>
+   <mg><note><i>käytetään inhoa ilmaisemaan</i></note>
+     <tg xml:lang="fin">
+       <t>: hyi, huh, pyh</t>
+     </tg>
+     <xg><x>ӧч, кыӵе нӧд</x>
+       <xt xml:lang="fin">hyi, miten (t. kuinka) on likaista;</xt>
+     </xg>
+     <xg><x>ӧч, кыӵе шӧтэм</x>
+       <xt xml:lang="fin">hyi, miten (t. kuinka) on ruma</xt>
+     </xg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Interj">ӧч-ӧч-ӧч</l><orig>ӧч-ӧч-ӧч</orig>
+   </lg>
+   <mg>
+     <variants>
+       <l_syn type="&gt;">ӧч</l_syn>
+     </variants>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Interj">пись-пись<rom ind="1"/></l>
+   </lg>
+   <mg><defNative>кыс-кыс</defNative>
+     <tg xml:lang="fin">
+       <t>kis kis</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Interj">пись-пись<rom ind="2"/></l>
+   </lg>
+   <mg><defNative>кучапиез ӧтён</defNative> <note><i>koiranpennun kutsusana</i></note>
+     <tg xml:lang="fin">
+       <t>: tse tse</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Interj">пырс</l><orig>пырс</orig>
+   </lg>
+   <mg><note><i>deskr. puhek.</i></note>
+     <tg xml:lang="fin">
+       <t>:</t>
+     </tg><font face="SmolenskSGR"><b>пырс потыны </b></font><mwemg ind="1th"/>
+     <tg xml:lang="fin">
+       <t>poistua (t. mennä ulos) silmänräpäyksessä</t>
+     </tg><mwemg ind="2th"/><defNative>серекъяны</defNative>
+     <tg xml:lang="fin">
+       <t>purskahtaa, pyrskähtää</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Interj">сап</l><orig>сап</orig>
+   </lg>
+   <mg ind="1th"><note><i>käytetään nopeaa kahmaisua, tarttumista kuvattaessa</i></note>
+     <tg xml:lang="fin">
+       <t>:</t>
+     </tg>
+     <xg><x>сап кутыны</x>
+       <xt xml:lang="fin">kahmaista, kaapata</xt><xre>nopeasti</xre>
+     </xg>
+   </mg>
+   <mg ind="2th"><defNative>сач</defNative>
+     <tg xml:lang="fin">
+       <t>läiskis, mäiskis, läps</t>
+     </tg>
+     <xg><x>сап усьыны</x>
+       <xt xml:lang="fin">mätkähtää, lätkähtää</xt>
+     </xg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Interj">сач</l><orig>сач</orig>
+   </lg>
+   <mg>
+     <tg xml:lang="fin">
+       <t>läiskis, mäiskis, läps</t>
+     </tg>
+     <xg><x>дэрие сач усьыны</x>
+       <xt xml:lang="fin">mätkähtää (t. lätkähtää) lokaan</xt>
+     </xg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Interj">сачак</l><orig>саʼчаʼк</orig>
+   </lg>
+   <mg>
+     <variants>
+       <l_syn type="&gt;">сач</l_syn>
+     </variants>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Interj">стоп</l><orig>стоп</orig>
+   </lg>
+   <mg>
+     <tg xml:lang="fin">
+       <t>seis, stop</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Interj">сябась</l><orig>сябась</orig>
+   </lg>
+   <mg>
+     <tg xml:lang="fin">
+       <t>terveydeksi</t>
+       <re>maljaa nostettaessa</re>;
+     </tg>
+     <tg xml:lang="fin">
+       <t> kippis</t>
+     </tg>
+     <xg><x>сябась карыны</x>
+       <xt xml:lang="fin">kohottaa (t. esittää, ehdottaa) malja jnk kunniaksi</xt>
+     </xg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Interj">тау</l><orig>таʼу</orig>
+   </lg>
+   <mg>
+     <tg xml:lang="fin">
+       <t>kiitos</t>
+     </tg>
+     <xg><x>бадӟым тау</x>
+       <xt xml:lang="fin">paljon kiitoksia;</xt>
+     </xg>
+     <xg><x>тау карон</x>
+       <xt xml:lang="fin">kiittäminen; kiitollisuus;</xt>
+     </xg>
+     <xg><x>тау карыны</x>
+       <xt xml:lang="fin">kiittää</xt>
+     </xg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Interj">тауна</l><orig>таʼунаʼ</orig>
+   </lg>
+   <mg>
+     <tg xml:lang="fin">
+       <t>ole (t. olkaa) hyvä</t>
+       <re>vastauksena kiitokseen</re>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Interj">у<rom ind="2"/></l>
+   </lg>
+   <mg><note><i>ilmaisee ihmettelyä</i></note>
+     <tg xml:lang="fin">
+       <t>: uh, vau, voi (että)</t>
+     </tg>
+     <xg><x>у, кыӵе азьтэм тон вылэмед</x>
+       <xt xml:lang="fin">voi, kuinka laiska olet ollut</xt>
+     </xg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Interj">ура</l><orig>ура</orig>
+   </lg>
+   <mg>
+     <tg xml:lang="fin">
+       <t>hurraa, eläköön</t>
+       <re>riemun, suosion t. kannustuksen ilmauksena</re>;
+     </tg>
+     <xg><x>ура карыны</x>
+       <xt xml:lang="fin">huutaa hurraa</xt>
+     </xg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Interj">чале</l><orig>чаʼле</orig>
+     <variants>
+       <l_syn>чалелэ</l_syn>
+     </variants>
+   </lg>
+   <mg>
+     <tg xml:lang="fin">
+       <t>tulkaa</t>
+       <re>käsky tulla puhujan suuntaan</re>;
+     </tg>
+     <xg><x>чале татчы!</x>
+       <xt xml:lang="fin">tulkaa tänne</xt>
+     </xg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Interj">чалелэ</l><orig>чаʼлелэ</orig>
+     <variants>
+       <l_syn>чале</l_syn>
+     </variants>
+   </lg>
+   <mg>
+     <tg xml:lang="fin">
+       <t>tulkaa</t>
+       <re>käsky tulla puhujan suuntaan</re>;
+     </tg>
+     <xg><x>чалелэ татчы!</x>
+       <xt xml:lang="fin">tulkaa tänne</xt>
+     </xg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Interj">чиге-чиге</l><orig>чиге-чиге</orig>
+   </lg>
+   <mg><note><i>huudahdus</i></note>
+     <tg xml:lang="fin">
+       <t>,</t>
+     </tg><note><i>jolla kutsutaan lampaita</i></note>
+     <tg xml:lang="fin">
+       <t></t>
+     </tg>
+     <variants>
+       <l_syn type="&gt;">быле-быле</l_syn>
+     </variants>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Interj">чур<rom ind="3"/></l>
+   </lg>
+   <mg><note><i>last.</i></note>
+     <tg xml:lang="fin">
+       <t>:</t>
+     </tg><font face="SmolenskSGR"><b>чур, мон нырысез </b></font><pos ind="Interj"/>
+     <tg xml:lang="fin">
+       <t>apus minä ensin</t>
+     </tg>
+     <xg><x>чур карыны</x>
+       <xt xml:lang="fin">haluta välttää etsijäksi joutuminen</xt><xre>peleissä, esim. hippasilla, sokkosilla</xre>
+     </xg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Interj">ыш-ыш</l><orig>ыш-ыш</orig>
+     <variants>
+       <l_syn>ыш-ыш-ыш</l_syn>
+     </variants>
+   </lg>
+   <mg><note><i>interj.</i></note><range>puhek.</range>
+     <tg xml:lang="fin">
+       <t>huh, huh</t>
+       <re>kylmän tunteesta</re>;
+     </tg>
+     <xg><x>ыш-ыш, кынмисько</x>
+       <xt xml:lang="fin">huh, kun on kylmä;</xt>
+     </xg>
+     <xg><x>ыш-ыш, туж кезьыт</x>
+       <xt xml:lang="fin">huh, onpas kylmä;</xt>
+     </xg>
+     <xg><x>педлон ыш-ыш</x>
+       <xt xml:lang="fin">ulkona on kylmä (t. kolea)</xt>
+     </xg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Interj">ыш-ыш-ыш</l><orig>ыш-ыш-ыш</orig>
+     <variants>
+       <l_syn>ыш-ыш</l_syn>
+     </variants>
+   </lg>
+   <mg><note><i>interj.</i></note><range>puhek.</range>
+     <tg xml:lang="fin">
+       <t>huh, huh</t>
+       <re>kylmän tunteesta</re>;
+     </tg>
+     <xg><x>ыш-ыш-ыш, кынмисько</x>
+       <xt xml:lang="fin">huh, kun on kylmä;</xt>
+     </xg>
+     <xg><x>ыш-ыш-ыш, туж кезьыт</x>
+       <xt xml:lang="fin">huh, onpas kylmä;</xt>
+     </xg>
+     <xg><x>педлон ыш-ыш-ыш</x>
+       <xt xml:lang="fin">ulkona on kylmä (t. kolea)</xt>
+     </xg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Interj">э</l><orig>э</orig>
+   </lg>
+   <mg><note><i>ilmaisee ihmettelyä, ihastusta, sääliä tms.</i></note>
+     <tg xml:lang="fin">
+       <t>: ah, oi, voi, oh; ai, kas</t>
+     </tg>
+     <xg><x>э, кыӵе жаль потэ со мыным</x>
+       <xt xml:lang="fin">oi, miten minun on häntä sääli;</xt>
+     </xg>
+     <xg><x>э, кыӵе чебер куазед!</x>
+       <xt xml:lang="fin">voi, miten kaunis on ilma (t. sää)!;</xt>
+     </xg>
+     <xg><x>э, кыӵе эктэ нош со!</x>
+       <xt xml:lang="fin">voi, miten kauniisti (t. kovasti) hän tanssiikaan!;</xt>
+     </xg>
+     <xg><x>э, тон ук со вылэмед</x>
+       <xt xml:lang="fin">ai (t. kas), sinäkö siinä oletkin;</xt>
+     </xg>
+     <xg><x>э, янгыш лэсьтоно ӧй вал</x>
+       <xt xml:lang="fin">oh, ei pitänyt erehtyä (t. tehdä virhettä)</xt>
+     </xg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Interj">эй</l><orig>эй</orig>
+   </lg>
+   <mg>
+     <tg xml:lang="fin">
+       <t>hei, hoi</t>
+     </tg>
+     <xg><x>эй, кин со отын?</x>
+       <xt xml:lang="fin">hei, kuka siellä?</xt>
+     </xg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Interj">эк</l><orig>эк</orig>
+   </lg>
+   <mg><note><i>ilmaisee ihmettelyä, ihastusta, sääliä, moitetta, pahoittelua, kivun tunnetta tms.</i></note>
+     <tg xml:lang="fin">
+       <t>: voi, oi, oijoi</t>
+     </tg>
+     <xg><x>эк, кыӵе жаль!</x>
+       <xt xml:lang="fin">voi, miten sääli!;</xt>
+     </xg>
+     <xg><x>эк, пие!</x>
+       <xt xml:lang="fin">voi poikani!</xt>
+     </xg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Interj">эк-ек-ек</l><orig>эк-ек-ек</orig>
+   </lg>
+   <mg><note><i>ilmaisee pahoittelua, mielipahaa, moitetta: </i></note>
+     <tg xml:lang="fin">
+       <t>voi voi, oi voi</t>
+     </tg>
+     <xg><x>эк-ек-ек, кыӵе жаль!</x>
+       <xt xml:lang="fin">voi voi, miten sääli!</xt>
+     </xg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Interj">э-э</l><orig>э-э</orig>
+   </lg>
+   <mg><note><i>ilmaisee ihmettelyä, ihastusta, sääliä, moitetta, pahoittelua tms.</i></note>
+     <tg xml:lang="fin">
+       <t>: voi, hei, äh</t>
+     </tg>
+     <xg><x>э-э, инмаре-куазе!</x>
+       <xt xml:lang="fin">voi herra jumala!, voi hyvä luoja!</xt>
+     </xg>
+   </mg>
+</e>
 </r>
