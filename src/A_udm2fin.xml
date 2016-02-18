@@ -1,6 +1,87 @@
 <?xml version="1.0" encoding="utf-8"?>
 <r xml:lang="udm">
 
+<e>
+   <lg>
+     <l pos="A">адӟемпотонтэм</l>
+     <stg>
+       <st Contlex="A_">адӟемпотонтэм</st>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="fin">
+       <t pos="N">vihattava, vastenmielinen, inhottava</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="A">адӟемпотостэм</l>
+     <stg>
+       <st Contlex="A_">адӟемпотостэм</st>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="fin">
+       <t pos="N">vihattava, vastenmielinen, inhottava</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="A">бадӟым</l><orig>бадӟым</orig>
+   </lg>
+   <mg ind="1th">
+     <tg xml:lang="fin">
+       <t pos="N">iso, suuri</t>
+     </tg>
+     <xg><x>бадӟым сюрес</x>
+       <xt xml:lang="fin">päätie, iso tie, valtatie</xt>
+     </xg>
+     <xg><x>бадӟым карыны</x>
+       <xt xml:lang="fin">suurentaa, isontaa; laajentaa</xt>
+     </xg>
+   </mg>
+   <mg ind="2th"><defNative>арлыдъя</defNative>
+     <tg xml:lang="fin">
+       <t pos="N">vanhempi; vanhin</t>
+     </tg>
+     <xg><x>бадӟымез агае</x>
+       <xt xml:lang="fin">vanhin (t. vanhempi) veli</xt>
+     </xg>
+     <xg><x>бадӟымез пие</x>
+       <xt xml:lang="fin">vanhin poikani, esikoispoikani</xt>
+     </xg>
+   </mg>
+   <mg ind="3th"><defNative>быдэ вуэм, мӧйы</defNative>
+     <tg xml:lang="fin">
+       <t pos="N">aikuinen</t>
+     </tg>
+     <xg><x>бадӟымъёс</x>
+       <xt xml:lang="fin">aikuiset, aikaihmiset</xt>
+     </xg>
+   </mg>
+   <mg ind="4th"><defNative>быдӟым, шӧдскымон</defNative>
+     <tg xml:lang="fin">
+       <t pos="N">suuri, huomattava, merkittävä</t>
+     </tg>
+     <xg><x>бадӟым дан</x>
+       <xt xml:lang="fin">suuri kunnia (t. maine)</xt>
+     </xg>
+     <xg> <x>бадӟым тодосчи</x> <x>бадӟым учёной</x>
+       <xt xml:lang="fin">merkittävä tiedemies •</xt>
+     </xg><font face="SmolenskSGR"><b>бадӟым луыны </b></font><mwemg ind="1th"/>
+     <tg xml:lang="fin">
+       <t pos="N">laajentua, laajeta, suurentua, suureta</t>
+     </tg><mwemg ind="2th"/><defNative>быдэ вуыны</defNative>
+     <tg xml:lang="fin">
+       <t pos="N">aikuistua, tulla aikuiseksi</t>
+     </tg>◊
+     <xg><x>бадӟым тау</x>
+       <xt xml:lang="fin">paljon kiitoksia, suurkiitos</xt>
+     </xg>
+   </mg>
+</e>
 <e order="2">
    <lg>
      <l pos="A">пичи</l>
