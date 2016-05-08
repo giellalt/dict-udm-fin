@@ -1,5 +1,31 @@
 <?xml version="1.0" encoding="utf-8"?>
-<r xml:lang="udm">
+<r id="udmfin" xml:lang="udm">
+   <lics xml:space="preserve">
+      <lic xml:lang="en">
+This code is made available under a Creative Commons Attribution license
+<a>http://creativecommons.org/licenses/by/3.0/no/deed.en</a>.
+You are free to copy, distribute and adapt the work, as long as you always give
+proper attribution using the attribution text below.
+For the full license text, see the link above.</lic>
+      <ref>The material is based on the following dictionaries compiled at the University of Turku, Finland:
+Sergej Maksimov, Vadim Danilov &amp; Sirkka Saarinen: Udmurttilais-suomalainen sanakirja (2008)
+Proofreading of the electronic material: Tomi Koivunen.
+
+Funding of the online dictionary: The Kone Foundation (Finland).
+
+         Source code available at <a>https://victorio.uit.no/langtech/trunk/</a>.</ref>
+      <sourcenote>
+The material was prepared for electronic publication by Jack Rueter.
+     THIS TEXT HAS BEEN TAKEN FROM THE ORIGINAL PDF DOCUMENT, which may have caused sporadic problems in its transformation into electronic form. 
+
+This is NOT a fully styled and published dictionary.
+Possible errors following proofreading are, e. g., substitution of special fonts with wrong signs, combining of rows between columns, and the loss of the original signs for syllable stress.
+     <a>mailto:giellatekno@hum.uit.no</a>.
+     Please also note that the entries are not necessarily sorted,
+     or could be wrongly sorted.
+      </sourcenote>
+   </lics>
+
 <e> <lg><l pos="N(V::N)">бастовать карон</l> </lg> <mg> <tg xml:lang="fin"> <t>lakkoilu;</t> </tg> </mg> </e>
 <e> <lg><l pos="N(V::N)">бомбить карон</l> </lg> <mg> <tg xml:lang="fin"> <t>pommittaminen, pommitus;</t> </tg> </mg> </e>
 <e> <lg><l pos="N(V::N)">брить карон</l> </lg> <mg> <tg xml:lang="fin"> <t>(parran)ajo, (parran) ajaminen;</t> </tg> </mg> </e>
