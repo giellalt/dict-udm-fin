@@ -544,7 +544,7 @@
    <lg>
      <l pos="Prc;A">чигись</l><orig>чигись</orig>
    </lg>
-   <mg ind="1th"><drvg><inflect type="Der/сь" drv="Prc"/><stem>чигыны</stem></drvg>
+   <mg ind="1th"><compg><comp ord="E1" pos="V">чигыны</comp><comp ord="E2" type="Der/сь" drv="Prc"/></compg>
    </mg>
    <mg ind="2th">
      <tg xml:lang="fin">
@@ -572,7 +572,7 @@
    <lg>
      <l pos="Prc;A">чидась</l><orig>чидась</orig>
    </lg>
-   <mg ind="1th"><drvg><inflect type="Der/сь" drv="Prc"/><stem>чиданы</stem></drvg>
+   <mg ind="1th"><compg><comp ord="E1" pos="V">чиданы</comp><comp ord="E2" type="Der/сь" drv="Prc"/></compg>
    </mg>
    <mg ind="2th">
      <tg xml:lang="fin">
@@ -597,7 +597,7 @@
    <lg>
      <l pos="Prc;A">чильпырась</l><orig>чильпырась</orig>
    </lg>
-   <mg ind="1th"><drvg><inflect type="Der/сь" drv="Prc"/><stem>чильпыраны</stem></drvg>
+   <mg ind="1th"><compg><comp ord="E1" pos="V">чильпыраны</comp><comp ord="E2" type="Der/сь" drv="Prc"/></compg>
    </mg>
    <mg ind="2th"><defNative>пыртӥз адскись</defNative>
      <tg xml:lang="fin">
@@ -896,7 +896,7 @@
    <lg>
      <l pos="Prc;A;N">чурытась</l><orig>чурытась</orig>
    </lg>
-   <mg ind="1th"><drvg><inflect type="Der/сь" drv="Prc"/><stem>чурытаны</stem></drvg>
+   <mg ind="1th"><compg><comp ord="E1" pos="V">чурытаны</comp><comp ord="E2" type="Der/сь" drv="Prc"/></compg>
    </mg>
    <mg ind="2th"><senseType>kuv.</senseType><defNative>сук, жалясь</defNative>
      <tg xml:lang="fin">
@@ -911,7 +911,7 @@
    <lg>
      <l pos="Prc;A;N">чурытаськись</l><orig>чурытаськись</orig>
    </lg>
-   <mg ind="1th"><drvg><inflect type="Der/сь" drv="Prc"/><stem>чурытаськыны </stem></drvg>
+   <mg ind="1th"><compg><comp ord="E1" pos="V">чурытаськыны</comp><comp ord="E2" type="Der/сь" drv="Prc"/></compg>
    </mg>
    <mg ind="2th">
      <variants>
@@ -992,7 +992,7 @@
    <lg>
      <l pos="Prc;A;N">чутӥсь</l><orig>чутӥсь</orig>
    </lg>
-   <mg ind="1th"><drvg><inflect type="Der/сь" drv="Prc"/><stem>чутыны</stem></drvg>
+   <mg ind="1th"><compg><comp ord="E1" pos="V">чутыны</comp><comp ord="E2" type="Der/сь" drv="Prc"/></compg>
    </mg>
    <mg ind="2th">
      <tg xml:lang="fin">
@@ -1062,7 +1062,7 @@
    <lg>
      <l pos="Prc;A">чырсамтэ</l><orig>чырсамтэ</orig>
    </lg>
-   <mg ind="1th"><drvg><inflect type="Der/Эмтэ" drv="Prc"/><stem>чырсаны</stem></drvg>
+   <mg ind="1th"><compg><comp ord="E1" pos="V">чырсаны</comp><comp ord="E2" type="Der/Эмтэ" drv="Prc"/></compg>
    </mg>
    <mg ind="2th">
      <tg xml:lang="fin">
@@ -1625,7 +1625,7 @@
    <lg>
      <l pos="Prc;A;N">шекерскем</l><orig>шекерскем</orig>
    </lg>
-   <mg ind="1th"><drvg><inflect type="Der/Эм" drv="Prc"/><stem>шекерскыны</stem></drvg>
+   <mg ind="1th"><compg><comp ord="E1" pos="V">шекерскыны</comp><comp ord="E2" type="Der/Эм" drv="Prc"/></compg>
    </mg>
    <mg ind="2th"><font face="SmolenskSGR">(<i>кисыриё</i>) </font>
      <tg xml:lang="fin">
@@ -1693,7 +1693,7 @@
    <lg>
      <l pos="Prc;A">шенгыльтӥсь</l><orig>шенгыльтӥсь</orig>
    </lg>
-   <mg ind="1th"><drvg><inflect type="Der/сь" drv="Prc"/><stem>шенгыльтыны</stem></drvg>
+   <mg ind="1th"><compg><comp ord="E1" pos="V">шенгыльтыны</comp><comp ord="E2" type="Der/сь" drv="Prc"/></compg>
    </mg>
    <mg ind="2th"><defNative>к-сь &quot;р&quot; куараез мыдлань вера</defNative>
      <tg xml:lang="fin">
@@ -3030,7 +3030,7 @@
    <lg>
      <l pos="Prc;A">эскериськись</l><orig>эскериськись</orig>
    </lg>
-   <mg ind="1th"><drvg><inflect type="Der/сь" drv="Prc"/><stem>эскериськыны</stem></drvg>
+   <mg ind="1th"><compg><comp ord="E1" pos="V">эскериськыны</comp><comp ord="E2" type="Der/сь" drv="Prc"/></compg>
    </mg>
    <mg ind="2th"><defNative>ваньзэ чаклась-адӟись</defNative>
      <tg xml:lang="fin">
@@ -3211,7 +3211,7 @@
    <lg>
      <l pos="Prc;A">юзматӥсь</l><orig>юзматӥсь</orig>
    </lg>
-   <mg ind="1th"><drvg><inflect type="Der/сь" drv="Prc"/><stem>юзмытыны</stem></drvg>
+   <mg ind="1th"><compg><comp ord="E1" pos="V">юзмытыны</comp><comp ord="E2" type="Der/сь" drv="Prc"/></compg>
    </mg>
    <mg ind="2th">
      <tg xml:lang="fin">
@@ -3362,7 +3362,7 @@
    <lg>
      <l pos="Prc;A;N">юрдӥсь</l><orig>юрдӥсь</orig>
    </lg>
-   <mg ind="1th"><drvg><inflect type="Der/сь" drv="Prc"/><stem>юрдыны</stem></drvg>
+   <mg ind="1th"><compg><comp ord="E1" pos="V">юрдыны</comp><comp ord="E2" type="Der/сь" drv="Prc"/></compg>
    </mg>
    <mg ind="2th">
      <tg xml:lang="fin">
@@ -3747,7 +3747,7 @@
        <xt xml:lang="fin">onpa hyvä, että sinäkin tulit paikalle</xt>
      </xg>
    </mg>
-   <mg ind="3th"> <drvg><inflect type="Der/Эм" drv="Prc;V»N"/><stem>яраны</stem></drvg>
+   <mg ind="3th"> <compg><comp ord="E1">яраны</comp><comp ord="E2" type="Der/Эм" drv="Prc;V»N"/></compg>
    </mg>
 </e>
 <e>
@@ -3813,7 +3813,7 @@
    <lg>
      <l pos="Prc;A">ярась</l><orig>ярась</orig>
    </lg>
-   <mg ind="1th"><drvg><inflect type="Der/сь" drv="Prc"/><stem>яраны</stem></drvg>
+   <mg ind="1th"><compg><comp ord="E1" pos="V">яраны</comp><comp ord="E2" type="Der/сь" drv="Prc"/></compg>
    </mg>
    <mg ind="2th">
      <tg xml:lang="fin">
@@ -3828,7 +3828,7 @@
    <lg>
      <l pos="Prc;A;N">яратӥсь</l><orig>яратӥсь</orig>
    </lg>
-   <mg ind="1th"><drvg><inflect type="Der/сь" drv="Prc"/><stem>яратыны</stem></drvg>
+   <mg ind="1th"><compg><comp ord="E1" pos="V">яратыны</comp><comp ord="E2" type="Der/сь" drv="Prc"/></compg>
    </mg>
    <mg ind="2th"><defNative>эркеясь, мусо</defNative>
      <tg xml:lang="fin">
@@ -3866,7 +3866,7 @@
    <lg>
      <l pos="N;A">яратон</l><orig>яратон</orig>
    </lg>
-   <mg ind="1th"><drvg><inflect type="Der/он" drv="V»N"/><stem>яратыны</stem></drvg>
+   <mg ind="1th"><compg><comp ord="E1" pos="V">яратыны</comp><comp ord="E2" type="Der/он" drv="V»N"/></compg>
    </mg>
    <mg ind="2th">
      <tg xml:lang="fin">
@@ -4046,7 +4046,7 @@
    <lg>
      <l pos="Prc;A">бадӟымъяськись</l><orig>бадӟымъяськись</orig>
    </lg>
-   <mg ind="1th"><drvg><inflect type="Der/сь" drv="Prc"/><stem>бадӟымъяськыны</stem></drvg>
+   <mg ind="1th"><compg><comp ord="E1" pos="V">бадӟымъяськыны</comp><comp ord="E2" type="Der/сь" drv="Prc"/></compg>
    </mg>
    <mg ind="2th">
      <tg xml:lang="fin">
@@ -4743,7 +4743,7 @@
    <lg>
      <l pos="Pcl;N">буйгатӥсь</l><orig>буйгатӥсь</orig>
    </lg>
-   <mg ind="1th"><drvg><inflect type="Der/сь" drv="Prc"/><stem>буйгатыны</stem></drvg>
+   <mg ind="1th"><compg><comp ord="E1" pos="V">буйгатыны</comp><comp ord="E2" type="Der/сь" drv="Prc"/></compg>
    </mg>
    <mg ind="2th">
      <tg xml:lang="fin">
@@ -4836,7 +4836,7 @@
    <lg>
      <l pos="Prc;a;N">быгатӥсь</l><orig>быгатӥсь</orig>
    </lg>
-   <mg ind="1th"><drvg><inflect type="Der/сь" drv="Prc"/><stem>быгатыны</stem></drvg>
+   <mg ind="1th"><compg><comp ord="E1" pos="V">быгатыны</comp><comp ord="E2" type="Der/сь" drv="Prc"/></compg>
    </mg>
    <mg ind="2th">
      <tg xml:lang="fin">
@@ -4870,7 +4870,7 @@
    <lg>
      <l pos="Prc">быдӟияськись</l><orig>быдӟияськись</orig>
    </lg>
-   <mg ind="1th"><drvg><inflect type="Der/сь" drv="Prc"/><stem>быдӟияськыны</stem></drvg>
+   <mg ind="1th"><compg><comp ord="E1" pos="V">быдӟияськыны</comp><comp ord="E2" type="Der/сь" drv="Prc"/></compg>
    </mg>
    <mg ind="2th"><defNative>йӧнъяськись</defNative>
      <tg xml:lang="fin">
@@ -4887,7 +4887,7 @@
    <lg>
      <l pos="Prc">быдтӥсь</l><orig>быдтӥсь</orig>
    </lg>
-   <mg ind="1th"><drvg><inflect type="Der/сь" drv="Prc"/><stem>быдтыны</stem></drvg>
+   <mg ind="1th"><compg><comp ord="E1" pos="V">быдтыны</comp><comp ord="E2" type="Der/сь" drv="Prc"/></compg>
    </mg>
    <mg ind="2th">
      <xg> <x>адями быдтӥсь</x> <x>йыр быдтӥсь</x>
@@ -4924,7 +4924,7 @@
    <lg>
      <l pos="Prc">быдэстӥсь</l><orig>быдэстӥсь</orig>
    </lg>
-   <mg ind="1th"><drvg><inflect type="Der/сь" drv="Prc"/><stem>быдэстыны</stem></drvg>
+   <mg ind="1th"><compg><comp ord="E1" pos="V">быдэстыны</comp><comp ord="E2" type="Der/сь" drv="Prc"/></compg>
    </mg>
    <mg ind="2th">
      <tg xml:lang="fin">
@@ -5038,7 +5038,7 @@
    <lg>
      <l pos="Prc;A">валась</l><orig>валась</orig>
    </lg>
-   <mg ind="1th"><drvg><inflect type="Der/сь" drv="Prc"/><stem>валаны</stem></drvg>
+   <mg ind="1th"><compg><comp ord="E1" pos="V">валаны</comp><comp ord="E2" type="Der/сь" drv="Prc"/></compg>
    </mg>
    <mg ind="2th">
      <tg xml:lang="fin">
@@ -5173,7 +5173,7 @@
 <e>
    <lg><l>ваменскись</l><orig>ваменскись</orig>
    </lg>
-   <mg ind="1th"><drvg><inflect type="Der/сь" drv="Prc"/><stem>ваменскыны</stem></drvg>
+   <mg ind="1th"><compg><comp ord="E1" pos="V">ваменскыны</comp><comp ord="E2" type="Der/сь" drv="Prc"/></compg>
    </mg>
    <mg ind="2th">
      <tg xml:lang="fin">
@@ -5198,7 +5198,7 @@
    <lg>
      <l pos="Prc;A;N">ваньмем</l><orig>ваньмем</orig>
    </lg>
-   <mg ind="1th"><drvg><inflect type="Der/Эм" drv="Prc"/><stem>ваньмыны</stem></drvg>
+   <mg ind="1th"><compg><comp ord="E1" pos="V">ваньмыны</comp><comp ord="E2" type="Der/Эм" drv="Prc"/></compg>
    </mg>
    <mg ind="2th"><note><i>kuv. ark.</i></note><font face="SmolenskSGR">(<i>кулэм</i>)</font>
      <tg xml:lang="fin">
@@ -5233,7 +5233,7 @@
    <lg>
      <l pos="Prc;A">векась</l><orig>векась</orig>
    </lg>
-   <mg ind="1th"><drvg><inflect type="Der/сь" drv="Prc"/><stem>веканы</stem></drvg>
+   <mg ind="1th"><compg><comp ord="E1" pos="V">веканы</comp><comp ord="E2" type="Der/сь" drv="Prc"/></compg>
    </mg>
    <mg ind="2th">
      <tg xml:lang="fin">
@@ -5280,7 +5280,7 @@
    <lg>
      <l pos="Prc;N;A">вераськем</l><orig>вераськем</orig>
    </lg>
-   <mg ind="1th"><drvg><inflect type="Der/Эм" drv="Prc;V»N"/><stem>вераськыны</stem></drvg>
+   <mg ind="1th"><compg><comp ord="E1">вераськыны</comp><comp ord="E2" type="Der/Эм" drv="Prc;V»N"/></compg>
    </mg>
    <mg ind="2th">
      <tg xml:lang="fin">
@@ -5301,7 +5301,7 @@
    <lg>
      <l pos="Prc;A;N">вераськись</l><orig>вераськись</orig>
    </lg>
-   <mg ind="1th"><drvg><inflect type="Der/сь" drv="Prc"/><stem>вераськыны</stem></drvg>
+   <mg ind="1th"><compg><comp ord="E1" pos="V">вераськыны</comp><comp ord="E2" type="Der/сь" drv="Prc"/></compg>
    </mg>
    <mg ind="2th"><defNative>вераськыны яратӥсь</defNative>
      <tg xml:lang="fin">
@@ -5384,7 +5384,7 @@
    <lg>
      <l pos="Prc;A">визьтэммем</l><orig>визьтэммем</orig>
    </lg>
-   <mg ind="1th"><drvg><inflect type="Der/Эм" drv="Prc"/><stem>визьтэммыны</stem></drvg>
+   <mg ind="1th"><compg><comp ord="E1" pos="V">визьтэммыны</comp><comp ord="E2" type="Der/Эм" drv="Prc"/></compg>
    </mg>
    <mg ind="2th">
      <tg xml:lang="fin">
@@ -5402,7 +5402,7 @@
    <lg>
      <l pos="Prc;N;A">висись</l><orig>висись</orig>
    </lg>
-   <mg ind="1th"><drvg><inflect type="Der/сь" drv="Prc"/><stem>висьыны</stem></drvg>
+   <mg ind="1th"><compg><comp ord="E1" pos="V">висьыны</comp><comp ord="E2" type="Der/сь" drv="Prc"/></compg>
    </mg>
    <mg ind="2th">
      <tg xml:lang="fin">
@@ -5471,7 +5471,7 @@
    <lg>
      <l pos="Prc">висъясь</l><orig>висъясь</orig>
    </lg>
-   <mg><drvg><inflect type="Der/сь" drv="Prc"/><stem>висъяны </stem></drvg>◊ <font face="SmolenskSGR"><b>висъясь кылӥтэт </b></font><field>kiel.</field>
+   <mg><compg><comp ord="E1" pos="V">висъяны</comp><comp ord="E2" type="Der/сь" drv="Prc"/></compg>◊ <font face="SmolenskSGR"><b>висъясь кылӥтэт </b></font><field>kiel.</field>
      <tg xml:lang="fin">
        <t>determinatiivinen suffiksi</t>
      </tg>
@@ -5527,7 +5527,7 @@
    <lg>
      <l pos="Prc;A">вожась</l><orig>вожась</orig>
    </lg>
-   <mg ind="1th"><drvg><inflect type="Der/сь" drv="Prc"/><stem>вожаны</stem></drvg>
+   <mg ind="1th"><compg><comp ord="E1" pos="V">вожаны</comp><comp ord="E2" type="Der/сь" drv="Prc"/></compg>
    </mg>
    <mg ind="2th">
      <tg xml:lang="fin">
@@ -5539,7 +5539,7 @@
    <lg>
      <l pos="Adv;A;N">вожъяськись</l><orig>вожъяськись</orig>
    </lg>
-   <mg ind="1th"><drvg><inflect type="Der/сь" drv="Prc"/><stem>вожъяськыны</stem></drvg>
+   <mg ind="1th"><compg><comp ord="E1" pos="V">вожъяськыны</comp><comp ord="E2" type="Der/сь" drv="Prc"/></compg>
    </mg>
    <mg ind="2th">
      <tg xml:lang="fin">
@@ -5586,7 +5586,7 @@
    <lg>
      <l pos="N;A">вордӥськем</l><orig>вордӥськем</orig>
    </lg>
-   <mg ind="1th"><drvg><inflect type="Der/Эм" drv="Prc"/><stem>вордӥськыны</stem></drvg>
+   <mg ind="1th"><compg><comp ord="E1" pos="V">вордӥськыны</comp><comp ord="E2" type="Der/Эм" drv="Prc"/></compg>
    </mg>
    <mg ind="2th">
      <tg xml:lang="fin">
@@ -5610,7 +5610,7 @@
    <lg>
      <l pos="Prc;A">вормытъяськись</l><orig>вормытъяськись</orig>
    </lg>
-   <mg ind="1th"><drvg><inflect type="Der/сь" drv="Prc"/><stem>вормытъяськыны</stem></drvg>
+   <mg ind="1th"><compg><comp ord="E1" pos="V">вормытъяськыны</comp><comp ord="E2" type="Der/сь" drv="Prc"/></compg>
    </mg>
    <mg ind="2th"><defNative>вылтӥяськись</defNative>
      <tg xml:lang="fin">
@@ -5942,7 +5942,7 @@
    <lg>
      <l pos="Prc;A">вылтӥяськись</l><orig>вылтӥяськись</orig>
    </lg>
-   <mg ind="1th"><drvg><inflect type="Der/сь" drv="Prc"/><stem>вылтӥяськыны</stem></drvg>
+   <mg ind="1th"><compg><comp ord="E1" pos="V">вылтӥяськыны</comp><comp ord="E2" type="Der/сь" drv="Prc"/></compg>
    </mg>
    <mg ind="2th">
      <tg xml:lang="fin">
@@ -6042,7 +6042,7 @@
        <xt xml:lang="fin">tositapaus</xt>
      </xg>
    </mg>
-   <mg ind="2th"> <drvg><inflect>II preteritin muoto v:stä </inflect><stem>вылыны</stem></drvg>
+   <mg ind="2th"> <compg><comp ord="E1">вылыны</comp><comp ord="E2">II preteritin muoto v:stä</comp></compg>
      <tg xml:lang="fin">
        <t>(osoittautui, että) oli (t. on), oli (t. on) ilmeisesti (t. näköjään);</t>
      </tg>
@@ -6473,7 +6473,7 @@
    <lg>
      <l pos="Prc;A">дӥсьтӥсь</l><orig>дӥсьтӥсь</orig>
    </lg>
-   <mg ind="1th"><drvg><inflect type="Der/сь" drv="Prc"/><stem>дӥсьтыны</stem></drvg>
+   <mg ind="1th"><compg><comp ord="E1" pos="V">дӥсьтыны</comp><comp ord="E2" type="Der/сь" drv="Prc"/></compg>
    </mg>
    <mg ind="2th">
      <tg xml:lang="fin">
@@ -6947,7 +6947,7 @@
    <lg>
      <l pos="Prc;A">дыртӥсь</l><orig>дыртӥсь</orig>
    </lg>
-   <mg ind="1th"><drvg><inflect type="Der/сь" drv="Prc"/><stem>дыртыны</stem></drvg>
+   <mg ind="1th"><compg><comp ord="E1" pos="V">дыртыны</comp><comp ord="E2" type="Der/сь" drv="Prc"/></compg>
    </mg>
    <mg ind="2th">
      <tg xml:lang="fin">
@@ -7168,7 +7168,7 @@
    <lg>
      <l pos="Prc;A">жадем</l><orig>жадем</orig>
    </lg>
-   <mg ind="1th"><drvg><inflect type="Der/Эм" drv="Prc"/><stem>жадьыны</stem></drvg>
+   <mg ind="1th"><compg><comp ord="E1" pos="V">жадьыны</comp><comp ord="E2" type="Der/Эм" drv="Prc"/></compg>
    </mg>
    <mg ind="2th">
      <tg xml:lang="fin">
@@ -7228,7 +7228,7 @@
    <lg>
      <l pos="Prc;A;N">жалясь</l><orig>жалясь</orig>
    </lg>
-   <mg ind="1th"><drvg><inflect type="Der/сь" drv="Prc"/><stem>жаляны</stem></drvg>
+   <mg ind="1th"><compg><comp ord="E1" pos="V">жаляны</comp><comp ord="E2" type="Der/сь" drv="Prc"/></compg>
    </mg>
    <mg ind="2th"><defNative>жалянэз валась</defNative>
      <tg xml:lang="fin">
@@ -7328,7 +7328,7 @@
 </e>
 <e>
    <lg>
-     <l pos="Prc">жургетэм</l> <drvg><inflect type="Der/Эм" drv="Prc"/><stem>жургетыны</stem></drvg>
+     <l pos="Prc">жургетэм</l> <compg><comp ord="E1" pos="V">жургетыны</comp><comp ord="E2" type="Der/Эм" drv="Prc"/></compg>
    </lg>
    <mg ind="2th">
      <tg xml:lang="fin">
@@ -7639,7 +7639,7 @@
    <lg>
      <l pos="Prc;N;A">ӝуткам</l><orig>ӝуткам</orig>
    </lg>
-   <mg ind="1th"><drvg><inflect type="Der/Эм" drv="Prc;V»N"/><stem>ӝутканы</stem></drvg>
+   <mg ind="1th"><compg><comp ord="E1">ӝутканы</comp><comp ord="E2" type="Der/Эм" drv="Prc;V»N"/></compg>
    </mg>
    <mg ind="2th"><defNative>пужыятыса куэм басма</defNative>
      <tg xml:lang="fin">
@@ -7771,7 +7771,7 @@
    <lg>
      <l pos="Prc">зорись</l><orig>зорись</orig>
    </lg>
-   <mg ind="1th"><drvg><inflect type="Der/сь" drv="Prc"/><stem>зорыны</stem></drvg>
+   <mg ind="1th"><compg><comp ord="E1" pos="V">зорыны</comp><comp ord="E2" type="Der/сь" drv="Prc"/></compg>
    </mg>
    <mg ind="2th">
      <tg xml:lang="fin">
@@ -7803,7 +7803,7 @@
      <l pos="Prc;A">зӧкъяськись</l><orig>зӧкъяськись</orig>
    </lg>
    <mg><range>murt.</range>
-   <mg ind="1th"/><drvg><inflect type="Der/сь" drv="Prc"/><stem>зӧкъяськыны</stem></drvg>
+   <mg ind="1th"/><compg><comp ord="E1" pos="V">зӧкъяськыны</comp><comp ord="E2" type="Der/сь" drv="Prc"/></compg>
    </mg>
    <mg ind="2th"><defNative>вогъяськись</defNative>
      <tg xml:lang="fin">
@@ -8101,7 +8101,7 @@
    <lg>
      <l pos="A;N">интыысь</l><orig>интыысь</orig>
    </lg>
-   <mg><drvg><inflect>elat. sanasta </inflect><stem>инты</stem></drvg>
+   <mg><compg><comp ord="E1">инты</comp><comp ord="E2">elat. sanasta</comp></compg>
      <tg xml:lang="fin">
        <t>paikasta, paikalta // paikallinen, paikallis=, paikkakunnan;</t>
      </tg>
@@ -8250,7 +8250,7 @@
    <lg>
      <l pos="Prc;A">йӧндырись</l><orig>йӧндырись</orig>
    </lg>
-   <mg ind="1th"><drvg><inflect type="Der/сь" drv="Prc"/><stem>йӧндырыны</stem></drvg>
+   <mg ind="1th"><compg><comp ord="E1" pos="V">йӧндырыны</comp><comp ord="E2" type="Der/сь" drv="Prc"/></compg>
    </mg>
    <mg ind="2th"><defNative>валась</defNative>
      <tg xml:lang="fin">
@@ -8335,7 +8335,7 @@
    <lg>
      <l pos="Prc;A">йӧнъяськись<rom ind="1"/></l>
    </lg>
-   <mg ind="1th"><drvg><inflect type="Der/сь" drv="Prc"/><stem>йӧнъяськыны <rom ind="1"/>; </stem></drvg>
+   <mg ind="1th"><compg><inflect type="Der/сь" drv="Prc"/><stem>йӧнъяськыны <rom ind="1"/>; </stem></compg>
    </mg>
    <mg ind="2th"><defNative>вылтӥяськись</defNative>
      <tg xml:lang="fin">
@@ -8347,7 +8347,7 @@
    <lg>
      <l pos="Prc">йӧнъяськись<rom ind="2"/></l>
    </lg>
-   <mg><drvg><inflect type="Der/сь" drv="Prc"/><font face="SmolenskSGR"><b>йӧнъяськыны<rom ind="2"/></b></font></drvg>
+   <mg><compg><inflect type="Der/сь" drv="Prc"/><font face="SmolenskSGR"><b>йӧнъяськыны<rom ind="2"/></b></font></compg>
    </mg>
 </e>
 <e>
@@ -8574,7 +8574,7 @@
    <lg>
      <l pos="Prc;A">йыркуръяськись</l><orig>йыркуръяськись</orig>
    </lg>
-   <mg ind="1th"><drvg><inflect type="Der/сь" drv="Prc"/><stem>йыркуръяськыны</stem></drvg>
+   <mg ind="1th"><compg><comp ord="E1" pos="V">йыркуръяськыны</comp><comp ord="E2" type="Der/сь" drv="Prc"/></compg>
    </mg>
    <mg ind="2th">
      <tg xml:lang="fin">
@@ -9105,7 +9105,7 @@
    <lg>
      <l pos="Prc">кепырась</l><orig>кепырась</orig>
    </lg>
-   <mg ind="1th"><drvg><inflect type="Der/сь" drv="Prc"/><stem>кепыраны</stem></drvg>
+   <mg ind="1th"><compg><comp ord="E1" pos="V">кепыраны</comp><comp ord="E2" type="Der/сь" drv="Prc"/></compg>
    </mg>
    <mg ind="2th">
      <tg xml:lang="fin">
@@ -9272,7 +9272,7 @@
    <lg>
      <l pos="Prc;A">кисьмам</l><orig>кисьмам</orig>
    </lg>
-   <mg ind="1th"><drvg><inflect type="Der/Эм" drv="Prc;V»N"/><stem>кисьманы</stem></drvg>
+   <mg ind="1th"><compg><comp ord="E1">кисьманы</comp><comp ord="E2" type="Der/Эм" drv="Prc;V»N"/></compg>
    </mg>
    <mg ind="2th"><defNative>вуэм</defNative>
      <tg xml:lang="fin">
@@ -9862,7 +9862,7 @@
    <lg>
      <l pos="Prc;A">кӧберась</l><orig>кӧберась</orig>
    </lg>
-   <mg ind="1th"><drvg><inflect type="Der/сь" drv="Prc"/><stem>кӧбераны</stem></drvg>
+   <mg ind="1th"><compg><comp ord="E1" pos="V">кӧбераны</comp><comp ord="E2" type="Der/сь" drv="Prc"/></compg>
    </mg>
    <mg ind="2th"><defNative>кепырась</defNative>
      <tg xml:lang="fin">
@@ -9946,7 +9946,7 @@
    <lg>
      <l pos="Prc;A;N">кӧчись</l><orig>кӧчись</orig>
    </lg>
-   <mg ind="1th"><drvg><inflect type="Der/сь" drv="Prc"/><stem>кӧчыны</stem></drvg>
+   <mg ind="1th"><compg><comp ord="E1" pos="V">кӧчыны</comp><comp ord="E2" type="Der/сь" drv="Prc"/></compg>
    </mg>
    <mg ind="2th"><defNative>кӧчыса ветлӥсь</defNative>
      <tg xml:lang="fin">
@@ -9967,7 +9967,7 @@
    <lg>
      <l pos="Prc;A">кӧшкемась</l><orig>кӧшкемась</orig>
    </lg>
-   <mg ind="1th"><drvg><inflect type="Der/сь" drv="Prc"/><stem>кӧшкеманы</stem></drvg>
+   <mg ind="1th"><compg><comp ord="E1" pos="V">кӧшкеманы</comp><comp ord="E2" type="Der/сь" drv="Prc"/></compg>
    </mg>
    <mg ind="2th">
      <tg xml:lang="fin">
@@ -10206,7 +10206,7 @@
    <lg>
      <l pos="Prc;A;N">кудӟем</l><orig>кудӟем</orig>
    </lg>
-   <mg ind="1th"><drvg><inflect type="Der/Эм" drv="Prc"/><stem>кудӟыны</stem></drvg>
+   <mg ind="1th"><compg><comp ord="E1" pos="V">кудӟыны</comp><comp ord="E2" type="Der/Эм" drv="Prc"/></compg>
    </mg>
    <mg ind="2th"><defNative>юэм, кудӟемын</defNative>
      <tg xml:lang="fin">
@@ -10602,7 +10602,7 @@
    <lg>
      <l pos="Prc">кунам</l><orig>кунам</orig>
    </lg>
-   <mg ind="1th"><drvg><inflect type="Der/Эм" drv="Prc;V»N"/><stem>кунаны</stem></drvg>
+   <mg ind="1th"><compg><comp ord="E1">кунаны</comp><comp ord="E2" type="Der/Эм" drv="Prc;V»N"/></compg>
    </mg>
    <mg ind="2th">
      <tg xml:lang="fin">
@@ -10653,7 +10653,7 @@
    <lg>
      <l pos="Prc;A">курмем</l><orig>курмем</orig>
    </lg>
-   <mg ind="1th"><drvg><inflect type="Der/Эм" drv="Prc"/><stem>курмыны</stem></drvg>
+   <mg ind="1th"><compg><comp ord="E1" pos="V">курмыны</comp><comp ord="E2" type="Der/Эм" drv="Prc"/></compg>
    </mg>
    <mg ind="2th">
      <tg xml:lang="fin">
@@ -10818,7 +10818,7 @@
    <lg>
      <l pos="Prc">кыдыртон</l><orig>кыдыртон</orig>
    </lg>
-   <mg><drvg><inflect type="Der/Он" drv="V»N"/><stem>кыдыртыны</stem></drvg>
+   <mg><compg><comp ord="E1" pos="V">кыдыртыны</comp><comp ord="E2" type="Der/Он" drv="V»N"/></compg>
    </mg>
 </e>
 <e>
@@ -10839,7 +10839,7 @@
    <lg>
      <l pos="Prc;A">кыжмем</l><orig>кыжмем</orig>
    </lg>
-   <mg ind="1th"><drvg><inflect type="Der/Эм" drv="Prc"/><stem>кыжмыны</stem></drvg>
+   <mg ind="1th"><compg><comp ord="E1" pos="V">кыжмыны</comp><comp ord="E2" type="Der/Эм" drv="Prc"/></compg>
    </mg>
    <mg ind="2th">
      <tg xml:lang="fin">
@@ -11058,7 +11058,7 @@
    <lg>
      <l pos="Prc;N;A">кылзӥськись</l><orig>кылзӥськись</orig>
    </lg>
-   <mg ind="1th"><drvg><inflect type="Der/сь" drv="Prc"/><stem>кылзӥськыны</stem></drvg>
+   <mg ind="1th"><compg><comp ord="E1" pos="V">кылзӥськыны</comp><comp ord="E2" type="Der/сь" drv="Prc"/></compg>
    </mg>
    <mg ind="2th"><note><i>s.</i></note>
      <tg xml:lang="fin">
@@ -11177,7 +11177,7 @@
    <lg>
      <l pos="Prc">кысконо</l><orig>кысконо</orig>
    </lg>
-   <mg><drvg><inflect type="Der/Оно" drv="Prc"/><stem>кыскыны</stem></drvg>
+   <mg><compg><comp ord="E1" pos="V">кыскыны</comp><comp ord="E2" type="Der/Оно" drv="Prc"/></compg>
      <xg><x>кысконо скал</x>
        <xt xml:lang="fin">lypsylehmä</xt>
      </xg>
@@ -11264,7 +11264,7 @@
    <lg>
      <l pos="Prc;A">кышкатскись</l><orig>кышкатскись</orig>
    </lg>
-   <mg ind="1th"><drvg><inflect type="Der/сь" drv="Prc"/><stem>кышкатскыны</stem></drvg>
+   <mg ind="1th"><compg><comp ord="E1" pos="V">кышкатскыны</comp><comp ord="E2" type="Der/сь" drv="Prc"/></compg>
    </mg>
    <mg ind="2th">
      <tg xml:lang="fin">
@@ -11703,7 +11703,7 @@
    <lg>
      <l pos="Prc;A">луоно</l><orig>луоно</orig>
    </lg>
-   <mg ind="1th"><drvg><inflect type="Der/Оно" drv="Prc"/><stem>луыны</stem></drvg>
+   <mg ind="1th"><compg><comp ord="E1" pos="V">луыны</comp><comp ord="E2" type="Der/Оно" drv="Prc"/></compg>
    </mg>
    <mg ind="2th">
      <tg xml:lang="fin">
@@ -11788,7 +11788,7 @@
    <lg>
      <l pos="Ger;Po">луыса</l><orig>луыса</orig>
    </lg>
-   <mg ind="1th"><drvg><inflect>ger. v:stä </inflect><stem>луыны</stem></drvg>
+   <mg ind="1th"><compg><comp ord="E1">луыны</comp><comp ord="E2">ger. v:stä</comp></compg>
      <tg xml:lang="fin">
        <t>ollen</t>
      </tg>
@@ -11970,7 +11970,7 @@
    <lg>
      <l pos="Prc;A">лякиськись</l><orig>лякиськись</orig>
    </lg>
-   <mg ind="1th"><drvg><inflect type="Der/сь" drv="Prc"/><stem>лякиськыны</stem></drvg>
+   <mg ind="1th"><compg><comp ord="E1" pos="V">лякиськыны</comp><comp ord="E2" type="Der/сь" drv="Prc"/></compg>
    </mg>
    <mg ind="2th">
      <tg xml:lang="fin">
@@ -12098,7 +12098,7 @@
    <lg>
      <l pos="Pron">мазэ</l><orig>мазэ</orig>
    </lg>
-   <mg><drvg><inflect>akk. pron:sta </inflect><stem>маиз</stem></drvg>
+   <mg><compg><comp ord="E1">маиз</comp><comp ord="E2">akk. pron:sta</comp></compg>
      <tg xml:lang="fin">
        <t>mitä, mikä</t>
      </tg>
@@ -12227,7 +12227,7 @@
    <lg>
      <l pos="Prc;A">малпаськись</l><orig>малпаськись</orig>
    </lg>
-   <mg ind="1th"><drvg><inflect type="Der/сь" drv="Prc"/><stem>малпаськыны</stem></drvg>
+   <mg ind="1th"><compg><comp ord="E1" pos="V">малпаськыны</comp><comp ord="E2" type="Der/сь" drv="Prc"/></compg>
    </mg>
    <mg ind="2th">
      <tg xml:lang="fin">
@@ -12266,7 +12266,7 @@
    <lg>
      <l pos="Prc">мальдытӥсь</l><orig>мальдытӥсь</orig>
    </lg>
-   <mg ind="1th"><drvg><inflect type="Der/сь" drv="Prc"/><stem>мальдытыны</stem></drvg>
+   <mg ind="1th"><compg><comp ord="E1" pos="V">мальдытыны</comp><comp ord="E2" type="Der/сь" drv="Prc"/></compg>
    </mg>
    <mg ind="2th">
      <tg xml:lang="fin">
@@ -12617,7 +12617,7 @@
    <lg>
      <l pos="Prc;A">мертчись</l><orig>мертчись</orig>
    </lg>
-   <mg ind="1th"><drvg><inflect type="Der/сь" drv="Prc"/><stem>мертчыны</stem></drvg>
+   <mg ind="1th"><compg><comp ord="E1" pos="V">мертчыны</comp><comp ord="E2" type="Der/сь" drv="Prc"/></compg>
    </mg>
    <mg ind="2th"><defNative>лэчыт</defNative>
      <tg xml:lang="fin">
@@ -12681,7 +12681,7 @@
    <lg>
      <l pos="Pron">милемды</l><orig>милемды</orig>
    </lg>
-   <mg><drvg><inflect>akk. pron:sta </inflect><stem>ми</stem></drvg>
+   <mg><compg><comp ord="E1">ми</comp><comp ord="E2">akk. pron:sta</comp></compg>
      <tg xml:lang="fin">
        <t>meidät, meitä</t>
      </tg>
@@ -12691,7 +12691,7 @@
    <lg>
      <l pos="Pron">милемлы</l><orig>милемлы</orig>
    </lg>
-   <mg><drvg><inflect>dat. pron:sta </inflect><stem>ми</stem></drvg>
+   <mg><compg><comp ord="E1">ми</comp><comp ord="E2">dat. pron:sta</comp></compg>
      <tg xml:lang="fin">
        <t>meille; meidän</t>
      </tg>
@@ -12711,7 +12711,7 @@
    <lg>
      <l pos="Pron">милям</l><orig>милям</orig>
    </lg>
-   <mg ind="1th"><drvg><inflect>gen. pron:sta </inflect><stem>ми</stem></drvg>
+   <mg ind="1th"><compg><comp ord="E1">ми</comp><comp ord="E2">gen. pron:sta</comp></compg>
      <tg xml:lang="fin">
        <t>meillä</t>
      </tg>
@@ -12820,7 +12820,7 @@
    <lg>
      <l pos="Prc;A">монъяськись</l><orig>монъяськись</orig>
    </lg>
-   <mg ind="1th"><drvg><inflect type="Der/сь" drv="Prc"/><stem>монъяськыны</stem></drvg>
+   <mg ind="1th"><compg><comp ord="E1" pos="V">монъяськыны</comp><comp ord="E2" type="Der/сь" drv="Prc"/></compg>
    </mg>
    <mg ind="2th">
      <tg xml:lang="fin">
@@ -12832,7 +12832,7 @@
    <lg>
      <l pos="Pron">монэ</l><orig>монэ</orig>
    </lg>
-   <mg><drvg><inflect>akk. pron:sta </inflect><stem>мон</stem></drvg>
+   <mg><compg><comp ord="E1">мон</comp><comp ord="E2">akk. pron:sta</comp></compg>
      <tg xml:lang="fin">
        <t>minut, minua</t>
      </tg>
@@ -12845,7 +12845,7 @@
        <l_syn>монэным</l_syn>
      </variants>
    </lg>
-   <mg><drvg><inflect>instr. pron:sta </inflect><stem>мон</stem></drvg>
+   <mg><compg><comp ord="E1">мон</comp><comp ord="E2">instr. pron:sta</comp></compg>
      <tg xml:lang="fin">
        <t>minun kanssani</t>
      </tg>
@@ -12858,7 +12858,7 @@
        <l_syn>монэн</l_syn>
      </variants>
    </lg>
-   <mg><drvg><inflect>instr. pron:sta </inflect><stem>мон</stem></drvg>
+   <mg><compg><comp ord="E1">мон</comp><comp ord="E2">instr. pron:sta</comp></compg>
      <tg xml:lang="fin">
        <t>minun kanssani</t>
      </tg>
@@ -13076,7 +13076,7 @@
    <lg>
      <l pos="Prc;A">мылем</l><orig>мылем</orig>
    </lg>
-   <mg ind="1th"><drvg><inflect type="Der/Эм" drv="Prc"/><stem>мыльыны</stem></drvg>
+   <mg ind="1th"><compg><comp ord="E1" pos="V">мыльыны</comp><comp ord="E2" type="Der/Эм" drv="Prc"/></compg>
    </mg>
    <mg ind="2th"><defNative>мултэс, кылем</defNative>
      <tg xml:lang="fin">
@@ -13167,7 +13167,7 @@
    <lg>
      <l pos="Pron">мынам</l><orig>мынам</orig>
    </lg>
-   <mg ind="1th"><drvg><inflect>gen. pron:sta </inflect><stem>мон</stem></drvg>
+   <mg ind="1th"><compg><comp ord="E1">мон</comp><comp ord="E2">gen. pron:sta</comp></compg>
      <tg xml:lang="fin">
        <t>minulla;</t>
      </tg>
@@ -13204,7 +13204,7 @@
    <lg>
      <l pos="Pron">мыным</l><orig>мыным</orig>
    </lg>
-   <mg><drvg><inflect>dat. pron:sta </inflect><stem>мон</stem></drvg>
+   <mg><compg><comp ord="E1">мон</comp><comp ord="E2">dat. pron:sta</comp></compg>
      <tg xml:lang="fin">
        <t>minulle; minun</t>
      </tg>
@@ -13214,7 +13214,7 @@
    <lg>
      <l pos="Pron">мынэсьтым</l><orig>мынэсьтым</orig>
    </lg>
-   <mg ind="1th"><drvg><inflect>abl. pron:sta </inflect><stem>мон</stem></drvg>
+   <mg ind="1th"><compg><comp ord="E1">мон</comp><comp ord="E2">abl. pron:sta</comp></compg>
      <tg xml:lang="fin">
        <t>minulta</t>
      </tg>
@@ -13489,7 +13489,7 @@
    <lg>
      <l pos="Prc;A">наштаськись</l><orig>наштаськись</orig>
    </lg>
-   <mg ind="1th"><drvg><inflect type="Der/сь" drv="Prc"/><stem>наштаськыны</stem></drvg>
+   <mg ind="1th"><compg><comp ord="E1" pos="V">наштаськыны</comp><comp ord="E2" type="Der/сь" drv="Prc"/></compg>
    </mg>
    <mg ind="2th">
      <tg xml:lang="fin">
@@ -13531,7 +13531,7 @@
    <lg>
      <l pos="Prc;A">небӟем</l><orig>небӟем</orig>
    </lg>
-   <mg ind="1th"><drvg><inflect type="Der/Эм" drv="Prc"/><stem>небӟыны</stem></drvg>
+   <mg ind="1th"><compg><comp ord="E1" pos="V">небӟыны</comp><comp ord="E2" type="Der/Эм" drv="Prc"/></compg>
    </mg>
    <mg ind="2th"><field>kiel.</field>
      <tg xml:lang="fin">
@@ -14325,7 +14325,7 @@
    <lg>
      <l pos="Prc;A">нумырӟем</l><orig>нумырӟем</orig>
    </lg>
-   <mg ind="1th"><drvg><inflect type="Der/Эм" drv="Prc;V»N"/><stem>нумырӟыны</stem></drvg>
+   <mg ind="1th"><compg><comp ord="E1">нумырӟыны</comp><comp ord="E2" type="Der/Эм" drv="Prc;V»N"/></compg>
    </mg>
    <mg ind="2th">
      <tg xml:lang="fin">
@@ -14340,7 +14340,7 @@
    <lg>
      <l pos="Prc;A">нуныяськись</l><orig>нуныяськись</orig>
    </lg>
-   <mg ind="1th"><drvg><inflect type="Der/сь" drv="Prc"/><stem>нуныяськыны</stem></drvg>
+   <mg ind="1th"><compg><comp ord="E1" pos="V">нуныяськыны</comp><comp ord="E2" type="Der/сь" drv="Prc"/></compg>
    </mg>
    <mg ind="2th"><defNative>мусояськись</defNative>
      <tg xml:lang="fin">
@@ -14650,7 +14650,7 @@
    <lg>
      <l pos="Prc;N;A">нярӟем</l><orig>нярӟем</orig>
    </lg>
-   <mg ind="1th"><drvg><inflect type="Der/Эм" drv="Prc;V»N"/><stem>нярӟыны</stem></drvg>
+   <mg ind="1th"><compg><comp ord="E1">нярӟыны</comp><comp ord="E2" type="Der/Эм" drv="Prc;V»N"/></compg>
    </mg>
    <mg ind="2th">
      <tg xml:lang="fin">
@@ -15113,7 +15113,7 @@
    <lg>
      <l pos="Prc">огъясь</l><orig>огъясь</orig>
    </lg>
-   <mg><drvg><inflect type="Der/сь" drv="Prc"/><stem>огъяны </stem></drvg>◊ <font face="SmolenskSGR"><b>огъясь лыдним </b></font><field>kiel.</field>
+   <mg><compg><comp ord="E1" pos="V">огъяны</comp><comp ord="E2" type="Der/сь" drv="Prc"/></compg>◊ <font face="SmolenskSGR"><b>огъясь лыдним </b></font><field>kiel.</field>
      <tg xml:lang="fin">
        <t>kollektiivilukusana</t>
      </tg>
@@ -15793,7 +15793,7 @@
    <lg>
      <l pos="Prc;A;N">оскись</l><orig>оскись</orig>
    </lg>
-   <mg ind="1th"><drvg><inflect type="Der/сь" drv="Prc"/><stem>оскыны</stem></drvg>
+   <mg ind="1th"><compg><comp ord="E1" pos="V">оскыны</comp><comp ord="E2" type="Der/сь" drv="Prc"/></compg>
    </mg>
    <mg ind="2th"><font face="SmolenskSGR">(<i>капчиен оскись</i>)</font>
      <tg xml:lang="fin">
@@ -16286,7 +16286,7 @@
    <lg>
      <l pos="Prc;A;N">пелляськись</l><orig>пелляськись</orig>
    </lg>
-   <mg ind="1th"><drvg><inflect type="Der/сь" drv="Prc"/><stem>пелляськыны</stem></drvg>
+   <mg ind="1th"><compg><comp ord="E1" pos="V">пелляськыны</comp><comp ord="E2" type="Der/сь" drv="Prc"/></compg>
    </mg>
    <mg ind="2th"><defNative>куазь с-сь</defNative>
      <tg xml:lang="fin">
@@ -16401,7 +16401,7 @@
      <l pos="Prc;A;N">пишмымтэ</l><orig>пишмымтэ</orig>
    </lg>
    <mg><range>puhek.</range>
-   <mg ind="1th"/><drvg><inflect type="Der/Эмтэ" drv="Prc"/><stem>пишмыны</stem></drvg>
+   <mg ind="1th"/><compg><comp ord="E1" pos="V">пишмыны</comp><comp ord="E2" type="Der/Эмтэ" drv="Prc"/></compg>
    </mg>
    <mg ind="2th"><defNative>удалтымтэ</defNative>
      <tg xml:lang="fin">
@@ -16511,75 +16511,9 @@
 </e>
 <e>
    <lg>
-     <l pos="N;A">пожарной</l><orig>пожаʼрной</orig>
-   </lg>
-   <mg>
-     <tg xml:lang="fin">
-       <t>palomies, palokuntalainen // palo=, tulipalon;</t>
-     </tg>
-     <xg><x>пожарной команда</x>
-       <xt xml:lang="fin">palokunta;</xt>
-     </xg>
-     <xg><x>пожарной машина</x>
-       <xt xml:lang="fin">paloauto;</xt>
-     </xg>
-   </mg>
-</e>
-<e>
-   <lg>
-     <l pos="V(V::V)">позорить: позорить карыны</l>
-   </lg>
-   <mg>
-     <tg xml:lang="fin">
-       <t>häpäistä, häväistä</t>
-     </tg>
-   </mg>
-</e>
-<e>
-   <lg>
-     <l pos="A;Adv">полэс</l><orig>полэс</orig>
-   </lg>
-   <mg ind="1th">
-     <tg xml:lang="fin">
-       <t>=kertainen;</t>
-     </tg>
-     <xg><x>одӥг полэс</x>
-       <xt xml:lang="fin">yksinkertainen;</xt>
-     </xg>
-     <xg><x>уно полэс</x>
-       <xt xml:lang="fin">moninkertainen</xt>
-     </xg>
-   </mg>
-   <mg ind="2th"><defNative>коже</defNative>
-     <tg xml:lang="fin">
-       <t>vain, pelkästään;</t>
-     </tg>
-     <xg><x>дэрем полэс</x>
-       <xt xml:lang="fin">vain paita yllä</xt>
-     </xg>◊ <font face="SmolenskSGR"><b>йыр полэс </b></font><range>murt.</range>
-     <tg xml:lang="fin">
-       <t>paljain päin; avopäinen</t>
-     </tg>
-   </mg>
-</e>
-<e>
-   <lg>
-     <l pos="N;A">пор</l><orig>пор</orig>
-   </lg>
-   <mg>
-     <tg xml:lang="fin">
-       <t>mari(lainen);</t>
-     </tg>
-     <xg><x>пор кыл</x>
-       <xt xml:lang="fin">mari(n kieli)</xt>
-     </xg>
-   </mg>
-</e>
-<e>
-   <lg>
      <l pos="Prc;N;A">посэм</l><orig>посэм</orig>
    </lg>
-   <mg ind="1th"><drvg><inflect type="Der/Эм" drv="Prc;V»N"/><stem>посыны</stem></drvg>
+   <mg ind="1th"><compg><comp ord="E1">посыны</comp><comp ord="E2" type="Der/Эм" drv="Prc;V»N"/></compg>
    </mg>
    <mg ind="2th"><defNative>дӥсь, кагаз</defNative>
      <tg xml:lang="fin">
@@ -16597,7 +16531,7 @@
    <lg>
      <l pos="Prc;A;N">пӧдылляськись</l><orig>пӧдылляськись</orig>
    </lg>
-   <mg ind="1th"><drvg><inflect type="Der/сь" drv="Prc"/><stem>пӧдылляськыны</stem></drvg>
+   <mg ind="1th"><compg><comp ord="E1" pos="V">пӧдылляськыны</comp><comp ord="E2" type="Der/сь" drv="Prc"/></compg>
    </mg>
    <mg ind="2th">
      <tg xml:lang="fin">
@@ -16779,7 +16713,7 @@
    <lg>
      <l pos="Prc;A">пӧрмымтэ</l><orig>пӧрмымтэ</orig>
    </lg>
-   <mg ind="1th"><drvg><inflect type="Der/Эмтэ" drv="Prc"/><stem>пӧрмыны</stem></drvg>
+   <mg ind="1th"><compg><comp ord="E1" pos="V">пӧрмыны</comp><comp ord="E2" type="Der/Эмтэ" drv="Prc"/></compg>
    </mg>
    <mg ind="2th"><defNative>удалтымтэ</defNative>
      <tg xml:lang="fin">
@@ -16802,7 +16736,7 @@
    <lg>
      <l pos="Prc;N;A">пӧртмаськись</l><orig>пӧртмаськись</orig>
    </lg>
-   <mg ind="1th"><drvg><inflect type="Der/сь" drv="Prc"/><stem>пӧртмаськыны</stem></drvg>
+   <mg ind="1th"><compg><comp ord="E1" pos="V">пӧртмаськыны</comp><comp ord="E2" type="Der/сь" drv="Prc"/></compg>
    </mg>
    <mg ind="2th"><defNative>к-сь ишан</defNative>
      <tg xml:lang="fin">
@@ -16911,7 +16845,7 @@
    <lg>
      <l pos="Prc;N;A">пужмертэм<rom ind="1"/></l>
    </lg>
-   <mg ind="1th"><drvg><inflect type="Der/Эм" drv="Prc;V»N"/><stem>пужмертыны</stem></drvg>
+   <mg ind="1th"><compg><comp ord="E1">пужмертыны</comp><comp ord="E2" type="Der/Эм" drv="Prc;V»N"/></compg>
    </mg>
    <mg ind="2th"><defNative>пужмеро</defNative>
      <tg xml:lang="fin">
@@ -17123,7 +17057,7 @@
    <lg>
      <l pos="Prc;N;A">пурысьтам</l><orig>пурысьтам</orig>
    </lg>
-   <mg ind="1th"><drvg><inflect type="Der/Эм" drv="Prc;V»N"/><stem>пурысьтаны</stem></drvg>
+   <mg ind="1th"><compg><comp ord="E1">пурысьтаны</comp><comp ord="E2" type="Der/Эм" drv="Prc;V»N"/></compg>
    </mg>
    <mg ind="2th"><defNative>йырси с-сь</defNative>
      <tg xml:lang="fin">
@@ -17348,7 +17282,7 @@
    <lg>
      <l pos="Prc;A">пыкмем</l><orig>пыкмем</orig>
    </lg>
-   <mg ind="1th"><drvg><inflect type="Der/Эм" drv="Prc;V»N"/><stem>пыкмыны</stem></drvg>
+   <mg ind="1th"><compg><comp ord="E1">пыкмыны</comp><comp ord="E2" type="Der/Эм" drv="Prc;V»N"/></compg>
    </mg>
    <mg ind="2th"><defNative>зынмем</defNative>
      <tg xml:lang="fin">
@@ -18111,7 +18045,7 @@
    <lg>
      <l pos="Pron">соин</l><orig>соин</orig>
    </lg>
-   <mg ind="1th"><drvg><inflect>instr. pron:sta </inflect><stem>со</stem></drvg>
+   <mg ind="1th"><compg><comp ord="E1">со</comp><comp ord="E2">instr. pron:sta</comp></compg>
      <tg xml:lang="fin">
        <t>hänen (t. sen) kanssa, hänellä, sillä;</t>
      </tg>
@@ -18138,7 +18072,7 @@
    <lg>
      <l pos="Pron">солэсь</l><orig>солэсь</orig>
    </lg>
-   <mg ind="1th"><drvg><inflect>abl. pron:sta </inflect><stem>со</stem></drvg>
+   <mg ind="1th"><compg><comp ord="E1">со</comp><comp ord="E2">abl. pron:sta</comp></compg>
      <tg xml:lang="fin">
        <t>häneltä; siltä</t>
      </tg>
@@ -18433,7 +18367,7 @@
    <lg>
      <l pos="Prc;A">сылалтэм<rom ind="2"/></l>
    </lg>
-   <mg ind="1th"><drvg><inflect type="Der/Эм" drv="Prc;V»N"/><stem>сылалтыны</stem></drvg>
+   <mg ind="1th"><compg><comp ord="E1">сылалтыны</comp><comp ord="E2" type="Der/Эм" drv="Prc;V»N"/></compg>
    </mg>
    <mg ind="2th">
      <tg xml:lang="fin">
@@ -18448,7 +18382,7 @@
    <lg>
      <l pos="Prc;N;A">сыномем</l><orig>сыномем</orig>
    </lg>
-   <mg ind="1th"><drvg><inflect type="Der/Эм" drv="Prc;V»N"/><stem>сыномыны</stem></drvg>
+   <mg ind="1th"><compg><comp ord="E1">сыномыны</comp><comp ord="E2" type="Der/Эм" drv="Prc;V»N"/></compg>
    </mg>
    <mg ind="2th">
      <tg xml:lang="fin">
@@ -18476,7 +18410,7 @@
    <lg>
      <l pos="Prc">сыръясь</l><orig>сыръясь</orig>
    </lg>
-   <mg ind="1th"><drvg><inflect type="Der/сь" drv="Prc"/><stem>сыръяны</stem></drvg>
+   <mg ind="1th"><compg><comp ord="E1" pos="V">сыръяны</comp><comp ord="E2" type="Der/сь" drv="Prc"/></compg>
    </mg>
    <mg ind="2th">
      <tg xml:lang="fin">
@@ -19257,7 +19191,7 @@
    <lg>
      <l pos="Prc">сяськаяськись</l><orig>сяськаяськись</orig>
    </lg>
-   <mg ind="1th"><drvg><inflect type="Der/сь" drv="Prc"/><stem>сяськаяськыны</stem></drvg>
+   <mg ind="1th"><compg><comp ord="E1" pos="V">сяськаяськыны</comp><comp ord="E2" type="Der/сь" drv="Prc"/></compg>
    </mg>
    <mg ind="2th"><senseType>kuv.</senseType><defNative>чеберскем; умой азинскем</defNative>
      <tg xml:lang="fin">
@@ -19313,7 +19247,7 @@
    <lg>
      <l pos="Pron">таин</l><orig>таин</orig>
    </lg>
-   <mg ind="1th"><drvg><inflect>instr. pron:sta </inflect><stem>та</stem></drvg>
+   <mg ind="1th"><compg><comp ord="E1">та</comp><comp ord="E2">instr. pron:sta</comp></compg>
      <tg xml:lang="fin">
        <t>tämän kanssa, tällä;</t>
      </tg><font face="SmolenskSGR"><b>таин ӵош ик </b></font><mwemg ind="1th"/>
@@ -19521,7 +19455,7 @@
        <l_syn>тӥленыды</l_syn>
      </variants>
    </lg>
-   <mg><drvg><inflect>instr. pron:sta </inflect><stem>тӥ</stem></drvg>
+   <mg><compg><comp ord="E1">тӥ</comp><comp ord="E2">instr. pron:sta</comp></compg>
      <tg xml:lang="fin">
        <t>teidän kanssanne;</t>
      </tg>
@@ -19537,7 +19471,7 @@
        <l_syn>тӥледын</l_syn>
      </variants>
    </lg>
-   <mg><drvg><inflect>instr. pron:sta </inflect><stem>тӥ</stem></drvg>
+   <mg><compg><comp ord="E1">тӥ</comp><comp ord="E2">instr. pron:sta</comp></compg>
      <tg xml:lang="fin">
        <t>teidän kanssanne;</t>
      </tg>
@@ -19550,7 +19484,7 @@
    <lg>
      <l pos="Pron">тӥлесьтыд</l><orig>тӥлесьтыд</orig>
    </lg>
-   <mg ind="1th"><drvg><inflect>abl. pron:sta </inflect><stem>тӥ</stem></drvg>
+   <mg ind="1th"><compg><comp ord="E1">тӥ</comp><comp ord="E2">abl. pron:sta</comp></compg>
      <tg xml:lang="fin">
        <t>teiltä</t>
      </tg>
@@ -19568,7 +19502,7 @@
    <lg>
      <l pos="Pron">тӥляд</l><orig>тӥляд</orig>
    </lg>
-   <mg ind="1th"><drvg><inflect>gen. pron:sta </inflect><stem>тӥ</stem></drvg>
+   <mg ind="1th"><compg><comp ord="E1">тӥ</comp><comp ord="E2">gen. pron:sta</comp></compg>
      <tg xml:lang="fin">
        <t>teillä</t>
      </tg>
@@ -19606,7 +19540,7 @@
    <lg>
      <l pos="Prc;A">тӥяськись</l><orig>тӥяськись</orig>
    </lg>
-   <mg ind="1th"><drvg><inflect type="Der/сь" drv="Prc"/><stem>тӥяськыны</stem></drvg>
+   <mg ind="1th"><compg><comp ord="E1" pos="V">тӥяськыны</comp><comp ord="E2" type="Der/сь" drv="Prc"/></compg>
    </mg>
    <mg ind="2th">
      <tg xml:lang="fin">
@@ -19618,7 +19552,7 @@
    <lg>
      <l pos="Prc;A">тодӥсь</l><orig>тодӥсь</orig>
    </lg>
-   <mg ind="1th"><drvg><inflect type="Der/сь" drv="Prc"/><stem>тодыны</stem></drvg>
+   <mg ind="1th"><compg><comp ord="E1" pos="V">тодыны</comp><comp ord="E2" type="Der/сь" drv="Prc"/></compg>
    </mg>
    <mg ind="2th">
      <tg xml:lang="fin">
@@ -19630,7 +19564,7 @@
    <lg>
      <l pos="Prc;A">тодӥсь-валась</l><orig>тодӥсь-валась</orig>
    </lg>
-   <mg ind="1th"><drvg><inflect type="Der/сь" drv="Prc"/><stem>тодыны-валаны</stem></drvg>
+   <mg ind="1th"><compg><comp ord="E1" pos="V">тодыны-валаны</comp><comp ord="E2" type="Der/сь" drv="Prc"/></compg>
    </mg>
    <mg ind="2th">
      <tg xml:lang="fin">
@@ -19684,7 +19618,7 @@
    <lg>
      <l pos="Prc;A">тӧласькись</l><orig>тӧласькись</orig>
    </lg>
-   <mg ind="1th"><drvg><inflect type="Der/сь" drv="Prc"/><stem>тӧласькыны</stem></drvg>
+   <mg ind="1th"><compg><comp ord="E1" pos="V">тӧласькыны</comp><comp ord="E2" type="Der/сь" drv="Prc"/></compg>
    </mg>
    <mg ind="2th">
      <tg xml:lang="fin">
@@ -19981,7 +19915,7 @@
    <lg>
      <l pos="Pron">тынад</l><orig>тынад</orig>
    </lg>
-   <mg ind="1th"><drvg><inflect>gen. pron:sta </inflect><stem>тон</stem></drvg>
+   <mg ind="1th"><compg><comp ord="E1">тон</comp><comp ord="E2">gen. pron:sta</comp></compg>
      <tg xml:lang="fin">
        <t>sinulla</t>
      </tg>
@@ -19997,7 +19931,7 @@
 </e>
 <e>
    <lg>
-     <l pos="Pron" type="Pers" case="Dat">тыныд</l> <drvg><inflect>dat. pron:sta </inflect><stem>тон</stem></drvg>
+     <l pos="Pron" type="Pers" case="Dat">тыныд</l> <compg><comp ord="E1">тон</comp><comp ord="E2">dat. pron:sta</comp></compg>
    </lg>
    <mg>
      <tg xml:lang="fin">
@@ -20009,7 +19943,7 @@
    <lg>
      <l pos="Pron">тынэсьтыд</l><orig>тынэсьтыд</orig>
    </lg>
-   <mg ind="1th"><drvg><inflect>abl. pron:sta </inflect><stem>тон</stem></drvg>
+   <mg ind="1th"><compg><comp ord="E1">тон</comp><comp ord="E2">abl. pron:sta</comp></compg>
      <tg xml:lang="fin">
        <t>sinulta</t>
      </tg>
@@ -20090,7 +20024,7 @@
    <lg>
      <l pos="Prc;A;N">тыршись</l><orig>тыршись</orig>
    </lg>
-   <mg ind="1th"><drvg><inflect type="Der/сь" drv="Prc"/><stem>тыршыны</stem></drvg>
+   <mg ind="1th"><compg><comp ord="E1" pos="V">тыршыны</comp><comp ord="E2" type="Der/сь" drv="Prc"/></compg>
    </mg>
    <mg ind="2th">
      <tg xml:lang="fin">
@@ -20191,7 +20125,7 @@
    <lg>
      <l pos="Prc;A;N">удалтэм</l><orig>удалтэм</orig>
    </lg>
-   <mg ind="1th"><drvg><inflect type="Der/Эм" drv="Prc;V»N"/><stem>удалтыны</stem></drvg>
+   <mg ind="1th"><compg><comp ord="E1">удалтыны</comp><comp ord="E2" type="Der/Эм" drv="Prc;V»N"/></compg>
    </mg>
    <mg ind="2th"><defNative>пӧрмем</defNative>
      <tg xml:lang="fin">
@@ -20237,7 +20171,7 @@
    <lg>
      <l pos="Prc;A;N">ужась</l><orig>ужась</orig>
    </lg>
-   <mg ind="1th"><drvg><inflect type="Der/сь" drv="Prc"/><stem>ужаны</stem></drvg>
+   <mg ind="1th"><compg><comp ord="E1" pos="V">ужаны</comp><comp ord="E2" type="Der/сь" drv="Prc"/></compg>
    </mg>
    <mg ind="2th"><defNative>ужаса улӥсь</defNative>
      <tg xml:lang="fin">
@@ -20621,7 +20555,7 @@
    <lg>
      <l pos="N;A">улон-вылон</l><orig>улон-вылон</orig>
    </lg>
-   <mg ind="1th"><drvg><inflect type="Der/он" drv="V»N"/><stem>улыны-вылыны</stem></drvg>
+   <mg ind="1th"><compg><comp ord="E1" pos="V">улыны-вылыны</comp><comp ord="E2" type="Der/он" drv="V»N"/></compg>
    </mg>
    <mg ind="2th"><defNative>улон</defNative>
      <tg xml:lang="fin">
@@ -20995,7 +20929,7 @@
    <lg>
      <l pos="Prc;N;A">урмем</l><orig>урмем</orig>
    </lg>
-   <mg ind="1th"><drvg><inflect type="Der/Эм" drv="V»N"/><stem>урмыны</stem></drvg>
+   <mg ind="1th"><compg><comp ord="E1" pos="V">урмыны</comp><comp ord="E2" type="Der/Эм" drv="V»N"/></compg>
    </mg>
    <mg ind="2th"> <field>lääk.</field><font face="SmolenskSGR">(<i>урмон висёнэн висись</i>)</font>
      <tg xml:lang="fin">
@@ -21015,7 +20949,7 @@
    <lg>
      <l pos="Prc">урттылӥськись</l><orig>урттылӥськись</orig>
    </lg>
-   <mg><drvg><inflect type="Der/сь" drv="Prc"/><stem>урттылӥськыны</stem></drvg>
+   <mg><compg><comp ord="E1" pos="V">урттылӥськыны</comp><comp ord="E2" type="Der/сь" drv="Prc"/></compg>
    </mg>
 </e>
 <e>
@@ -21998,7 +21932,7 @@
    <lg>
      <l pos="Prc;A">чигись</l><orig>чигись</orig>
    </lg>
-   <mg ind="1th"><drvg><inflect type="Der/сь" drv="Prc"/><stem>чигыны</stem></drvg>
+   <mg ind="1th"><compg><comp ord="E1" pos="V">чигыны</comp><comp ord="E2" type="Der/сь" drv="Prc"/></compg>
    </mg>
    <mg ind="2th">
      <tg xml:lang="fin">
@@ -22026,7 +21960,7 @@
    <lg>
      <l pos="Prc;A">чидась</l><orig>чидась</orig>
    </lg>
-   <mg ind="1th"><drvg><inflect type="Der/сь" drv="Prc"/><stem>чиданы</stem></drvg>
+   <mg ind="1th"><compg><comp ord="E1" pos="V">чиданы</comp><comp ord="E2" type="Der/сь" drv="Prc"/></compg>
    </mg>
    <mg ind="2th">
      <tg xml:lang="fin">
@@ -22051,7 +21985,7 @@
    <lg>
      <l pos="Prc;A">чильпырась</l><orig>чильпырась</orig>
    </lg>
-   <mg ind="1th"><drvg><inflect type="Der/сь" drv="Prc"/><stem>чильпыраны</stem></drvg>
+   <mg ind="1th"><compg><comp ord="E1" pos="V">чильпыраны</comp><comp ord="E2" type="Der/сь" drv="Prc"/></compg>
    </mg>
    <mg ind="2th"><defNative>пыртӥз адскись</defNative>
      <tg xml:lang="fin">
@@ -22350,7 +22284,7 @@
    <lg>
      <l pos="Prc;A;N">чурытась</l><orig>чурытась</orig>
    </lg>
-   <mg ind="1th"><drvg><inflect type="Der/сь" drv="Prc"/><stem>чурытаны</stem></drvg>
+   <mg ind="1th"><compg><comp ord="E1" pos="V">чурытаны</comp><comp ord="E2" type="Der/сь" drv="Prc"/></compg>
    </mg>
    <mg ind="2th"><senseType>kuv.</senseType><defNative>сук, жалясь</defNative>
      <tg xml:lang="fin">
@@ -22365,7 +22299,7 @@
    <lg>
      <l pos="Prc;A;N">чурытаськись</l><orig>чурытаськись</orig>
    </lg>
-   <mg ind="1th"><drvg><inflect type="Der/сь" drv="Prc"/><stem>чурытаськыны </stem></drvg>
+   <mg ind="1th"><compg><comp ord="E1" pos="V">чурытаськыны</comp><comp ord="E2" type="Der/сь" drv="Prc"/></compg>
    </mg>
    <mg ind="2th">
      <variants>
@@ -22446,7 +22380,7 @@
    <lg>
      <l pos="Prc;A;N">чутӥсь</l><orig>чутӥсь</orig>
    </lg>
-   <mg ind="1th"><drvg><inflect type="Der/сь" drv="Prc"/><stem>чутыны</stem></drvg>
+   <mg ind="1th"><compg><comp ord="E1" pos="V">чутыны</comp><comp ord="E2" type="Der/сь" drv="Prc"/></compg>
    </mg>
    <mg ind="2th">
      <tg xml:lang="fin">
@@ -22516,7 +22450,7 @@
    <lg>
      <l pos="Prc;A">чырсамтэ</l><orig>чырсамтэ</orig>
    </lg>
-   <mg ind="1th"><drvg><inflect type="Der/Эмтэ" drv="Prc"/><stem>чырсаны</stem></drvg>
+   <mg ind="1th"><compg><comp ord="E1" pos="V">чырсаны</comp><comp ord="E2" type="Der/Эмтэ" drv="Prc"/></compg>
    </mg>
    <mg ind="2th">
      <tg xml:lang="fin">
@@ -22547,7 +22481,7 @@
 </e>
 <e>
    <lg>
-     <l pos="Prc">ӵаштыртэм</l> <drvg><inflect type="Der/Эм" drv="Prc"/><stem>ӵаштыртыны</stem></drvg>
+     <l pos="Prc">ӵаштыртэм</l> <compg><comp ord="E1" pos="V">ӵаштыртыны</comp><comp ord="E2" type="Der/Эм" drv="Prc"/></compg>
    </lg>
    <mg ind="2th"><defNative>марлэн ке</defNative>
      <tg xml:lang="fin">
@@ -23092,7 +23026,7 @@
    <lg>
      <l pos="Prc;A;N">шекерскем</l><orig>шекерскем</orig>
    </lg>
-   <mg ind="1th"><drvg><inflect type="Der/Эм" drv="Prc"/><stem>шекерскыны</stem></drvg>
+   <mg ind="1th"><compg><comp ord="E1" pos="V">шекерскыны</comp><comp ord="E2" type="Der/Эм" drv="Prc"/></compg>
    </mg>
    <mg ind="2th"><font face="SmolenskSGR">(<i>кисыриё</i>) </font>
      <tg xml:lang="fin">
@@ -23160,7 +23094,7 @@
    <lg>
      <l pos="Prc;A">шенгыльтӥсь</l><orig>шенгыльтӥсь</orig>
    </lg>
-   <mg ind="1th"><drvg><inflect type="Der/сь" drv="Prc"/><stem>шенгыльтыны</stem></drvg>
+   <mg ind="1th"><compg><comp ord="E1" pos="V">шенгыльтыны</comp><comp ord="E2" type="Der/сь" drv="Prc"/></compg>
    </mg>
    <mg ind="2th"><defNative>к-сь &quot;р&quot; куараез мыдлань вера</defNative>
      <tg xml:lang="fin">
@@ -23632,7 +23566,7 @@
 </e>
 <e>
    <lg>
-     <l pos="Prc">шузимем</l> <drvg><inflect type="Der/Эм" drv="Prc"/><stem>шузимыны</stem></drvg>
+     <l pos="Prc">шузимем</l> <compg><comp ord="E1" pos="V">шузимыны</comp><comp ord="E2" type="Der/Эм" drv="Prc"/></compg>
    </lg>
    <mg ind="2th">
      <tg xml:lang="fin">
@@ -24533,7 +24467,7 @@
    <lg>
      <l pos="Prc;A">эскериськись</l><orig>эскериськись</orig>
    </lg>
-   <mg ind="1th"><drvg><inflect type="Der/сь" drv="Prc"/><stem>эскериськыны</stem></drvg>
+   <mg ind="1th"><compg><comp ord="E1" pos="V">эскериськыны</comp><comp ord="E2" type="Der/сь" drv="Prc"/></compg>
    </mg>
    <mg ind="2th"><defNative>ваньзэ чаклась-адӟись</defNative>
      <tg xml:lang="fin">
@@ -24578,7 +24512,7 @@
    <lg>
      <l pos="Prc">эстӥсь</l><orig>эстӥсь</orig>
    </lg>
-   <mg ind="1th"><drvg><inflect type="Der/сь" drv="Prc"/><stem>эстыны</stem></drvg>
+   <mg ind="1th"><compg><comp ord="E1" pos="V">эстыны</comp><comp ord="E2" type="Der/сь" drv="Prc"/></compg>
    </mg>
    <mg ind="2th"> <note><b>(</b></note><note><i>myös </i></note>
      <xg><x>гур эстӥсь)</x>
@@ -24726,7 +24660,7 @@
    <lg>
      <l pos="Prc;A">юзматӥсь</l><orig>юзматӥсь</orig>
    </lg>
-   <mg ind="1th"><drvg><inflect type="Der/сь" drv="Prc"/><stem>юзмытыны</stem></drvg>
+   <mg ind="1th"><compg><comp ord="E1" pos="V">юзмытыны</comp><comp ord="E2" type="Der/сь" drv="Prc"/></compg>
    </mg>
    <mg ind="2th">
      <tg xml:lang="fin">
@@ -24877,7 +24811,7 @@
    <lg>
      <l pos="Prc;A;N">юрдӥсь</l><orig>юрдӥсь</orig>
    </lg>
-   <mg ind="1th"><drvg><inflect type="Der/сь" drv="Prc"/><stem>юрдыны</stem></drvg>
+   <mg ind="1th"><compg><comp ord="E1" pos="V">юрдыны</comp><comp ord="E2" type="Der/сь" drv="Prc"/></compg>
    </mg>
    <mg ind="2th">
      <tg xml:lang="fin">
@@ -25262,7 +25196,7 @@
        <xt xml:lang="fin">onpa hyvä, että sinäkin tulit paikalle</xt>
      </xg>
    </mg>
-   <mg ind="3th"> <drvg><inflect type="Der/Эм" drv="Prc;V»N"/><stem>яраны</stem></drvg>
+   <mg ind="3th"> <compg><comp ord="E1">яраны</comp><comp ord="E2" type="Der/Эм" drv="Prc;V»N"/></compg>
    </mg>
 </e>
 <e>
@@ -25328,7 +25262,7 @@
    <lg>
      <l pos="Prc;A">ярась</l><orig>ярась</orig>
    </lg>
-   <mg ind="1th"><drvg><inflect type="Der/сь" drv="Prc"/><stem>яраны</stem></drvg>
+   <mg ind="1th"><compg><comp ord="E1" pos="V">яраны</comp><comp ord="E2" type="Der/сь" drv="Prc"/></compg>
    </mg>
    <mg ind="2th">
      <tg xml:lang="fin">
@@ -25343,7 +25277,7 @@
    <lg>
      <l pos="Prc;A;N">яратӥсь</l><orig>яратӥсь</orig>
    </lg>
-   <mg ind="1th"><drvg><inflect type="Der/сь" drv="Prc"/><stem>яратыны</stem></drvg>
+   <mg ind="1th"><compg><comp ord="E1" pos="V">яратыны</comp><comp ord="E2" type="Der/сь" drv="Prc"/></compg>
    </mg>
    <mg ind="2th"><defNative>эркеясь, мусо</defNative>
      <tg xml:lang="fin">
@@ -25381,7 +25315,7 @@
    <lg>
      <l pos="N;A">яратон</l><orig>яратон</orig>
    </lg>
-   <mg ind="1th"><drvg><inflect type="Der/он" drv="V»N"/><stem>яратыны</stem></drvg>
+   <mg ind="1th"><compg><comp ord="E1" pos="V">яратыны</comp><comp ord="E2" type="Der/он" drv="V»N"/></compg>
    </mg>
    <mg ind="2th">
      <tg xml:lang="fin">

@@ -32,7 +32,7 @@
      <tg xml:lang="fin">
        <t>on oikein varovainen ihminen</t>
      </tg><font face="SmolenskSGR"><b>чакласькон</b></font><FIX2/>
-   <mg ind="1th"/><drvg><inflect type="Der/Он" drv="V»N"/><stem>чакласькыны</stem></drvg>
+   <mg ind="1th"/><compg><comp ord="E1" pos="V">чакласькыны</comp><comp ord="E2" type="Der/Он" drv="V»N"/></compg>
    </mg>
    <mg ind="2th"><defNative>тодмет, оскон</defNative>
      <tg xml:lang="fin">
@@ -103,7 +103,7 @@
    <lg>
      <l pos="Prc;N">чакыртэм</l><orig>чакыртэм</orig>
    </lg>
-   <mg ind="1th"><drvg><inflect type="Der/Эм" drv="Prc;V»N"/><stem>чакыртыны</stem></drvg>
+   <mg ind="1th"><compg><comp ord="E1">чакыртыны</comp><comp ord="E2" type="Der/Эм" drv="Prc;V»N"/></compg>
    </mg>
    <mg ind="2th">
      <tg xml:lang="fin">
@@ -124,7 +124,7 @@
    <lg>
      <l pos="Prc;N">чалмем</l><orig>чалмем</orig>
    </lg>
-   <mg ind="1th"><drvg><inflect type="Der/Эм" drv="Prc;V»N"/><stem>чалмыны</stem></drvg>
+   <mg ind="1th"><compg><comp ord="E1">чалмыны</comp><comp ord="E2" type="Der/Эм" drv="Prc;V»N"/></compg>
    </mg>
    <mg ind="2th"><defNative>шып луэм</defNative>
      <tg xml:lang="fin">
@@ -427,7 +427,7 @@
    <mg>
      <tg xml:lang="fin">
        <t>nipistää</t>
-     </tg><font face="SmolenskSGR"><b>чепыльтон </b></font><drvg><inflect type="Der/Он" drv="V»N"/><stem>чепыльтыны</stem></drvg><FIX2/>
+     </tg><font face="SmolenskSGR"><b>чепыльтон </b></font><compg><comp ord="E1" pos="V">чепыльтыны</comp><comp ord="E2" type="Der/Он" drv="V»N"/></compg><FIX2/>
    </mg>
 </e>
 <e>
@@ -444,7 +444,7 @@
    <lg>
      <l pos="N">чигон</l><orig>чигон</orig>
    </lg>
-   <mg><drvg><inflect type="Der/Он" drv="V»N"/><stem>чигыны <FIX2/>чигтӥськон, чигтӥськыны</stem></drvg>
+   <mg><compg><inflect type="Der/Он" drv="V»N"/><stem>чигыны <FIX2/>чигтӥськон, чигтӥськыны</stem></compg>
      <variants>
        <l_syn type="&gt;">чигиськон, чигиськыны</l_syn>
      </variants>
@@ -496,7 +496,7 @@
    <lg>
      <l pos="Prc;N">чильыктэм</l><orig>чильыктыны</orig><FIX3/><!-- korjasin radikaalisti, T.K. -->
    </lg>
-   <mg ind="1th"><drvg><inflect>partis. v:stä</inflect><stem>чильыктыны</stem></drvg>
+   <mg ind="1th"><compg><comp ord="E1">чильыктыны</comp><comp ord="E2">partis. v:stä</comp></compg>
    </mg>
    <mg ind="2th">
      <tg xml:lang="fin">
@@ -690,7 +690,7 @@
    <lg>
      <l pos="V">чоръяны</l><orig>чоръяны</orig>
    </lg>
-   <mg><drvg><inflect>iter. v:stä</inflect><stem>чортыны <FIX2/>чорыг</stem></drvg>
+   <mg><compg><inflect>iter. v:stä</inflect><stem>чортыны <FIX2/>чорыг</stem></compg>
    <mg ind="1th"/>
      <tg xml:lang="fin">
        <t>kala;</t>
@@ -767,7 +767,7 @@
      <xg><x>чорыганы мыныны</x>
        <xt xml:lang="fin">mennä kalastamaan</xt>
      </xg><font face="SmolenskSGR"><b>чорыгась</b></font><FIX2/>
-   <mg ind="1th"/><drvg><inflect type="Der/сь" drv="Prc"/><stem>чорыганы</stem></drvg>
+   <mg ind="1th"/><compg><comp ord="E1" pos="V">чорыганы</comp><comp ord="E2" type="Der/сь" drv="Prc"/></compg>
    </mg>
    <mg ind="2th">
      <tg xml:lang="fin">
@@ -783,7 +783,7 @@
    <lg>
      <l pos="V">чӧлляны</l><orig>чӧлляны</orig>
    </lg>
-   <mg><drvg><inflect>iter. v:stä</inflect><stem>чӧлтыны <FIX2/>чӧлляськон </stem></drvg><drvg><inflect type="Der/Он" drv="V»N"/><stem>чӧлляськыны</stem></drvg>
+   <mg><compg><inflect>iter. v:stä</inflect><stem>чӧлтыны <FIX2/>чӧлляськон </stem></compg><compg><comp ord="E1" pos="V">чӧлляськыны</comp><comp ord="E2" type="Der/Он" drv="V»N"/></compg>
    </mg>
 </e>
 <e>
@@ -889,7 +889,7 @@
 </e>
 <e><FIXME1/>
    <mg><font face="SmolenskSGR"><b>чукынымтэ</b></font><FIX2/>
-   <mg ind="1th"/><drvg><inflect type="Der/Эмтэ" drv="Prc"/><stem>чукыныны</stem></drvg>
+   <mg ind="1th"/><compg><comp ord="E1" pos="V">чукыныны</comp><comp ord="E2" type="Der/Эмтэ" drv="Prc"/></compg>
    </mg>
    <mg ind="2th"><field>kirk.</field>
      <tg xml:lang="fin">
@@ -954,7 +954,7 @@
      <tg xml:lang="fin">
        <t>suudelma, suukko</t>
      </tg><font face="SmolenskSGR"><b>чупам</b></font><FIX2/>
-   <mg ind="1th"/><drvg><inflect type="Der/Эм" drv="Prc"/><stem>чупаны</stem></drvg>
+   <mg ind="1th"/><compg><comp ord="E1" pos="V">чупаны</comp><comp ord="E2" type="Der/Эм" drv="Prc"/></compg>
    </mg>
    <mg ind="2th">
      <tg xml:lang="fin">
@@ -1118,7 +1118,7 @@
      <tg xml:lang="fin">
        <t>hapahko, happamahko</t>
      </tg><font face="SmolenskSGR"><b>чырсам</b></font><FIX2/>
-   <mg ind="1th"/><drvg><inflect type="Der/Эм" drv="Prc"/><stem>чырсаны</stem></drvg>
+   <mg ind="1th"/><compg><comp ord="E1" pos="V">чырсаны</comp><comp ord="E2" type="Der/Эм" drv="Prc"/></compg>
    </mg>
    <mg ind="2th">
      <tg xml:lang="fin">
@@ -1392,7 +1392,7 @@
      <tg xml:lang="fin">
        <t>rätistä, ritistä, ratista</t>
      </tg><font face="SmolenskSGR"><b>ӵажыртэм</b></font><FIX2/>
-   <mg ind="1th"/><drvg><inflect type="Der/Эм" drv="Prc"/><stem>ӵажыртыны</stem></drvg>
+   <mg ind="1th"/><compg><comp ord="E1" pos="V">ӵажыртыны</comp><comp ord="E2" type="Der/Эм" drv="Prc"/></compg>
    </mg>
    <mg ind="2th">
      <tg xml:lang="fin">
@@ -1459,7 +1459,7 @@
      <xg><x>укно улын льӧмпу куаръёс ӵаштырто</x>
        <xt xml:lang="fin">ikkunan alla tuomen lehdet kahisevat</xt>
      </xg><font face="SmolenskSGR"><b>ӵаштыртэм</b></font><FIX2/>
-   <mg ind="1th"/><drvg><inflect type="Der/Эм" drv="Prc"/><stem>ӵаштыртыны</stem></drvg>
+   <mg ind="1th"/><compg><comp ord="E1" pos="V">ӵаштыртыны</comp><comp ord="E2" type="Der/Эм" drv="Prc"/></compg>
    </mg>
    <mg ind="2th"><defNative>марлэн ке</defNative>
      <tg xml:lang="fin">
@@ -1530,7 +1530,7 @@
    <lg>
      <l pos="N">ӵогон</l><orig>ӵогон</orig>
    </lg>
-   <mg><drvg><inflect type="Der/Он" drv="V»N"/><stem>ӵогыны <FIX2/>ӵогрес</stem></drvg>
+   <mg><compg><inflect type="Der/Он" drv="V»N"/><stem>ӵогыны <FIX2/>ӵогрес</stem></compg>
    <mg ind="1th"/><defNative>шакырес, вольыттэм</defNative>
      <tg xml:lang="fin">
        <t>karhea, rosoinen</t>
@@ -1625,7 +1625,7 @@
    <mg>
      <tg xml:lang="fin">
        <t>silmissäni säkenöi (t. väreilee)</t>
-     </tg><font face="SmolenskSGR"><b>ӵужиськон </b></font><drvg><inflect type="Der/Он" drv="V»N"/><stem>ӵужиськыны</stem></drvg><FIX2/>
+     </tg><font face="SmolenskSGR"><b>ӵужиськон </b></font><compg><comp ord="E1" pos="V">ӵужиськыны</comp><comp ord="E2" type="Der/Он" drv="V»N"/></compg><FIX2/>
    </mg>
 </e>
 <e>
@@ -1696,7 +1696,7 @@
    <mg ind="2th"> <note>(<i>myös </i></note>
      <xg><x>бугро ӵупет)</x>
        <xt xml:lang="fin">salvos</xt>
-     </xg><font face="SmolenskSGR"><b>ӵуписькон </b></font><drvg><inflect type="Der/Он" drv="V»N"/><stem>ӵуписькыны</stem></drvg><FIX2/>
+     </xg><font face="SmolenskSGR"><b>ӵуписькон </b></font><compg><comp ord="E1" pos="V">ӵуписькыны</comp><comp ord="E2" type="Der/Он" drv="V»N"/></compg><FIX2/>
    </mg>
 </e>
 <e>
@@ -1846,14 +1846,14 @@
        <t>pato, olla patoamassa jokea</t>
      </tg>
    </mg>
-   <mg ind="2th"> <drvg><inflect>pass. v:stä</inflect><stem>ӵыпыны</stem></drvg>
+   <mg ind="2th"> <compg><comp ord="E1">ӵыпыны</comp><comp ord="E2">pass. v:stä</comp></compg>
    </mg>
 </e>
 <e>
    <lg>
      <l pos="Prc;N">ӵышкись</l><orig>ӵышкись</orig>
    </lg>
-   <mg ind="1th"><drvg><inflect type="Der/сь" drv="Prc"/><stem>ӵышкыны 2.<FIX3/> (йыр ӵышкись) </stem></drvg><font face="SmolenskSGR">(<i>пиосъёсты ӵышкись</i>)</font>
+   <mg ind="1th"><compg><inflect type="Der/сь" drv="Prc"/><stem>ӵышкыны 2.<FIX3/> (йыр ӵышкись) </stem></compg><font face="SmolenskSGR">(<i>пиосъёсты ӵышкись</i>)</font>
      <tg xml:lang="fin">
        <t>parturi;</t>
      </tg><font face="SmolenskSGR">(<i>кышноосты ӵышкись</i>)</font>
@@ -1963,7 +1963,7 @@
      </xg>
      <xg><x>синвуэз шапыр вия</x>
        <xt xml:lang="fin">kyyneleet juoksevat (t. tippuvat) virtanaan</xt>
-     </xg><font face="SmolenskSGR"><b>шапыран </b></font><drvg><inflect type="Der/Он" drv="V»N"/><stem>шапыраны</stem></drvg><FIX2/>
+     </xg><font face="SmolenskSGR"><b>шапыран </b></font><compg><comp ord="E1" pos="V">шапыраны</comp><comp ord="E2" type="Der/Он" drv="V»N"/></compg><FIX2/>
    </mg>
 </e>
 <e>
@@ -2157,7 +2157,7 @@
      </xg>
      <xg><x>синвуос синъёсме шобыртӥзы</x>
        <xt xml:lang="fin">kyynelet sumensivat silmämme</xt>
-     </xg><font face="SmolenskSGR"><b>шобыръян </b></font><drvg><inflect type="Der/Он" drv="V»N"/><stem>шобыръяны</stem></drvg><FIX2/>
+     </xg><font face="SmolenskSGR"><b>шобыръян </b></font><compg><comp ord="E1" pos="V">шобыръяны</comp><comp ord="E2" type="Der/Он" drv="V»N"/></compg><FIX2/>
    </mg>
 </e>
 <e>
@@ -2385,14 +2385,14 @@
    <mg>
      <tg xml:lang="fin">
        <t>haaska, raato, (kuollut) ruumis</t>
-     </tg><font face="SmolenskSGR"><b>шӧйӟектон </b></font><drvg><inflect type="Der/Он" drv="V»N"/><stem>шӧйӟектыны</stem></drvg><FIX2/>
+     </tg><font face="SmolenskSGR"><b>шӧйӟектон </b></font><compg><comp ord="E1" pos="V">шӧйӟектыны</comp><comp ord="E2" type="Der/Он" drv="V»N"/></compg><FIX2/>
    </mg>
 </e>
 <e>
    <lg>
      <l pos="N">шӧймон</l><orig>шӧймон</orig>
    </lg>
-   <mg><drvg><inflect type="Der/Он" drv="V»N"/><stem>шӧймыны</stem></drvg> <FIX2/><font face="SmolenskSGR"><b>шӧймыны</b></font>
+   <mg><compg><comp ord="E1" pos="V">шӧймыны</comp><comp ord="E2" type="Der/Он" drv="V»N"/></compg> <FIX2/><font face="SmolenskSGR"><b>шӧймыны</b></font>
      <variants>
        <l_syn type="&gt;">шӧектыны</l_syn>
      </variants>
@@ -2455,7 +2455,7 @@
    <mg>
      <tg xml:lang="fin">
        <t>maistaa, maistella</t>
-     </tg><font face="SmolenskSGR"><b>шӧмъятон </b></font><drvg><inflect type="Der/Он" drv="V»N"/><stem>шӧмъятыны</stem></drvg><FIX2/>
+     </tg><font face="SmolenskSGR"><b>шӧмъятон </b></font><compg><comp ord="E1" pos="V">шӧмъятыны</comp><comp ord="E2" type="Der/Он" drv="V»N"/></compg><FIX2/>
    </mg>
 </e>
 <e>
@@ -2672,7 +2672,7 @@
    <mg>
      <tg xml:lang="fin">
        <t>leikkiä ja iloita (t. huvitella, pitää hauskaa)</t>
-     </tg><font face="SmolenskSGR"><b>шудэм </b></font><drvg><inflect type="Der/Эм" drv="Prc;V»N"/><stem>шудыны</stem></drvg><FIX2/>
+     </tg><font face="SmolenskSGR"><b>шудэм </b></font><compg><comp ord="E1">шудыны</comp><comp ord="E2" type="Der/Эм" drv="Prc;V»N"/></compg><FIX2/>
    </mg>
 </e>
 <e>
@@ -2686,7 +2686,7 @@
      <xg><x>шузи-мази вырыны</x>
        <xt xml:lang="fin">käyttäytyä tyhmästi (t. hölmösti)</xt>
      </xg><font face="SmolenskSGR"><b>шузимем</b></font><FIX2/>
-   <mg ind="1th"/><drvg><inflect type="Der/Эм" drv="Prc"/><stem>шузимыны</stem></drvg>
+   <mg ind="1th"/><compg><comp ord="E1" pos="V">шузимыны</comp><comp ord="E2" type="Der/Эм" drv="Prc"/></compg>
    </mg>
    <mg ind="2th">
      <tg xml:lang="fin">
@@ -2698,7 +2698,7 @@
      <xg><x>шузимем кышномурт</x>
        <xt xml:lang="fin">hullu nainen</xt>
      </xg><font face="SmolenskSGR"><b>шузимон</b></font><FIX2/>
-   <mg ind="1th"/><drvg><inflect type="Der/Он" drv="V»N"/><stem>шузимыны</stem></drvg>
+   <mg ind="1th"/><compg><comp ord="E1" pos="V">шузимыны</comp><comp ord="E2" type="Der/Он" drv="V»N"/></compg>
    </mg>
    <mg ind="2th">
      <tg xml:lang="fin">
@@ -2732,7 +2732,7 @@
      <tg xml:lang="fin">
        <t>iloisesti; ilomielin, riemumielin, mielihyvin, mielellään</t>
      </tg><font face="SmolenskSGR"><b>шумпотэм</b></font><FIX2/>
-   <mg ind="1th"/><drvg><inflect type="Der/Эм" drv="Prc;V»N"/><stem>шум/потыны</stem></drvg>
+   <mg ind="1th"/><compg><comp ord="E1">шум/потыны</comp><comp ord="E2" type="Der/Эм" drv="Prc;V»N"/></compg>
    </mg>
    <mg ind="2th">
      <tg xml:lang="fin">
@@ -3206,7 +3206,7 @@
      <tg xml:lang="fin">
        <t>tsaarikunta, valtakunta</t>
      </tg><font face="SmolenskSGR"><b>эктӥсь</b></font><FIX2/>
-   <mg ind="1th"/><drvg><inflect type="Der/сь" drv="Prc"/><stem>эктыны</stem></drvg>
+   <mg ind="1th"/><compg><comp ord="E1" pos="V">эктыны</comp><comp ord="E2" type="Der/сь" drv="Prc"/></compg>
    </mg>
    <mg ind="2th">
      <tg xml:lang="fin">
@@ -3485,7 +3485,7 @@
    <lg>
      <l pos="Prc;N">эрекчам</l><orig>эрекчам</orig>
    </lg>
-   <mg ind="1th"><drvg><inflect type="Der/Эм" drv="Prc"/><stem>эрекчаны</stem></drvg>
+   <mg ind="1th"><compg><comp ord="E1" pos="V">эрекчаны</comp><comp ord="E2" type="Der/Эм" drv="Prc"/></compg>
    </mg>
    <mg ind="2th"><defNative>алдаськем</defNative>
      <tg xml:lang="fin">
@@ -3541,7 +3541,7 @@
    <lg>
      <l pos="Prc">эстӥсь</l><orig>эстӥсь</orig>
    </lg>
-   <mg ind="1th"><drvg><inflect type="Der/сь" drv="Prc"/><stem>эстыны</stem></drvg>
+   <mg ind="1th"><compg><comp ord="E1" pos="V">эстыны</comp><comp ord="E2" type="Der/сь" drv="Prc"/></compg>
    </mg>
    <mg ind="2th"> <note><b>(</b></note><note><i>myös </i></note>
      <xg><x>гур эстӥсь)</x>
@@ -4135,7 +4135,7 @@
      <xg><x>юрттэм адями</x>
        <xt xml:lang="fin">koditon kulkuri</xt>
      </xg><font face="SmolenskSGR"><b>юрттэм<rom ind="2"/></b></font><FIX2/>
-   <mg ind="1th"/><drvg><inflect type="Der/Эм" drv="V»N"/><stem>юрттыны</stem></drvg>
+   <mg ind="1th"/><compg><comp ord="E1" pos="V">юрттыны</comp><comp ord="E2" type="Der/Эм" drv="V»N"/></compg>
    </mg>
    <mg ind="2th"><defNative>юрттон</defNative>
      <tg xml:lang="fin">
@@ -4873,7 +4873,7 @@
      <variants>
        <l_syn type="vrt0">алфавит <FIX2/>гожтӥськем</l_syn>
      </variants>
-   <mg ind="1th"/><drvg><inflect type="Der/Эм" drv="Prc;V»N"/><stem>гожтӥськыны</stem></drvg>
+   <mg ind="1th"/><compg><comp ord="E1">гожтӥськыны</comp><comp ord="E2" type="Der/Эм" drv="Prc;V»N"/></compg>
    </mg>
    <mg ind="2th"><defNative>ки нюртэм</defNative>
      <tg xml:lang="fin">
@@ -4978,7 +4978,7 @@
    <mg>
      <tg xml:lang="fin">
        <t>karhunpentu</t>
-     </tg><font face="SmolenskSGR"><b>гонӟектон </b></font><drvg><inflect type="Der/Он" drv="V»N"/><stem>гонӟектыны</stem></drvg><FIX2/>
+     </tg><font face="SmolenskSGR"><b>гонӟектон </b></font><compg><comp ord="E1" pos="V">гонӟектыны</comp><comp ord="E2" type="Der/Он" drv="V»N"/></compg><FIX2/>
    </mg>
 </e>
 <e>
@@ -5097,7 +5097,7 @@
    <mg>
      <tg xml:lang="fin">
        <t>kaivaa</t>
-     </tg><font face="SmolenskSGR"><b>гудӥськон </b></font><drvg><inflect type="Der/Он" drv="V»N"/><stem>гудӥськыны</stem></drvg><FIX2/>
+     </tg><font face="SmolenskSGR"><b>гудӥськон </b></font><compg><comp ord="E1" pos="V">гудӥськыны</comp><comp ord="E2" type="Der/Он" drv="V»N"/></compg><FIX2/>
    </mg>
 </e>
 <e>
@@ -5178,7 +5178,7 @@
      </tg>
      <variants>
        <l_syn type="&gt;">даур<rom ind="1"/></l_syn>
-     </variants><font face="SmolenskSGR"><b>2 гуньдон </b></font><drvg><inflect type="Der/Он" drv="V»N"/><stem>гуньдыны</stem></drvg><FIX2/>
+     </variants><font face="SmolenskSGR"><b>2 гуньдон </b></font><compg><comp ord="E1" pos="V">гуньдыны</comp><comp ord="E2" type="Der/Он" drv="V»N"/></compg><FIX2/>
    </mg>
 </e>
 <e>
@@ -5297,7 +5297,7 @@
      <tg xml:lang="fin">
        <t>kymmenessä paikassa</t>
      </tg><font face="SmolenskSGR"><b>дасям</b></font><FIX2/>
-   <mg ind="1th"/><drvg><inflect type="Der/Эм" drv="Prc"/><stem>дасяны</stem></drvg>
+   <mg ind="1th"/><compg><comp ord="E1" pos="V">дасяны</comp><comp ord="E2" type="Der/Эм" drv="Prc"/></compg>
    </mg>
    <mg ind="2th">
      <tg xml:lang="fin">
@@ -6130,7 +6130,7 @@
      <tg xml:lang="fin">
        <t>rattaat tärisevät</t>
      </tg><font face="SmolenskSGR"><b>дынгыртэм</b></font><FIX2/>
-   <mg ind="1th"/><drvg><inflect type="Der/Эм" drv="Prc"/><stem>дынгыртыны</stem></drvg>
+   <mg ind="1th"/><compg><comp ord="E1" pos="V">дынгыртыны</comp><comp ord="E2" type="Der/Эм" drv="Prc"/></compg>
    </mg>
    <mg ind="2th"><defNative>марлэн ке</defNative>
      <tg xml:lang="fin">
@@ -6149,7 +6149,7 @@
      <tg xml:lang="fin">
        <t>kouru, ränni, ruuhi, kuurna</t>
      </tg><font face="SmolenskSGR"><b>дырекъям</b></font><FIX2/>
-   <mg ind="1th"/><drvg><inflect type="Der/Эм" drv="Prc"/><stem>дырекъяны</stem></drvg>
+   <mg ind="1th"/><compg><comp ord="E1" pos="V">дырекъяны</comp><comp ord="E2" type="Der/Эм" drv="Prc"/></compg>
    </mg>
    <mg ind="2th"><defNative>куалекъям</defNative>
      <tg xml:lang="fin">
@@ -6384,7 +6384,7 @@
    <lg>
      <l pos="N">жагдон</l><orig>жагдон</orig>
    </lg>
-   <mg><drvg><inflect type="Der/Он" drv="V»N"/><stem>жагдыны</stem></drvg> <FIXME1/>
+   <mg><compg><comp ord="E1" pos="V">жагдыны</comp><comp ord="E2" type="Der/Он" drv="V»N"/></compg> <FIXME1/>
      <xg><x>жагдор</x>
        <xt xml:lang="fin">kaatopaikka</xt>
      </xg>
@@ -6460,7 +6460,7 @@
    <mg>
      <tg xml:lang="fin">
        <t>mehevöityä, mehustua</t>
-     </tg><font face="SmolenskSGR"><b>жальпотон </b></font><drvg><inflect type="Der/Он" drv="V»N"/><stem>жаль потыны </stem></drvg><font face="SmolenskSGR">(</font><FIX2/>
+     </tg><font face="SmolenskSGR"><b>жальпотон </b></font><compg><comp ord="E1" pos="V">жаль потыны</comp><comp ord="E2" type="Der/Он" drv="V»N"/></compg><font face="SmolenskSGR">(</font><FIX2/>
      <variants>
        <l_syn type="&gt;">жаль<rom ind="1"/></l_syn>
      </variants><font face="SmolenskSGR">)</font>
@@ -6683,7 +6683,7 @@
    <lg>
      <l pos="N">ӝокатон</l><orig>ӝокатон</orig>
    </lg>
-   <mg><drvg><inflect type="Der/Он" drv="V»N"/><stem>ӝокатыны <FIX2/>ӝокатскон </stem></drvg><drvg><inflect type="Der/Он" drv="V»N"/><stem>ӝокатскыны</stem></drvg>
+   <mg><compg><inflect type="Der/Он" drv="V»N"/><stem>ӝокатыны <FIX2/>ӝокатскон </stem></compg><compg><comp ord="E1" pos="V">ӝокатскыны</comp><comp ord="E2" type="Der/Он" drv="V»N"/></compg>
    </mg>
 </e>
 <e>
@@ -6693,14 +6693,14 @@
    <mg>
      <tg xml:lang="fin">
        <t>hämärtää, hämärtyä</t>
-     </tg><font face="SmolenskSGR"><b>ӝомытмон </b></font><drvg><inflect type="Der/Он" drv="V»N"/><stem>ӝомытмыны</stem></drvg><FIX2/>
+     </tg><font face="SmolenskSGR"><b>ӝомытмон </b></font><compg><comp ord="E1" pos="V">ӝомытмыны</comp><comp ord="E2" type="Der/Он" drv="V»N"/></compg><FIX2/>
    </mg>
 </e>
 <e>
    <lg>
      <l pos="Prc">ӝуась</l><orig>ӝуась</orig>
    </lg>
-   <mg><drvg><inflect type="Der/сь" drv="Prc"/><stem>ӝуаны</stem></drvg></mg>
+   <mg><compg><comp ord="E1" pos="V">ӝуаны</comp><comp ord="E2" type="Der/сь" drv="Prc"/></compg></mg>
 </e>
 <e>
    <lg><l>ӝуатӥськон</l><orig>ӝуатӥськон</orig>
@@ -6751,7 +6751,7 @@
    <lg>
      <l pos="N">ӝубъён</l><orig>ӝубъён</orig>
    </lg>
-   <mg><drvg><inflect type="Der/Он" drv="V»N"/><stem>ӝубйыны <FIX2/>ӝубы</stem></drvg>
+   <mg><compg><inflect type="Der/Он" drv="V»N"/><stem>ӝубйыны <FIX2/>ӝубы</stem></compg>
    <mg ind="1th"/><defNative>пус</defNative>
      <tg xml:lang="fin">
        <t>merkki, merkintä</t>
@@ -6779,7 +6779,7 @@
      <tg xml:lang="fin">
        <t>kantamus, taakka</t>
      </tg> <font face="SmolenskSGR"><b>ӝутскон</b></font><FIX2/>
-   <mg ind="1th"/><drvg><inflect type="Der/Он" drv="V»N"/><stem>ӝутскыны</stem></drvg>
+   <mg ind="1th"/><compg><comp ord="E1" pos="V">ӝутскыны</comp><comp ord="E2" type="Der/Он" drv="V»N"/></compg>
    </mg>
    <mg ind="2th">
      <tg xml:lang="fin">
@@ -6998,7 +6998,7 @@
    <mg>
      <tg xml:lang="fin">
        <t>kullata, silata kullalla</t>
-     </tg><font face="SmolenskSGR"><b>зарниян </b></font><drvg><inflect type="Der/Он" drv="V»N"/><stem>зарнияны</stem></drvg><FIX2/>
+     </tg><font face="SmolenskSGR"><b>зарниян </b></font><compg><comp ord="E1" pos="V">зарнияны</comp><comp ord="E2" type="Der/Он" drv="V»N"/></compg><FIX2/>
    </mg>
 </e>
 <e>
@@ -7037,7 +7037,7 @@
      </tg> <font face="SmolenskSGR">(<i>шундылэсь</i>)</font>
      <tg xml:lang="fin">
        <t>päivänvarjo</t>
-     </tg><font face="SmolenskSGR"><b>зоньтӥськон </b></font><drvg><inflect type="Der/Он" drv="V»N"/><stem>зоньтӥськыны</stem></drvg><FIX2/>
+     </tg><font face="SmolenskSGR"><b>зоньтӥськон </b></font><compg><comp ord="E1" pos="V">зоньтӥськыны</comp><comp ord="E2" type="Der/Он" drv="V»N"/></compg><FIX2/>
    </mg>
 </e>
 <e>
@@ -7088,14 +7088,14 @@
    <mg>
      <tg xml:lang="fin">
        <t>haistaa, nuuskia</t>
-     </tg><font face="SmolenskSGR"><b>зынъяськон </b></font><drvg><inflect type="Der/Он" drv="V»N"/><stem>зынъяськыны</stem></drvg><FIX2/>
+     </tg><font face="SmolenskSGR"><b>зынъяськон </b></font><compg><comp ord="E1" pos="V">зынъяськыны</comp><comp ord="E2" type="Der/Он" drv="V»N"/></compg><FIX2/>
    </mg>
 </e>
 <e>
    <lg>
      <l pos="N">зыраськон</l><orig>зыраськон</orig>
    </lg>
-   <mg ind="1th"><drvg><inflect type="Der/он" drv="V»N"/><stem>зыраськыны</stem></drvg>
+   <mg ind="1th"><compg><comp ord="E1" pos="V">зыраськыны</comp><comp ord="E2" type="Der/он" drv="V»N"/></compg>
    </mg>
    <mg ind="2th"><defNative>зыраськон маке</defNative>
      <tg xml:lang="fin">
@@ -7199,7 +7199,7 @@
    <mg>
      <tg xml:lang="fin">
        <t>sarastaa, seljetä, valjeta</t>
-     </tg><font face="SmolenskSGR"><b>ӟаректон </b></font><drvg><inflect type="Der/Он" drv="V»N"/><stem>ӟаректыны</stem></drvg><FIX2/>
+     </tg><font face="SmolenskSGR"><b>ӟаректон </b></font><compg><comp ord="E1" pos="V">ӟаректыны</comp><comp ord="E2" type="Der/Он" drv="V»N"/></compg><FIX2/>
    </mg>
 </e>
 <e><FIXME1/>
@@ -7305,7 +7305,7 @@
      <tg xml:lang="fin">
        <t>ketunpentu</t>
      </tg><font face="SmolenskSGR"><b>ӟичыяськись</b></font><FIX2/>
-   <mg ind="1th"/><drvg><inflect type="Der/сь" drv="Prc"/><stem>ӟичыяськыны</stem></drvg>
+   <mg ind="1th"/><compg><comp ord="E1" pos="V">ӟичыяськыны</comp><comp ord="E2" type="Der/сь" drv="Prc"/></compg>
    </mg>
    <mg ind="2th"><defNative>кескичъяськись мурт</defNative>
      <tg xml:lang="fin">
@@ -7346,7 +7346,7 @@
    <mg><field>el.</field>
      <tg xml:lang="fin">
        <t>varpunen</t>
-     </tg><font face="SmolenskSGR"><b>ӟонгыран </b></font><drvg><inflect type="Der/Он" drv="V»N"/><stem>ӟонгыраны</stem></drvg><FIX2/>
+     </tg><font face="SmolenskSGR"><b>ӟонгыран </b></font><compg><comp ord="E1" pos="V">ӟонгыраны</comp><comp ord="E2" type="Der/Он" drv="V»N"/></compg><FIX2/>
    </mg>
 </e>
 <e>
@@ -7380,7 +7380,7 @@
        <t>vinkua</t>
        <re>porsas, sika</re>
      </tg> <font face="SmolenskSGR"><b>ӟуиктэм</b></font><FIX2/>
-   <mg ind="1th"/><drvg><inflect type="Der/Эм" drv="Prc"/><stem>ӟуиктыны</stem></drvg>
+   <mg ind="1th"/><compg><comp ord="E1" pos="V">ӟуиктыны</comp><comp ord="E2" type="Der/Эм" drv="Prc"/></compg>
    </mg>
    <mg ind="2th">
      <tg xml:lang="fin">
@@ -7410,7 +7410,7 @@
    <mg>
      <tg xml:lang="fin">
        <t>sylillinen, sylin täysi, sylys</t>
-     </tg><font face="SmolenskSGR"><b>ӟыгырскон </b></font><drvg><inflect type="Der/Он" drv="V»N"/><stem>ӟыгырскыны</stem></drvg><FIX2/>
+     </tg><font face="SmolenskSGR"><b>ӟыгырскон </b></font><compg><comp ord="E1" pos="V">ӟыгырскыны</comp><comp ord="E2" type="Der/Он" drv="V»N"/></compg><FIX2/>
    </mg>
 </e>
 <e>
@@ -7450,7 +7450,7 @@
      <tg xml:lang="fin">
        <t> makuuhuone</t>
      </tg><font face="SmolenskSGR"><b>изӥсь</b></font><FIX2/>
-   <mg ind="1th"/><drvg><inflect type="Der/сь" drv="Prc"/><stem>изыны </stem></drvg>
+   <mg ind="1th"/><compg><comp ord="E1" pos="V">изыны</comp><comp ord="E2" type="Der/сь" drv="Prc"/></compg>
    </mg>
    <mg ind="2th">
      <xg> <x>вуко изӥсь</x> <x>пызь изӥсь</x>
@@ -7806,7 +7806,7 @@
    <lg>
      <l pos="N">йӧтскылон</l><orig>йӧтскылон</orig>
    </lg>
-   <mg ind="1th"><drvg><inflect type="Der/он" drv="V»N"/><stem>йӧтскылыны</stem></drvg>
+   <mg ind="1th"><compg><comp ord="E1" pos="V">йӧтскылыны</comp><comp ord="E2" type="Der/он" drv="V»N"/></compg>
    </mg>
    <mg ind="2th"><defNative>уж, ужпум борды</defNative>
      <tg xml:lang="fin">
@@ -7825,7 +7825,7 @@
      <tg xml:lang="fin">
        <t>kopauttaa, kolkuttaa</t>
      </tg><font face="SmolenskSGR"><b>йыгаськем</b></font><FIX2/>
-   <mg ind="1th"/><drvg><inflect type="Der/Эм" drv="Prc"/><stem>йыгаськыны</stem></drvg>
+   <mg ind="1th"/><compg><comp ord="E1" pos="V">йыгаськыны</comp><comp ord="E2" type="Der/Эм" drv="Prc"/></compg>
    </mg>
    <mg ind="2th">
      <tg xml:lang="fin">
@@ -7837,7 +7837,7 @@
    <lg>
      <l pos="Prc;N">йыгаськись</l><orig>йыгаськись</orig>
    </lg>
-   <mg ind="1th"><drvg><inflect type="Der/сь" drv="Prc"/><stem>йыгаськыны</stem></drvg>
+   <mg ind="1th"><compg><comp ord="E1" pos="V">йыгаськыны</comp><comp ord="E2" type="Der/сь" drv="Prc"/></compg>
    </mg>
    <mg ind="2th">
      <tg xml:lang="fin">
@@ -8024,7 +8024,7 @@
      <tg xml:lang="fin">
        <t>sankavehnänen (kalatši)</t>
      </tg><font face="SmolenskSGR"><b>калгись</b></font><FIX2/>
-   <mg ind="1th"/><drvg><inflect type="Der/сь" drv="Prc"/><stem>калгыны</stem></drvg>
+   <mg ind="1th"/><compg><comp ord="E1" pos="V">калгыны</comp><comp ord="E2" type="Der/сь" drv="Prc"/></compg>
    </mg>
    <mg ind="2th">
      <tg xml:lang="fin">
@@ -8073,7 +8073,7 @@
    <mg>
      <tg xml:lang="fin">
        <t>kalossi(t)</t>
-     </tg><font face="SmolenskSGR"><b>калскон </b></font><drvg><inflect type="Der/Он" drv="V»N"/><stem>калскыны</stem></drvg><FIX2/>
+     </tg><font face="SmolenskSGR"><b>калскон </b></font><compg><comp ord="E1" pos="V">калскыны</comp><comp ord="E2" type="Der/Он" drv="V»N"/></compg><FIX2/>
    </mg>
 </e>
 <e>
@@ -8086,7 +8086,7 @@
    <mg>
      <tg xml:lang="fin">
        <t>kalossi(t)</t>
-     </tg><font face="SmolenskSGR"><b>калскон </b></font><drvg><inflect type="Der/Он" drv="V»N"/><stem>калскыны</stem></drvg><FIX2/>
+     </tg><font face="SmolenskSGR"><b>калскон </b></font><compg><comp ord="E1" pos="V">калскыны</comp><comp ord="E2" type="Der/Он" drv="V»N"/></compg><FIX2/>
    </mg>
 </e>
 <e>
@@ -8261,7 +8261,7 @@
    <mg>
      <tg xml:lang="fin">
        <t>helposti, helpolla, kevyesti</t>
-     </tg><font face="SmolenskSGR"><b>капчиёмон </b></font><drvg><inflect type="Der/Он" drv="V»N"/><stem>капчиёмыны</stem></drvg><FIX2/>
+     </tg><font face="SmolenskSGR"><b>капчиёмон </b></font><compg><comp ord="E1" pos="V">капчиёмыны</comp><comp ord="E2" type="Der/Он" drv="V»N"/></compg><FIX2/>
    </mg>
 </e>
 <e>
@@ -8288,7 +8288,7 @@
      <tg xml:lang="fin">
        <t>karatšai // karatšaiden</t>
      </tg><font face="SmolenskSGR"><b>каргам</b></font><FIX2/>
-   <mg ind="1th"/><drvg><inflect type="Der/Эм" drv="Prc"/><stem>карганы</stem></drvg>
+   <mg ind="1th"/><compg><comp ord="E1" pos="V">карганы</comp><comp ord="E2" type="Der/Эм" drv="Prc"/></compg>
    </mg>
    <mg ind="2th">
      <tg xml:lang="fin">
@@ -8423,7 +8423,7 @@
      </tg><font face="SmolenskSGR">(<i>кекатыса виён</i>)</font>
      <tg xml:lang="fin">
        <t>kuristaminen (kuoliaaksi)</t>
-     </tg><font face="SmolenskSGR"><b>кекатскон </b></font><drvg><inflect type="Der/Он" drv="V»N"/><stem>кекатскыны</stem></drvg><FIX2/>
+     </tg><font face="SmolenskSGR"><b>кекатскон </b></font><compg><comp ord="E1" pos="V">кекатскыны</comp><comp ord="E2" type="Der/Он" drv="V»N"/></compg><FIX2/>
    </mg>
 </e>
 <e><FIXME2/><font face="SmolenskSGR"><b>кельыны: </b></font><note>(<i>myös</i></note><font face="SmolenskSGR"><b>кельыса мыныны</b>)</font>
@@ -8489,7 +8489,7 @@
    <mg>
      <tg xml:lang="fin">
        <t>pitkäksi aikaa (t. ajaksi)</t>
-     </tg><font face="SmolenskSGR"><b>кемдон </b></font><drvg><inflect type="Der/Он" drv="V»N"/><stem>кемдыны</stem></drvg><FIX2/>
+     </tg><font face="SmolenskSGR"><b>кемдон </b></font><compg><comp ord="E1" pos="V">кемдыны</comp><comp ord="E2" type="Der/Он" drv="V»N"/></compg><FIX2/>
    </mg>
 </e>
 <e>
@@ -8521,7 +8521,7 @@
    <mg>
      <tg xml:lang="fin">
        <t>aidata, aidoittaa</t>
-     </tg><font face="SmolenskSGR"><b>кенераськон </b></font><drvg><inflect type="Der/Он" drv="V»N"/><stem>кенераськыны</stem></drvg><FIX2/>
+     </tg><font face="SmolenskSGR"><b>кенераськон </b></font><compg><comp ord="E1" pos="V">кенераськыны</comp><comp ord="E2" type="Der/Он" drv="V»N"/></compg><FIX2/>
    </mg>
 </e>
 <e>
@@ -8532,7 +8532,7 @@
      <tg xml:lang="fin">
        <t>paloöljy, petroli</t>
      </tg><font face="SmolenskSGR"><b>керпотӥсь</b></font><FIX2/>
-   <mg ind="1th"/><drvg><inflect type="Der/сь" drv="Prc"/><stem>кер/потыны</stem></drvg>
+   <mg ind="1th"/><compg><comp ord="E1" pos="V">кер/потыны</comp><comp ord="E2" type="Der/сь" drv="Prc"/></compg>
    </mg>
    <mg ind="2th">
      <tg xml:lang="fin">
@@ -9516,7 +9516,7 @@
    <lg>
      <l pos="Prc;N">котмем</l><orig>котмем</orig>
    </lg>
-   <mg ind="1th"><drvg><inflect type="Der/Эм" drv="Prc"/><stem>котмыны;</stem></drvg>
+   <mg ind="1th"><compg><comp ord="E1" pos="V">котмыны;</comp><comp ord="E2" type="Der/Эм" drv="Prc"/></compg>
    </mg>
 </e> <FIX1/>
 <e>
@@ -9675,7 +9675,7 @@
    <mg>
      <tg xml:lang="fin">
        <t>levottomuus, rauhattomuus, huolestuneisuus</t>
-     </tg><font face="SmolenskSGR"><b>кӧтшуган </b></font><drvg><inflect type="Der/Он" drv="V»N"/><stem>кӧт/шуганы</stem></drvg><FIX2/>
+     </tg><font face="SmolenskSGR"><b>кӧтшуган </b></font><compg><comp ord="E1" pos="V">кӧт/шуганы</comp><comp ord="E2" type="Der/Он" drv="V»N"/></compg><FIX2/>
    </mg>
 </e>
 <e>
@@ -9839,7 +9839,7 @@
      </tg><font face="SmolenskSGR">(<i>ишкалтыса</i>)</font>
      <tg xml:lang="fin">
        <t>kiskoa (irti)</t>
-     </tg><font face="SmolenskSGR"><b>куалдэм </b></font><drvg><inflect type="Der/Эм" drv="Prc"/><stem>куалдыны;</stem></drvg><FIX2/>
+     </tg><font face="SmolenskSGR"><b>куалдэм </b></font><compg><comp ord="E1" pos="V">куалдыны;</comp><comp ord="E2" type="Der/Эм" drv="Prc"/></compg><FIX2/>
    </mg>
 </e> <FIX1/>
 <e>
@@ -9850,7 +9850,7 @@
      <tg xml:lang="fin">
        <t>kolista, tömistä</t>
      </tg><font face="SmolenskSGR"><b>куалтыртэм</b></font>
-   <mg ind="1th"/><drvg><inflect type="Der/Эм" drv="Prc"/><stem>куалтыртыны</stem></drvg><FIX2/>
+   <mg ind="1th"/><compg><comp ord="E1" pos="V">куалтыртыны</comp><comp ord="E2" type="Der/Эм" drv="Prc"/></compg><FIX2/>
    </mg>
    <mg ind="2th">
      <tg xml:lang="fin">
@@ -9866,7 +9866,7 @@
      <tg xml:lang="fin">
        <t>latkia; kulahdella</t>
      </tg><font face="SmolenskSGR"><b>куальккетэм</b></font><FIX2/>
-   <mg ind="1th"/><drvg><inflect type="Der/Эм" drv="Prc"/><stem>куальккетыны</stem></drvg>
+   <mg ind="1th"/><compg><comp ord="E1" pos="V">куальккетыны</comp><comp ord="E2" type="Der/Эм" drv="Prc"/></compg>
    </mg>
    <mg ind="2th">
      <tg xml:lang="fin">
@@ -10301,7 +10301,7 @@
    <lg>
      <l pos="Prc;N">курась</l><orig>курась</orig>
    </lg>
-   <mg ind="1th"><drvg><inflect type="Der/сь" drv="Prc"/><stem>кураны </stem></drvg>
+   <mg ind="1th"><compg><comp ord="E1" pos="V">кураны</comp><comp ord="E2" type="Der/сь" drv="Prc"/></compg>
    </mg>
    <mg ind="2th">
    </mg>
@@ -10311,7 +10311,7 @@
      <tg xml:lang="fin">
        <t>puhemies, kosiomies</t>
      </tg><font face="SmolenskSGR"><b>кураськись</b></font><FIX2/>
-   <mg ind="1th"/><drvg><inflect type="Der/сь" drv="Prc"/><stem>кураськыны</stem></drvg>
+   <mg ind="1th"/><compg><comp ord="E1" pos="V">кураськыны</comp><comp ord="E2" type="Der/сь" drv="Prc"/></compg>
    </mg>
    <mg ind="2th">
      <tg xml:lang="fin">
@@ -10354,7 +10354,7 @@
      <tg xml:lang="fin">
        <t>kuppa</t>
      </tg><font face="SmolenskSGR"><b>куртчем</b></font><FIX2/>
-   <mg ind="1th"/><drvg><inflect type="Der/Эм" drv="Prc;V»N"/><stem>куртчыны</stem></drvg>
+   <mg ind="1th"/><compg><comp ord="E1">куртчыны</comp><comp ord="E2" type="Der/Эм" drv="Prc;V»N"/></compg>
    </mg>
    <mg ind="2th">
      <tg xml:lang="fin">
@@ -10642,7 +10642,7 @@
    <lg>
      <l pos="N">кыжмон</l><orig>кыжмон</orig>
    </lg>
-   <mg><drvg><inflect type="Der/Он" drv="V»N"/><stem>кыжмыны <FIX2/>кыж-мыж</stem></drvg>
+   <mg><compg><inflect type="Der/Он" drv="V»N"/><stem>кыжмыны <FIX2/>кыж-мыж</stem></compg>
    <mg ind="1th"/><defNative>кырсь</defNative>
      <tg xml:lang="fin">
        <t>epäsiisti, siivoton, likainen, epäpuhdas</t>
@@ -11067,7 +11067,7 @@
      <tg xml:lang="fin">
        <t>venyä</t>
      </tg><font face="SmolenskSGR"><b>кыскон</b></font><FIX2/>
-   <mg ind="1th"/><drvg><inflect type="Der/Он" drv="V»N"/><stem>кыскыны</stem></drvg>
+   <mg ind="1th"/><compg><comp ord="E1" pos="V">кыскыны</comp><comp ord="E2" type="Der/Он" drv="V»N"/></compg>
    </mg>
    <mg ind="2th">
      <tg xml:lang="fin">
@@ -11214,7 +11214,7 @@
    <mg>
      <tg xml:lang="fin">
        <t>laukka, neli(stys)</t>
-     </tg><font face="SmolenskSGR"><b>лашкинтон </b></font><drvg><inflect type="Der/Он" drv="V»N"/><stem>лашкинтыны</stem></drvg><FIX2/>
+     </tg><font face="SmolenskSGR"><b>лашкинтон </b></font><compg><comp ord="E1" pos="V">лашкинтыны</comp><comp ord="E2" type="Der/Он" drv="V»N"/></compg><FIX2/>
    </mg>
 </e>
 <e>
@@ -11283,7 +11283,7 @@
      <tg xml:lang="fin">
        <t>luento</t>
      </tg><font face="SmolenskSGR"><b>лекъяськись</b></font><FIX2/>
-   <mg ind="1th"/><drvg><inflect type="Der/сь" drv="Prc"/><stem>лекъяськыны</stem></drvg>
+   <mg ind="1th"/><compg><comp ord="E1" pos="V">лекъяськыны</comp><comp ord="E2" type="Der/сь" drv="Prc"/></compg>
    </mg>
    <mg ind="2th">
      <tg xml:lang="fin">
@@ -11305,7 +11305,7 @@
      <tg xml:lang="fin">
        <t>luento</t>
      </tg><font face="SmolenskSGR"><b>лекъяськись</b></font><FIX2/>
-   <mg ind="1th"/><drvg><inflect type="Der/сь" drv="Prc"/><stem>лекъяськыны</stem></drvg>
+   <mg ind="1th"/><compg><comp ord="E1" pos="V">лекъяськыны</comp><comp ord="E2" type="Der/сь" drv="Prc"/></compg>
    </mg>
    <mg ind="2th">
      <tg xml:lang="fin">
@@ -11420,7 +11420,7 @@
        <t>harjoittaa kattamistöitä (t. katonpanoa)</t>
      </tg>
    </mg>
-   <mg ind="2th"> <drvg><inflect>pass. v:stä</inflect><stem>липыны</stem></drvg>
+   <mg ind="2th"> <compg><comp ord="E1">липыны</comp><comp ord="E2">pass. v:stä</comp></compg>
    </mg>
 </e>
 <e>
@@ -11430,7 +11430,7 @@
    <mg>
      <tg xml:lang="fin">
        <t>kattaminen, katonpano</t>
-     </tg><font face="SmolenskSGR"><b>липтон </b></font><drvg><inflect type="Der/Он" drv="V»N"/><stem>липтыны</stem></drvg><FIX2/>
+     </tg><font face="SmolenskSGR"><b>липтон </b></font><compg><comp ord="E1" pos="V">липтыны</comp><comp ord="E2" type="Der/Он" drv="V»N"/></compg><FIX2/>
    </mg>
 </e>
 <e>
@@ -11511,7 +11511,7 @@
      <tg xml:lang="fin">
        <t>innostua, innoittua</t>
      </tg><font face="SmolenskSGR"><b>лӧпшась</b></font><FIX2/>
-   <mg ind="1th"/><drvg><inflect type="Der/сь" drv="Prc"/><stem>лӧпшаны</stem></drvg>
+   <mg ind="1th"/><compg><comp ord="E1" pos="V">лӧпшаны</comp><comp ord="E2" type="Der/сь" drv="Prc"/></compg>
    </mg>
    <mg ind="2th">
      <tg xml:lang="fin">
@@ -11623,7 +11623,7 @@
    <lg>
      <l pos="N">луон</l><orig>луон</orig>
    </lg>
-   <mg><drvg><inflect type="Der/Он" drv="V»N"/><stem>луыны; тазьы</stem></drvg>
+   <mg><compg><comp ord="E1" pos="V">луыны; тазьы</comp><comp ord="E2" type="Der/Он" drv="V»N"/></compg>
    </mg>
 </e> <FIX1/>
 <e>
@@ -11647,7 +11647,7 @@
      <tg xml:lang="fin">
        <t>varastaa, näpistää</t>
      </tg><font face="SmolenskSGR"><b>лушкась</b></font><FIX2/>
-   <mg ind="1th"/><drvg><inflect type="Der/сь" drv="Prc"/><stem>лушканы</stem></drvg>
+   <mg ind="1th"/><compg><comp ord="E1" pos="V">лушканы</comp><comp ord="E2" type="Der/сь" drv="Prc"/></compg>
    </mg>
    <mg ind="2th">
      <tg xml:lang="fin">
@@ -11679,7 +11679,7 @@
      </tg><font face="SmolenskSGR">(<i>лызэн наштаны</i>)</font>
      <tg xml:lang="fin">
        <t>tahrata siniseksi</t>
-     </tg><font face="SmolenskSGR"><b>лызмаськон </b></font><drvg><inflect type="Der/Он" drv="V»N"/><stem>лызмаськыны</stem></drvg><FIX2/>
+     </tg><font face="SmolenskSGR"><b>лызмаськон </b></font><compg><comp ord="E1" pos="V">лызмаськыны</comp><comp ord="E2" type="Der/Он" drv="V»N"/></compg><FIX2/>
    </mg>
 </e>
 <e>
@@ -11718,7 +11718,7 @@
    <lg>
      <l pos="N">лысон</l><orig>лысон</orig>
    </lg>
-   <mg><drvg><inflect type="Der/Он" drv="V»N"/><stem>лысыны <FIX2/>лыстэмпужым </stem></drvg><field>kasv.</field>
+   <mg><compg><inflect type="Der/Он" drv="V»N"/><stem>лысыны <FIX2/>лыстэмпужым </stem></compg><field>kasv.</field>
      <tg xml:lang="fin">
        <t>lehtikuusi</t>
      </tg><font face="SmolenskSGR"><b>лысыны </b></font><range>puhek.</range><defNative>тылобурдо с-сь</defNative><FIX2/>
@@ -11740,7 +11740,7 @@
    <mg>
      <tg xml:lang="fin">
        <t>pellavatehdas</t>
-     </tg><font face="SmolenskSGR"><b>льӧлектон </b></font><drvg><inflect type="Der/Он" drv="V»N"/><stem>льӧлектыны</stem></drvg><FIX2/>
+     </tg><font face="SmolenskSGR"><b>льӧлектон </b></font><compg><comp ord="E1" pos="V">льӧлектыны</comp><comp ord="E2" type="Der/Он" drv="V»N"/></compg><FIX2/>
    </mg>
 </e>
 <e>
@@ -11755,7 +11755,7 @@
    <mg ind="2th"><defNative>лӧль адскыны</defNative>
      <tg xml:lang="fin">
        <t>punertaa, näkyä (t. hohtaa) punertavana</t>
-     </tg><font face="SmolenskSGR"><b>льӧлёмон </b></font><drvg><inflect type="Der/Он" drv="V»N"/><stem>льӧлёмыны</stem></drvg><FIX2/>
+     </tg><font face="SmolenskSGR"><b>льӧлёмон </b></font><compg><comp ord="E1" pos="V">льӧлёмыны</comp><comp ord="E2" type="Der/Он" drv="V»N"/></compg><FIX2/>
    </mg>
 </e>
 <e>
@@ -11788,14 +11788,14 @@
    <lg>
      <l pos="V">лэзьяны</l><orig>лэзьяны</orig>
    </lg>
-   <mg><drvg><inflect>iter. v:stä</inflect><stem>лэзьыны <FIX2/>лэзьяськон </stem></drvg><drvg><inflect type="Der/Он" drv="V»N"/><stem>лэзьяськыны</stem></drvg>
+   <mg><compg><inflect>iter. v:stä</inflect><stem>лэзьыны <FIX2/>лэзьяськон </stem></compg><compg><comp ord="E1" pos="V">лэзьяськыны</comp><comp ord="E2" type="Der/Он" drv="V»N"/></compg>
    </mg>
 </e>
 <e>
    <lg>
      <l pos="N">лэсян</l><orig>лэсян</orig>
    </lg>
-   <mg><drvg><inflect type="Der/Он" drv="V»N"/><stem>лэсяны <FIX2/>лэсянтэм</stem></drvg>
+   <mg><compg><inflect type="Der/Он" drv="V»N"/><stem>лэсяны <FIX2/>лэсянтэм</stem></compg>
    <mg ind="1th"/><defNative>ярантэм</defNative>
      <tg xml:lang="fin">
        <t>kelpaamaton, käyttökelvoton; kelvoton</t>
@@ -11864,7 +11864,7 @@
    <mg>
      <tg xml:lang="fin">
        <t>saippuoida</t>
-     </tg><font face="SmolenskSGR"><b>майталаськон </b></font><drvg><inflect type="Der/Он" drv="V»N"/><stem>майталаськыны</stem></drvg><FIX2/>
+     </tg><font face="SmolenskSGR"><b>майталаськон </b></font><compg><comp ord="E1" pos="V">майталаськыны</comp><comp ord="E2" type="Der/Он" drv="V»N"/></compg><FIX2/>
    </mg>
 </e>
 <e>
@@ -11920,7 +11920,7 @@
    <mg>
      <tg xml:lang="fin">
        <t>olla krapulassa</t>
-     </tg><font face="SmolenskSGR"><b>макмыраськон </b></font><drvg><inflect type="Der/Он" drv="V»N"/><stem>макмыраськыны</stem></drvg><FIX2/>
+     </tg><font face="SmolenskSGR"><b>макмыраськон </b></font><compg><comp ord="E1" pos="V">макмыраськыны</comp><comp ord="E2" type="Der/Он" drv="V»N"/></compg><FIX2/>
    </mg>
 </e>
 <e>
@@ -12090,7 +12090,7 @@
      <tg xml:lang="fin">
        <t>palkata, pestata</t>
      </tg><font face="SmolenskSGR"><b>медъясь</b></font><FIX2/>
-   <mg ind="1th"/><drvg><inflect type="Der/сь" drv="Prc"/><stem>медъяны</stem></drvg>
+   <mg ind="1th"/><compg><comp ord="E1" pos="V">медъяны</comp><comp ord="E2" type="Der/сь" drv="Prc"/></compg>
    </mg>
    <mg ind="2th">
      <tg xml:lang="fin">
@@ -12177,11 +12177,11 @@
        <l_syn>миленымы</l_syn>
      </variants>
    </lg>
-   <mg><drvg><inflect>instr. pron:sta </inflect><stem>ми</stem></drvg>
+   <mg><compg><comp ord="E1">ми</comp><comp ord="E2">instr. pron:sta</comp></compg>
      <tg xml:lang="fin">
        <t>meidän kanssamme</t>
      </tg><font face="SmolenskSGR"><b>милесьтым</b></font><FIX2/>
-   <mg ind="1th"/><drvg><inflect>abl. pron:sta </inflect><stem>ми</stem></drvg>
+   <mg ind="1th"/><compg><comp ord="E1">ми</comp><comp ord="E2">abl. pron:sta</comp></compg>
      <tg xml:lang="fin">
        <t>meiltä</t>
      </tg>
@@ -12202,11 +12202,11 @@
        <l_syn>милемын</l_syn>
      </variants>
    </lg>
-   <mg><drvg><inflect>instr. pron:sta </inflect><stem>ми</stem></drvg>
+   <mg><compg><comp ord="E1">ми</comp><comp ord="E2">instr. pron:sta</comp></compg>
      <tg xml:lang="fin">
        <t>meidän kanssamme</t>
      </tg><font face="SmolenskSGR"><b>милесьтым</b></font><FIX2/>
-   <mg ind="1th"/><drvg><inflect>abl. pron:sta </inflect><stem>ми</stem></drvg>
+   <mg ind="1th"/><compg><comp ord="E1">ми</comp><comp ord="E2">abl. pron:sta</comp></compg>
      <tg xml:lang="fin">
        <t>meiltä</t>
      </tg>
@@ -12874,7 +12874,7 @@
      </tg>
      <xg><x>йырез мыкыртыны</x>
        <xt xml:lang="fin">kallistaa päätään, painaa päänsä alas</xt>
-     </xg><font face="SmolenskSGR"><b>мыкыръян </b></font><drvg><inflect type="Der/Он" drv="V»N"/><stem>мыкыръяны</stem></drvg><FIX2/>
+     </xg><font face="SmolenskSGR"><b>мыкыръян </b></font><compg><comp ord="E1" pos="V">мыкыръяны</comp><comp ord="E2" type="Der/Он" drv="V»N"/></compg><FIX2/>
    </mg>
 </e>
 <e>
@@ -12901,7 +12901,7 @@
    <lg>
      <l pos="N">мылён</l><orig>мылён</orig>
    </lg>
-   <mg><drvg><inflect type="Der/Он" drv="V»N"/><stem>мыльыны <FIX2/>мылкыд </stem></drvg><font face="SmolenskSGR">(<b>=ыз</b></font>
+   <mg><compg><inflect type="Der/Он" drv="V»N"/><stem>мыльыны <FIX2/>мылкыд </stem></compg><font face="SmolenskSGR">(<b>=ыз</b></font>
      <tg xml:lang="fin">
        <t>;</t>
      </tg><font face="SmolenskSGR"><b>мылыз-кыдыз</b>)</font>
@@ -13480,7 +13480,7 @@
    <lg>
      <l pos="N">норон</l><orig>норон</orig>
    </lg>
-   <mg><drvg><inflect type="Der/Он" drv="V»N"/><stem>норыны <FIX2/>норсаськон </stem></drvg><drvg><inflect type="Der/Он" drv="V»N"/><stem>норсаськыны</stem></drvg>
+   <mg><compg><inflect type="Der/Он" drv="V»N"/><stem>норыны <FIX2/>норсаськон </stem></compg><compg><comp ord="E1" pos="V">норсаськыны</comp><comp ord="E2" type="Der/Он" drv="V»N"/></compg>
    </mg>
 </e>
 <e><FIXME2/><font face="SmolenskSGR"><b>нуй-нуй: (</b></font><note><i>myös</i></note><font face="SmolenskSGR"><b>нуй-нуй кыстӥськись) </b></font> <pos ind="Descr"/>
@@ -13489,7 +13489,7 @@
      </tg>
 </e>
 <e><FIXME2/><font face="SmolenskSGR"><b>нуйтӥськись</b></font>
-   <mg ind="1th"><drvg><inflect type="Der/сь" drv="Prc"/><stem>нуйтӥськыны</stem></drvg>
+   <mg ind="1th"><compg><comp ord="E1" pos="V">нуйтӥськыны</comp><comp ord="E2" type="Der/сь" drv="Prc"/></compg>
    </mg>
    <mg ind="2th"><defNative>к-сь резина</defNative>
      <tg xml:lang="fin">
@@ -13526,7 +13526,7 @@
      <tg xml:lang="fin">
        <t>pitkittää, venyttää, viivyttää, vitkutella</t>
      </tg><font face="SmolenskSGR"><b>нукыртӥсь</b></font><FIX2/>
-   <mg ind="1th"/><drvg><inflect type="Der/сь" drv="Prc"/><stem>нукыртыны</stem></drvg>
+   <mg ind="1th"/><compg><comp ord="E1" pos="V">нукыртыны</comp><comp ord="E2" type="Der/сь" drv="Prc"/></compg>
    </mg>
    <mg ind="2th"><defNative>ӟурыны яратӥсь мурт</defNative>
      <tg xml:lang="fin">
@@ -13627,7 +13627,7 @@
    <lg>
      <l pos="Prc;N">нурскетэм</l><orig>нурскетэм</orig>
    </lg>
-   <mg ind="1th"><drvg><inflect type="Der/Эм" drv="Prc"/><stem>нурскетыны</stem></drvg>
+   <mg ind="1th"><compg><comp ord="E1" pos="V">нурскетыны</comp><comp ord="E2" type="Der/Эм" drv="Prc"/></compg>
    </mg>
    <mg ind="2th">
      <tg xml:lang="fin">
@@ -13655,7 +13655,7 @@
    <mg>
      <tg xml:lang="fin">
        <t>kahvaton, varreton</t>
-     </tg><font face="SmolenskSGR"><b>ныдъян </b></font><drvg><inflect type="Der/Он" drv="V»N"/><stem>ныдъяны</stem></drvg><FIX2/>
+     </tg><font face="SmolenskSGR"><b>ныдъян </b></font><compg><comp ord="E1" pos="V">ныдъяны</comp><comp ord="E2" type="Der/Он" drv="V»N"/></compg><FIX2/>
    </mg>
 </e>
 <e>
@@ -13826,7 +13826,7 @@
    <lg>
      <l pos="N">нырон</l><orig>нырон</orig>
    </lg>
-   <mg><drvg><inflect type="Der/Он" drv="V»N"/><stem>нырыны <FIX2/>нырос</stem></drvg>
+   <mg><compg><inflect type="Der/Он" drv="V»N"/><stem>нырыны <FIX2/>нырос</stem></compg>
    <mg ind="1th"/><defNative>кунянлы</defNative>
      <tg xml:lang="fin">
        <t>kuonokoppa</t>
@@ -13887,7 +13887,7 @@
    <mg ind="4th"><defNative>кичӧлтыны</defNative>
      <tg xml:lang="fin">
        <t>tehdä aloite, aloittaa</t>
-     </tg><font face="SmolenskSGR"><b>ныръяськон </b></font><drvg><inflect type="Der/Он" drv="V»N"/><stem>ныръяськыны</stem></drvg><FIX2/>
+     </tg><font face="SmolenskSGR"><b>ныръяськон </b></font><compg><comp ord="E1" pos="V">ныръяськыны</comp><comp ord="E2" type="Der/Он" drv="V»N"/></compg><FIX2/>
    </mg>
 </e>
 <e>
@@ -13963,7 +13963,7 @@
    <lg>
      <l pos="Prc;N">нюжтӥськись</l><orig>нюжтӥськись</orig>
    </lg>
-   <mg ind="1th"><drvg><inflect type="Der/сь" drv="Prc"/><stem>нюжтӥськыны 2.<FIX3/> нюжтӥськисьёс </stem></drvg><note><i>mon. el.</i></note>
+   <mg ind="1th"><compg><inflect type="Der/сь" drv="Prc"/><stem>нюжтӥськыны 2.<FIX3/> нюжтӥськисьёс </stem></compg><note><i>mon. el.</i></note>
      <tg xml:lang="fin">
        <t>matelijat</t>
      </tg>
@@ -13995,7 +13995,7 @@
    <mg>
      <tg xml:lang="fin">
        <t>riimu, (talli)päitset</t>
-     </tg><font face="SmolenskSGR"><b>нюктоян </b></font><drvg><inflect type="Der/Он" drv="V»N"/><stem>нюктояны</stem></drvg><FIX2/>
+     </tg><font face="SmolenskSGR"><b>нюктоян </b></font><compg><comp ord="E1" pos="V">нюктояны</comp><comp ord="E2" type="Der/Он" drv="V»N"/></compg><FIX2/>
    </mg>
 </e>
 <e>
@@ -14734,13 +14734,13 @@
      <tg xml:lang="fin">
        <t>ympyrä; kehä</t>
      </tg><font face="SmolenskSGR"><b>октӥсь-калтӥсь</b></font><FIX2/>
-   <mg ind="1th"/><drvg><inflect type="Der/сь" drv="Prc"/><stem>октыны-калтыны</stem></drvg>
+   <mg ind="1th"/><compg><comp ord="E1" pos="V">октыны-калтыны</comp><comp ord="E2" type="Der/сь" drv="Prc"/></compg>
    </mg>
    <mg ind="2th"><defNative>выж миськись</defNative>
      <tg xml:lang="fin">
        <t>siivoja</t>
      </tg><font face="SmolenskSGR"><b>октӥськись</b></font><FIX2/>
-   <mg ind="1th"/><drvg><inflect type="Der/сь" drv="Prc"/><stem>октӥськыны</stem></drvg>
+   <mg ind="1th"/><compg><comp ord="E1" pos="V">октӥськыны</comp><comp ord="E2" type="Der/сь" drv="Prc"/></compg>
    </mg>
    <mg ind="2th"><defNative>выж миськись</defNative>
      <tg xml:lang="fin">
@@ -14818,7 +14818,7 @@
    <mg>
      <tg xml:lang="fin">
        <t>menettää tajuntansa, mennä tajuttomaksi, pyörtyä</t>
-     </tg><font face="SmolenskSGR"><b>онгромытон </b></font><drvg><inflect type="Der/Он" drv="V»N"/><stem>онгромытыны</stem></drvg><FIX2/>
+     </tg><font face="SmolenskSGR"><b>онгромытон </b></font><compg><comp ord="E1" pos="V">онгромытыны</comp><comp ord="E2" type="Der/Он" drv="V»N"/></compg><FIX2/>
    </mg>
 </e>
 <e>
@@ -14954,7 +14954,7 @@
    <lg>
      <l pos="Prc">ортчем</l><orig>ортчем</orig>
    </lg>
-   <mg><drvg><inflect type="Der/Эм" drv="Prc"/><stem>ортчыны </stem></drvg>◊ <font face="SmolenskSGR"><b>ортчем</b></font>
+   <mg><compg><comp ord="E1" pos="V">ортчыны</comp><comp ord="E2" type="Der/Эм" drv="Prc"/></compg>◊ <font face="SmolenskSGR"><b>ортчем</b></font>
    </mg>
    <lg><l><FIXME/>дыр</l>
    </lg>
@@ -15182,7 +15182,7 @@
      </tg>
      <variants>
        <l_syn type="vrt0">янгыш <FIX2/>ошиськон</l_syn>
-     </variants><drvg><inflect type="Der/Он" drv="V»N"/><stem>ошиськыны</stem></drvg>
+     </variants><compg><comp ord="E1" pos="V">ошиськыны</comp><comp ord="E2" type="Der/Он" drv="V»N"/></compg>
    </mg>
 </e>
 <e>
@@ -15321,7 +15321,7 @@
      <tg xml:lang="fin">
        <t>agitaatio</t>
      </tg><font face="SmolenskSGR"><b>ӧтчам</b></font><FIX2/>
-   <mg ind="1th"/><drvg><inflect type="Der/Эм" drv="Prc"/><stem>ӧтчаны </stem></drvg>
+   <mg ind="1th"/><compg><comp ord="E1" pos="V">ӧтчаны</comp><comp ord="E2" type="Der/Эм" drv="Prc"/></compg>
    </mg>
    <mg ind="2th"><defNative>ӧтем</defNative>
      <tg xml:lang="fin">
@@ -15459,7 +15459,7 @@
      <tg xml:lang="fin">
        <t>hymyillä; hymähtää</t>
      </tg><font face="SmolenskSGR"><b>пальпотэм</b></font><FIX2/>
-   <mg ind="1th"/><drvg><inflect type="Der/Эм" drv="Prc"/><stem>паль/потыны</stem></drvg>
+   <mg ind="1th"/><compg><comp ord="E1" pos="V">паль/потыны</comp><comp ord="E2" type="Der/Эм" drv="Prc"/></compg>
    </mg>
    <mg ind="2th">
      <tg xml:lang="fin">
@@ -15474,7 +15474,7 @@
    <mg>
      <tg xml:lang="fin">
        <t>poimia pihlajanmarjoja</t>
-     </tg><font face="SmolenskSGR"><b>палэнскон </b></font><drvg><inflect type="Der/Он" drv="V»N"/><stem>палэнскыны</stem></drvg><FIX2/>
+     </tg><font face="SmolenskSGR"><b>палэнскон </b></font><compg><comp ord="E1" pos="V">палэнскыны</comp><comp ord="E2" type="Der/Он" drv="V»N"/></compg><FIX2/>
    </mg>
 </e>
 <e>
@@ -15751,7 +15751,7 @@
      <tg xml:lang="fin">
        <t>solisluu</t>
      </tg><font face="SmolenskSGR"><b>пельскем</b></font><FIX2/>
-   <mg ind="1th"/><drvg><inflect type="Der/Эм" drv="Prc;V»N"/><stem>пельскыны</stem></drvg>
+   <mg ind="1th"/><compg><comp ord="E1">пельскыны</comp><comp ord="E2" type="Der/Эм" drv="Prc;V»N"/></compg>
    </mg>
    <mg ind="2th">
      <tg xml:lang="fin">
@@ -15943,7 +15943,7 @@
      <tg xml:lang="fin">
        <t>piipittää, vikistä</t>
      </tg><font face="SmolenskSGR"><b>пиккетэм</b></font><FIX2/>
-   <mg ind="1th"/><drvg><inflect type="Der/Эм" drv="Prc"/><stem>пиккетыны</stem></drvg>
+   <mg ind="1th"/><compg><comp ord="E1" pos="V">пиккетыны</comp><comp ord="E2" type="Der/Эм" drv="Prc"/></compg>
    </mg>
    <mg ind="2th">
      <tg xml:lang="fin">
@@ -16732,7 +16732,7 @@
    <lg>
      <l pos="N">пӧсьтон</l><orig>пӧсьтон</orig>
    </lg>
-   <mg><drvg><inflect type="Der/Он" drv="V»N"/><stem>пӧсьтыны <FIX2/>пӧсьтурын</stem></drvg>
+   <mg><compg><inflect type="Der/Он" drv="V»N"/><stem>пӧсьтыны <FIX2/>пӧсьтурын</stem></compg>
    <mg ind="1th"/><field>kasv.</field><font face="SmolenskSGR">(<i>сьӧдпӧсьтурын</i>)</font>
      <tg xml:lang="fin">
        <t>pippuri</t>
@@ -16767,7 +16767,7 @@
      <tg xml:lang="fin">
        <t>petkuttaa, pettää</t>
      </tg><font face="SmolenskSGR"><b>пӧяськем</b></font><FIX2/>
-   <mg ind="1th"/><drvg><inflect type="Der/Эм" drv="Prc"/><stem>пӧяськыны</stem></drvg>
+   <mg ind="1th"/><compg><comp ord="E1" pos="V">пӧяськыны</comp><comp ord="E2" type="Der/Эм" drv="Prc"/></compg>
    </mg>
    <mg ind="2th"><defNative>алдаськем</defNative>
      <tg xml:lang="fin">
@@ -17217,7 +17217,7 @@
 </e>
 <e>
    <lg>
-     <l pos="Prc">пужнӥсь</l> <drvg><inflect type="Der/сь" drv="Prc"/><stem>пужныны;</stem></drvg>
+     <l pos="Prc">пужнӥсь</l> <compg><comp ord="E1" pos="V">пужныны;</comp><comp ord="E2" type="Der/сь" drv="Prc"/></compg>
    </lg>
    <mg>
    </mg>
@@ -17228,7 +17228,7 @@
    <mg>
      <tg xml:lang="fin">
        <t>tihkusade</t>
-     </tg><font face="SmolenskSGR"><b>пужнӥськон </b></font><drvg><inflect type="Der/Он" drv="V»N"/><stem>пужнӥськыны</stem></drvg><FIX2/>
+     </tg><font face="SmolenskSGR"><b>пужнӥськон </b></font><compg><comp ord="E1" pos="V">пужнӥськыны</comp><comp ord="E2" type="Der/Он" drv="V»N"/></compg><FIX2/>
    </mg>
 </e>
 <e>
@@ -17255,13 +17255,13 @@
    <lg>
      <l pos="Prc;N">пужыятскись</l><orig>пужыятскись</orig>
    </lg>
-   <mg ind="1th"><drvg><inflect type="Der/сь" drv="Prc"/><stem>пужыятскыны</stem></drvg>
+   <mg ind="1th"><compg><comp ord="E1" pos="V">пужыятскыны</comp><comp ord="E2" type="Der/сь" drv="Prc"/></compg>
    </mg>
    <mg ind="2th">
      <tg xml:lang="fin">
        <t>koruompelija</t>
      </tg><font face="SmolenskSGR"><b>пужыятскон</b></font><FIX2/>
-   <mg ind="1th"/><drvg><inflect type="Der/Он" drv="V»N"/><stem>пужыятскыны</stem></drvg>
+   <mg ind="1th"/><compg><comp ord="E1" pos="V">пужыятскыны</comp><comp ord="E2" type="Der/Он" drv="V»N"/></compg>
    </mg>
    <mg ind="2th">
      <tg xml:lang="fin">
@@ -17402,7 +17402,7 @@
    <lg>
      <l pos="N">пульдон</l><orig>пульдон</orig>
    </lg>
-   <mg><drvg><inflect type="Der/Он" drv="V»N"/><stem>пульдыны <FIX2/>пульды</stem></drvg>
+   <mg><compg><inflect type="Der/Он" drv="V»N"/><stem>пульдыны <FIX2/>пульды</stem></compg>
      <variants>
        <l_syn type="&gt;">пульы</l_syn>
      </variants>
@@ -17565,7 +17565,7 @@
    <mg>
      <tg xml:lang="fin">
        <t>harmahtava</t>
-     </tg><font face="SmolenskSGR"><b>пурыяськон </b></font><drvg><inflect type="Der/Он" drv="V»N"/><stem>пурыяськыны</stem></drvg><FIX2/>
+     </tg><font face="SmolenskSGR"><b>пурыяськон </b></font><compg><comp ord="E1" pos="V">пурыяськыны</comp><comp ord="E2" type="Der/Он" drv="V»N"/></compg><FIX2/>
    </mg>
 </e>
 <e>
@@ -17653,7 +17653,7 @@
      <tg xml:lang="fin">
        <t>sisälmykset</t>
      </tg><font face="SmolenskSGR"><b>пуштӥсь</b></font><FIX2/>
-   <mg ind="1th"/><drvg><inflect type="Der/сь" drv="Prc"/><stem>пуштыны</stem></drvg>
+   <mg ind="1th"/><compg><comp ord="E1" pos="V">пуштыны</comp><comp ord="E2" type="Der/сь" drv="Prc"/></compg>
    </mg>
    <mg ind="2th">
      <tg xml:lang="fin">
@@ -17844,7 +17844,7 @@
    <mg ind="2th"><defNative>будэтыны</defNative>
      <tg xml:lang="fin">
        <t>auttaa (t. nostaa, saada) jk jaloilleen</t>
-     </tg><font face="SmolenskSGR"><b>пыдъяськон </b></font><drvg><inflect type="Der/Он" drv="V»N"/><stem>пыдъяськыны</stem></drvg><FIX2/>
+     </tg><font face="SmolenskSGR"><b>пыдъяськон </b></font><compg><comp ord="E1" pos="V">пыдъяськыны</comp><comp ord="E2" type="Der/Он" drv="V»N"/></compg><FIX2/>
    </mg>
 </e>
 <e>
@@ -17904,7 +17904,7 @@
      <tg xml:lang="fin">
        <t>turvota, ajettua</t>
      </tg><font face="SmolenskSGR"><b>пыктэм</b></font><FIX2/>
-   <mg ind="1th"/><drvg><inflect type="Der/Эм" drv="Prc;V»N"/><stem>пыктыны</stem></drvg>
+   <mg ind="1th"/><compg><comp ord="E1">пыктыны</comp><comp ord="E2" type="Der/Эм" drv="Prc;V»N"/></compg>
    </mg>
    <mg ind="2th"><defNative>пыктос</defNative>
      <tg xml:lang="fin">
@@ -17916,7 +17916,7 @@
    <lg>
      <l pos="N">пыкылон</l><orig>пыкылон</orig>
    </lg>
-   <mg ind="1th"><drvg><inflect type="Der/он" drv="V»N"/><stem>пыкылыны</stem></drvg>
+   <mg ind="1th"><compg><comp ord="E1" pos="V">пыкылыны</comp><comp ord="E2" type="Der/он" drv="V»N"/></compg>
    </mg>
    <mg ind="2th"><senseType>kuv.</senseType><defNative>ымйылэм</defNative>
      <tg xml:lang="fin">
@@ -17981,14 +17981,14 @@
    <mg ind="2th"><defNative>капчи визьем</defNative>
      <tg xml:lang="fin">
        <t>kevytmielinen, huoleton</t>
-     </tg><font face="SmolenskSGR"><b>пыльтчытон </b></font><drvg><inflect type="Der/Он" drv="V»N"/><stem>пыльтчытыны</stem></drvg><FIX2/>
+     </tg><font face="SmolenskSGR"><b>пыльтчытон </b></font><compg><comp ord="E1" pos="V">пыльтчытыны</comp><comp ord="E2" type="Der/Он" drv="V»N"/></compg><FIX2/>
    </mg>
 </e>
 <e>
    <lg>
      <l pos="Prc;N">пырась-потась</l><orig>пырась-потась</orig>
    </lg>
-   <mg ind="1th"><drvg><inflect type="Der/сь" drv="Prc"/><stem>пыраны-потаны</stem></drvg>
+   <mg ind="1th"><compg><comp ord="E1" pos="V">пыраны-потаны</comp><comp ord="E2" type="Der/сь" drv="Prc"/></compg>
    </mg>
    <mg ind="2th"><note><i>koll.</i></note>
      <tg xml:lang="fin">
@@ -18012,7 +18012,7 @@
      </tg> <font face="SmolenskSGR">(<i>усьтонэн</i>)</font>
      <tg xml:lang="fin">
        <t>lukita, panna lukkoon</t>
-     </tg><font face="SmolenskSGR"><b>пытсаськон </b></font><drvg><inflect type="Der/Он" drv="V»N"/><stem>пытсаськыны</stem></drvg><FIX2/>
+     </tg><font face="SmolenskSGR"><b>пытсаськон </b></font><compg><comp ord="E1" pos="V">пытсаськыны</comp><comp ord="E2" type="Der/Он" drv="V»N"/></compg><FIX2/>
    </mg>
 </e>
 <e>
@@ -18592,14 +18592,14 @@
    <mg ind="2th"><defNative>амезь</defNative>
      <tg xml:lang="fin">
        <t>(auran)vannas</t>
-     </tg><font face="SmolenskSGR"><b>сабиськон </b></font><drvg><inflect type="Der/Он" drv="V»N"/><stem>сабиськыны</stem></drvg><FIX2/>
+     </tg><font face="SmolenskSGR"><b>сабиськон </b></font><compg><comp ord="E1" pos="V">сабиськыны</comp><comp ord="E2" type="Der/Он" drv="V»N"/></compg><FIX2/>
    </mg>
 </e>
 <e>
    <lg>
      <l pos="N">сабон</l><orig>сабон</orig>
    </lg>
-   <mg><drvg><inflect type="Der/Он" drv="V»N"/><stem>сабыны <FIX2/>сабрес </stem></drvg><font face="SmolenskSGR">(<i>лякыт</i>)</font>
+   <mg><compg><inflect type="Der/Он" drv="V»N"/><stem>сабыны <FIX2/>сабрес </stem></compg><font face="SmolenskSGR">(<i>лякыт</i>)</font>
      <tg xml:lang="fin">
        <t>rauhallinen, tasapainoinen, tasainen;</t>
      </tg><font face="SmolenskSGR">(<i>йыг-йыг</i>)</font>
@@ -18702,7 +18702,7 @@
    <mg>
      <tg xml:lang="fin">
        <t>herättää, havahduttaa</t>
-     </tg><font face="SmolenskSGR"><b>сайкиськон </b></font><drvg><inflect type="Der/Он" drv="V»N"/><stem>сайкиськыны</stem></drvg><FIX2/>
+     </tg><font face="SmolenskSGR"><b>сайкиськон </b></font><compg><comp ord="E1" pos="V">сайкиськыны</comp><comp ord="E2" type="Der/Он" drv="V»N"/></compg><FIX2/>
    </mg>
 </e>
 <e>
@@ -19044,13 +19044,13 @@
    <lg>
      <l pos="Prc;N">серектэм</l><orig>серектэм</orig>
    </lg>
-   <mg ind="1th"><drvg><inflect type="Der/Эм" drv="Prc;V»N"/><stem>серектыны</stem></drvg>
+   <mg ind="1th"><compg><comp ord="E1">серектыны</comp><comp ord="E2" type="Der/Эм" drv="Prc;V»N"/></compg>
    </mg>
    <mg ind="2th">
      <tg xml:lang="fin">
        <t>naurahdus</t>
      </tg><font face="SmolenskSGR"><b>серекъям</b></font><FIX2/>
-   <mg ind="1th"/><drvg><inflect type="Der/Эм" drv="Prc;V»N"/><stem>серекъяны</stem></drvg>
+   <mg ind="1th"/><compg><comp ord="E1">серекъяны</comp><comp ord="E2" type="Der/Эм" drv="Prc;V»N"/></compg>
    </mg>
    <mg ind="2th">
      <tg xml:lang="fin">
@@ -19107,7 +19107,7 @@
    <lg>
      <l pos="N">сиён</l><orig>сиён</orig>
    </lg>
-   <mg ind="1th"><drvg><inflect type="Der/Он" drv="V»N"/><stem>сиыны</stem></drvg>
+   <mg ind="1th"><compg><comp ord="E1" pos="V">сиыны</comp><comp ord="E2" type="Der/Он" drv="V»N"/></compg>
    </mg>
    <mg ind="2th"><defNative>кӧттыр</defNative>
      <tg xml:lang="fin">
@@ -19496,7 +19496,7 @@
    <mg>
      <tg xml:lang="fin">
        <t>kyynel(eet)</t>
-     </tg><font face="SmolenskSGR"><b>синкылияськон </b></font><drvg><inflect type="Der/Он" drv="V»N"/><stem>синкылияськыны</stem></drvg><FIX2/>
+     </tg><font face="SmolenskSGR"><b>синкылияськон </b></font><compg><comp ord="E1" pos="V">синкылияськыны</comp><comp ord="E2" type="Der/Он" drv="V»N"/></compg><FIX2/>
    </mg>
 </e>
 <e>
@@ -19507,7 +19507,7 @@
      <tg xml:lang="fin">
        <t>silmäripsi, silmäripset</t>
      </tg><font face="SmolenskSGR"><b>синмаськон</b></font><FIX2/>
-   <mg ind="1th"/><drvg><inflect type="Der/Он" drv="V»N"/><stem>синмаськыны</stem></drvg>
+   <mg ind="1th"/><compg><comp ord="E1" pos="V">синмаськыны</comp><comp ord="E2" type="Der/Он" drv="V»N"/></compg>
    </mg>
    <mg ind="2th"><defNative>кельшон, куанон</defNative>
      <tg xml:lang="fin">
@@ -19562,7 +19562,7 @@
    <mg ind="2th"><defNative>люканы</defNative>
      <tg xml:lang="fin">
        <t>kerätä pihkaa</t>
-     </tg><font face="SmolenskSGR"><b>сираськон </b></font><drvg><inflect type="Der/Он" drv="V»N"/><stem>сираськыны</stem></drvg><FIX2/>
+     </tg><font face="SmolenskSGR"><b>сираськон </b></font><compg><comp ord="E1" pos="V">сираськыны</comp><comp ord="E2" type="Der/Он" drv="V»N"/></compg><FIX2/>
    </mg>
 </e>
 <e>
@@ -19578,7 +19578,7 @@
    <mg ind="2th"><defNative>чырты пась</defNative>
      <tg xml:lang="fin">
        <t>pääntie, kaula-aukko</t>
-     </tg><font face="SmolenskSGR"><b>сиресан </b></font><drvg><inflect type="Der/Он" drv="V»N"/><stem>сиресаны</stem></drvg><FIX2/>
+     </tg><font face="SmolenskSGR"><b>сиресан </b></font><compg><comp ord="E1" pos="V">сиресаны</comp><comp ord="E2" type="Der/Он" drv="V»N"/></compg><FIX2/>
    </mg>
 </e>
 <e>
@@ -19844,7 +19844,7 @@
      <tg xml:lang="fin">
        <t>sotilas, sotamies; varusmies</t>
      </tg><font face="SmolenskSGR"><b>солэн</b></font><FIX2/>
-   <mg ind="1th"/><drvg><inflect>gen. pron:sta </inflect><stem>со</stem></drvg>
+   <mg ind="1th"/><compg><comp ord="E1">со</comp><comp ord="E2">gen. pron:sta</comp></compg>
      <tg xml:lang="fin">
        <t>hänellä; sillä</t>
      </tg>
@@ -19884,7 +19884,7 @@
    <lg>
      <l pos="Prc;N">соргетэм</l><orig>соргетэм</orig>
    </lg>
-   <mg ind="1th"><drvg><inflect type="Der/Эм" drv="Prc"/><stem>соргетыны</stem></drvg>
+   <mg ind="1th"><compg><comp ord="E1" pos="V">соргетыны</comp><comp ord="E2" type="Der/Эм" drv="Prc"/></compg>
    </mg>
    <mg ind="2th">
      <tg xml:lang="fin">
@@ -19975,12 +19975,12 @@
    <lg>
      <l pos="Prc;A">сӧриськись</l><orig>сӧриськись</orig>
    </lg>
-   <mg ind="1th"><drvg><inflect type="Der/сь" drv="Prc"/><stem>сӧриськыны</stem></drvg>
+   <mg ind="1th"><compg><comp ord="E1" pos="V">сӧриськыны</comp><comp ord="E2" type="Der/сь" drv="Prc"/></compg>
    </mg>
    <mg ind="2th">
      <tg xml:lang="fin">
        <t>helposti särkyvä, hauras</t>
-     </tg><font face="SmolenskSGR"><b>сӧриськон </b></font><drvg><inflect type="Der/Он" drv="V»N"/><stem>сӧриськыны</stem></drvg><FIX2/>
+     </tg><font face="SmolenskSGR"><b>сӧриськон </b></font><compg><comp ord="E1" pos="V">сӧриськыны</comp><comp ord="E2" type="Der/Он" drv="V»N"/></compg><FIX2/>
    </mg>
 </e>
 <e><FIXME1/>
@@ -19998,7 +19998,7 @@
      <tg xml:lang="fin">
        <t>urheilija</t>
      </tg><font face="SmolenskSGR"><b>споръяськем</b></font><FIX2/>
-   <mg ind="1th"/><drvg><inflect type="Der/Эм" drv="Prc;V»N"/><stem>споръяськыны</stem></drvg>
+   <mg ind="1th"/><compg><comp ord="E1">споръяськыны</comp><comp ord="E2" type="Der/Эм" drv="Prc;V»N"/></compg>
    </mg>
    <mg ind="2th">
      <tg xml:lang="fin">
@@ -20124,7 +20124,7 @@
    <mg>
      <tg xml:lang="fin">
        <t>höylätä</t>
-     </tg><font face="SmolenskSGR"><b>стругаськон </b></font><drvg><inflect type="Der/Он" drv="V»N"/><stem>стругаськыны</stem></drvg><FIX2/>
+     </tg><font face="SmolenskSGR"><b>стругаськон </b></font><compg><comp ord="E1" pos="V">стругаськыны</comp><comp ord="E2" type="Der/Он" drv="V»N"/></compg><FIX2/>
    </mg>
 </e>
 <e>
@@ -20568,7 +20568,7 @@
    <lg>
      <l pos="N">сэрттон</l><orig>сэрттон</orig>
    </lg>
-   <mg><drvg><inflect type="Der/Он" drv="V»N"/><stem>сэрттыны <FIX2/>сэрттон-пертчон</stem></drvg>
+   <mg><compg><inflect type="Der/Он" drv="V»N"/><stem>сэрттыны <FIX2/>сэрттон-пертчон</stem></compg>
    <mg ind="1th"/><inflect>teonn.</inflect>
      <tg xml:lang="fin">
        <t>analysointi, erittely, käsittely, tutkiminen; jäsentäminen, jäsentely</t>
@@ -20763,7 +20763,7 @@
      <tg xml:lang="fin">
        <t>selkäranka</t>
      </tg><font face="SmolenskSGR"><b>сюрмем</b></font><FIX2/>
-   <mg ind="1th"/><drvg><inflect type="Der/Эм" drv="Prc;V»N"/><stem>сюрмыны</stem></drvg>
+   <mg ind="1th"/><compg><comp ord="E1">сюрмыны</comp><comp ord="E2" type="Der/Эм" drv="Prc;V»N"/></compg>
    </mg>
    <mg ind="2th">
      <tg xml:lang="fin">
@@ -20785,7 +20785,7 @@
    <lg>
      <l pos="N">сюрмон</l><orig>сюрмон</orig>
    </lg>
-   <mg><drvg><inflect type="Der/Он" drv="V»N"/><stem>сюрмыны <FIX2/>сюрмумы</stem></drvg>
+   <mg><compg><inflect type="Der/Он" drv="V»N"/><stem>сюрмыны <FIX2/>сюрмумы</stem></compg>
      <variants>
        <l_syn type="&gt;">сюранай</l_syn>
      </variants>
@@ -20910,7 +20910,7 @@
    <mg>
      <tg xml:lang="fin">
        <t>terve, terveellinen</t>
-     </tg><font face="SmolenskSGR"><b>тазамон </b></font><drvg><inflect type="Der/Он" drv="V»N"/><stem>тазамыны</stem></drvg><FIX2/>
+     </tg><font face="SmolenskSGR"><b>тазамон </b></font><compg><comp ord="E1" pos="V">тазамыны</comp><comp ord="E2" type="Der/Он" drv="V»N"/></compg><FIX2/>
    </mg>
 </e>
 <e>
@@ -21059,7 +21059,7 @@
      </tg><font face="SmolenskSGR"><b>танкист </b></font><field>sot.</field><FIX2/>
      <tg xml:lang="fin">
        <t>panssarivaunumies</t>
-     </tg><font face="SmolenskSGR"><b>танон </b></font><drvg><inflect type="Der/Он" drv="V»N"/><stem>таныны</stem></drvg><FIX2/>
+     </tg><font face="SmolenskSGR"><b>танон </b></font><compg><comp ord="E1" pos="V">таныны</comp><comp ord="E2" type="Der/Он" drv="V»N"/></compg><FIX2/>
    </mg>
 </e>
 <e>
@@ -21079,7 +21079,7 @@
    <lg>
      <l pos="N">таркан</l><orig>таркан</orig>
    </lg>
-   <mg><drvg><inflect type="Der/Он" drv="V»N"/><stem>тарканы</stem></drvg> <FIX2/><font face="SmolenskSGR"><b>тарканы</b></font>
+   <mg><compg><comp ord="E1" pos="V">тарканы</comp><comp ord="E2" type="Der/Он" drv="V»N"/></compg> <FIX2/><font face="SmolenskSGR"><b>тарканы</b></font>
    <mg ind="1th"/><defNative>йырсиез я. сӥньысэз</defNative>
      <tg xml:lang="fin">
        <t>sekoittaa, sotkea; pörröttää</t>
@@ -21205,13 +21205,13 @@
    <lg>
      <l pos="Pron">тӥледды</l><orig>тӥледды</orig>
    </lg>
-   <mg><drvg><inflect>akk. pron:sta </inflect><stem>тӥ</stem></drvg>
+   <mg><compg><comp ord="E1">тӥ</comp><comp ord="E2">akk. pron:sta</comp></compg>
      <tg xml:lang="fin">
        <t>teidät, teitä;</t>
      </tg>
      <xg><x>тӥледды куное ӧтизы</x>
        <xt xml:lang="fin">kutsuivat teidät vieraaksi (t. kylään)</xt>
-     </xg><font face="SmolenskSGR"><b>тӥледлы </b></font><drvg><inflect>dat. pron:sta </inflect><stem>тӥ</stem></drvg><FIX2/>
+     </xg><font face="SmolenskSGR"><b>тӥледлы </b></font><compg><comp ord="E1">тӥ</comp><comp ord="E2">dat. pron:sta</comp></compg><FIX2/>
      <tg xml:lang="fin">
        <t>teille; teidän;</t>
      </tg>
@@ -21367,7 +21367,7 @@
 </e>
 <e><FIXME1/>
    <mg><font face="SmolenskSGR"><b>тодымтэ</b></font><FIX2/>
-   <mg ind="1th"/><drvg><inflect type="Der/Эмтэ" drv="Prc"/><stem>тодыны</stem></drvg>
+   <mg ind="1th"/><compg><comp ord="E1" pos="V">тодыны</comp><comp ord="E2" type="Der/Эмтэ" drv="Prc"/></compg>
    </mg>
    <mg ind="2th">
      <tg xml:lang="fin">
@@ -21475,7 +21475,7 @@
    <mg>
      <variants>
        <l_syn type="&gt;">тӧдьыӟектон, тӧдьыӟектыны <FIX2/>тӧдьыӟектон</l_syn>
-     </variants><drvg><inflect type="Der/Он" drv="V»N"/><stem>тӧдьыӟектыны</stem></drvg>
+     </variants><compg><comp ord="E1" pos="V">тӧдьыӟектыны</comp><comp ord="E2" type="Der/Он" drv="V»N"/></compg>
    </mg>
 </e>
 <e>
@@ -21488,7 +21488,7 @@
    <mg>
      <variants>
        <l_syn type="&gt;">тӧдьыӟектон, тӧдьыӟектыны <FIX2/>тӧдьыӟектон</l_syn>
-     </variants><drvg><inflect type="Der/Он" drv="V»N"/><stem>тӧдьыӟектыны</stem></drvg>
+     </variants><compg><comp ord="E1" pos="V">тӧдьыӟектыны</comp><comp ord="E2" type="Der/Он" drv="V»N"/></compg>
    </mg>
 </e>
 <e>
@@ -21659,7 +21659,7 @@
    <lg>
      <l pos="N">тубытон</l><orig>тубытон</orig>
    </lg>
-   <mg><drvg><inflect type="Der/Он" drv="V»N"/><stem>тубытыны <FIX2/>тубытъян </stem></drvg><drvg><inflect type="Der/Он" drv="V»N"/><stem>тубытъяны</stem></drvg>
+   <mg><compg><inflect type="Der/Он" drv="V»N"/><stem>тубытыны <FIX2/>тубытъян </stem></compg><compg><comp ord="E1" pos="V">тубытъяны</comp><comp ord="E2" type="Der/Он" drv="V»N"/></compg>
    </mg>
 </e>
 <e>
@@ -21767,7 +21767,7 @@
      </tg>
      <variants>
        <l_syn type="&gt;">февраль <FIX2/>тульӟон</l_syn>
-     </variants><drvg><inflect type="Der/Он" drv="V»N"/><stem>тульӟыны</stem></drvg>
+     </variants><compg><comp ord="E1" pos="V">тульӟыны</comp><comp ord="E2" type="Der/Он" drv="V»N"/></compg>
    </mg>
 </e>
 <e>
@@ -21837,7 +21837,7 @@
    <mg>
      <tg xml:lang="fin">
        <t>sopimaton, epäsuotuisa</t>
-     </tg><font face="SmolenskSGR"><b>тупатӥськон </b></font><drvg><inflect type="Der/Он" drv="V»N"/><stem>тупатӥськыны</stem></drvg><FIX2/>
+     </tg><font face="SmolenskSGR"><b>тупатӥськон </b></font><compg><comp ord="E1" pos="V">тупатӥськыны</comp><comp ord="E2" type="Der/Он" drv="V»N"/></compg><FIX2/>
    </mg>
 </e>
 <e>
@@ -21849,7 +21849,7 @@
        <l_syn type="&gt;">тупатскыны</l_syn>
      </variants>
    </mg>
-   <mg ind="2th"> <drvg><inflect>pass. v:stä</inflect><stem>тупатыны <FIX2/>тупатон</stem></drvg>
+   <mg ind="2th"> <compg><inflect>pass. v:stä</inflect><stem>тупатыны <FIX2/>тупатон</stem></compg>
    <mg ind="1th"/>
      <tg xml:lang="fin">
        <t>korjaaminen, korjaus, kunnostaminen;</t>
@@ -22182,7 +22182,7 @@
    <lg>
      <l pos="N">тырон</l><orig>тырон</orig>
    </lg>
-   <mg ind="1th"><drvg><inflect type="Der/он" drv="V»N"/><stem>тырыны 2.<FIX3/> тыронъёс </stem></drvg><note><i>mon.</i></note>
+   <mg ind="1th"><compg><inflect type="Der/он" drv="V»N"/><stem>тырыны 2.<FIX3/> тыронъёс </stem></compg><note><i>mon.</i></note>
      <tg xml:lang="fin">
        <t>maksut, suoritukset;</t>
      </tg>
@@ -22565,7 +22565,7 @@
      <tg xml:lang="fin">
        <t>tuottava, tuottoisa</t>
      </tg><font face="SmolenskSGR"><b>ужам</b></font><FIX2/>
-   <mg ind="1th"/><drvg><inflect type="Der/Эм" drv="Prc"/><stem>ужаны</stem></drvg>
+   <mg ind="1th"/><compg><comp ord="E1" pos="V">ужаны</comp><comp ord="E2" type="Der/Эм" drv="Prc"/></compg>
    </mg>
    <mg ind="2th">
      <tg xml:lang="fin">
@@ -22593,7 +22593,7 @@
    <lg>
      <l pos="Prc;N">узатӥсь</l><orig>узатӥсь</orig>
    </lg>
-   <mg ind="1th"><drvg><inflect type="Der/сь" drv="Prc"/><stem>узатыны</stem></drvg>
+   <mg ind="1th"><compg><comp ord="E1" pos="V">узатыны</comp><comp ord="E2" type="Der/сь" drv="Prc"/></compg>
    </mg>
    <mg ind="2th"><defNative>пуныез</defNative>
      <tg xml:lang="fin">
@@ -22635,7 +22635,7 @@
      <tg xml:lang="fin">
        <t>vikistä, vinkua</t>
      </tg><font face="SmolenskSGR"><b>уиккетэм</b></font><FIX2/>
-   <mg ind="1th"/><drvg><inflect type="Der/Эм" drv="Prc"/><stem>уиккетыны</stem></drvg>
+   <mg ind="1th"/><compg><comp ord="E1" pos="V">уиккетыны</comp><comp ord="E2" type="Der/Эм" drv="Prc"/></compg>
    </mg>
    <mg ind="2th">
      <tg xml:lang="fin">
@@ -22650,7 +22650,7 @@
    <mg><range>murt.</range>
      <tg xml:lang="fin">
        <t>puras(in), taltta</t>
-     </tg><font face="SmolenskSGR"><b>уймон </b></font><drvg><inflect type="Der/Он" drv="V»N"/><stem>уймыны</stem></drvg><FIX2/>
+     </tg><font face="SmolenskSGR"><b>уймон </b></font><compg><comp ord="E1" pos="V">уймыны</comp><comp ord="E2" type="Der/Он" drv="V»N"/></compg><FIX2/>
    </mg>
 </e>
 <e>
@@ -22660,7 +22660,7 @@
    <mg>
      <tg xml:lang="fin">
        <t>satulavyö, mahavyö</t>
-     </tg><font face="SmolenskSGR"><b>уйылон </b></font><drvg><inflect type="Der/Он" drv="V»N"/><stem>уйылыны</stem></drvg><FIX2/>
+     </tg><font face="SmolenskSGR"><b>уйылон </b></font><compg><comp ord="E1" pos="V">уйылыны</comp><comp ord="E2" type="Der/Он" drv="V»N"/></compg><FIX2/>
    </mg>
 </e>
 <e>
@@ -22720,14 +22720,14 @@
    <lg>
      <l pos="Prc">укшась</l><orig>укшась</orig>
    </lg>
-   <mg><drvg><inflect type="Der/сь" drv="Prc"/><stem>укшаны <FIX2/>укшатон </stem></drvg><drvg><inflect type="Der/Он" drv="V»N"/><stem>укшатыны</stem></drvg>
+   <mg><compg><inflect type="Der/сь" drv="Prc"/><stem>укшаны <FIX2/>укшатон </stem></compg><compg><comp ord="E1" pos="V">укшатыны</comp><comp ord="E2" type="Der/Он" drv="V»N"/></compg>
    </mg>
 </e>
 <e>
    <lg>
      <l pos="N">улӟытон</l><orig>улӟытон</orig>
    </lg>
-   <mg><drvg><inflect type="Der/Он" drv="V»N"/><stem>улӟытыны <FIX2/>улӟытскон </stem></drvg><senseType>kuv.</senseType>
+   <mg><compg><inflect type="Der/Он" drv="V»N"/><stem>улӟытыны <FIX2/>улӟытскон </stem></compg><senseType>kuv.</senseType>
      <tg xml:lang="fin">
        <t>elpyminen, vilkastuminen, herääminen</t>
      </tg><font face="SmolenskSGR"><b>улӟытскыны </b></font><senseType>kuv.</senseType><FIX2/>
@@ -23222,7 +23222,7 @@
    <lg>
      <l pos="Prc;N">усем</l><orig>усем</orig>
    </lg>
-   <mg><drvg><inflect type="Der/Эм" drv="Prc;V»N"/><stem>усьыны <FIX2/>усён</stem></drvg>
+   <mg><compg><inflect type="Der/Эм" drv="Prc;V»N"/><stem>усьыны <FIX2/>усён</stem></compg>
    <mg ind="1th"/><defNative>вылысен улӥе</defNative>
      <tg xml:lang="fin">
        <t> putoaminen, putoilu</t>
@@ -23291,7 +23291,7 @@
      </tg>
      <tg xml:lang="fin">
        <t>maahan), hypätä (alas) jstak</t>
-     </tg><font face="SmolenskSGR"><b>уськытъян </b></font><drvg><inflect type="Der/Он" drv="V»N"/><stem>уськытъяны</stem></drvg><FIX2/>
+     </tg><font face="SmolenskSGR"><b>уськытъян </b></font><compg><comp ord="E1" pos="V">уськытъяны</comp><comp ord="E2" type="Der/Он" drv="V»N"/></compg><FIX2/>
    </mg>
 </e>
 <e>
@@ -23349,7 +23349,7 @@
      <tg xml:lang="fin">
        <t>avautua, aueta</t>
      </tg><font face="SmolenskSGR"><b>утем<rom ind="1"/></b></font><FIX2/>
-   <mg ind="1th"/><drvg><inflect type="Der/Эм" drv="Prc"/><stem>утьыны</stem></drvg>
+   <mg ind="1th"/><compg><comp ord="E1" pos="V">утьыны</comp><comp ord="E2" type="Der/Эм" drv="Prc"/></compg>
    </mg>
    <mg ind="2th"><defNative>нылпиез возьмам</defNative>
      <tg xml:lang="fin">
@@ -23557,7 +23557,7 @@
      <tg xml:lang="fin">
        <t>kehua, kiittää, ylistää</t>
      </tg><font face="SmolenskSGR"><b>ушъяськись</b></font><FIX2/>
-   <mg ind="1th"/><drvg><inflect type="Der/сь" drv="Prc"/><stem>ушъяськыны</stem></drvg>
+   <mg ind="1th"/><compg><comp ord="E1" pos="V">ушъяськыны</comp><comp ord="E2" type="Der/сь" drv="Prc"/></compg>
    </mg>
    <mg ind="2th">
      <tg xml:lang="fin">
@@ -24178,7 +24178,7 @@
      </variants><font face="SmolenskSGR"><b>чагырес <rom ind="1,2"/></b></font><FIX2/>
      <variants>
        <l_syn type="&gt;">чагрес <rom ind="1,2"/></l_syn>
-     </variants><font face="SmolenskSGR"><b>чагырман </b></font><drvg><inflect type="Der/Он" drv="V»N"/><stem>чагырманы</stem></drvg><FIX2/>
+     </variants><font face="SmolenskSGR"><b>чагырман </b></font><compg><comp ord="E1" pos="V">чагырманы</comp><comp ord="E2" type="Der/Он" drv="V»N"/></compg><FIX2/>
    </mg>
 </e>
 <e>
@@ -24238,7 +24238,7 @@
      <tg xml:lang="fin">
        <t>on oikein varovainen ihminen</t>
      </tg><font face="SmolenskSGR"><b>чакласькон</b></font><FIX2/>
-   <mg ind="1th"/><drvg><inflect type="Der/Он" drv="V»N"/><stem>чакласькыны</stem></drvg>
+   <mg ind="1th"/><compg><comp ord="E1" pos="V">чакласькыны</comp><comp ord="E2" type="Der/Он" drv="V»N"/></compg>
    </mg>
    <mg ind="2th"><defNative>тодмет, оскон</defNative>
      <tg xml:lang="fin">
@@ -24293,7 +24293,7 @@
    <lg>
      <l pos="Prc;N">чакыртэм</l><orig>чакыртэм</orig>
    </lg>
-   <mg ind="1th"><drvg><inflect type="Der/Эм" drv="Prc;V»N"/><stem>чакыртыны</stem></drvg>
+   <mg ind="1th"><compg><comp ord="E1">чакыртыны</comp><comp ord="E2" type="Der/Эм" drv="Prc;V»N"/></compg>
    </mg>
    <mg ind="2th">
      <tg xml:lang="fin">
@@ -24314,7 +24314,7 @@
    <lg>
      <l pos="Prc;N">чалмем</l><orig>чалмем</orig>
    </lg>
-   <mg ind="1th"><drvg><inflect type="Der/Эм" drv="Prc;V»N"/><stem>чалмыны</stem></drvg>
+   <mg ind="1th"><compg><comp ord="E1">чалмыны</comp><comp ord="E2" type="Der/Эм" drv="Prc;V»N"/></compg>
    </mg>
    <mg ind="2th"><defNative>шып луэм</defNative>
      <tg xml:lang="fin">
@@ -24591,7 +24591,7 @@
    <mg>
      <tg xml:lang="fin">
        <t>nipistää</t>
-     </tg><font face="SmolenskSGR"><b>чепыльтон </b></font><drvg><inflect type="Der/Он" drv="V»N"/><stem>чепыльтыны</stem></drvg><FIX2/>
+     </tg><font face="SmolenskSGR"><b>чепыльтон </b></font><compg><comp ord="E1" pos="V">чепыльтыны</comp><comp ord="E2" type="Der/Он" drv="V»N"/></compg><FIX2/>
    </mg>
 </e>
 <e>
@@ -24608,7 +24608,7 @@
    <lg>
      <l pos="N">чигон</l><orig>чигон</orig>
    </lg>
-   <mg><drvg><inflect type="Der/Он" drv="V»N"/><stem>чигыны <FIX2/>чигтӥськон, чигтӥськыны</stem></drvg>
+   <mg><compg><inflect type="Der/Он" drv="V»N"/><stem>чигыны <FIX2/>чигтӥськон, чигтӥськыны</stem></compg>
      <variants>
        <l_syn type="&gt;">чигиськон, чигиськыны</l_syn>
      </variants>
@@ -24806,7 +24806,7 @@
    <lg>
      <l pos="V">чоръяны</l><orig>чоръяны</orig>
    </lg>
-   <mg><drvg><inflect>iter. v:stä</inflect><stem>чортыны <FIX2/>чорыг</stem></drvg>
+   <mg><compg><inflect>iter. v:stä</inflect><stem>чортыны <FIX2/>чорыг</stem></compg>
    <mg ind="1th"/>
      <tg xml:lang="fin">
        <t>kala;</t>
@@ -24873,7 +24873,7 @@
    <lg>
      <l pos="V">чӧлляны</l><orig>чӧлляны</orig>
    </lg>
-   <mg><drvg><inflect>iter. v:stä</inflect><stem>чӧлтыны <FIX2/>чӧлляськон </stem></drvg><drvg><inflect type="Der/Он" drv="V»N"/><stem>чӧлляськыны</stem></drvg>
+   <mg><compg><inflect>iter. v:stä</inflect><stem>чӧлтыны <FIX2/>чӧлляськон </stem></compg><compg><comp ord="E1" pos="V">чӧлляськыны</comp><comp ord="E2" type="Der/Он" drv="V»N"/></compg>
    </mg>
 </e>
 <e>
@@ -24979,7 +24979,7 @@
 </e>
 <e><FIXME1/>
    <mg><font face="SmolenskSGR"><b>чукынымтэ</b></font><FIX2/>
-   <mg ind="1th"/><drvg><inflect type="Der/Эмтэ" drv="Prc"/><stem>чукыныны</stem></drvg>
+   <mg ind="1th"/><compg><comp ord="E1" pos="V">чукыныны</comp><comp ord="E2" type="Der/Эмтэ" drv="Prc"/></compg>
    </mg>
    <mg ind="2th"><field>kirk.</field>
      <tg xml:lang="fin">
@@ -25044,7 +25044,7 @@
      <tg xml:lang="fin">
        <t>suudelma, suukko</t>
      </tg><font face="SmolenskSGR"><b>чупам</b></font><FIX2/>
-   <mg ind="1th"/><drvg><inflect type="Der/Эм" drv="Prc"/><stem>чупаны</stem></drvg>
+   <mg ind="1th"/><compg><comp ord="E1" pos="V">чупаны</comp><comp ord="E2" type="Der/Эм" drv="Prc"/></compg>
    </mg>
    <mg ind="2th">
      <tg xml:lang="fin">
@@ -25196,7 +25196,7 @@
      <tg xml:lang="fin">
        <t>hapahko, happamahko</t>
      </tg><font face="SmolenskSGR"><b>чырсам</b></font><FIX2/>
-   <mg ind="1th"/><drvg><inflect type="Der/Эм" drv="Prc"/><stem>чырсаны</stem></drvg>
+   <mg ind="1th"/><compg><comp ord="E1" pos="V">чырсаны</comp><comp ord="E2" type="Der/Эм" drv="Prc"/></compg>
    </mg>
    <mg ind="2th">
      <tg xml:lang="fin">
@@ -25421,7 +25421,7 @@
      <tg xml:lang="fin">
        <t>rätistä, ritistä, ratista</t>
      </tg><font face="SmolenskSGR"><b>ӵажыртэм</b></font><FIX2/>
-   <mg ind="1th"/><drvg><inflect type="Der/Эм" drv="Prc"/><stem>ӵажыртыны</stem></drvg>
+   <mg ind="1th"/><compg><comp ord="E1" pos="V">ӵажыртыны</comp><comp ord="E2" type="Der/Эм" drv="Prc"/></compg>
    </mg>
    <mg ind="2th">
      <tg xml:lang="fin">
@@ -25534,7 +25534,7 @@
    <lg>
      <l pos="N">ӵогон</l><orig>ӵогон</orig>
    </lg>
-   <mg><drvg><inflect type="Der/Он" drv="V»N"/><stem>ӵогыны <FIX2/>ӵогрес</stem></drvg>
+   <mg><compg><inflect type="Der/Он" drv="V»N"/><stem>ӵогыны <FIX2/>ӵогрес</stem></compg>
    <mg ind="1th"/><defNative>шакырес, вольыттэм</defNative>
      <tg xml:lang="fin">
        <t>karhea, rosoinen</t>
@@ -25629,7 +25629,7 @@
    <mg>
      <tg xml:lang="fin">
        <t>silmissäni säkenöi (t. väreilee)</t>
-     </tg><font face="SmolenskSGR"><b>ӵужиськон </b></font><drvg><inflect type="Der/Он" drv="V»N"/><stem>ӵужиськыны</stem></drvg><FIX2/>
+     </tg><font face="SmolenskSGR"><b>ӵужиськон </b></font><compg><comp ord="E1" pos="V">ӵужиськыны</comp><comp ord="E2" type="Der/Он" drv="V»N"/></compg><FIX2/>
    </mg>
 </e>
 <e>
@@ -25850,14 +25850,14 @@
        <t>pato, olla patoamassa jokea</t>
      </tg>
    </mg>
-   <mg ind="2th"> <drvg><inflect>pass. v:stä</inflect><stem>ӵыпыны</stem></drvg>
+   <mg ind="2th"> <compg><comp ord="E1">ӵыпыны</comp><comp ord="E2">pass. v:stä</comp></compg>
    </mg>
 </e>
 <e>
    <lg>
      <l pos="Prc;N">ӵышкись</l><orig>ӵышкись</orig>
    </lg>
-   <mg ind="1th"><drvg><inflect type="Der/сь" drv="Prc"/><stem>ӵышкыны 2.<FIX3/> (йыр ӵышкись) </stem></drvg><font face="SmolenskSGR">(<i>пиосъёсты ӵышкись</i>)</font>
+   <mg ind="1th"><compg><inflect type="Der/сь" drv="Prc"/><stem>ӵышкыны 2.<FIX3/> (йыр ӵышкись) </stem></compg><font face="SmolenskSGR">(<i>пиосъёсты ӵышкись</i>)</font>
      <tg xml:lang="fin">
        <t>parturi;</t>
      </tg><font face="SmolenskSGR">(<i>кышноосты ӵышкись</i>)</font>
@@ -26309,14 +26309,14 @@
    <mg>
      <tg xml:lang="fin">
        <t>haaska, raato, (kuollut) ruumis</t>
-     </tg><font face="SmolenskSGR"><b>шӧйӟектон </b></font><drvg><inflect type="Der/Он" drv="V»N"/><stem>шӧйӟектыны</stem></drvg><FIX2/>
+     </tg><font face="SmolenskSGR"><b>шӧйӟектон </b></font><compg><comp ord="E1" pos="V">шӧйӟектыны</comp><comp ord="E2" type="Der/Он" drv="V»N"/></compg><FIX2/>
    </mg>
 </e>
 <e>
    <lg>
      <l pos="N">шӧймон</l><orig>шӧймон</orig>
    </lg>
-   <mg><drvg><inflect type="Der/Он" drv="V»N"/><stem>шӧймыны</stem></drvg> <FIX2/><font face="SmolenskSGR"><b>шӧймыны</b></font>
+   <mg><compg><comp ord="E1" pos="V">шӧймыны</comp><comp ord="E2" type="Der/Он" drv="V»N"/></compg> <FIX2/><font face="SmolenskSGR"><b>шӧймыны</b></font>
      <variants>
        <l_syn type="&gt;">шӧектыны</l_syn>
      </variants>
@@ -26379,7 +26379,7 @@
    <mg>
      <tg xml:lang="fin">
        <t>maistaa, maistella</t>
-     </tg><font face="SmolenskSGR"><b>шӧмъятон </b></font><drvg><inflect type="Der/Он" drv="V»N"/><stem>шӧмъятыны</stem></drvg><FIX2/>
+     </tg><font face="SmolenskSGR"><b>шӧмъятон </b></font><compg><comp ord="E1" pos="V">шӧмъятыны</comp><comp ord="E2" type="Der/Он" drv="V»N"/></compg><FIX2/>
    </mg>
 </e>
 <e>
@@ -26573,7 +26573,7 @@
    <mg>
      <tg xml:lang="fin">
        <t>leikkiä ja iloita (t. huvitella, pitää hauskaa)</t>
-     </tg><font face="SmolenskSGR"><b>шудэм </b></font><drvg><inflect type="Der/Эм" drv="Prc;V»N"/><stem>шудыны</stem></drvg><FIX2/>
+     </tg><font face="SmolenskSGR"><b>шудэм </b></font><compg><comp ord="E1">шудыны</comp><comp ord="E2" type="Der/Эм" drv="Prc;V»N"/></compg><FIX2/>
    </mg>
 </e>
 <e>
@@ -26602,7 +26602,7 @@
      <tg xml:lang="fin">
        <t>iloisesti; ilomielin, riemumielin, mielihyvin, mielellään</t>
      </tg><font face="SmolenskSGR"><b>шумпотэм</b></font><FIX2/>
-   <mg ind="1th"/><drvg><inflect type="Der/Эм" drv="Prc;V»N"/><stem>шум/потыны</stem></drvg>
+   <mg ind="1th"/><compg><comp ord="E1">шум/потыны</comp><comp ord="E2" type="Der/Эм" drv="Prc;V»N"/></compg>
    </mg>
    <mg ind="2th">
      <tg xml:lang="fin">
@@ -27054,7 +27054,7 @@
      <tg xml:lang="fin">
        <t>tsaarikunta, valtakunta</t>
      </tg><font face="SmolenskSGR"><b>эктӥсь</b></font><FIX2/>
-   <mg ind="1th"/><drvg><inflect type="Der/сь" drv="Prc"/><stem>эктыны</stem></drvg>
+   <mg ind="1th"/><compg><comp ord="E1" pos="V">эктыны</comp><comp ord="E2" type="Der/сь" drv="Prc"/></compg>
    </mg>
    <mg ind="2th">
      <tg xml:lang="fin">
@@ -27271,7 +27271,7 @@
    <lg>
      <l pos="Prc;N">эрекчам</l><orig>эрекчам</orig>
    </lg>
-   <mg ind="1th"><drvg><inflect type="Der/Эм" drv="Prc"/><stem>эрекчаны</stem></drvg>
+   <mg ind="1th"><compg><comp ord="E1" pos="V">эрекчаны</comp><comp ord="E2" type="Der/Эм" drv="Prc"/></compg>
    </mg>
    <mg ind="2th"><defNative>алдаськем</defNative>
      <tg xml:lang="fin">

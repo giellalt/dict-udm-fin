@@ -30,21 +30,21 @@ Possible errors following proofreading are, e. g., substitution of special fonts
    <lg>
      <l pos="Prc">бездӥсь</l><orig>бездӥсь</orig>
    </lg>
-   <mg ind="1th"><drvg><inflect type="Der/сь" drv="Prc"/><stem>бездыны</stem></drvg>
+   <mg ind="1th"><compg><comp ord="E1" pos="V">бездыны</comp><comp ord="E2" type="Der/сь" drv="Prc"/></compg>
 </mg>
    <mg ind="2th"><tg xml:lang="fin">
        <t>haalistuva, virttyvä, väriäpitämätön</t>
      </tg>
    </mg>
 </e>
-<e> <lg> <l pos="Prc">вуоно</l><orig>вуоно</orig> </lg> <mg ind="1th"><drvg><inflect type="Der/Оно" drv="Prc"/><stem>вуыны</stem></drvg> </mg> <mg ind="2th"><tg xml:lang="fin"> <t>ensi, tuleva, vastainen;</t> </tg> <xg><x>вуоно арын</x> <xt xml:lang="fin">ensi vuonna;</xt> </xg> <xg><x>вуоно толэзе</x> <xt xml:lang="fin">ensi kuussa</xt> </xg>◊ <font face="SmolenskSGR"><b>вуоно дыр </b></font><field>kiel.</field> <tg xml:lang="fin"> <t>futuuri</t> </tg> </mg> </e>
-<e> <lg> <l pos="Prc">вылымтэ</l> <drvg><inflect type="Der/Эмтэ" drv="Prc"/><stem>вылыны</stem></drvg> </lg> <mg ind="2th"><tg xml:lang="fin"> <t>olematon, uskomaton;</t> </tg> <xg><x>вылымтэ учыр</x> <xt xml:lang="fin">olematon asia (t. tapahtuma)</xt> </xg> </mg> <mg ind="3th"> <drvg><inflect>II preteritin kieltomuoto v:stä </inflect><stem>вылыны</stem></drvg> <tg xml:lang="fin"> <t>(osoittautui, että) ei ollut (t. ole), ei ollut (t. ole) ilmeisesti (t. näköjään);</t> </tg> <xg><x>клубын туннэ нокин вылымтэ</x> <xt xml:lang="fin">(osoittautui, että) tänään kerhossa ei ollut ketään</xt> </xg> </mg> </e>
+<e> <lg> <l pos="Prc">вуоно</l><orig>вуоно</orig> </lg> <mg ind="1th"><compg><comp ord="E1" pos="V">вуыны</comp><comp ord="E2" type="Der/Оно" drv="Prc"/></compg> </mg> <mg ind="2th"><tg xml:lang="fin"> <t>ensi, tuleva, vastainen;</t> </tg> <xg><x>вуоно арын</x> <xt xml:lang="fin">ensi vuonna;</xt> </xg> <xg><x>вуоно толэзе</x> <xt xml:lang="fin">ensi kuussa</xt> </xg>◊ <font face="SmolenskSGR"><b>вуоно дыр </b></font><field>kiel.</field> <tg xml:lang="fin"> <t>futuuri</t> </tg> </mg> </e>
+<e> <lg> <l pos="Prc">вылымтэ</l> <compg><comp ord="E1" pos="V">вылыны</comp><comp ord="E2" type="Der/Эмтэ" drv="Prc"/></compg> </lg> <mg ind="2th"><tg xml:lang="fin"> <t>olematon, uskomaton;</t> </tg> <xg><x>вылымтэ учыр</x> <xt xml:lang="fin">olematon asia (t. tapahtuma)</xt> </xg> </mg> <mg ind="3th"> <compg><comp ord="E1">вылыны</comp><comp ord="E2">II preteritin kieltomuoto v:stä</comp></compg> <tg xml:lang="fin"> <t>(osoittautui, että) ei ollut (t. ole), ei ollut (t. ole) ilmeisesti (t. näköjään);</t> </tg> <xg><x>клубын туннэ нокин вылымтэ</x> <xt xml:lang="fin">(osoittautui, että) tänään kerhossa ei ollut ketään</xt> </xg> </mg> </e>
 <e> <lg> <l pos="Prc">гажано</l><orig>гажано</orig> </lg> <mg ind="1th"><defNative>дуно, сӥё-дано</defNative> <tg xml:lang="fin"> <t>arvoisa, kunnioitettava, kunnioitettu; kallis;</t> </tg> <xg><x>гажано эшъёс!</x> <xt xml:lang="fin">arvoisat ystävät (t. toverit)!;</xt> </xg> <xg><x>гажано эше</x> <xt xml:lang="fin">kallis ystäväni</xt> </xg> </mg> <mg ind="2th"><defNative>яратоно</defNative> <tg xml:lang="fin"> <t>lemmitty, mielitietty, rakastettu, rakas</t> </tg> </mg> </e>
 <e>
    <lg>
      <l pos="Prc">чакмем</l><orig>чакмем</orig>
    </lg>
-   <mg ind="1th"><drvg><inflect type="Der/Эм" drv="Prc"/><stem>чакмыны</stem></drvg>
+   <mg ind="1th"><compg><comp ord="E1" pos="V">чакмыны</comp><comp ord="E2" type="Der/Эм" drv="Prc"/></compg>
    </mg>
    <mg ind="2th"><defNative>восьмем</defNative>
      <tg xml:lang="fin">
@@ -61,7 +61,7 @@ Possible errors following proofreading are, e. g., substitution of special fonts
    <lg>
      <l pos="Prc">чальккетэм</l><orig>чальккетэм</orig>
    </lg>
-   <mg ind="1th"><drvg><inflect type="Der/Эм" drv="Prc;V»N"/><stem>чальккетыны</stem></drvg>
+   <mg ind="1th"><compg><comp ord="E1">чальккетыны</comp><comp ord="E2" type="Der/Эм" drv="Prc;V»N"/></compg>
    </mg>
    <mg ind="2th">
      <tg xml:lang="fin">
@@ -74,7 +74,7 @@ Possible errors following proofreading are, e. g., substitution of special fonts
    <lg>
      <l pos="Prc">чапыльтэм</l><orig>чапыльтэм</orig>
    </lg>
-   <mg ind="1th"><drvg><inflect type="Der/Эм" drv="Prc"/><stem>чапыльтыны</stem></drvg>
+   <mg ind="1th"><compg><comp ord="E1" pos="V">чапыльтыны</comp><comp ord="E2" type="Der/Эм" drv="Prc"/></compg>
    </mg>
    <mg ind="2th">
      <tg xml:lang="fin">
@@ -86,21 +86,21 @@ Possible errors following proofreading are, e. g., substitution of special fonts
    <lg>
      <l pos="Prc">чатырскем</l><orig>чатырскем</orig>
    </lg>
-   <mg><drvg><inflect type="Der/Эм" drv="Prc;V»N"/><stem>чатырскыны</stem></drvg>
+   <mg><compg><comp ord="E1">чатырскыны</comp><comp ord="E2" type="Der/Эм" drv="Prc;V»N"/></compg>
    </mg>
 </e>
 <e>
    <lg>
      <l pos="Prc">чеберам</l><orig>чеберам</orig>
    </lg>
-   <mg><drvg><inflect type="Der/Эм" drv="Prc;V»N"/><stem>чебераны</stem></drvg>
+   <mg><compg><comp ord="E1">чебераны</comp><comp ord="E2" type="Der/Эм" drv="Prc;V»N"/></compg>
    </mg>
 </e>
 <e>
    <lg>
      <l pos="Prc">чеберъяськись</l><orig>чеберъяськись</orig>
    </lg>
-   <mg ind="1th"><drvg><inflect type="Der/сь" drv="Prc"/><stem>чеберъяськыны </stem></drvg>
+   <mg ind="1th"><compg><comp ord="E1" pos="V">чеберъяськыны</comp><comp ord="E2" type="Der/сь" drv="Prc"/></compg>
    </mg>
    <mg ind="2th"> <font face="SmolenskSGR">(<i>чебер дӥсяськись</i>) </font>
      <tg xml:lang="fin">
@@ -117,7 +117,7 @@ Possible errors following proofreading are, e. g., substitution of special fonts
    <lg>
      <l pos="Prc">ченгешем</l><orig>ченгешем</orig>
    </lg>
-   <mg ind="1th"><drvg><inflect type="Der/Эм" drv="Prc"/><stem>ченгешыны</stem></drvg>
+   <mg ind="1th"><compg><comp ord="E1" pos="V">ченгешыны</comp><comp ord="E2" type="Der/Эм" drv="Prc"/></compg>
    </mg>
    <mg ind="2th"><defNative>мытылэм</defNative>
      <tg xml:lang="fin">
@@ -137,7 +137,7 @@ Possible errors following proofreading are, e. g., substitution of special fonts
    <lg>
      <l pos="Prc">ченгешись</l><orig>ченгешись</orig>
    </lg>
-   <mg ind="1th"><drvg><inflect type="Der/сь" drv="Prc"/><stem>ченгешыны</stem></drvg>
+   <mg ind="1th"><compg><comp ord="E1" pos="V">ченгешыны</comp><comp ord="E2" type="Der/сь" drv="Prc"/></compg>
    </mg>
    <mg ind="2th"><field>lak.</field><font face="SmolenskSGR">(<i>споръяськись</i>)</font>
      <tg xml:lang="fin">
@@ -149,7 +149,7 @@ Possible errors following proofreading are, e. g., substitution of special fonts
    <lg>
      <l pos="Prc">чепыльтэм</l><orig>чепыльтэм</orig>
    </lg>
-   <mg ind="1th"><drvg><inflect type="Der/Эм" drv="Prc;V»N"/><stem>чепыльтыны </stem></drvg>
+   <mg ind="1th"><compg><comp ord="E1">чепыльтыны</comp><comp ord="E2" type="Der/Эм" drv="Prc;V»N"/></compg>
    </mg>
    <mg ind="2th">
      <variants>
@@ -161,14 +161,14 @@ Possible errors following proofreading are, e. g., substitution of special fonts
    <lg>
      <l pos="Prc">чередем</l><orig>чередем</orig>
    </lg>
-   <mg><drvg><inflect type="Der/Эм" drv="Prc;V»N"/><stem>чередьыны</stem></drvg>
+   <mg><compg><comp ord="E1">чередьыны</comp><comp ord="E2" type="Der/Эм" drv="Prc;V»N"/></compg>
    </mg>
 </e>
 <e>
    <lg>
      <l pos="Prc">черектэм</l><orig>черектэм</orig>
    </lg>
-   <mg ind="1th"><drvg><inflect type="Der/Эм" drv="Prc"/><stem>черектыны</stem></drvg>
+   <mg ind="1th"><compg><comp ord="E1" pos="V">черектыны</comp><comp ord="E2" type="Der/Эм" drv="Prc"/></compg>
    </mg>
    <mg ind="2th"><defNative>ӧтён</defNative>
      <tg xml:lang="fin">
@@ -192,7 +192,7 @@ Possible errors following proofreading are, e. g., substitution of special fonts
    <lg>
      <l pos="Prc">черекъям</l><orig>черекъям</orig>
    </lg>
-   <mg ind="1th"><drvg><inflect type="Der/Эм" drv="Prc"/><stem>черекъяны</stem></drvg>
+   <mg ind="1th"><compg><comp ord="E1" pos="V">черекъяны</comp><comp ord="E2" type="Der/Эм" drv="Prc"/></compg>
    </mg>
    <mg ind="2th"><defNative>вазён</defNative>
      <tg xml:lang="fin">
@@ -213,7 +213,7 @@ Possible errors following proofreading are, e. g., substitution of special fonts
    <lg>
      <l pos="Prc">черлам</l><orig>черлам</orig>
    </lg>
-   <mg ind="1th"><drvg><inflect type="Der/Эм" drv="Prc"/><stem>черланы </stem></drvg>
+   <mg ind="1th"><compg><comp ord="E1" pos="V">черланы</comp><comp ord="E2" type="Der/Эм" drv="Prc"/></compg>
    </mg>
    <mg ind="2th"><defNative>чер кутскем</defNative>
      <tg xml:lang="fin">
@@ -234,7 +234,7 @@ Possible errors following proofreading are, e. g., substitution of special fonts
    <lg>
      <l pos="Prc">черсӥсь</l><orig>черсӥсь</orig>
    </lg>
-   <mg ind="1th"><drvg><inflect type="Der/сь" drv="Prc"/><stem>черсыны</stem></drvg>
+   <mg ind="1th"><compg><comp ord="E1" pos="V">черсыны</comp><comp ord="E2" type="Der/сь" drv="Prc"/></compg>
    </mg>
    <mg ind="2th">
      <tg xml:lang="fin">
@@ -246,7 +246,7 @@ Possible errors following proofreading are, e. g., substitution of special fonts
    <lg>
      <l pos="Prc">черсэм</l><orig>черсэм</orig>
    </lg>
-   <mg ind="1th"><drvg><inflect type="Der/Эм" drv="Prc"/><stem>черсыны</stem></drvg>
+   <mg ind="1th"><compg><comp ord="E1" pos="V">черсыны</comp><comp ord="E2" type="Der/Эм" drv="Prc"/></compg>
    </mg>
    <mg ind="2th"><defNative>вырон</defNative>
      <tg xml:lang="fin">
@@ -273,7 +273,7 @@ Possible errors following proofreading are, e. g., substitution of special fonts
    <lg>
      <l pos="Prc">чигнатэм</l><orig>чигнатэм</orig>
    </lg>
-   <mg ind="1th"><drvg><inflect type="Der/Эм" drv="Prc"/><stem>чигнатыны</stem></drvg>
+   <mg ind="1th"><compg><comp ord="E1" pos="V">чигнатыны</comp><comp ord="E2" type="Der/Эм" drv="Prc"/></compg>
    </mg>
    <mg ind="2th"><defNative>берланьтэм</defNative>
      <tg xml:lang="fin">
@@ -303,14 +303,14 @@ Possible errors following proofreading are, e. g., substitution of special fonts
    <lg>
      <l pos="Prc">чидам</l><orig>чидам</orig>
    </lg>
-   <mg><drvg><inflect type="Der/Эм" drv="Prc;V»N"/><stem>чиданы</stem></drvg>
+   <mg><compg><comp ord="E1">чиданы</comp><comp ord="E2" type="Der/Эм" drv="Prc;V»N"/></compg>
    </mg>
 </e>
 <e>
    <lg>
      <l pos="Prc">чиедмем</l><orig>чиедмем</orig>
    </lg>
-   <mg ind="1th"><drvg><inflect type="Der/Эм" drv="Prc"/><stem>чиедмыны</stem></drvg>
+   <mg ind="1th"><compg><comp ord="E1" pos="V">чиедмыны</comp><comp ord="E2" type="Der/Эм" drv="Prc"/></compg>
    </mg>
    <mg ind="2th">
      <tg xml:lang="fin">
@@ -322,7 +322,7 @@ Possible errors following proofreading are, e. g., substitution of special fonts
    <lg>
      <l pos="Prc">чиетэм</l><orig>чиетэм</orig>
    </lg>
-   <mg ind="1th"><drvg><inflect type="Der/Эм" drv="Prc"/><stem>чиетыны</stem></drvg>
+   <mg ind="1th"><compg><comp ord="E1" pos="V">чиетыны</comp><comp ord="E2" type="Der/Эм" drv="Prc"/></compg>
    </mg>
    <mg ind="2th">
      <tg xml:lang="fin">
@@ -334,7 +334,7 @@ Possible errors following proofreading are, e. g., substitution of special fonts
    <lg>
      <l pos="Prc">чиккетӥсь</l><orig>чиккетӥсь</orig>
    </lg>
-   <mg ind="1th"><drvg><inflect type="Der/сь" drv="Prc"/><stem>чиккетыны</stem></drvg>
+   <mg ind="1th"><compg><comp ord="E1" pos="V">чиккетыны</comp><comp ord="E2" type="Der/сь" drv="Prc"/></compg>
    </mg>
    <mg ind="2th"><field>el.</field><font face="SmolenskSGR">(<i>тэлясь</i>)</font>
      <tg xml:lang="fin">
@@ -347,7 +347,7 @@ Possible errors following proofreading are, e. g., substitution of special fonts
    <lg>
      <l pos="Prc">чиккетэм</l><orig>чиккетэм</orig>
    </lg>
-   <mg ind="1th"><drvg><inflect type="Der/Эм" drv="Prc"/><stem>чиккетыны</stem></drvg>
+   <mg ind="1th"><compg><comp ord="E1" pos="V">чиккетыны</comp><comp ord="E2" type="Der/Эм" drv="Prc"/></compg>
    </mg>
    <mg ind="2th"><defNative>к-сь шырлэн</defNative>
      <tg xml:lang="fin">
@@ -364,7 +364,7 @@ Possible errors following proofreading are, e. g., substitution of special fonts
    <lg>
      <l pos="Prc">чикыртэм</l><orig>чикыртэм</orig>
    </lg>
-   <mg ind="1th"><drvg><inflect type="Der/Эм" drv="V»N"/><stem>чикыртыны</stem></drvg>
+   <mg ind="1th"><compg><comp ord="E1" pos="V">чикыртыны</comp><comp ord="E2" type="Der/Эм" drv="V»N"/></compg>
    </mg>
    <mg ind="2th"><defNative>к-сь пиньёсын</defNative>
      <tg xml:lang="fin">
@@ -383,7 +383,7 @@ Possible errors following proofreading are, e. g., substitution of special fonts
    <lg>
      <l pos="Prc">чилектэм</l><orig>чилектэм</orig>
    </lg>
-   <mg ind="1th"><drvg><inflect type="Der/Эм" drv="Prc"/><stem>чилектыны</stem></drvg>
+   <mg ind="1th"><compg><comp ord="E1" pos="V">чилектыны</comp><comp ord="E2" type="Der/Эм" drv="Prc"/></compg>
    </mg>
    <mg ind="2th">
      <tg xml:lang="fin">
@@ -400,7 +400,7 @@ Possible errors following proofreading are, e. g., substitution of special fonts
    <lg>
      <l pos="Prc">чилекъям</l><orig>чилекъям</orig>
    </lg>
-   <mg ind="1th"><drvg><inflect type="Der/Эм" drv="Prc"/><stem>чилекъяны</stem></drvg>
+   <mg ind="1th"><compg><comp ord="E1" pos="V">чилекъяны</comp><comp ord="E2" type="Der/Эм" drv="Prc"/></compg>
    </mg>
    <mg ind="2th"><defNative>ворекъям</defNative>
      <tg xml:lang="fin">
@@ -420,7 +420,7 @@ Possible errors following proofreading are, e. g., substitution of special fonts
    <lg>
      <l pos="Prc">чилекъям-ворекъям</l><orig>чилекъям-ворекъям</orig>
    </lg>
-   <mg ind="1th"><drvg><inflect type="Der/Эм" drv="Prc"/><stem>чилекъяны-ворекъяны</stem></drvg>
+   <mg ind="1th"><compg><comp ord="E1" pos="V">чилекъяны-ворекъяны</comp><comp ord="E2" type="Der/Эм" drv="Prc"/></compg>
    </mg>
    <mg ind="2th"><defNative>ворекъям</defNative>
      <tg xml:lang="fin">
@@ -442,7 +442,7 @@ Possible errors following proofreading are, e. g., substitution of special fonts
    <lg>
      <l pos="Prc">чильпам</l><orig>чильпам</orig>
    </lg>
-   <mg ind="1th"><drvg><inflect type="Der/Эм" drv="Prc"/><stem>чильпаны</stem></drvg>
+   <mg ind="1th"><compg><comp ord="E1" pos="V">чильпаны</comp><comp ord="E2" type="Der/Эм" drv="Prc"/></compg>
    </mg>
    <mg ind="2th">
      <tg xml:lang="fin">
@@ -465,7 +465,7 @@ Possible errors following proofreading are, e. g., substitution of special fonts
    <lg>
      <l pos="Prc">чильпаськем</l><orig>чильпаськем</orig>
    </lg>
-   <mg ind="1th"><drvg><inflect type="Der/Эм" drv="V»N"/><stem>чильпаськыны</stem></drvg>
+   <mg ind="1th"><compg><comp ord="E1" pos="V">чильпаськыны</comp><comp ord="E2" type="Der/Эм" drv="V»N"/></compg>
    </mg>
    <mg ind="2th">
      <tg xml:lang="fin">
@@ -507,7 +507,7 @@ Possible errors following proofreading are, e. g., substitution of special fonts
    <lg>
      <l pos="Prc">чингетэм</l><orig>чингетэм</orig>
    </lg>
-   <mg ind="1th"><drvg><inflect type="Der/Эм" drv="Prc"/><stem>чингетыны</stem></drvg>
+   <mg ind="1th"><compg><comp ord="E1" pos="V">чингетыны</comp><comp ord="E2" type="Der/Эм" drv="Prc"/></compg>
    </mg>
    <mg ind="2th">
      <tg xml:lang="fin">
@@ -519,7 +519,7 @@ Possible errors following proofreading are, e. g., substitution of special fonts
    <lg>
      <l pos="Prc">чипсэм</l><orig>чипсэм</orig>
    </lg>
-   <mg ind="1th"><drvg><inflect type="Der/Эм" drv="Prc;V»N"/><stem>чипсыны</stem></drvg>
+   <mg ind="1th"><compg><comp ord="E1">чипсыны</comp><comp ord="E2" type="Der/Эм" drv="Prc;V»N"/></compg>
    </mg>
    <mg ind="2th"><defNative>шулам</defNative>
      <tg xml:lang="fin">
@@ -551,7 +551,7 @@ Possible errors following proofreading are, e. g., substitution of special fonts
    <lg>
      <l pos="Prc">чиргетэм</l><orig>чиргетэм</orig>
    </lg>
-   <mg ind="1th"><drvg><inflect type="Der/Эм" drv="V»N"/><stem>чиргетыны</stem></drvg>
+   <mg ind="1th"><compg><comp ord="E1" pos="V">чиргетыны</comp><comp ord="E2" type="Der/Эм" drv="V»N"/></compg>
    </mg>
    <mg ind="2th">
      <tg xml:lang="fin">
@@ -570,7 +570,7 @@ Possible errors following proofreading are, e. g., substitution of special fonts
    <lg>
      <l pos="Prc">чирдэм</l><orig>чирдэм</orig>
    </lg>
-   <mg ind="1th"><drvg><inflect type="Der/Эм" drv="Prc"/><stem>чирдыны</stem></drvg>
+   <mg ind="1th"><compg><comp ord="E1" pos="V">чирдыны</comp><comp ord="E2" type="Der/Эм" drv="Prc"/></compg>
    </mg>
    <mg ind="2th"><defNative>кырӟам – к-сь уӵылэн</defNative>
      <tg xml:lang="fin">
@@ -611,7 +611,7 @@ Possible errors following proofreading are, e. g., substitution of special fonts
    <lg>
      <l pos="Prc">чукам</l><orig>чукам</orig>
    </lg>
-   <mg ind="1th"><drvg><inflect type="Der/Эм" drv="Prc"/><stem>чуканы</stem></drvg>
+   <mg ind="1th"><compg><comp ord="E1" pos="V">чуканы</comp><comp ord="E2" type="Der/Эм" drv="Prc"/></compg>
    </mg>
    <mg ind="2th"><defNative>кугӟатэм, дэмӟытэм</defNative>
      <tg xml:lang="fin">
@@ -633,14 +633,14 @@ Possible errors following proofreading are, e. g., substitution of special fonts
    <lg>
      <l pos="Prc">чумолёям</l><orig>чумолёям</orig>
    </lg>
-   <mg><drvg><inflect type="Der/Эм" drv="Prc;V»N"/><stem>чумолёяны</stem></drvg>
+   <mg><compg><comp ord="E1">чумолёяны</comp><comp ord="E2" type="Der/Эм" drv="Prc;V»N"/></compg>
    </mg>
 </e>
 <e>
    <lg>
      <l pos="Prc">чургетэм</l><orig>чургетэм</orig>
    </lg>
-   <mg ind="1th"><drvg><inflect type="Der/Эм" drv="Prc"/><stem>чургетыны</stem></drvg>
+   <mg ind="1th"><compg><comp ord="E1" pos="V">чургетыны</comp><comp ord="E2" type="Der/Эм" drv="Prc"/></compg>
    </mg>
    <mg ind="2th">
      <tg xml:lang="fin">
@@ -653,7 +653,7 @@ Possible errors following proofreading are, e. g., substitution of special fonts
    <lg>
      <l pos="Prc">чурытаськем</l><orig>чурытаськем</orig>
    </lg>
-   <mg ind="1th"><drvg><inflect type="Der/Эм" drv="Prc"/><stem>чурытаськыны</stem></drvg>
+   <mg ind="1th"><compg><comp ord="E1" pos="V">чурытаськыны</comp><comp ord="E2" type="Der/Эм" drv="Prc"/></compg>
    </mg>
    <mg ind="2th">
      <tg xml:lang="fin">
@@ -665,7 +665,7 @@ Possible errors following proofreading are, e. g., substitution of special fonts
    <lg>
      <l pos="Prc">чусомем</l><orig>чусомем</orig>
    </lg>
-   <mg ind="1th"><drvg><inflect type="Der/Эм" drv="Prc"/><stem>чусомыны</stem></drvg>
+   <mg ind="1th"><compg><comp ord="E1" pos="V">чусомыны</comp><comp ord="E2" type="Der/Эм" drv="Prc"/></compg>
    </mg>
    <mg ind="2th"><defNative>шып луэм</defNative>
      <tg xml:lang="fin">
@@ -693,7 +693,7 @@ Possible errors following proofreading are, e. g., substitution of special fonts
    <lg>
      <l pos="Prc">чутэм</l><orig>чутэм</orig>
    </lg>
-   <mg ind="1th"><drvg><inflect type="Der/Эм" drv="Prc"/><stem>чутыны</stem></drvg>
+   <mg ind="1th"><compg><comp ord="E1" pos="V">чутыны</comp><comp ord="E2" type="Der/Эм" drv="Prc"/></compg>
    </mg>
    <mg ind="2th">
      <tg xml:lang="fin">
@@ -705,7 +705,7 @@ Possible errors following proofreading are, e. g., substitution of special fonts
    <lg>
      <l pos="Prc">ӵабтӥсь</l><orig>ӵабтӥсь</orig>
    </lg>
-   <mg ind="1th"><drvg><inflect type="Der/сь" drv="Prc"/><stem>ӵабтыны</stem></drvg>
+   <mg ind="1th"><compg><comp ord="E1" pos="V">ӵабтыны</comp><comp ord="E2" type="Der/сь" drv="Prc"/></compg>
    </mg>
    <mg ind="2th"> <senseType>kuv.</senseType><defNative>лушкась</defNative>
      <tg xml:lang="fin">
@@ -717,7 +717,7 @@ Possible errors following proofreading are, e. g., substitution of special fonts
    <lg>
      <l pos="Prc">ӵабтэм</l><orig>ӵабтэм</orig>
    </lg>
-   <mg ind="1th"><drvg><inflect type="Der/Эм" drv="Prc"/><stem>ӵабтыны</stem></drvg>
+   <mg ind="1th"><compg><comp ord="E1" pos="V">ӵабтыны</comp><comp ord="E2" type="Der/Эм" drv="Prc"/></compg>
    </mg>
    <mg ind="2th">
      <tg xml:lang="fin">
@@ -758,7 +758,7 @@ Possible errors following proofreading are, e. g., substitution of special fonts
    <lg>
      <l pos="Prc">ӵажгетэм</l><orig>ӵажгетэм</orig>
    </lg>
-   <mg ind="1th"><drvg><inflect type="Der/Эм" drv="Prc"/><stem>ӵажгетыны</stem></drvg>
+   <mg ind="1th"><compg><comp ord="E1" pos="V">ӵажгетыны</comp><comp ord="E2" type="Der/Эм" drv="Prc"/></compg>
    </mg>
    <mg ind="2th">
      <tg xml:lang="fin">
@@ -775,7 +775,7 @@ Possible errors following proofreading are, e. g., substitution of special fonts
    <lg>
      <l pos="Prc">ӵашетэм</l><orig>ӵашетэм</orig>
    </lg>
-   <mg ind="1th"><drvg><inflect type="Der/Эм" drv="Prc;V»N"/><stem>ӵашетыны</stem></drvg>
+   <mg ind="1th"><compg><comp ord="E1">ӵашетыны</comp><comp ord="E2" type="Der/Эм" drv="Prc;V»N"/></compg>
    </mg>
    <mg ind="2th"><defNative>куашетэм</defNative>
      <tg xml:lang="fin">
@@ -797,7 +797,7 @@ Possible errors following proofreading are, e. g., substitution of special fonts
    <lg>
      <l pos="Prc">ӵашъем</l><orig>ӵашъем</orig>
    </lg>
-   <mg ind="1th"><drvg><inflect type="Der/Эм" drv="Prc;V»N"/><stem>ӵашйыны</stem></drvg>
+   <mg ind="1th"><compg><comp ord="E1">ӵашйыны</comp><comp ord="E2" type="Der/Эм" drv="Prc;V»N"/></compg>
    </mg>
    <mg ind="2th">
      <tg xml:lang="fin">
@@ -827,7 +827,7 @@ Possible errors following proofreading are, e. g., substitution of special fonts
    <lg>
      <l pos="Prc">ӵуштыртэм</l><orig>ӵуштыртэм</orig>
    </lg>
-   <mg ind="1th"><drvg><inflect type="Der/Эм" drv="Prc"/><stem>ӵуштыртыны</stem></drvg>
+   <mg ind="1th"><compg><comp ord="E1" pos="V">ӵуштыртыны</comp><comp ord="E2" type="Der/Эм" drv="Prc"/></compg>
    </mg>
    <mg ind="2th"><defNative>марлэн ке</defNative>
      <tg xml:lang="fin">
@@ -867,7 +867,7 @@ Possible errors following proofreading are, e. g., substitution of special fonts
    <lg>
      <l pos="Prc">ӵышкем</l><orig>ӵышкем</orig>
    </lg>
-   <mg ind="1th"><drvg><inflect type="Der/Эм" drv="Prc;V»N"/><stem>ӵышкыны</stem></drvg>
+   <mg ind="1th"><compg><comp ord="E1">ӵышкыны</comp><comp ord="E2" type="Der/Эм" drv="Prc;V»N"/></compg>
    </mg>
    <mg ind="2th"><defNative>причёска</defNative>
      <tg xml:lang="fin">
@@ -880,7 +880,7 @@ Possible errors following proofreading are, e. g., substitution of special fonts
    <lg>
      <l pos="Prc">ӵыштыртэм</l><orig>ӵыштыртэм</orig>
    </lg>
-   <mg ind="1th"><drvg><inflect type="Der/Эм" drv="Prc"/><stem>ӵыштыртыны</stem></drvg>
+   <mg ind="1th"><compg><comp ord="E1" pos="V">ӵыштыртыны</comp><comp ord="E2" type="Der/Эм" drv="Prc"/></compg>
    </mg>
    <mg ind="2th"><defNative>марлэн ке</defNative>
      <tg xml:lang="fin">
@@ -895,7 +895,7 @@ Possible errors following proofreading are, e. g., substitution of special fonts
    <lg>
      <l pos="Prc">шалтыртэм</l><orig>шалтыртэм</orig>
    </lg>
-   <mg ind="1th"><drvg><inflect type="Der/Эм" drv="Prc"/><stem>шалтыртыны</stem></drvg>
+   <mg ind="1th"><compg><comp ord="E1" pos="V">шалтыртыны</comp><comp ord="E2" type="Der/Эм" drv="Prc"/></compg>
    </mg>
    <mg ind="2th"><defNative>марлэн ке</defNative>
      <tg xml:lang="fin">
@@ -910,7 +910,7 @@ Possible errors following proofreading are, e. g., substitution of special fonts
    <lg>
      <l pos="Prc">шальккетэм</l><orig>шальккетэм</orig>
    </lg>
-   <mg ind="1th"><drvg><inflect type="Der/Эм" drv="Prc"/><stem>шальккетыны</stem></drvg>
+   <mg ind="1th"><compg><comp ord="E1" pos="V">шальккетыны</comp><comp ord="E2" type="Der/Эм" drv="Prc"/></compg>
    </mg>
    <mg ind="2th"><defNative>малэн ке</defNative>
      <tg xml:lang="fin">
@@ -925,7 +925,7 @@ Possible errors following proofreading are, e. g., substitution of special fonts
    <lg>
      <l pos="Prc">шальтыртэм</l><orig>шальтыртэм</orig>
    </lg>
-   <mg ind="1th"><drvg><inflect type="Der/Эм" drv="Prc"/><stem>шальтыртыны</stem></drvg>
+   <mg ind="1th"><compg><comp ord="E1" pos="V">шальтыртыны</comp><comp ord="E2" type="Der/Эм" drv="Prc"/></compg>
    </mg>
    <mg ind="2th"><defNative>малэн ке</defNative>
      <tg xml:lang="fin">
@@ -940,7 +940,7 @@ Possible errors following proofreading are, e. g., substitution of special fonts
    <lg>
      <l pos="Prc">шарккетэм</l><orig>шарккетэм</orig>
    </lg>
-   <mg ind="1th"><drvg><inflect type="Der/Эм" drv="Prc"/><stem>шарккетыны</stem></drvg>
+   <mg ind="1th"><compg><comp ord="E1" pos="V">шарккетыны</comp><comp ord="E2" type="Der/Эм" drv="Prc"/></compg>
    </mg>
    <mg ind="2th">
      <tg xml:lang="fin">
@@ -955,7 +955,7 @@ Possible errors following proofreading are, e. g., substitution of special fonts
    <lg>
      <l pos="Prc">шаугетэм</l><orig>шаугетэм</orig>
    </lg>
-   <mg ind="1th"><drvg><inflect type="Der/Эм" drv="Prc"/><stem>шаугетыны</stem></drvg>
+   <mg ind="1th"><compg><comp ord="E1" pos="V">шаугетыны</comp><comp ord="E2" type="Der/Эм" drv="Prc"/></compg>
    </mg>
    <mg ind="2th">
      <tg xml:lang="fin">
@@ -967,7 +967,7 @@ Possible errors following proofreading are, e. g., substitution of special fonts
    <lg>
      <l pos="Prc">шачыртэм</l><orig>шачыртэм</orig>
    </lg>
-   <mg ind="1th"><drvg><inflect type="Der/Эм" drv="Prc"/><stem>шачыртыны</stem></drvg>
+   <mg ind="1th"><compg><comp ord="E1" pos="V">шачыртыны</comp><comp ord="E2" type="Der/Эм" drv="Prc"/></compg>
    </mg>
    <mg ind="2th"><defNative>дэриетӥ ветлэм</defNative>
      <tg xml:lang="fin">
@@ -989,7 +989,7 @@ Possible errors following proofreading are, e. g., substitution of special fonts
    <lg>
      <l pos="Prc">шекертэм</l><orig>шекертэм</orig>
    </lg>
-   <mg ind="1th"><drvg><inflect type="Der/Эм" drv="Prc"/><stem>шекертыны</stem></drvg>
+   <mg ind="1th"><compg><comp ord="E1" pos="V">шекертыны</comp><comp ord="E2" type="Der/Эм" drv="Prc"/></compg>
    </mg>
    <mg ind="2th">
      <tg xml:lang="fin">
@@ -1001,7 +1001,7 @@ Possible errors following proofreading are, e. g., substitution of special fonts
    <lg>
      <l pos="Prc">шертӥсь</l><orig>шертӥсь</orig>
    </lg>
-   <mg ind="1th"><drvg><inflect type="Der/сь" drv="Prc"/><stem>шертыны</stem></drvg>
+   <mg ind="1th"><compg><comp ord="E1" pos="V">шертыны</comp><comp ord="E2" type="Der/сь" drv="Prc"/></compg>
    </mg>
    <mg ind="2th">
      <tg xml:lang="fin">
@@ -1013,7 +1013,7 @@ Possible errors following proofreading are, e. g., substitution of special fonts
    <lg>
      <l pos="Prc">шиетэм</l><orig>шиетэм</orig>
    </lg>
-   <mg ind="1th"><drvg><inflect type="Der/Эм" drv="Prc"/><stem>шиетыны</stem></drvg>
+   <mg ind="1th"><compg><comp ord="E1" pos="V">шиетыны</comp><comp ord="E2" type="Der/Эм" drv="Prc"/></compg>
    </mg>
    <mg ind="2th">
      <tg xml:lang="fin">
@@ -1028,7 +1028,7 @@ Possible errors following proofreading are, e. g., substitution of special fonts
    <lg>
      <l pos="Prc">шильыртэм</l><orig>шильыртэм</orig>
    </lg>
-   <mg ind="1th"><drvg><inflect type="Der/Эм" drv="Prc"/><stem>шильыртыны</stem></drvg>
+   <mg ind="1th"><compg><comp ord="E1" pos="V">шильыртыны</comp><comp ord="E2" type="Der/Эм" drv="Prc"/></compg>
    </mg>
    <mg ind="2th"><defNative>малэн ке</defNative>
      <tg xml:lang="fin">
@@ -1043,7 +1043,7 @@ Possible errors following proofreading are, e. g., substitution of special fonts
    <lg>
      <l pos="Prc">шлачкетэм</l><orig>шлачкетэм</orig>
    </lg>
-   <mg ind="1th"><drvg><inflect type="Der/Эм" drv="Prc"/><stem>шлачкетыны</stem></drvg>
+   <mg ind="1th"><compg><comp ord="E1" pos="V">шлачкетыны</comp><comp ord="E2" type="Der/Эм" drv="Prc"/></compg>
    </mg>
    <mg ind="2th"><defNative>шлач карыса шуккылэм</defNative>
      <tg xml:lang="fin">
@@ -1060,7 +1060,7 @@ Possible errors following proofreading are, e. g., substitution of special fonts
    <lg>
      <l pos="Prc">шудӥсь</l><orig>шудӥсь</orig>
    </lg>
-   <mg ind="1th"><drvg><inflect type="Der/сь" drv="Prc"/><stem>шудыны</stem></drvg>
+   <mg ind="1th"><compg><comp ord="E1" pos="V">шудыны</comp><comp ord="E2" type="Der/сь" drv="Prc"/></compg>
    </mg>
    <mg ind="2th"><defNative>к-сь нылпи шудонын</defNative>
      <tg xml:lang="fin">
@@ -1101,7 +1101,7 @@ Possible errors following proofreading are, e. g., substitution of special fonts
    <lg>
      <l pos="Prc">шуккем</l><orig>шуккем</orig>
    </lg>
-   <mg ind="1th"><drvg><inflect type="Der/Эм" drv="Prc;V»N"/><stem>шуккыны</stem></drvg>
+   <mg ind="1th"><compg><comp ord="E1">шуккыны</comp><comp ord="E2" type="Der/Эм" drv="Prc;V»N"/></compg>
    </mg>
    <mg ind="2th"><defNative>салем, васькытэм, жугем</defNative>
      <tg xml:lang="fin">
@@ -1142,7 +1142,7 @@ Possible errors following proofreading are, e. g., substitution of special fonts
    <lg>
      <l pos="Prc">шуккиськем</l><orig>шуккиськем</orig>
    </lg>
-   <mg ind="1th"><drvg><inflect type="Der/Эм" drv="Prc;V»N"/><stem>шуккиськыны</stem></drvg>
+   <mg ind="1th"><compg><comp ord="E1">шуккиськыны</comp><comp ord="E2" type="Der/Эм" drv="Prc;V»N"/></compg>
    </mg>
    <mg ind="2th"><font face="SmolenskSGR">(<i>ваче шуккиськем</i>)</font>
      <tg xml:lang="fin">
@@ -1164,7 +1164,7 @@ Possible errors following proofreading are, e. g., substitution of special fonts
    <lg>
      <l pos="Prc">шулам</l><orig>шулам</orig>
    </lg>
-   <mg ind="1th"><drvg><inflect type="Der/Эм" drv="Prc;V»N"/><stem>шуланы</stem></drvg>
+   <mg ind="1th"><compg><comp ord="E1">шуланы</comp><comp ord="E2" type="Der/Эм" drv="Prc;V»N"/></compg>
    </mg>
    <mg ind="2th">
      <tg xml:lang="fin">
@@ -1188,7 +1188,7 @@ Possible errors following proofreading are, e. g., substitution of special fonts
    <lg>
      <l pos="Prc">шулась</l><orig>шулась</orig>
    </lg>
-   <mg ind="1th"><drvg><inflect type="Der/сь" drv="Prc"/><stem>шуланы</stem></drvg>
+   <mg ind="1th"><compg><comp ord="E1" pos="V">шуланы</comp><comp ord="E2" type="Der/сь" drv="Prc"/></compg>
    </mg>
    <mg ind="2th">
      <tg xml:lang="fin">
@@ -1200,7 +1200,7 @@ Possible errors following proofreading are, e. g., substitution of special fonts
    <lg>
      <l pos="Prc">шульыртэм</l><orig>шульыртэм</orig>
    </lg>
-   <mg ind="1th"><drvg><inflect type="Der/Эм" drv="Prc"/><stem>шульыртыны</stem></drvg>
+   <mg ind="1th"><compg><comp ord="E1" pos="V">шульыртыны</comp><comp ord="E2" type="Der/Эм" drv="Prc"/></compg>
    </mg>
    <mg ind="2th"><defNative>сачыртэм</defNative>
      <tg xml:lang="fin">
@@ -1217,7 +1217,7 @@ Possible errors following proofreading are, e. g., substitution of special fonts
    <lg>
      <l pos="Prc">шуметэм</l><orig>шуметэм</orig>
    </lg>
-   <mg ind="1th"><drvg><inflect type="Der/Эм" drv="Prc;V»N"/><stem>шуметыны</stem></drvg>
+   <mg ind="1th"><compg><comp ord="E1">шуметыны</comp><comp ord="E2" type="Der/Эм" drv="Prc;V»N"/></compg>
    </mg>
    <mg ind="2th"><note><i>myös kuv. </i></note><font face="SmolenskSGR">(<i>куаш поттэм</i>)</font>
      <tg xml:lang="fin">
@@ -1247,7 +1247,7 @@ Possible errors following proofreading are, e. g., substitution of special fonts
    <lg>
      <l pos="Prc">шургетэм</l><orig>шургетэм</orig>
    </lg>
-   <mg ind="1th"><drvg><inflect type="Der/Эм" drv="Prc"/><stem>шургетыны</stem></drvg>
+   <mg ind="1th"><compg><comp ord="E1" pos="V">шургетыны</comp><comp ord="E2" type="Der/Эм" drv="Prc"/></compg>
    </mg>
    <mg ind="2th"><defNative>ӵаштыртэм</defNative>
      <tg xml:lang="fin">
@@ -1265,7 +1265,7 @@ Possible errors following proofreading are, e. g., substitution of special fonts
    <lg>
      <l pos="Prc">ыбем</l><orig>ыбем</orig>
    </lg>
-   <mg ind="1th"><drvg><inflect type="Der/Эм" drv="Prc"/><stem>ыбыны</stem></drvg>
+   <mg ind="1th"><compg><comp ord="E1" pos="V">ыбыны</comp><comp ord="E2" type="Der/Эм" drv="Prc"/></compg>
    </mg>
    <mg ind="2th"><defNative>ыбыса лэзён</defNative>
      <tg xml:lang="fin">
@@ -1289,7 +1289,7 @@ Possible errors following proofreading are, e. g., substitution of special fonts
    <lg>
      <l pos="Prc">ыбылӥськем</l><orig>ыбылӥськем</orig>
    </lg>
-   <mg ind="1th"><drvg><inflect type="Der/Эм" drv="Prc"/><stem>ыбылӥськыны</stem></drvg>
+   <mg ind="1th"><compg><comp ord="E1" pos="V">ыбылӥськыны</comp><comp ord="E2" type="Der/Эм" drv="Prc"/></compg>
    </mg>
    <mg ind="2th">
      <tg xml:lang="fin">
@@ -1311,7 +1311,7 @@ Possible errors following proofreading are, e. g., substitution of special fonts
    <lg>
      <l pos="Prc">ыбылӥськись</l><orig>ыбылӥськись</orig>
    </lg>
-   <mg ind="1th"><drvg><inflect type="Der/сь" drv="Prc"/><stem>ыбылӥськыны</stem></drvg>
+   <mg ind="1th"><compg><comp ord="E1" pos="V">ыбылӥськыны</comp><comp ord="E2" type="Der/сь" drv="Prc"/></compg>
    </mg>
    <mg ind="2th">
      <tg xml:lang="fin">
@@ -1336,7 +1336,7 @@ Possible errors following proofreading are, e. g., substitution of special fonts
    <lg>
      <l pos="Prc">ыргетэм</l><orig>ыргетэм</orig>
    </lg>
-   <mg ind="1th"><drvg><inflect type="Der/Эм" drv="Prc"/><stem>ыргетыны</stem></drvg>
+   <mg ind="1th"><compg><comp ord="E1" pos="V">ыргетыны</comp><comp ord="E2" type="Der/Эм" drv="Prc"/></compg>
    </mg>
    <mg ind="2th">
      <tg xml:lang="fin">
@@ -1348,7 +1348,7 @@ Possible errors following proofreading are, e. g., substitution of special fonts
    <lg>
      <l pos="Prc">эмъясь</l><orig>эмъясь</orig>
    </lg>
-   <mg ind="1th"><drvg><inflect type="Der/сь" drv="Prc"/><stem>эмъяны</stem></drvg>
+   <mg ind="1th"><compg><comp ord="E1" pos="V">эмъяны</comp><comp ord="E2" type="Der/сь" drv="Prc"/></compg>
    </mg>
    <mg ind="2th"><defNative>врач</defNative>
      <tg xml:lang="fin">
@@ -1365,7 +1365,7 @@ Possible errors following proofreading are, e. g., substitution of special fonts
    <lg>
      <l pos="Prc">эмъяськись</l><orig>эмъяськись</orig>
    </lg>
-   <mg ind="1th"><drvg><inflect type="Der/сь" drv="Prc"/><stem>эмъяськыны</stem></drvg>
+   <mg ind="1th"><compg><comp ord="E1" pos="V">эмъяськыны</comp><comp ord="E2" type="Der/сь" drv="Prc"/></compg>
    </mg>
    <mg ind="2th"><defNative>висись</defNative>
      <tg xml:lang="fin">
@@ -1385,7 +1385,7 @@ Possible errors following proofreading are, e. g., substitution of special fonts
    <lg>
      <l pos="Prc">эрекчаськем</l><orig>эрекчаськем</orig>
    </lg>
-   <mg ind="1th"><drvg><inflect type="Der/Эм" drv="Prc"/><stem>эрекчаськыны</stem></drvg>
+   <mg ind="1th"><compg><comp ord="E1" pos="V">эрекчаськыны</comp><comp ord="E2" type="Der/Эм" drv="Prc"/></compg>
    </mg>
    <mg ind="2th"><defNative>алдаськем, пӧяськем</defNative>
      <tg xml:lang="fin">
@@ -1397,7 +1397,7 @@ Possible errors following proofreading are, e. g., substitution of special fonts
    <lg>
      <l pos="Prc">эрекчаськись</l><orig>эрекчаськись</orig>
    </lg>
-   <mg ind="1th"><drvg><inflect type="Der/сь" drv="Prc"/><stem>эрекчаськыны</stem></drvg>
+   <mg ind="1th"><compg><comp ord="E1" pos="V">эрекчаськыны</comp><comp ord="E2" type="Der/сь" drv="Prc"/></compg>
    </mg>
    <mg ind="2th"><defNative>пӧечи</defNative>
      <tg xml:lang="fin">
@@ -1412,7 +1412,7 @@ Possible errors following proofreading are, e. g., substitution of special fonts
    <lg>
      <l pos="Prc">эркеяськись</l><orig>эркеяськись</orig>
    </lg>
-   <mg ind="1th"><drvg><inflect type="Der/сь" drv="Prc"/><stem>эркеяськыны </stem></drvg>
+   <mg ind="1th"><compg><comp ord="E1" pos="V">эркеяськыны</comp><comp ord="E2" type="Der/сь" drv="Prc"/></compg>
    </mg>
    <mg ind="2th">
      <variants>
@@ -1424,7 +1424,7 @@ Possible errors following proofreading are, e. g., substitution of special fonts
    <lg>
      <l pos="Prc">эскерись</l><orig>эскерись</orig>
    </lg>
-   <mg ind="1th"><drvg><inflect type="Der/сь" drv="Prc"/><stem>эскерыны</stem></drvg>
+   <mg ind="1th"><compg><comp ord="E1" pos="V">эскерыны</comp><comp ord="E2" type="Der/сь" drv="Prc"/></compg>
    </mg>
    <mg ind="2th"><defNative>чаклась</defNative>
      <tg xml:lang="fin">
@@ -1476,7 +1476,7 @@ Possible errors following proofreading are, e. g., substitution of special fonts
    <lg>
      <l pos="Prc">юам</l><orig>юам</orig>
    </lg>
-   <mg ind="1th"><drvg><inflect type="Der/Эм" drv="Prc"/><stem>юаны</stem></drvg>
+   <mg ind="1th"><compg><comp ord="E1" pos="V">юаны</comp><comp ord="E2" type="Der/Эм" drv="Prc"/></compg>
    </mg>
    <mg ind="2th">
      <tg xml:lang="fin">
@@ -1491,7 +1491,7 @@ Possible errors following proofreading are, e. g., substitution of special fonts
    <lg>
      <l pos="Prc">юам-верам</l><orig>юам-верам</orig>
    </lg>
-   <mg ind="1th"><drvg><inflect type="Der/Эм" drv="Prc"/><stem>юаны- вераны</stem></drvg>
+   <mg ind="1th"><compg><comp ord="E1" pos="V">юаны- вераны</comp><comp ord="E2" type="Der/Эм" drv="Prc"/></compg>
    </mg>
    <mg ind="2th">
      <tg xml:lang="fin">
@@ -1503,7 +1503,7 @@ Possible errors following proofreading are, e. g., substitution of special fonts
    <lg>
      <l pos="Prc">югдытӥсь</l><orig>югдытӥсь</orig>
    </lg>
-   <mg ind="1th"><drvg><inflect type="Der/сь" drv="Prc"/><stem>югдытыны</stem></drvg>
+   <mg ind="1th"><compg><comp ord="E1" pos="V">югдытыны</comp><comp ord="E2" type="Der/сь" drv="Prc"/></compg>
    </mg>
    <mg ind="2th"><defNative>югыт карись</defNative>
      <tg xml:lang="fin">
@@ -1520,7 +1520,7 @@ Possible errors following proofreading are, e. g., substitution of special fonts
    <lg>
      <l pos="Prc">юись</l><orig>юись</orig>
    </lg>
-   <mg ind="1th"><drvg><inflect type="Der/сь" drv="Prc"/><stem>юыны </stem></drvg>
+   <mg ind="1th"><compg><comp ord="E1" pos="V">юыны</comp><comp ord="E2" type="Der/сь" drv="Prc"/></compg>
    </mg>
    <mg ind="2th">
    </mg>
@@ -1543,7 +1543,7 @@ Possible errors following proofreading are, e. g., substitution of special fonts
    <lg>
      <l pos="Prc">юргетэм</l><orig>юргетэм</orig>
    </lg>
-   <mg ind="1th"><drvg><inflect type="Der/Эм" drv="Prc"/><stem>юргетыны</stem></drvg>
+   <mg ind="1th"><compg><comp ord="E1" pos="V">юргетыны</comp><comp ord="E2" type="Der/Эм" drv="Prc"/></compg>
    </mg>
    <mg ind="2th">
      <tg xml:lang="fin">
@@ -1555,7 +1555,7 @@ Possible errors following proofreading are, e. g., substitution of special fonts
    <lg>
      <l pos="Prc">юрттӥсь</l><orig>юрттӥсь</orig>
    </lg>
-   <mg ind="1th"><drvg><inflect type="Der/сь" drv="Prc"/><stem>юрттыны</stem></drvg>
+   <mg ind="1th"><compg><comp ord="E1" pos="V">юрттыны</comp><comp ord="E2" type="Der/сь" drv="Prc"/></compg>
    </mg>
    <mg ind="2th">
      <tg xml:lang="fin">
@@ -1598,7 +1598,7 @@ Possible errors following proofreading are, e. g., substitution of special fonts
    <lg>
      <l pos="Prc">юрттӥськись</l><orig>юрттӥськись</orig>
    </lg>
-   <mg ind="1th"><drvg><inflect type="Der/сь" drv="Prc"/><stem>юрттӥськыны</stem></drvg>
+   <mg ind="1th"><compg><comp ord="E1" pos="V">юрттӥськыны</comp><comp ord="E2" type="Der/сь" drv="Prc"/></compg>
    </mg>
    <mg ind="2th">
      <tg xml:lang="fin">
@@ -1610,7 +1610,7 @@ Possible errors following proofreading are, e. g., substitution of special fonts
    <lg>
      <l pos="Prc">юэм</l><orig>юэм</orig>
    </lg>
-   <mg ind="1th"><drvg><inflect type="Der/Эм" drv="Prc"/><stem>юыны</stem></drvg>
+   <mg ind="1th"><compg><comp ord="E1" pos="V">юыны</comp><comp ord="E2" type="Der/Эм" drv="Prc"/></compg>
    </mg>
    <mg ind="2th">
      <tg xml:lang="fin">
@@ -1630,7 +1630,7 @@ Possible errors following proofreading are, e. g., substitution of special fonts
    <lg>
      <l pos="Prc">яратэм</l><orig>яратэм</orig>
    </lg>
-   <mg ind="1th"><drvg><inflect type="Der/Эм" drv="Prc;V»N"/><stem>яратыны</stem></drvg>
+   <mg ind="1th"><compg><comp ord="E1">яратыны</comp><comp ord="E2" type="Der/Эм" drv="Prc;V»N"/></compg>
    </mg>
    <mg ind="2th">
      <tg xml:lang="fin">
@@ -1642,7 +1642,7 @@ Possible errors following proofreading are, e. g., substitution of special fonts
    <lg>
      <l pos="Prc">басьтӥсь</l><orig>басьтӥсь</orig>
    </lg>
-   <mg ind="1th"><drvg><inflect type="Der/сь" drv="Prc"/><stem>басьтыны</stem></drvg>
+   <mg ind="1th"><compg><comp ord="E1" pos="V">басьтыны</comp><comp ord="E2" type="Der/сь" drv="Prc"/></compg>
    </mg>
    <mg ind="2th"><defNative>кутӥсь</defNative>
      <tg xml:lang="fin">
@@ -1669,7 +1669,7 @@ Possible errors following proofreading are, e. g., substitution of special fonts
    <lg>
      <l pos="Prc">басьяськись</l><orig>басьяськись</orig>
    </lg>
-   <mg ind="1th"><drvg><inflect type="Der/сь" drv="Prc"/><stem>басьяськыны</stem></drvg>
+   <mg ind="1th"><compg><comp ord="E1" pos="V">басьяськыны</comp><comp ord="E2" type="Der/сь" drv="Prc"/></compg>
    </mg>
    <mg ind="2th">
      <tg xml:lang="fin">
@@ -1681,7 +1681,7 @@ Possible errors following proofreading are, e. g., substitution of special fonts
    <lg>
      <l pos="Prc">бералскем</l><orig>бералскем</orig>
    </lg>
-   <mg ind="1th"><drvg><inflect type="Der/Эм" drv="Prc"/><stem>бералскыны</stem></drvg>
+   <mg ind="1th"><compg><comp ord="E1" pos="V">бералскыны</comp><comp ord="E2" type="Der/Эм" drv="Prc"/></compg>
    </mg>
    <mg ind="2th"><defNative>вольтчем</defNative>
      <tg xml:lang="fin">
@@ -1693,7 +1693,7 @@ Possible errors following proofreading are, e. g., substitution of special fonts
    <lg>
      <l pos="Prc">бертэм</l><orig>бертэм</orig>
    </lg>
-   <mg ind="1th"><drvg><inflect type="Der/Эм" drv="Prc"/><stem>бертыны</stem></drvg>
+   <mg ind="1th"><compg><comp ord="E1" pos="V">бертыны</comp><comp ord="E2" type="Der/Эм" drv="Prc"/></compg>
    </mg>
    <mg ind="2th">
      <tg xml:lang="fin">
@@ -1715,7 +1715,7 @@ Possible errors following proofreading are, e. g., substitution of special fonts
    <lg>
      <l pos="Prc">берыктӥсь</l><orig>берыктӥсь</orig>
    </lg>
-   <mg ind="1th"><drvg><inflect type="Der/сь" drv="Prc"/><stem>берыктыны</stem></drvg>
+   <mg ind="1th"><compg><comp ord="E1" pos="V">берыктыны</comp><comp ord="E2" type="Der/сь" drv="Prc"/></compg>
    </mg>
    <mg ind="2th"><defNative>кылысь кылэ</defNative>
      <tg xml:lang="fin">
@@ -1739,7 +1739,7 @@ Possible errors following proofreading are, e. g., substitution of special fonts
    <lg>
      <l pos="Prc">бӧрдэм</l><orig>бӧрдэм</orig>
    </lg>
-   <mg ind="1th"><drvg><inflect type="Der/Эм" drv="Prc"/><stem>бӧрдыны</stem></drvg>
+   <mg ind="1th"><compg><comp ord="E1" pos="V">бӧрдыны</comp><comp ord="E2" type="Der/Эм" drv="Prc"/></compg>
    </mg>
    <mg ind="2th">
      <tg xml:lang="fin">
@@ -1751,7 +1751,7 @@ Possible errors following proofreading are, e. g., substitution of special fonts
    <lg>
      <l pos="Prc">бугыръяськись</l><orig>бугыръяськись</orig>
    </lg>
-   <mg ind="1th"><drvg><inflect type="Der/сь" drv="Prc"/><stem>бугыръяськыны</stem></drvg>
+   <mg ind="1th"><compg><comp ord="E1" pos="V">бугыръяськыны</comp><comp ord="E2" type="Der/сь" drv="Prc"/></compg>
    </mg>
    <mg ind="2th"><senseType>kuv.</senseType><defNative>бастовать карись</defNative>
      <tg xml:lang="fin">
@@ -1763,7 +1763,7 @@ Possible errors following proofreading are, e. g., substitution of special fonts
    <lg>
      <l pos="Prc">бульккетэм</l><orig>бульккетэм</orig>
    </lg>
-   <mg ind="1th"><drvg><inflect type="Der/Эм" drv="Prc"/><stem>бульккетыны</stem></drvg>
+   <mg ind="1th"><compg><comp ord="E1" pos="V">бульккетыны</comp><comp ord="E2" type="Der/Эм" drv="Prc"/></compg>
    </mg>
    <mg ind="2th">
      <tg xml:lang="fin">
@@ -1778,7 +1778,7 @@ Possible errors following proofreading are, e. g., substitution of special fonts
    <lg>
      <l pos="Prc">бультыртэм</l><orig>бультыртэм</orig>
    </lg>
-   <mg ind="1th"><drvg><inflect type="Der/Эм" drv="Prc"/><stem>бультыртыны</stem></drvg>
+   <mg ind="1th"><compg><comp ord="E1" pos="V">бультыртыны</comp><comp ord="E2" type="Der/Эм" drv="Prc"/></compg>
    </mg>
    <mg ind="2th">
      <tg xml:lang="fin">
@@ -1790,7 +1790,7 @@ Possible errors following proofreading are, e. g., substitution of special fonts
    <lg>
      <l pos="Prc">буясь</l><orig>буясь</orig>
    </lg>
-   <mg ind="1th"><drvg><inflect type="Der/сь" drv="Prc"/><stem>буяны</stem></drvg>
+   <mg ind="1th"><compg><comp ord="E1" pos="V">буяны</comp><comp ord="E2" type="Der/сь" drv="Prc"/></compg>
    </mg>
    <mg ind="2th"><font face="SmolenskSGR"><i>(буясь мурт</i>)</font>
      <tg xml:lang="fin">
@@ -1802,7 +1802,7 @@ Possible errors following proofreading are, e. g., substitution of special fonts
    <lg>
      <l pos="Prc">бызем</l><orig>бызем</orig>
    </lg>
-   <mg ind="1th"><drvg><inflect type="Der/Эм" drv="Prc"/><stem>бызьыны;</stem></drvg>
+   <mg ind="1th"><compg><comp ord="E1" pos="V">бызьыны;</comp><comp ord="E2" type="Der/Эм" drv="Prc"/></compg>
      <xg><x> бызем ныл</x>
        <xt xml:lang="fin">naimisissa oleva nainen, avioitunut nainen</xt>
      </xg>
@@ -1831,7 +1831,7 @@ Possible errors following proofreading are, e. g., substitution of special fonts
    <lg>
      <l pos="Prc">бырдам</l><orig>бырдам</orig>
    </lg>
-   <mg ind="1th"><drvg><inflect type="Der/Эм" drv="Prc"/><stem>бырданы</stem></drvg>
+   <mg ind="1th"><compg><comp ord="E1" pos="V">бырданы</comp><comp ord="E2" type="Der/Эм" drv="Prc"/></compg>
    </mg>
    <mg ind="2th">
      <tg xml:lang="fin">
@@ -1843,7 +1843,7 @@ Possible errors following proofreading are, e. g., substitution of special fonts
    <lg>
      <l pos="Prc">бырем</l><orig>бырем</orig>
    </lg>
-   <mg ind="1th"><drvg><inflect type="Der/Эм" drv="Prc"/><stem>бырыны</stem></drvg>
+   <mg ind="1th"><compg><comp ord="E1" pos="V">бырыны</comp><comp ord="E2" type="Der/Эм" drv="Prc"/></compg>
    </mg>
    <mg ind="2th"><defNative>пумъяськем</defNative>
      <tg xml:lang="fin">
@@ -1865,7 +1865,7 @@ Possible errors following proofreading are, e. g., substitution of special fonts
    <lg>
      <l pos="Prc">бырйись</l><orig>бырйись</orig>
    </lg>
-   <mg ind="1th"><drvg><inflect type="Der/сь" drv="Prc"/><stem>бырйыны</stem></drvg>
+   <mg ind="1th"><compg><comp ord="E1" pos="V">бырйыны</comp><comp ord="E2" type="Der/сь" drv="Prc"/></compg>
    </mg>
    <mg ind="2th">
      <tg xml:lang="fin">
@@ -1882,7 +1882,7 @@ Possible errors following proofreading are, e. g., substitution of special fonts
    <lg>
      <l pos="Prc">бырйиськись</l>
    </lg>
-   <mg><drvg><inflect type="Der/сь" drv="Prc"/><stem>бырйиськыны</stem></drvg>
+   <mg><compg><comp ord="E1" pos="V">бырйиськыны</comp><comp ord="E2" type="Der/сь" drv="Prc"/></compg>
    </mg>
    <mg ind="2th"><defNative>пӧдылляськись, тэргась</defNative>
      <tg xml:lang="fin">
@@ -1894,7 +1894,7 @@ Possible errors following proofreading are, e. g., substitution of special fonts
    <lg>
      <l pos="Prc">вазись</l><orig>вазись</orig>
    </lg>
-   <mg ind="1th"><drvg><inflect type="Der/сь" drv="Prc"/><stem>вазьыны</stem></drvg>
+   <mg ind="1th"><compg><comp ord="E1" pos="V">вазьыны</comp><comp ord="E2" type="Der/сь" drv="Prc"/></compg>
    </mg>
    <mg ind="2th"><defNative>пумитад верась, куаретӥсь</defNative>
      <tg xml:lang="fin">
@@ -1914,7 +1914,7 @@ Possible errors following proofreading are, e. g., substitution of special fonts
    <lg>
      <l pos="Prc">валам</l><orig>валам</orig>
    </lg>
-   <mg ind="1th"><drvg><inflect type="Der/Эм" drv="Prc"/><stem>валаны</stem></drvg>
+   <mg ind="1th"><compg><comp ord="E1" pos="V">валаны</comp><comp ord="E2" type="Der/Эм" drv="Prc"/></compg>
    </mg>
    <mg ind="2th">
      <tg xml:lang="fin">
@@ -1934,7 +1934,7 @@ Possible errors following proofreading are, e. g., substitution of special fonts
    <lg>
      <l pos="Prc">валтӥсь</l><orig>валтӥсь</orig>
    </lg>
-   <mg ind="1th"><drvg><inflect type="Der/сь" drv="Prc"/><stem>валтыны</stem></drvg>
+   <mg ind="1th"><compg><comp ord="E1" pos="V">валтыны</comp><comp ord="E2" type="Der/сь" drv="Prc"/></compg>
    </mg>
    <mg ind="2th"><defNative>китӥ, валэз</defNative>
      <tg xml:lang="fin">
@@ -1968,7 +1968,7 @@ Possible errors following proofreading are, e. g., substitution of special fonts
    <lg>
      <l pos="Prc">валэктӥсь</l><orig>валэктӥсь</orig>
    </lg>
-   <mg ind="1th"><drvg><inflect type="Der/сь" drv="Prc"/><stem>валэктыны</stem></drvg>
+   <mg ind="1th"><compg><comp ord="E1" pos="V">валэктыны</comp><comp ord="E2" type="Der/сь" drv="Prc"/></compg>
    </mg>
    <mg ind="2th">
      <tg xml:lang="fin">
@@ -1980,7 +1980,7 @@ Possible errors following proofreading are, e. g., substitution of special fonts
    <lg>
      <l pos="Prc">валэктэм</l><orig>валэктэм</orig>
    </lg>
-   <mg ind="1th"><drvg><inflect type="Der/Эм" drv="Prc"/><stem>валэктыны</stem></drvg>
+   <mg ind="1th"><compg><comp ord="E1" pos="V">валэктыны</comp><comp ord="E2" type="Der/Эм" drv="Prc"/></compg>
    </mg>
    <mg ind="2th">
      <tg xml:lang="fin">
@@ -1992,7 +1992,7 @@ Possible errors following proofreading are, e. g., substitution of special fonts
    <lg>
      <l pos="Prc">вамыштэм</l><orig>вамыштэм</orig>
    </lg>
-   <mg ind="1th"><drvg><inflect type="Der/Эм" drv="Prc"/><stem>вамыштыны</stem></drvg>
+   <mg ind="1th"><compg><comp ord="E1" pos="V">вамыштыны</comp><comp ord="E2" type="Der/Эм" drv="Prc"/></compg>
    </mg>
    <mg ind="2th"><defNative>вамыш</defNative>
      <tg xml:lang="fin">
@@ -2009,7 +2009,7 @@ Possible errors following proofreading are, e. g., substitution of special fonts
    <lg>
      <l pos="Prc">веднаськем</l><orig>веднаськем</orig>
    </lg>
-   <mg ind="1th"><drvg><inflect type="Der/Эм" drv="Prc"/><stem>веднаськыны</stem></drvg>
+   <mg ind="1th"><compg><comp ord="E1" pos="V">веднаськыны</comp><comp ord="E2" type="Der/Эм" drv="Prc"/></compg>
    </mg>
    <mg ind="2th">
      <tg xml:lang="fin">
@@ -2022,7 +2022,7 @@ Possible errors following proofreading are, e. g., substitution of special fonts
    <lg>
      <l pos="Prc">верам</l><orig>верам</orig>
    </lg>
-   <mg ind="1th"><drvg><inflect type="Der/Эм" drv="Prc"/><stem>вераны</stem></drvg>
+   <mg ind="1th"><compg><comp ord="E1" pos="V">вераны</comp><comp ord="E2" type="Der/Эм" drv="Prc"/></compg>
    </mg>
    <mg ind="2th">
      <tg xml:lang="fin">
@@ -2046,7 +2046,7 @@ Possible errors following proofreading are, e. g., substitution of special fonts
    <lg>
      <l pos="Prc">верась</l><orig>верась</orig>
    </lg>
-   <mg ind="1th"><drvg><inflect type="Der/сь" drv="Prc"/><stem>вераны</stem></drvg>
+   <mg ind="1th"><compg><comp ord="E1" pos="V">вераны</comp><comp ord="E2" type="Der/сь" drv="Prc"/></compg>
    </mg>
    <mg ind="2th"><defNative>шуись</defNative>
      <tg xml:lang="fin">
@@ -2066,7 +2066,7 @@ Possible errors following proofreading are, e. g., substitution of special fonts
    <lg>
      <l pos="Prc">ветлӥсь</l><orig>ветлӥсь</orig>
    </lg>
-   <mg ind="1th"><drvg><inflect type="Der/сь" drv="Prc"/><stem>ветлыны</stem></drvg>
+   <mg ind="1th"><compg><comp ord="E1" pos="V">ветлыны</comp><comp ord="E2" type="Der/сь" drv="Prc"/></compg>
    </mg>
    <mg ind="2th"><defNative>пыдын</defNative>
      <tg xml:lang="fin">
@@ -2092,7 +2092,7 @@ Possible errors following proofreading are, e. g., substitution of special fonts
    <lg>
      <l pos="Prc">ветлэм</l><orig>ветлэм</orig>
    </lg>
-   <mg ind="1th"><drvg><inflect type="Der/Эм" drv="Prc"/><stem>ветлыны</stem></drvg>
+   <mg ind="1th"><compg><comp ord="E1" pos="V">ветлыны</comp><comp ord="E2" type="Der/Эм" drv="Prc"/></compg>
    </mg>
    <mg ind="2th"><defNative>пыдын</defNative>
      <tg xml:lang="fin">
@@ -2123,7 +2123,7 @@ Possible errors following proofreading are, e. g., substitution of special fonts
    <lg>
      <l pos="Prc">визнась</l><orig>визнась</orig>
    </lg>
-   <mg ind="1th"><drvg><inflect type="Der/сь" drv="Prc"/><stem>визнаны</stem></drvg>
+   <mg ind="1th"><compg><comp ord="E1" pos="V">визнаны</comp><comp ord="E2" type="Der/сь" drv="Prc"/></compg>
    </mg>
    <mg ind="2th">
      <tg xml:lang="fin">
@@ -2135,7 +2135,7 @@ Possible errors following proofreading are, e. g., substitution of special fonts
    <lg>
      <l pos="Prc">виись</l><orig>виись</orig>
    </lg>
-   <mg ind="1th"><drvg><inflect type="Der/сь" drv="Prc"/><stem>виыны </stem></drvg>
+   <mg ind="1th"><compg><comp ord="E1" pos="V">виыны</comp><comp ord="E2" type="Der/сь" drv="Prc"/></compg>
    </mg>
    <mg ind="2th"> <font face="SmolenskSGR">(<b>адями виись</b>)</font>
      <tg xml:lang="fin">
@@ -2147,7 +2147,7 @@ Possible errors following proofreading are, e. g., substitution of special fonts
    <lg>
      <l pos="Prc">висем</l><orig>висем</orig>
    </lg>
-   <mg ind="1th"><drvg><inflect type="Der/Эм" drv="Prc"/><stem>висьыны</stem></drvg>
+   <mg ind="1th"><compg><comp ord="E1" pos="V">висьыны</comp><comp ord="E2" type="Der/Эм" drv="Prc"/></compg>
    </mg>
    <mg ind="2th">
      <tg xml:lang="fin">
@@ -2159,7 +2159,7 @@ Possible errors following proofreading are, e. g., substitution of special fonts
    <lg>
      <l pos="Prc">вогъяськись</l><orig>вогъяськись</orig>
    </lg>
-   <mg ind="1th"> <drvg><inflect type="Der/сь" drv="Prc"/><stem>вогъяськыны</stem></drvg>
+   <mg ind="1th"> <compg><comp ord="E1" pos="V">вогъяськыны</comp><comp ord="E2" type="Der/сь" drv="Prc"/></compg>
    </mg>
    <mg ind="2th">
      <tg xml:lang="fin">
@@ -2180,7 +2180,7 @@ Possible errors following proofreading are, e. g., substitution of special fonts
    <lg>
      <l pos="Prc">вожвылъяськись</l><orig>вожвылъяськись</orig>
    </lg>
-   <mg ind="1th"><drvg><inflect type="Der/сь" drv="Prc"/><stem>вожвылъяськыны</stem></drvg>
+   <mg ind="1th"><compg><comp ord="E1" pos="V">вожвылъяськыны</comp><comp ord="E2" type="Der/сь" drv="Prc"/></compg>
    </mg>
    <mg ind="2th"><defNative>ӵошатскись мурт</defNative>
      <tg xml:lang="fin">
@@ -2192,7 +2192,7 @@ Possible errors following proofreading are, e. g., substitution of special fonts
    <lg>
      <l pos="Prc">возем<rom ind="1"/></l>
    </lg>
-   <mg ind="1th"><drvg><inflect type="Der/Эм" drv="Prc;V»N"/><stem>возьыны</stem></drvg>
+   <mg ind="1th"><compg><comp ord="E1">возьыны</comp><comp ord="E2" type="Der/Эм" drv="Prc;V»N"/></compg>
    </mg>
    <mg ind="2th"><defNative>утем, азьланьтэм</defNative>
      <tg xml:lang="fin">
@@ -2215,7 +2215,7 @@ Possible errors following proofreading are, e. g., substitution of special fonts
    <lg>
      <l pos="Prc">возьмась</l><orig>возьмась</orig>
    </lg>
-   <mg ind="1th"><drvg><inflect type="Der/сь" drv="Prc"/><stem>возьманы</stem></drvg>
+   <mg ind="1th"><compg><comp ord="E1" pos="V">возьманы</comp><comp ord="E2" type="Der/сь" drv="Prc"/></compg>
    </mg>
    <mg ind="2th"><defNative>возьмаськись</defNative>
      <tg xml:lang="fin">
@@ -2246,7 +2246,7 @@ Possible errors following proofreading are, e. g., substitution of special fonts
    <lg>
      <l pos="Prc">возьмаськись</l><orig>возьмаськись</orig>
    </lg>
-   <mg ind="1th"><drvg><inflect type="Der/сь" drv="Prc"/><stem>возьмаськыны</stem></drvg>
+   <mg ind="1th"><compg><comp ord="E1" pos="V">возьмаськыны</comp><comp ord="E2" type="Der/сь" drv="Prc"/></compg>
    </mg>
    <mg ind="2th">
      <tg xml:lang="fin">
@@ -2258,7 +2258,7 @@ Possible errors following proofreading are, e. g., substitution of special fonts
    <lg>
      <l pos="Prc">возьматӥсь</l><orig>возьматӥсь</orig>
    </lg>
-   <mg ind="1th"><drvg><inflect type="Der/сь" drv="Prc"/><stem>возьматыны</stem></drvg>
+   <mg ind="1th"><compg><comp ord="E1" pos="V">возьматыны</comp><comp ord="E2" type="Der/сь" drv="Prc"/></compg>
    </mg>
    <mg ind="2th"><note><i>s.</i></note>
      <tg xml:lang="fin">
@@ -2280,7 +2280,7 @@ Possible errors following proofreading are, e. g., substitution of special fonts
    <lg>
      <l pos="Prc">вормись</l><orig>вормись</orig>
    </lg>
-   <mg ind="1th"><drvg><inflect type="Der/сь" drv="Prc"/><stem>вормыны</stem></drvg>
+   <mg ind="1th"><compg><comp ord="E1" pos="V">вормыны</comp><comp ord="E2" type="Der/сь" drv="Prc"/></compg>
    </mg>
    <mg ind="2th">
      <tg xml:lang="fin">
@@ -2292,7 +2292,7 @@ Possible errors following proofreading are, e. g., substitution of special fonts
    <lg>
      <l pos="Prc">воштӥсь</l><orig>воштӥсь</orig>
    </lg>
-   <mg ind="1th"><drvg><inflect type="Der/сь" drv="Prc"/><stem>воштыны</stem></drvg>
+   <mg ind="1th"><compg><comp ord="E1" pos="V">воштыны</comp><comp ord="E2" type="Der/сь" drv="Prc"/></compg>
    </mg>
    <mg ind="2th"><defNative>юрттӥсь</defNative>
      <tg xml:lang="fin">
@@ -2315,7 +2315,7 @@ Possible errors following proofreading are, e. g., substitution of special fonts
    <lg>
      <l pos="Prc">вӧлдӥсь</l><orig>вӧлдӥсь</orig>
    </lg>
-   <mg ind="1th"><drvg><inflect type="Der/сь" drv="Prc"/><stem>вӧлдыны</stem></drvg>
+   <mg ind="1th"><compg><comp ord="E1" pos="V">вӧлдыны</comp><comp ord="E2" type="Der/сь" drv="Prc"/></compg>
    </mg>
    <mg ind="2th">
      <tg xml:lang="fin">
@@ -2330,7 +2330,7 @@ Possible errors following proofreading are, e. g., substitution of special fonts
    <lg>
      <l pos="Prc">вӧсясь</l><orig>вӧсясь</orig>
    </lg>
-   <mg ind="1th"><drvg><inflect type="Der/сь" drv="Prc"/><stem>вӧсяны</stem></drvg>
+   <mg ind="1th"><compg><comp ord="E1" pos="V">вӧсяны</comp><comp ord="E2" type="Der/сь" drv="Prc"/></compg>
    </mg>
    <mg ind="2th"><field>usk.</field>
      <tg xml:lang="fin">
@@ -2342,7 +2342,7 @@ Possible errors following proofreading are, e. g., substitution of special fonts
    <lg>
      <l pos="Prc">вузаськись</l><orig>вузаськись</orig>
    </lg>
-   <mg ind="1th"><drvg><inflect type="Der/сь" drv="Prc"/><stem>вузаськыны</stem></drvg>
+   <mg ind="1th"><compg><comp ord="E1" pos="V">вузаськыны</comp><comp ord="E2" type="Der/сь" drv="Prc"/></compg>
    </mg>
    <mg ind="2th">
      <tg xml:lang="fin">
@@ -2354,7 +2354,7 @@ Possible errors following proofreading are, e. g., substitution of special fonts
    <lg>
      <l pos="Prc">вузкарись</l><orig>вузкарись</orig>
    </lg>
-   <mg ind="1th"><drvg><inflect type="Der/сь" drv="Prc"/><stem>вуз/карыны</stem></drvg>
+   <mg ind="1th"><compg><comp ord="E1" pos="V">вуз/карыны</comp><comp ord="E2" type="Der/сь" drv="Prc"/></compg>
    </mg>
    <mg ind="2th">
      <tg xml:lang="fin">
@@ -2366,7 +2366,7 @@ Possible errors following proofreading are, e. g., substitution of special fonts
    <lg>
      <l pos="Prc">вузэм</l><orig>вузэм</orig>
    </lg>
-   <mg ind="1th"><drvg><inflect type="Der/Эм" drv="Prc"/><stem>вузыны</stem></drvg>
+   <mg ind="1th"><compg><comp ord="E1" pos="V">вузыны</comp><comp ord="E2" type="Der/Эм" drv="Prc"/></compg>
    </mg>
    <mg ind="2th">
      <tg xml:lang="fin">
@@ -2397,7 +2397,7 @@ Possible errors following proofreading are, e. g., substitution of special fonts
    <lg>
      <l pos="Prc">вуӵыртэм</l><orig>вуӵыртэм</orig>
    </lg>
-   <mg ind="1th"><drvg><inflect type="Der/Эм" drv="Prc"/><stem>вуӵыртыны</stem></drvg>
+   <mg ind="1th"><compg><comp ord="E1" pos="V">вуӵыртыны</comp><comp ord="E2" type="Der/Эм" drv="Prc"/></compg>
    </mg>
    <mg ind="2th"><defNative>куальтыртэм</defNative>
      <tg xml:lang="fin">
@@ -2414,7 +2414,7 @@ Possible errors following proofreading are, e. g., substitution of special fonts
    <lg>
      <l pos="Prc">вуэм</l><orig>вуэм</orig>
    </lg>
-   <mg ind="1th"><drvg><inflect type="Der/Эм" drv="Prc"/><stem>вуыны</stem></drvg>
+   <mg ind="1th"><compg><comp ord="E1" pos="V">вуыны</comp><comp ord="E2" type="Der/Эм" drv="Prc"/></compg>
    </mg>
    <mg ind="2th">
      <tg xml:lang="fin">
@@ -2435,14 +2435,14 @@ Possible errors following proofreading are, e. g., substitution of special fonts
    <lg>
      <l pos="Prc">выжытэм<rom ind="2"/></l>
    </lg>
-   <mg><drvg><inflect type="Der/Эм" drv="Prc;V»N"/><stem>выжытыны</stem></drvg>
+   <mg><compg><comp ord="E1">выжытыны</comp><comp ord="E2" type="Der/Эм" drv="Prc;V»N"/></compg>
    </mg>
 </e>
 <e>
    <lg>
      <l pos="Prc">гогыясь</l><orig>гогыясь</orig>
    </lg>
-   <mg ind="1th"><drvg><inflect type="Der/сь" drv="Prc"/><stem>гогыяны </stem></drvg>
+   <mg ind="1th"><compg><comp ord="E1" pos="V">гогыяны</comp><comp ord="E2" type="Der/сь" drv="Prc"/></compg>
    </mg>
    <mg ind="2th">
      <variants>
@@ -2454,7 +2454,7 @@ Possible errors following proofreading are, e. g., substitution of special fonts
    <lg>
      <l pos="Prc">гожъям</l><orig>гожъям</orig>
    </lg>
-   <mg ind="1th"><drvg><inflect type="Der/Эм" drv="Prc"/><stem>гожъяны</stem></drvg>
+   <mg ind="1th"><compg><comp ord="E1" pos="V">гожъяны</comp><comp ord="E2" type="Der/Эм" drv="Prc"/></compg>
    </mg>
    <mg ind="2th"><font face="SmolenskSGR">(<b>гожъямъёс </b></font><note><i>mon.</i>)</note>
      <tg xml:lang="fin">
@@ -2466,7 +2466,7 @@ Possible errors following proofreading are, e. g., substitution of special fonts
    <lg>
      <l pos="Prc">гожъяськись</l><orig>гожъяськись</orig>
    </lg>
-   <mg ind="1th"><drvg><inflect type="Der/сь" drv="Prc"/><stem>гожъяськыны</stem></drvg>
+   <mg ind="1th"><compg><comp ord="E1" pos="V">гожъяськыны</comp><comp ord="E2" type="Der/сь" drv="Prc"/></compg>
    </mg>
    <mg ind="2th">
      <tg xml:lang="fin">
@@ -2478,7 +2478,7 @@ Possible errors following proofreading are, e. g., substitution of special fonts
    <lg>
      <l pos="Prc">гольтыръяськись</l><orig>гольтыръяськись</orig>
    </lg>
-   <mg ind="1th"><drvg><inflect type="Der/сь" drv="Prc"/><stem>гольтыръяськыны</stem></drvg>
+   <mg ind="1th"><compg><comp ord="E1" pos="V">гольтыръяськыны</comp><comp ord="E2" type="Der/сь" drv="Prc"/></compg>
    </mg>
    <mg ind="2th"><defNative>коньытэз, ческытэз яратӥсь</defNative>
      <tg xml:lang="fin">
@@ -2495,7 +2495,7 @@ Possible errors following proofreading are, e. g., substitution of special fonts
    <lg>
      <l pos="Prc">гочатӥсь</l><orig>гочатӥсь</orig>
    </lg>
-   <mg ind="1th"><drvg><inflect type="Der/сь" drv="Prc"/><stem>гочатыны</stem></drvg>
+   <mg ind="1th"><compg><comp ord="E1" pos="V">гочатыны</comp><comp ord="E2" type="Der/сь" drv="Prc"/></compg>
    </mg>
    <mg ind="2th">
      <tg xml:lang="fin">
@@ -2507,7 +2507,7 @@ Possible errors following proofreading are, e. g., substitution of special fonts
    <lg>
      <l pos="Prc">гӧртэм</l><orig>гӧртэм</orig>
    </lg>
-   <mg ind="1th"><drvg><inflect type="Der/Эм" drv="Prc"/><stem>гӧртыны </stem></drvg>
+   <mg ind="1th"><compg><comp ord="E1" pos="V">гӧртыны</comp><comp ord="E2" type="Der/Эм" drv="Prc"/></compg>
    </mg>
    <mg ind="2th">
      <variants>
@@ -2519,7 +2519,7 @@ Possible errors following proofreading are, e. g., substitution of special fonts
    <lg>
      <l pos="Prc">гудӟем</l><orig>гудӟем</orig>
    </lg>
-   <mg ind="1th"><drvg><inflect type="Der/Эм" drv="Prc"/><stem>гудӟыны</stem></drvg>
+   <mg ind="1th"><compg><comp ord="E1" pos="V">гудӟыны</comp><comp ord="E2" type="Der/Эм" drv="Prc"/></compg>
    </mg>
    <mg ind="2th"><defNative>гудэм, копам</defNative>
      <tg xml:lang="fin">
@@ -2536,7 +2536,7 @@ Possible errors following proofreading are, e. g., substitution of special fonts
    <lg>
      <l pos="Prc">гудыръям</l><orig>гудыръям</orig>
    </lg>
-   <mg ind="1th"><drvg><inflect type="Der/Эм" drv="Prc"/><stem>гудыръяны</stem></drvg>
+   <mg ind="1th"><compg><comp ord="E1" pos="V">гудыръяны</comp><comp ord="E2" type="Der/Эм" drv="Prc"/></compg>
    </mg>
    <mg ind="2th">
      <tg xml:lang="fin">
@@ -2551,7 +2551,7 @@ Possible errors following proofreading are, e. g., substitution of special fonts
    <lg>
      <l pos="Prc">гужгетэм</l><orig>гужгетэм</orig>
    </lg>
-   <mg ind="1th"><drvg><inflect type="Der/Эм" drv="Prc"/><stem>гужгетыны</stem></drvg>
+   <mg ind="1th"><compg><comp ord="E1" pos="V">гужгетыны</comp><comp ord="E2" type="Der/Эм" drv="Prc"/></compg>
    </mg>
    <mg ind="2th">
      <tg xml:lang="fin">
@@ -2563,7 +2563,7 @@ Possible errors following proofreading are, e. g., substitution of special fonts
    <lg>
      <l pos="Prc">гуретэм</l><orig>гуретэм</orig>
    </lg>
-   <mg ind="1th"><drvg><inflect type="Der/Эм" drv="Prc;V»N"/><stem>гуретыны</stem></drvg>
+   <mg ind="1th"><compg><comp ord="E1">гуретыны</comp><comp ord="E2" type="Der/Эм" drv="Prc;V»N"/></compg>
    </mg>
    <mg ind="2th">
      <tg xml:lang="fin">
@@ -2580,7 +2580,7 @@ Possible errors following proofreading are, e. g., substitution of special fonts
    <lg>
      <l pos="Prc">гурӟем</l><orig>гурӟем</orig>
    </lg>
-   <mg ind="1th"><drvg><inflect type="Der/Эм" drv="Prc;V»N"/><stem>гурӟыны</stem></drvg>
+   <mg ind="1th"><compg><comp ord="E1">гурӟыны</comp><comp ord="E2" type="Der/Эм" drv="Prc;V»N"/></compg>
    </mg>
    <mg ind="2th">
      <tg xml:lang="fin">
@@ -2598,7 +2598,7 @@ Possible errors following proofreading are, e. g., substitution of special fonts
    <lg>
      <l pos="Prc">гыам</l><orig>гыам</orig>
    </lg>
-   <mg ind="1th"><drvg><inflect type="Der/Эм" drv="Prc"/><stem>гыаны</stem></drvg>
+   <mg ind="1th"><compg><comp ord="E1" pos="V">гыаны</comp><comp ord="E2" type="Der/Эм" drv="Prc"/></compg>
    </mg>
    <mg ind="2th"><defNative>ву выл</defNative>
      <tg xml:lang="fin">
@@ -2613,7 +2613,7 @@ Possible errors following proofreading are, e. g., substitution of special fonts
    <lg>
      <l pos="Prc">гырись</l><orig>гырись</orig>
    </lg>
-   <mg ind="1th"><drvg><inflect type="Der/сь" drv="Prc"/><stem>гырыны</stem></drvg>
+   <mg ind="1th"><compg><comp ord="E1" pos="V">гырыны</comp><comp ord="E2" type="Der/сь" drv="Prc"/></compg>
    </mg>
    <mg ind="2th">
      <tg xml:lang="fin">
@@ -2625,7 +2625,7 @@ Possible errors following proofreading are, e. g., substitution of special fonts
    <lg>
      <l pos="Prc">дамбыртэм</l><orig>дамбыртэм</orig>
    </lg>
-   <mg ind="1th"><drvg><inflect type="Der/Эм" drv="Prc"/><stem>дамбыртыны</stem></drvg>
+   <mg ind="1th"><compg><comp ord="E1" pos="V">дамбыртыны</comp><comp ord="E2" type="Der/Эм" drv="Prc"/></compg>
    </mg>
    <mg ind="2th"><defNative>марлэн ке</defNative>
      <tg xml:lang="fin">
@@ -2640,7 +2640,7 @@ Possible errors following proofreading are, e. g., substitution of special fonts
    <lg>
      <l pos="Prc">дурбасьтӥсь</l><orig>дурбасьтӥсь</orig>
    </lg>
-   <mg ind="1th"><drvg><inflect type="Der/сь" drv="Prc"/><stem>дурбасьтыны</stem></drvg>
+   <mg ind="1th"><compg><comp ord="E1" pos="V">дурбасьтыны</comp><comp ord="E2" type="Der/сь" drv="Prc"/></compg>
    </mg>
    <mg ind="2th">
      <tg xml:lang="fin">
@@ -2652,7 +2652,7 @@ Possible errors following proofreading are, e. g., substitution of special fonts
    <lg>
      <l pos="Prc">дурем</l><orig>дурем</orig>
    </lg>
-   <mg ind="1th"><drvg><inflect type="Der/Эм" drv="Prc"/><stem>дурыны</stem></drvg>
+   <mg ind="1th"><compg><comp ord="E1" pos="V">дурыны</comp><comp ord="E2" type="Der/Эм" drv="Prc"/></compg>
    </mg>
    <mg ind="2th"><defNative>корт арбериез</defNative>
      <tg xml:lang="fin">
@@ -2669,7 +2669,7 @@ Possible errors following proofreading are, e. g., substitution of special fonts
    <lg>
      <l pos="Prc">дурись</l><orig>дурись</orig>
    </lg>
-   <mg ind="1th"><drvg><inflect type="Der/сь" drv="Prc"/><stem>дурыны 2</stem></drvg>
+   <mg ind="1th"><compg><comp ord="E1" pos="V">дурыны 2</comp><comp ord="E2" type="Der/сь" drv="Prc"/></compg>
      <variants>
        <l_syn type="&gt;">дуриськись<rom ind="0_2"/></l_syn>
      </variants>
@@ -2679,7 +2679,7 @@ Possible errors following proofreading are, e. g., substitution of special fonts
    <lg>
      <l pos="Prc">дуриськись</l><orig>дуриськись</orig>
    </lg>
-   <mg ind="1th"><drvg><inflect type="Der/сь" drv="Prc"/><stem>дуриськыны</stem></drvg>
+   <mg ind="1th"><compg><comp ord="E1" pos="V">дуриськыны</comp><comp ord="E2" type="Der/сь" drv="Prc"/></compg>
    </mg>
    <mg ind="2th"><defNative>дурись</defNative>
      <tg xml:lang="fin">
@@ -2699,7 +2699,7 @@ Possible errors following proofreading are, e. g., substitution of special fonts
    <lg>
      <l pos="Prc">дыбыртэм</l><orig>дыбыртэм</orig>
    </lg>
-   <mg ind="1th"><drvg><inflect type="Der/Эм" drv="Prc"/><stem>дыбыртыны</stem></drvg>
+   <mg ind="1th"><compg><comp ord="E1" pos="V">дыбыртыны</comp><comp ord="E2" type="Der/Эм" drv="Prc"/></compg>
    </mg>
    <mg ind="2th"><defNative>марлэн ке</defNative>
      <tg xml:lang="fin">
@@ -2714,7 +2714,7 @@ Possible errors following proofreading are, e. g., substitution of special fonts
    <lg>
      <l pos="Prc">дышем</l><orig>дышем</orig>
    </lg>
-   <mg ind="1th"><drvg><inflect type="Der/Эм" drv="Prc;V»N"/><stem>дышыны</stem></drvg>
+   <mg ind="1th"><compg><comp ord="E1">дышыны</comp><comp ord="E2" type="Der/Эм" drv="Prc;V»N"/></compg>
    </mg>
    <mg ind="2th">
      <tg xml:lang="fin">
@@ -2726,7 +2726,7 @@ Possible errors following proofreading are, e. g., substitution of special fonts
    <lg>
      <l pos="Prc">дышетӥсь</l><orig>дышетӥсь</orig>
    </lg>
-   <mg ind="1th"><drvg><inflect type="Der/сь" drv="Prc"/><stem>дышетыны</stem></drvg>
+   <mg ind="1th"><compg><comp ord="E1" pos="V">дышетыны</comp><comp ord="E2" type="Der/сь" drv="Prc"/></compg>
    </mg>
    <mg ind="2th">
      <tg xml:lang="fin">
@@ -2762,7 +2762,7 @@ Possible errors following proofreading are, e. g., substitution of special fonts
    <lg>
      <l pos="Prc">дэмлась</l><orig>дэмлась</orig>
    </lg>
-   <mg ind="1th"><drvg><inflect type="Der/сь" drv="Prc"/><stem>дэмланы</stem></drvg>
+   <mg ind="1th"><compg><comp ord="E1" pos="V">дэмланы</comp><comp ord="E2" type="Der/сь" drv="Prc"/></compg>
    </mg>
    <mg ind="2th"><defNative>ӵектӥсь мурт</defNative>
      <tg xml:lang="fin">
@@ -2779,7 +2779,7 @@ Possible errors following proofreading are, e. g., substitution of special fonts
    <lg>
      <l pos="Prc">ёртӥсь</l><orig>ёртӥсь</orig>
    </lg>
-   <mg ind="1th"><drvg><inflect type="Der/сь" drv="Prc"/><stem>ёртыны</stem></drvg>
+   <mg ind="1th"><compg><comp ord="E1" pos="V">ёртыны</comp><comp ord="E2" type="Der/сь" drv="Prc"/></compg>
    </mg>
    <mg ind="2th"><defNative>зӥбыны вырись</defNative>
      <tg xml:lang="fin">
@@ -2791,7 +2791,7 @@ Possible errors following proofreading are, e. g., substitution of special fonts
    <lg>
      <l pos="Prc">жальккетэм</l><orig>жальккетэм</orig>
    </lg>
-   <mg ind="1th"><drvg><inflect type="Der/Эм" drv="Prc"/><stem>жальккетыны</stem></drvg>
+   <mg ind="1th"><compg><comp ord="E1" pos="V">жальккетыны</comp><comp ord="E2" type="Der/Эм" drv="Prc"/></compg>
    </mg>
    <mg ind="2th">
      <tg xml:lang="fin">
@@ -2804,7 +2804,7 @@ Possible errors following proofreading are, e. g., substitution of special fonts
    <lg>
      <l pos="Prc">жальтыртэм</l><orig>жальтыртэм</orig>
    </lg>
-   <mg ind="1th"><drvg><inflect type="Der/Эм" drv="Prc"/><stem>жальтыртыны</stem></drvg>
+   <mg ind="1th"><compg><comp ord="E1" pos="V">жальтыртыны</comp><comp ord="E2" type="Der/Эм" drv="Prc"/></compg>
    </mg>
    <mg ind="2th"><defNative>вулэн</defNative>
      <tg xml:lang="fin">
@@ -2821,7 +2821,7 @@ Possible errors following proofreading are, e. g., substitution of special fonts
    <lg>
      <l pos="Prc">жальыртэм</l><orig>жальыртэм</orig>
    </lg>
-   <mg ind="1th"><drvg><inflect type="Der/Эм" drv="Prc"/><stem>жальыртыны</stem></drvg>
+   <mg ind="1th"><compg><comp ord="E1" pos="V">жальыртыны</comp><comp ord="E2" type="Der/Эм" drv="Prc"/></compg>
    </mg>
    <mg ind="2th">
      <tg xml:lang="fin">
@@ -2833,7 +2833,7 @@ Possible errors following proofreading are, e. g., substitution of special fonts
    <lg>
      <l pos="Prc">жиетэм</l><orig>жиетэм</orig>
    </lg>
-   <mg ind="1th"><drvg><inflect type="Der/Эм" drv="Prc"/><stem>жиетыны</stem></drvg>
+   <mg ind="1th"><compg><comp ord="E1" pos="V">жиетыны</comp><comp ord="E2" type="Der/Эм" drv="Prc"/></compg>
    </mg>
    <mg ind="2th">
      <tg xml:lang="fin">
@@ -2845,7 +2845,7 @@ Possible errors following proofreading are, e. g., substitution of special fonts
    <lg>
      <l pos="Prc">жильккетэм</l><orig>жильккетэм</orig>
    </lg>
-   <mg ind="1th"><drvg><inflect type="Der/Эм" drv="Prc"/><stem>жильккетыны</stem></drvg>
+   <mg ind="1th"><compg><comp ord="E1" pos="V">жильккетыны</comp><comp ord="E2" type="Der/Эм" drv="Prc"/></compg>
    </mg>
    <mg ind="2th"><defNative>малэн ке</defNative>
      <tg xml:lang="fin">
@@ -2860,7 +2860,7 @@ Possible errors following proofreading are, e. g., substitution of special fonts
    <lg>
      <l pos="Prc">жильтыртэм</l><orig>жильтыртэм</orig>
    </lg>
-   <mg ind="1th"><drvg><inflect type="Der/Эм" drv="Prc"/><stem>жильтыртыны</stem></drvg>
+   <mg ind="1th"><compg><comp ord="E1" pos="V">жильтыртыны</comp><comp ord="E2" type="Der/Эм" drv="Prc"/></compg>
    </mg>
    <mg ind="2th"><defNative>марлэн ке</defNative>
      <tg xml:lang="fin">
@@ -2880,7 +2880,7 @@ Possible errors following proofreading are, e. g., substitution of special fonts
    <lg>
      <l pos="Prc">жильыртэм</l><orig>жильыртэм</orig>
    </lg>
-   <mg ind="1th"><drvg><inflect type="Der/Эм" drv="Prc"/><stem>жильыртыны</stem></drvg>
+   <mg ind="1th"><compg><comp ord="E1" pos="V">жильыртыны</comp><comp ord="E2" type="Der/Эм" drv="Prc"/></compg>
    </mg>
    <mg ind="2th">
      <tg xml:lang="fin">
@@ -2892,7 +2892,7 @@ Possible errors following proofreading are, e. g., substitution of special fonts
    <lg>
      <l pos="Prc">жингыртэм</l><orig>жингыртэм</orig>
    </lg>
-   <mg ind="1th"><drvg><inflect type="Der/Эм" drv="Prc"/><stem>жингыртыны</stem></drvg>
+   <mg ind="1th"><compg><comp ord="E1" pos="V">жингыртыны</comp><comp ord="E2" type="Der/Эм" drv="Prc"/></compg>
    </mg>
    <mg ind="2th"><defNative>арбериос, куара с-сь</defNative>
      <tg xml:lang="fin">
@@ -2919,7 +2919,7 @@ Possible errors following proofreading are, e. g., substitution of special fonts
    <lg>
      <l pos="Prc">жомбыльтэм</l><orig>жомбыльтэм</orig>
    </lg>
-   <mg ind="1th"><drvg><inflect type="Der/Эм" drv="Prc"/><stem>жомбыльтыны</stem></drvg>
+   <mg ind="1th"><compg><comp ord="E1" pos="V">жомбыльтыны</comp><comp ord="E2" type="Der/Эм" drv="Prc"/></compg>
    </mg>
    <mg ind="2th"><defNative>малэн ке</defNative>
      <tg xml:lang="fin">
@@ -2934,7 +2934,7 @@ Possible errors following proofreading are, e. g., substitution of special fonts
    <lg>
      <l pos="Prc">жонгетэм</l><orig>жонгетэм</orig>
    </lg>
-   <mg ind="1th"><drvg><inflect type="Der/Эм" drv="Prc"/><stem>жонгетыны</stem></drvg>
+   <mg ind="1th"><compg><comp ord="E1" pos="V">жонгетыны</comp><comp ord="E2" type="Der/Эм" drv="Prc"/></compg>
    </mg>
    <mg ind="2th"><defNative>малэн ке</defNative>
      <tg xml:lang="fin">
@@ -2954,7 +2954,7 @@ Possible errors following proofreading are, e. g., substitution of special fonts
    <lg>
      <l pos="Prc">жугем</l><orig>жугем</orig>
    </lg>
-   <mg ind="1th"><drvg><inflect type="Der/Эм" drv="Prc"/><stem>жугыны</stem></drvg>
+   <mg ind="1th"><compg><comp ord="E1" pos="V">жугыны</comp><comp ord="E2" type="Der/Эм" drv="Prc"/></compg>
    </mg>
    <mg ind="2th">
      <tg xml:lang="fin">
@@ -2981,7 +2981,7 @@ Possible errors following proofreading are, e. g., substitution of special fonts
    <lg>
      <l pos="Prc">жугиськем</l><orig>жугиськем</orig>
    </lg>
-   <mg ind="1th"><drvg><inflect type="Der/Эм" drv="Prc;V»N"/><stem>жугиськыны</stem></drvg>
+   <mg ind="1th"><compg><comp ord="E1">жугиськыны</comp><comp ord="E2" type="Der/Эм" drv="Prc;V»N"/></compg>
    </mg>
    <mg ind="2th">
      <tg xml:lang="fin">
@@ -2998,7 +2998,7 @@ Possible errors following proofreading are, e. g., substitution of special fonts
    <lg>
      <l pos="Prc">жугиськись</l><orig>жугиськись</orig>
    </lg>
-   <mg ind="1th"><drvg><inflect type="Der/сь" drv="Prc"/><stem>жугиськыны</stem></drvg>
+   <mg ind="1th"><compg><comp ord="E1" pos="V">жугиськыны</comp><comp ord="E2" type="Der/сь" drv="Prc"/></compg>
    </mg>
    <mg ind="2th"><defNative>жугиськись мурт</defNative>
      <tg xml:lang="fin">
@@ -3018,7 +3018,7 @@ Possible errors following proofreading are, e. g., substitution of special fonts
    <lg>
      <l pos="Prc">жуэтэм</l><orig>жуэтэм</orig>
    </lg>
-   <mg ind="1th"><drvg><inflect type="Der/Эм" drv="Prc"/><stem>жуэтыны</stem></drvg>
+   <mg ind="1th"><compg><comp ord="E1" pos="V">жуэтыны</comp><comp ord="E2" type="Der/Эм" drv="Prc"/></compg>
    </mg>
    <mg ind="2th">
      <tg xml:lang="fin">
@@ -3030,7 +3030,7 @@ Possible errors following proofreading are, e. g., substitution of special fonts
    <lg>
      <l pos="Prc">ӝоктэм</l><orig>ӝоктэм</orig>
    </lg>
-   <mg ind="1th"><drvg><inflect type="Der/Эм" drv="Prc"/><stem>ӝоктыны</stem></drvg>
+   <mg ind="1th"><compg><comp ord="E1" pos="V">ӝоктыны</comp><comp ord="E2" type="Der/Эм" drv="Prc"/></compg>
    </mg>
    <mg ind="2th"><defNative>бушатэм</defNative>
      <tg xml:lang="fin">
@@ -3058,7 +3058,7 @@ Possible errors following proofreading are, e. g., substitution of special fonts
    <lg>
      <l pos="Prc">ӝубъем</l><orig>ӝубъем</orig>
    </lg>
-   <mg ind="1th"><drvg><inflect type="Der/Эм" drv="Prc;V»N"/><stem>ӝубйыны </stem></drvg>
+   <mg ind="1th"><compg><comp ord="E1">ӝубйыны</comp><comp ord="E2" type="Der/Эм" drv="Prc;V»N"/></compg>
    </mg>
    <mg ind="2th">
      <variants>
@@ -3070,7 +3070,7 @@ Possible errors following proofreading are, e. g., substitution of special fonts
    <lg>
      <l pos="Prc">ӝужъем</l><orig>ӝужъем</orig>
    </lg>
-   <mg ind="1th"><drvg><inflect type="Der/Эм" drv="Prc"/><stem>ӝужйыны;</stem></drvg>
+   <mg ind="1th"><compg><comp ord="E1" pos="V">ӝужйыны;</comp><comp ord="E2" type="Der/Эм" drv="Prc"/></compg>
      <xg><x>ӝужъем нянь</x>
        <xt xml:lang="fin">onnistunut leipä</xt><xre>hyvin nousseesta taikinasta leivottu leipä</xre>
      </xg>
@@ -3086,7 +3086,7 @@ Possible errors following proofreading are, e. g., substitution of special fonts
    <lg>
      <l pos="Prc">ӝутӥсь-дэмлась</l><orig>ӝутӥсь-дэмлась</orig>
    </lg>
-   <mg ind="1th"><drvg><inflect type="Der/сь" drv="Prc"/><stem>ӝутыны-дэмланы</stem></drvg>
+   <mg ind="1th"><compg><comp ord="E1" pos="V">ӝутыны-дэмланы</comp><comp ord="E2" type="Der/сь" drv="Prc"/></compg>
    </mg>
    <mg ind="2th"><defNative>дэмчи</defNative>
      <tg xml:lang="fin">
@@ -3098,7 +3098,7 @@ Possible errors following proofreading are, e. g., substitution of special fonts
    <lg>
      <l pos="Prc">ӝутӥсь-лэзись</l><orig>ӝутӥсь-лэзись</orig>
    </lg>
-   <mg ind="1th"><drvg><inflect type="Der/сь" drv="Prc"/><stem>ӝутыны-лэзьыны</stem></drvg>
+   <mg ind="1th"><compg><comp ord="E1" pos="V">ӝутыны-лэзьыны</comp><comp ord="E2" type="Der/сь" drv="Prc"/></compg>
    </mg>
    <mg ind="2th"><defNative>дэмчи</defNative>
      <tg xml:lang="fin">
@@ -3110,7 +3110,7 @@ Possible errors following proofreading are, e. g., substitution of special fonts
    <lg>
      <l pos="Prc">ӝуштэм</l><orig>ӝуштэм</orig>
    </lg>
-   <mg ind="1th"><drvg><inflect type="Der/Эм" drv="Prc"/><stem>ӝуштыны;</stem></drvg>
+   <mg ind="1th"><compg><comp ord="E1" pos="V">ӝуштыны;</comp><comp ord="E2" type="Der/Эм" drv="Prc"/></compg>
      <xg><x> ӝуштэм куара</x>
        <xt xml:lang="fin">vaikeroimisääni, voihkina</xt>
      </xg>
@@ -3135,7 +3135,7 @@ Possible errors following proofreading are, e. g., substitution of special fonts
    <lg>
      <l pos="Prc">ӝыжомем</l><orig>ӝыжомем</orig>
    </lg>
-   <mg ind="1th"><drvg><inflect type="Der/Эм" drv="Prc;V»N"/><stem>ӝыжомыны</stem></drvg>
+   <mg ind="1th"><compg><comp ord="E1">ӝыжомыны</comp><comp ord="E2" type="Der/Эм" drv="Prc;V»N"/></compg>
    </mg>
    <mg ind="2th"><defNative>ӝыж луэм</defNative>
      <tg xml:lang="fin">
@@ -3154,7 +3154,7 @@ Possible errors following proofreading are, e. g., substitution of special fonts
    <lg>
      <l pos="Prc">зӥбем</l><orig>зӥбем</orig>
    </lg>
-   <mg ind="1th"><drvg><inflect type="Der/Эм" drv="Prc"/><stem>зӥбыны</stem></drvg>
+   <mg ind="1th"><compg><comp ord="E1" pos="V">зӥбыны</comp><comp ord="E2" type="Der/Эм" drv="Prc"/></compg>
      <xg><x> зӥбем калык</x>
        <xt xml:lang="fin">sorrettu (t. ahdistettu) kansa</xt>
      </xg>
@@ -3179,7 +3179,7 @@ Possible errors following proofreading are, e. g., substitution of special fonts
    <lg>
      <l pos="Prc">зӥбись</l><orig>зӥбись</orig>
    </lg>
-   <mg ind="1th"><drvg><inflect type="Der/сь" drv="Prc"/><stem>зӥбыны</stem></drvg>
+   <mg ind="1th"><compg><comp ord="E1" pos="V">зӥбыны</comp><comp ord="E2" type="Der/сь" drv="Prc"/></compg>
    </mg>
    <mg ind="2th"><senseType>kuv.</senseType><defNative>к-сь кичӧлтонэз</defNative>
      <tg xml:lang="fin">
@@ -3206,7 +3206,7 @@ Possible errors following proofreading are, e. g., substitution of special fonts
    <lg>
      <l pos="Prc">зугыртэм</l><orig>зугыртэм</orig>
    </lg>
-   <mg ind="1th"><drvg><inflect type="Der/Эм" drv="Prc"/><stem>зугыртыны</stem></drvg>
+   <mg ind="1th"><compg><comp ord="E1" pos="V">зугыртыны</comp><comp ord="E2" type="Der/Эм" drv="Prc"/></compg>
    </mg>
    <mg ind="2th">
      <tg xml:lang="fin">
@@ -3218,7 +3218,7 @@ Possible errors following proofreading are, e. g., substitution of special fonts
    <lg>
      <l pos="Prc">зулем</l><orig>зулем</orig>
    </lg>
-   <mg ind="1th"><drvg><inflect type="Der/Эм" drv="Prc"/><stem>зульыны</stem></drvg>
+   <mg ind="1th"><compg><comp ord="E1" pos="V">зульыны</comp><comp ord="E2" type="Der/Эм" drv="Prc"/></compg>
    </mg>
    <mg ind="2th"><defNative>супыльтэм</defNative>
      <tg xml:lang="fin">
@@ -3235,7 +3235,7 @@ Possible errors following proofreading are, e. g., substitution of special fonts
    <lg>
      <l pos="Prc">зулись</l><orig>зулись</orig>
    </lg>
-   <mg ind="1th"><drvg><inflect type="Der/сь" drv="Prc"/><stem>зульыны</stem></drvg>
+   <mg ind="1th"><compg><comp ord="E1" pos="V">зульыны</comp><comp ord="E2" type="Der/сь" drv="Prc"/></compg>
    </mg>
    <mg ind="2th"><defNative>супыльтӥсь</defNative>
      <tg xml:lang="fin">
@@ -3252,7 +3252,7 @@ Possible errors following proofreading are, e. g., substitution of special fonts
    <lg>
      <l pos="Prc">ӟазыртэм</l><orig>ӟазыртэм</orig>
    </lg>
-   <mg ind="1th"><drvg><inflect type="Der/Эм" drv="Prc"/><stem>ӟазыртыны</stem></drvg>
+   <mg ind="1th"><compg><comp ord="E1" pos="V">ӟазыртыны</comp><comp ord="E2" type="Der/Эм" drv="Prc"/></compg>
    </mg>
    <mg ind="2th"><defNative>куара с-сь</defNative>
      <tg xml:lang="fin">
@@ -3269,7 +3269,7 @@ Possible errors following proofreading are, e. g., substitution of special fonts
    <lg>
      <l pos="Prc">ӟечбуръяськем</l><orig>ӟечбуръяськем</orig>
    </lg>
-   <mg ind="1th"><drvg><inflect type="Der/Эм" drv="Prc"/><stem>ӟечбуръяськыны</stem></drvg>
+   <mg ind="1th"><compg><comp ord="E1" pos="V">ӟечбуръяськыны</comp><comp ord="E2" type="Der/Эм" drv="Prc"/></compg>
    </mg>
    <mg ind="2th">
      <tg xml:lang="fin">
@@ -3281,7 +3281,7 @@ Possible errors following proofreading are, e. g., substitution of special fonts
    <lg>
      <l pos="Prc">ӟечъяськись</l><orig>ӟечъяськись</orig>
    </lg>
-   <mg ind="1th"><drvg><inflect type="Der/сь" drv="Prc"/><stem>ӟечъяськыны</stem></drvg>
+   <mg ind="1th"><compg><comp ord="E1" pos="V">ӟечъяськыны</comp><comp ord="E2" type="Der/сь" drv="Prc"/></compg>
    </mg>
    <mg ind="2th"><defNative>чеберъяськись</defNative>
      <tg xml:lang="fin">
@@ -3301,7 +3301,7 @@ Possible errors following proofreading are, e. g., substitution of special fonts
    <lg>
      <l pos="Prc">ӟильыртэм</l><orig>ӟильыртэм</orig>
    </lg>
-   <mg ind="1th"><drvg><inflect type="Der/Эм" drv="Prc"/><stem>ӟильыртыны</stem></drvg>
+   <mg ind="1th"><compg><comp ord="E1" pos="V">ӟильыртыны</comp><comp ord="E2" type="Der/Эм" drv="Prc"/></compg>
    </mg>
    <mg ind="2th"><defNative>ву с-сь</defNative>
      <tg xml:lang="fin">
@@ -3333,7 +3333,7 @@ Possible errors following proofreading are, e. g., substitution of special fonts
    <lg>
      <l pos="Prc">ӟукыртэм</l><orig>ӟукыртэм</orig>
    </lg>
-   <mg ind="1th"><drvg><inflect type="Der/Эм" drv="Prc"/><stem>ӟукыртыны</stem></drvg>
+   <mg ind="1th"><compg><comp ord="E1" pos="V">ӟукыртыны</comp><comp ord="E2" type="Der/Эм" drv="Prc"/></compg>
    </mg>
    <mg ind="2th">
      <tg xml:lang="fin">
@@ -3350,7 +3350,7 @@ Possible errors following proofreading are, e. g., substitution of special fonts
    <lg>
      <l pos="Prc">ӟурем</l><orig>ӟурем</orig>
    </lg>
-   <mg ind="1th"><drvg><inflect type="Der/Эм" drv="V»N"/><stem>ӟурыны </stem></drvg>
+   <mg ind="1th"><compg><comp ord="E1" pos="V">ӟурыны</comp><comp ord="E2" type="Der/Эм" drv="V»N"/></compg>
    </mg>
    <mg ind="2th">
      <variants>
@@ -3367,7 +3367,7 @@ Possible errors following proofreading are, e. g., substitution of special fonts
    <lg>
      <l pos="Prc">ӟурись</l><orig>ӟурись</orig>
    </lg>
-   <mg ind="1th"><drvg><inflect type="Der/сь" drv="Prc"/><stem>ӟурыны</stem></drvg>
+   <mg ind="1th"><compg><comp ord="E1" pos="V">ӟурыны</comp><comp ord="E2" type="Der/сь" drv="Prc"/></compg>
    </mg>
    <mg ind="2th"><senseType>kuv.</senseType><defNative>нургетӥсь</defNative>
      <tg xml:lang="fin">
@@ -3379,7 +3379,7 @@ Possible errors following proofreading are, e. g., substitution of special fonts
    <lg>
      <l pos="Prc">ивортӥсь</l><orig>ивортӥсь</orig>
    </lg>
-   <mg ind="1th"><drvg><inflect type="Der/сь" drv="Prc"/><stem>ивортыны</stem></drvg>
+   <mg ind="1th"><compg><comp ord="E1" pos="V">ивортыны</comp><comp ord="E2" type="Der/сь" drv="Prc"/></compg>
    </mg>
    <mg ind="2th">
      <tg xml:lang="fin">
@@ -3413,7 +3413,7 @@ Possible errors following proofreading are, e. g., substitution of special fonts
    <lg>
      <l pos="Prc">изэм</l><orig>изэм</orig>
    </lg>
-   <mg ind="1th"><drvg><inflect type="Der/Эм" drv="Prc"/><stem>изыны</stem></drvg>
+   <mg ind="1th"><compg><comp ord="E1" pos="V">изыны</comp><comp ord="E2" type="Der/Эм" drv="Prc"/></compg>
      <xg><x>; зӧк изэм пызь</x>
        <xt xml:lang="fin">karkeat jauhot</xt>
      </xg>
@@ -3439,7 +3439,7 @@ Possible errors following proofreading are, e. g., substitution of special fonts
    <lg>
      <l pos="Prc">инъясь</l><orig>инъясь</orig>
    </lg>
-   <mg ind="1th"><drvg><inflect type="Der/сь" drv="Prc"/><stem>инъяны</stem></drvg>
+   <mg ind="1th"><compg><comp ord="E1" pos="V">инъяны</comp><comp ord="E2" type="Der/сь" drv="Prc"/></compg>
    </mg>
    <mg ind="2th"><defNative>инъет понӥсь, кылдытӥсь</defNative>
      <tg xml:lang="fin">
@@ -3456,7 +3456,7 @@ Possible errors following proofreading are, e. g., substitution of special fonts
    <lg>
      <l pos="Prc">ишкем</l><orig>ишкем</orig>
    </lg>
-   <mg ind="1th"><drvg><inflect type="Der/Эм" drv="Prc"/><stem>ишкыны </stem></drvg>
+   <mg ind="1th"><compg><comp ord="E1" pos="V">ишкыны</comp><comp ord="E2" type="Der/Эм" drv="Prc"/></compg>
    </mg>
    <mg ind="2th"><defNative>кыскыса поттылэм</defNative>
      <tg xml:lang="fin">
@@ -3482,7 +3482,7 @@ Possible errors following proofreading are, e. g., substitution of special fonts
    <lg>
      <l pos="Prc">йыгам</l><orig>йыгам</orig>
    </lg>
-   <mg ind="1th"><drvg><inflect type="Der/Эм" drv="Prc"/><stem>йыганы</stem></drvg>
+   <mg ind="1th"><compg><comp ord="E1" pos="V">йыганы</comp><comp ord="E2" type="Der/Эм" drv="Prc"/></compg>
    </mg>
    <mg ind="2th">
      <tg xml:lang="fin">
@@ -3494,7 +3494,7 @@ Possible errors following proofreading are, e. g., substitution of special fonts
    <lg>
      <l pos="Prc">йыггетэм</l><orig>йыггетэм</orig>
    </lg>
-   <mg ind="1th"><drvg><inflect type="Der/Эм" drv="Prc"/><stem>йыггетыны</stem></drvg>
+   <mg ind="1th"><compg><comp ord="E1" pos="V">йыггетыны</comp><comp ord="E2" type="Der/Эм" drv="Prc"/></compg>
    </mg>
    <mg ind="2th"><defNative>маин ке</defNative>
      <tg xml:lang="fin">
@@ -3519,7 +3519,7 @@ Possible errors following proofreading are, e. g., substitution of special fonts
    <lg>
      <l pos="Prc">йылэтэм</l><orig>йылэтэм</orig>
    </lg>
-   <mg ind="1th"><drvg><inflect type="Der/Эм" drv="Prc"/><stem>йылэтыны</stem></drvg>
+   <mg ind="1th"><compg><comp ord="E1" pos="V">йылэтыны</comp><comp ord="E2" type="Der/Эм" drv="Prc"/></compg>
    </mg>
    <mg ind="2th"><defNative>ватсам</defNative>
      <tg xml:lang="fin">
@@ -3536,7 +3536,7 @@ Possible errors following proofreading are, e. g., substitution of special fonts
    <lg>
      <l pos="Prc">йырйись</l><orig>йырйись</orig>
    </lg>
-   <mg ind="1th"><drvg><inflect type="Der/сь" drv="Prc"/><stem>йырйыны</stem></drvg>
+   <mg ind="1th"><compg><comp ord="E1" pos="V">йырйыны</comp><comp ord="E2" type="Der/сь" drv="Prc"/></compg>
    </mg>
    <mg ind="2th"><field>el.</field>
      <tg xml:lang="fin">
@@ -3548,7 +3548,7 @@ Possible errors following proofreading are, e. g., substitution of special fonts
    <lg>
      <l pos="Prc">йыртэмась</l><orig>йыртэмась</orig>
    </lg>
-   <mg ind="1th"><drvg><inflect type="Der/сь" drv="Prc"/><stem>йыртэманы</stem></drvg>
+   <mg ind="1th"><compg><comp ord="E1" pos="V">йыртэманы</comp><comp ord="E2" type="Der/сь" drv="Prc"/></compg>
    </mg>
    <mg ind="2th">
      <tg xml:lang="fin">
@@ -3560,7 +3560,7 @@ Possible errors following proofreading are, e. g., substitution of special fonts
    <lg>
      <l pos="Prc">йыръяськись</l><orig>йыръяськись</orig>
    </lg>
-   <mg ind="1th"><drvg><inflect type="Der/сь" drv="Prc"/><stem>йыръяськыны</stem></drvg>
+   <mg ind="1th"><compg><comp ord="E1" pos="V">йыръяськыны</comp><comp ord="E2" type="Der/сь" drv="Prc"/></compg>
    </mg>
    <mg ind="2th"><senseType>kuv.</senseType><defNative>валтӥсь, кузёяськись</defNative>
      <tg xml:lang="fin">
@@ -3572,7 +3572,7 @@ Possible errors following proofreading are, e. g., substitution of special fonts
    <lg>
      <l pos="Prc">келись</l><orig>келись</orig>
    </lg>
-   <mg ind="1th"><drvg><inflect type="Der/сь" drv="Prc"/><stem>кельыны</stem></drvg>
+   <mg ind="1th"><compg><comp ord="E1" pos="V">кельыны</comp><comp ord="E2" type="Der/сь" drv="Prc"/></compg>
    </mg>
    <mg ind="2th">
      <tg xml:lang="fin">
@@ -3584,7 +3584,7 @@ Possible errors following proofreading are, e. g., substitution of special fonts
    <lg>
      <l pos="Prc">келясь</l><orig>келясь</orig>
    </lg>
-   <mg ind="1th"><drvg><inflect type="Der/сь" drv="Prc"/><stem>келяны</stem></drvg>
+   <mg ind="1th"><compg><comp ord="E1" pos="V">келяны</comp><comp ord="E2" type="Der/сь" drv="Prc"/></compg>
    </mg>
    <mg ind="2th">
      <tg xml:lang="fin">
@@ -3599,7 +3599,7 @@ Possible errors following proofreading are, e. g., substitution of special fonts
    <lg>
      <l pos="Prc">керттӥськись</l><orig>керттӥськись</orig>
    </lg>
-   <mg ind="1th"><drvg><inflect type="Der/сь" drv="Prc"/><stem>керттӥськыны</stem></drvg>
+   <mg ind="1th"><compg><comp ord="E1" pos="V">керттӥськыны</comp><comp ord="E2" type="Der/сь" drv="Prc"/></compg>
    </mg>
    <mg ind="2th">
      <tg xml:lang="fin">
@@ -3638,7 +3638,7 @@ Possible errors following proofreading are, e. g., substitution of special fonts
    <lg>
      <l pos="Prc">кивалтӥсь</l><orig>кивалтӥсь</orig>
    </lg>
-   <mg ind="1th"><drvg><inflect type="Der/сь" drv="Prc"/><stem>кивалтыны</stem></drvg>
+   <mg ind="1th"><compg><comp ord="E1" pos="V">кивалтыны</comp><comp ord="E2" type="Der/сь" drv="Prc"/></compg>
    </mg>
    <mg ind="2th">
      <tg xml:lang="fin">
@@ -3650,7 +3650,7 @@ Possible errors following proofreading are, e. g., substitution of special fonts
    <lg>
      <l pos="Prc">кивалтэм</l><orig>кивалтэм</orig>
    </lg>
-   <mg ind="1th"><drvg><inflect type="Der/Эм" drv="Prc"/><stem>кивалтыны</stem></drvg>
+   <mg ind="1th"><compg><comp ord="E1" pos="V">кивалтыны</comp><comp ord="E2" type="Der/Эм" drv="Prc"/></compg>
    </mg>
    <mg ind="2th">
      <tg xml:lang="fin">
@@ -3665,7 +3665,7 @@ Possible errors following proofreading are, e. g., substitution of special fonts
    <lg>
      <l pos="Prc">кисьтэм</l><orig>кисьтэм</orig>
    </lg>
-   <mg><drvg><inflect type="Der/Эм" drv="Prc"/><stem>кисьтыны </stem></drvg>◊
+   <mg><compg><comp ord="E1" pos="V">кисьтыны</comp><comp ord="E2" type="Der/Эм" drv="Prc"/></compg>◊
      <xg><x>кисьтэм йӧл</x>
        <xt xml:lang="fin">(koti)rahka</xt>
      </xg>
@@ -3675,7 +3675,7 @@ Possible errors following proofreading are, e. g., substitution of special fonts
    <lg>
      <l pos="Prc">кичӧлтӥсь</l><orig>кичӧлтӥсь</orig>
    </lg>
-   <mg ind="1th"><drvg><inflect type="Der/сь" drv="Prc"/><stem>кичӧлтыны</stem></drvg>
+   <mg ind="1th"><compg><comp ord="E1" pos="V">кичӧлтыны</comp><comp ord="E2" type="Der/сь" drv="Prc"/></compg>
    </mg>
    <mg ind="2th"><defNative>кутскон сётӥсь</defNative>
      <tg xml:lang="fin">
@@ -3692,7 +3692,7 @@ Possible errors following proofreading are, e. g., substitution of special fonts
    <lg>
      <l pos="Prc">клоккетэм</l><orig>клоккетэм</orig>
    </lg>
-   <mg ind="1th"><drvg><inflect type="Der/Эм" drv="Prc"/><stem>клоккетыны</stem></drvg>
+   <mg ind="1th"><compg><comp ord="E1" pos="V">клоккетыны</comp><comp ord="E2" type="Der/Эм" drv="Prc"/></compg>
    </mg>
    <mg ind="2th">
      <tg xml:lang="fin">
@@ -3705,7 +3705,7 @@ Possible errors following proofreading are, e. g., substitution of special fonts
    <lg>
      <l pos="Prc">кольккетэм</l><orig>кольккетэм</orig>
    </lg>
-   <mg ind="1th"><drvg><inflect type="Der/Эм" drv="Prc"/><stem>кольккетыны</stem></drvg>
+   <mg ind="1th"><compg><comp ord="E1" pos="V">кольккетыны</comp><comp ord="E2" type="Der/Эм" drv="Prc"/></compg>
    </mg>
    <mg ind="2th">
      <tg xml:lang="fin">
@@ -3717,7 +3717,7 @@ Possible errors following proofreading are, e. g., substitution of special fonts
    <lg>
      <l pos="Prc">кольтыртэм</l><orig>кольтыртэм</orig>
    </lg>
-   <mg ind="1th"><drvg><inflect type="Der/Эм" drv="V»N"/><stem>кольтыртыны</stem></drvg>
+   <mg ind="1th"><compg><comp ord="E1" pos="V">кольтыртыны</comp><comp ord="E2" type="Der/Эм" drv="V»N"/></compg>
    </mg>
    <mg ind="2th">
      <tg xml:lang="fin">
@@ -3734,7 +3734,7 @@ Possible errors following proofreading are, e. g., substitution of special fonts
    <lg>
      <l pos="Prc">копаськись</l><orig>копаськись</orig>
    </lg>
-   <mg ind="1th"><drvg><inflect type="Der/сь" drv="Prc"/><stem>копаськыны</stem></drvg>
+   <mg ind="1th"><compg><comp ord="E1" pos="V">копаськыны</comp><comp ord="E2" type="Der/сь" drv="Prc"/></compg>
    </mg>
    <mg ind="2th"><note><i>kuv.</i></note><range>puhek.</range><defNative>тэбинись</defNative>
      <tg xml:lang="fin">
@@ -3749,7 +3749,7 @@ Possible errors following proofreading are, e. g., substitution of special fonts
    <lg>
      <l pos="Prc">косэм</l><orig>косэм</orig>
    </lg>
-   <mg ind="1th"><drvg><inflect type="Der/Эм" drv="Prc;V»N"/><stem>косыны</stem></drvg>
+   <mg ind="1th"><compg><comp ord="E1">косыны</comp><comp ord="E2" type="Der/Эм" drv="Prc;V»N"/></compg>
    </mg>
    <mg ind="2th"><defNative>приказ</defNative>
      <tg xml:lang="fin">
@@ -3766,7 +3766,7 @@ Possible errors following proofreading are, e. g., substitution of special fonts
    <lg>
      <l pos="Prc">коткам</l><orig>коткам</orig>
    </lg>
-   <mg ind="1th"><drvg><inflect type="Der/Эм" drv="Prc"/><stem>котканы</stem></drvg>
+   <mg ind="1th"><compg><comp ord="E1" pos="V">котканы</comp><comp ord="E2" type="Der/Эм" drv="Prc"/></compg>
    </mg>
    <mg ind="2th">
      <tg xml:lang="fin">
@@ -3779,7 +3779,7 @@ Possible errors following proofreading are, e. g., substitution of special fonts
    <lg>
      <l pos="Prc">котыртэм</l><orig>котыртэм</orig>
    </lg>
-   <mg ind="1th"><drvg><inflect type="Der/Эм" drv="Prc;V»N"/><stem>котыртыны</stem></drvg>
+   <mg ind="1th"><compg><comp ord="E1">котыртыны</comp><comp ord="E2" type="Der/Эм" drv="Prc;V»N"/></compg>
    </mg>
    <mg ind="2th"><defNative>кенер</defNative>
      <tg xml:lang="fin">
@@ -3791,7 +3791,7 @@ Possible errors following proofreading are, e. g., substitution of special fonts
    <lg>
      <l pos="Prc">куажгетэм</l><orig>куажгетэм</orig>
    </lg>
-   <mg ind="1th"><drvg><inflect type="Der/Эм" drv="Prc"/><stem>куажгетыны</stem></drvg>
+   <mg ind="1th"><compg><comp ord="E1" pos="V">куажгетыны</comp><comp ord="E2" type="Der/Эм" drv="Prc"/></compg>
    </mg>
    <mg ind="2th">
      <tg xml:lang="fin">
@@ -3804,7 +3804,7 @@ Possible errors following proofreading are, e. g., substitution of special fonts
    <lg>
      <l pos="Prc">куажыртэм</l><orig>куажыртэм</orig>
    </lg>
-   <mg ind="1th"><drvg><inflect type="Der/Эм" drv="Prc"/><stem>куажыртыны</stem></drvg>
+   <mg ind="1th"><compg><comp ord="E1" pos="V">куажыртыны</comp><comp ord="E2" type="Der/Эм" drv="Prc"/></compg>
    </mg>
    <mg ind="2th">
      <tg xml:lang="fin">
@@ -3816,7 +3816,7 @@ Possible errors following proofreading are, e. g., substitution of special fonts
    <lg>
      <l pos="Prc">куаккетэм</l><orig>куаккетэм</orig>
    </lg>
-   <mg ind="1th"><drvg><inflect type="Der/Эм" drv="Prc"/><stem>куаккетыны</stem></drvg>
+   <mg ind="1th"><compg><comp ord="E1" pos="V">куаккетыны</comp><comp ord="E2" type="Der/Эм" drv="Prc"/></compg>
    </mg>
    <mg ind="2th"><defNative>эбек с-сь</defNative>
      <tg xml:lang="fin">
@@ -3837,7 +3837,7 @@ Possible errors following proofreading are, e. g., substitution of special fonts
    <lg>
      <l pos="Prc">куальтыртэм</l><orig>куальтыртэм</orig>
    </lg>
-   <mg ind="1th"><drvg><inflect type="Der/Эм" drv="Prc"/><stem>куальтыртыны</stem></drvg>
+   <mg ind="1th"><compg><comp ord="E1" pos="V">куальтыртыны</comp><comp ord="E2" type="Der/Эм" drv="Prc"/></compg>
    </mg>
    <mg ind="2th">
      <tg xml:lang="fin">
@@ -3854,7 +3854,7 @@ Possible errors following proofreading are, e. g., substitution of special fonts
    <lg>
      <l pos="Prc">куаньгетэм</l><orig>куаньгетэм</orig>
    </lg>
-   <mg ind="1th"><drvg><inflect type="Der/Эм" drv="Prc"/><stem>куаньгетыны</stem></drvg>
+   <mg ind="1th"><compg><comp ord="E1" pos="V">куаньгетыны</comp><comp ord="E2" type="Der/Эм" drv="Prc"/></compg>
    </mg>
    <mg ind="2th">
      <tg xml:lang="fin">
@@ -3867,7 +3867,7 @@ Possible errors following proofreading are, e. g., substitution of special fonts
    <lg>
      <l pos="Prc">куашетэм</l><orig>куашетэм</orig>
    </lg>
-   <mg ind="1th"><drvg><inflect type="Der/Эм" drv="Prc"/><stem>куашетыны</stem></drvg>
+   <mg ind="1th"><compg><comp ord="E1" pos="V">куашетыны</comp><comp ord="E2" type="Der/Эм" drv="Prc"/></compg>
    </mg>
    <mg ind="2th">
      <tg xml:lang="fin">
@@ -3894,7 +3894,7 @@ Possible errors following proofreading are, e. g., substitution of special fonts
    <lg>
      <l pos="Prc">куаштыртэм</l><orig>куаштыртэм</orig>
    </lg>
-   <mg ind="1th"><drvg><inflect type="Der/Эм" drv="Prc"/><stem>куашкатыны</stem></drvg>
+   <mg ind="1th"><compg><comp ord="E1" pos="V">куашкатыны</comp><comp ord="E2" type="Der/Эм" drv="Prc"/></compg>
    </mg>
    <mg ind="2th"><defNative>марлэн ке</defNative>
      <tg xml:lang="fin">
@@ -3942,7 +3942,7 @@ Possible errors following proofreading are, e. g., substitution of special fonts
    <lg>
      <l pos="Prc">кутӥськем</l><orig>кутӥськем</orig>
    </lg>
-   <mg ind="1th"><drvg><inflect type="Der/Эм" drv="Prc;V»N"/><stem>кутӥськыны</stem></drvg>
+   <mg ind="1th"><compg><comp ord="E1">кутӥськыны</comp><comp ord="E2" type="Der/Эм" drv="Prc;V»N"/></compg>
    </mg>
    <mg ind="2th">
      <tg xml:lang="fin">
@@ -3957,7 +3957,7 @@ Possible errors following proofreading are, e. g., substitution of special fonts
    <lg>
      <l pos="Prc">кутсаськись</l><orig>кутсаськись</orig>
    </lg>
-   <mg ind="1th"><drvg><inflect type="Der/сь" drv="Prc"/><stem>кутсаськыны</stem></drvg>
+   <mg ind="1th"><compg><comp ord="E1" pos="V">кутсаськыны</comp><comp ord="E2" type="Der/сь" drv="Prc"/></compg>
    </mg>
    <mg ind="2th">
      <tg xml:lang="fin">
@@ -3969,7 +3969,7 @@ Possible errors following proofreading are, e. g., substitution of special fonts
    <lg>
      <l pos="Prc">кыжыртэм</l><orig>кыжыртэм</orig>
    </lg>
-   <mg ind="1th"><drvg><inflect type="Der/Эм" drv="Prc"/><stem>кыжыртыны</stem></drvg>
+   <mg ind="1th"><compg><comp ord="E1" pos="V">кыжыртыны</comp><comp ord="E2" type="Der/Эм" drv="Prc"/></compg>
    </mg>
    <mg ind="2th">
      <tg xml:lang="fin">
@@ -3981,7 +3981,7 @@ Possible errors following proofreading are, e. g., substitution of special fonts
    <lg>
      <l pos="Prc">кылдэм</l><orig>кылдэм</orig>
    </lg>
-   <mg><drvg><inflect type="Der/Эм" drv="Prc;V»N"/><stem>кылдыны </stem></drvg>◊
+   <mg><compg><comp ord="E1">кылдыны</comp><comp ord="E2" type="Der/Эм" drv="Prc;V»N"/></compg>◊
      <xg><x>кылдэмез сыӵе</x>
        <xt xml:lang="fin">sellainen on hänen kohtalonsa</xt>
      </xg>
@@ -3998,7 +3998,7 @@ Possible errors following proofreading are, e. g., substitution of special fonts
    <lg>
      <l pos="Prc">кылзӥсь</l><orig>кылзӥсь</orig>
    </lg>
-   <mg ind="1th"><drvg><inflect type="Der/сь" drv="Prc"/><stem>кылзыны</stem></drvg>
+   <mg ind="1th"><compg><comp ord="E1" pos="V">кылзыны</comp><comp ord="E2" type="Der/сь" drv="Prc"/></compg>
    </mg>
    <mg ind="2th">
      <tg xml:lang="fin">
@@ -4029,7 +4029,7 @@ Possible errors following proofreading are, e. g., substitution of special fonts
    <lg>
      <l pos="Prc">кырӟась</l><orig>кырӟась</orig>
    </lg>
-   <mg ind="1th"><drvg><inflect type="Der/сь" drv="Prc"/><stem>кырӟаны</stem></drvg>
+   <mg ind="1th"><compg><comp ord="E1" pos="V">кырӟаны</comp><comp ord="E2" type="Der/сь" drv="Prc"/></compg>
    </mg>
    <mg ind="2th">
      <tg xml:lang="fin">
@@ -4041,7 +4041,7 @@ Possible errors following proofreading are, e. g., substitution of special fonts
    <lg>
      <l pos="Prc">кырыжам</l><orig>кырыжам</orig>
    </lg>
-   <mg ind="1th"><drvg><inflect type="Der/Эм" drv="Prc;V»N"/><stem>кырыжаны</stem></drvg>
+   <mg ind="1th"><compg><comp ord="E1">кырыжаны</comp><comp ord="E2" type="Der/Эм" drv="Prc;V»N"/></compg>
    </mg>
    <mg ind="2th">
      <tg xml:lang="fin">
@@ -4069,7 +4069,7 @@ Possible errors following proofreading are, e. g., substitution of special fonts
    <lg>
      <l pos="Prc">кыӵыртэм</l><orig>кыӵыртэм</orig>
    </lg>
-   <mg ind="1th"><drvg><inflect type="Der/Эм" drv="Prc"/><stem>кыӵыртыны</stem></drvg>
+   <mg ind="1th"><compg><comp ord="E1" pos="V">кыӵыртыны</comp><comp ord="E2" type="Der/Эм" drv="Prc"/></compg>
    </mg>
    <mg ind="2th">
      <tg xml:lang="fin">
@@ -4082,7 +4082,7 @@ Possible errors following proofreading are, e. g., substitution of special fonts
    <lg>
      <l pos="Prc">кышкась</l><orig>кышкась</orig>
    </lg>
-   <mg ind="1th"><drvg><inflect type="Der/сь" drv="Prc"/><stem>кышканы</stem></drvg>
+   <mg ind="1th"><compg><comp ord="E1" pos="V">кышканы</comp><comp ord="E2" type="Der/сь" drv="Prc"/></compg>
    </mg>
    <mg ind="2th">
      <tg xml:lang="fin">
@@ -4097,7 +4097,7 @@ Possible errors following proofreading are, e. g., substitution of special fonts
    <lg>
      <l pos="Prc">кыштыртэм</l><orig>кыштыртэм</orig>
    </lg>
-   <mg ind="1th"><drvg><inflect type="Der/Эм" drv="Prc"/><stem>кыштыртыны</stem></drvg>
+   <mg ind="1th"><compg><comp ord="E1" pos="V">кыштыртыны</comp><comp ord="E2" type="Der/Эм" drv="Prc"/></compg>
    </mg>
    <mg ind="2th"><font face="SmolenskSGR">(<i>марлэн ке</i>) </font>
      <tg xml:lang="fin">
@@ -4117,7 +4117,7 @@ Possible errors following proofreading are, e. g., substitution of special fonts
    <lg>
      <l pos="Prc">лакыртэм</l><orig>лакыртэм</orig>
    </lg>
-   <mg ind="1th"><drvg><inflect type="Der/Эм" drv="Prc"/><stem>лакыртыны</stem></drvg>
+   <mg ind="1th"><compg><comp ord="E1" pos="V">лакыртыны</comp><comp ord="E2" type="Der/Эм" drv="Prc"/></compg>
    </mg>
    <mg ind="2th"><defNative>марлэн ке</defNative>
      <tg xml:lang="fin">
@@ -4132,7 +4132,7 @@ Possible errors following proofreading are, e. g., substitution of special fonts
    <lg>
      <l pos="Prc">лангыртэм</l><orig>лангыртэм</orig>
    </lg>
-   <mg ind="1th"><drvg><inflect type="Der/Эм" drv="Prc;V»N"/><stem>лангыртыны</stem></drvg>
+   <mg ind="1th"><compg><comp ord="E1">лангыртыны</comp><comp ord="E2" type="Der/Эм" drv="Prc;V»N"/></compg>
    </mg>
    <mg ind="2th">
      <tg xml:lang="fin">
@@ -4144,7 +4144,7 @@ Possible errors following proofreading are, e. g., substitution of special fonts
    <lg>
      <l pos="Prc">ларгетэм</l><orig>ларгетэм</orig>
    </lg>
-   <mg ind="1th"><drvg><inflect type="Der/Эм" drv="Prc"/><stem>ларгетыны</stem></drvg>
+   <mg ind="1th"><compg><comp ord="E1" pos="V">ларгетыны</comp><comp ord="E2" type="Der/Эм" drv="Prc"/></compg>
    </mg>
    <mg ind="2th"><defNative>ыжлэн</defNative>
      <tg xml:lang="fin">
@@ -4163,7 +4163,7 @@ Possible errors following proofreading are, e. g., substitution of special fonts
    <lg>
      <l pos="Prc">лачыртэм</l><orig>лачыртэм</orig>
    </lg>
-   <mg ind="1th"><drvg><inflect type="Der/Эм" drv="Prc"/><stem>лачыртыны</stem></drvg>
+   <mg ind="1th"><compg><comp ord="E1" pos="V">лачыртыны</comp><comp ord="E2" type="Der/Эм" drv="Prc"/></compg>
    </mg>
    <mg ind="2th">
      <tg xml:lang="fin">
@@ -4178,7 +4178,7 @@ Possible errors following proofreading are, e. g., substitution of special fonts
    <lg>
      <l pos="Prc">лосыртэм</l><orig>лосыртэм</orig>
    </lg>
-   <mg ind="1th"><drvg><inflect type="Der/Эм" drv="Prc"/><stem>лосыртыны</stem></drvg>
+   <mg ind="1th"><compg><comp ord="E1" pos="V">лосыртыны</comp><comp ord="E2" type="Der/Эм" drv="Prc"/></compg>
    </mg>
    <mg ind="2th"><defNative>марлэн ке</defNative>
      <tg xml:lang="fin">
@@ -4203,7 +4203,7 @@ Possible errors following proofreading are, e. g., substitution of special fonts
    <lg>
      <l pos="Prc">лушкаськись</l><orig>лушкаськись</orig>
    </lg>
-   <mg ind="1th"><drvg><inflect type="Der/сь" drv="Prc"/><stem>лушкаськыны</stem></drvg>
+   <mg ind="1th"><compg><comp ord="E1" pos="V">лушкаськыны</comp><comp ord="E2" type="Der/сь" drv="Prc"/></compg>
    </mg>
    <mg ind="2th">
      <tg xml:lang="fin">
@@ -4225,7 +4225,7 @@ Possible errors following proofreading are, e. g., substitution of special fonts
    <lg>
      <l pos="Prc">лыдӟем</l><orig>лыдӟем</orig>
    </lg>
-   <mg ind="1th"><drvg><inflect type="Der/Эм" drv="Prc"/><stem>лыдӟыны</stem></drvg>
+   <mg ind="1th"><compg><comp ord="E1" pos="V">лыдӟыны</comp><comp ord="E2" type="Der/Эм" drv="Prc"/></compg>
    </mg>
    <mg ind="2th">
      <tg xml:lang="fin">
@@ -4248,7 +4248,7 @@ Possible errors following proofreading are, e. g., substitution of special fonts
    <lg>
      <l pos="Prc">лыдӟись</l><orig>лыдӟись</orig>
    </lg>
-   <mg ind="1th"><drvg><inflect type="Der/сь" drv="Prc"/><stem>лыдӟыны</stem></drvg>
+   <mg ind="1th"><compg><comp ord="E1" pos="V">лыдӟыны</comp><comp ord="E2" type="Der/сь" drv="Prc"/></compg>
    </mg>
    <mg ind="2th">
      <tg xml:lang="fin">
@@ -4263,7 +4263,7 @@ Possible errors following proofreading are, e. g., substitution of special fonts
    <lg>
      <l pos="Prc">лыдӟиськись</l><orig>лыдӟиськись</orig>
    </lg>
-   <mg ind="1th"><drvg><inflect type="Der/сь" drv="Prc"/><stem>лыдӟиськыны</stem></drvg>
+   <mg ind="1th"><compg><comp ord="E1" pos="V">лыдӟиськыны</comp><comp ord="E2" type="Der/сь" drv="Prc"/></compg>
    </mg>
    <mg ind="2th">
      <tg xml:lang="fin">
@@ -4278,7 +4278,7 @@ Possible errors following proofreading are, e. g., substitution of special fonts
    <lg>
      <l pos="Prc">лэсьтӥськись</l><orig>лэсьтӥськись</orig>
    </lg>
-   <mg ind="1th"><drvg><inflect type="Der/сь" drv="Prc"/><stem>лэсьтӥськыны</stem></drvg>
+   <mg ind="1th"><compg><comp ord="E1" pos="V">лэсьтӥськыны</comp><comp ord="E2" type="Der/сь" drv="Prc"/></compg>
    </mg>
    <mg ind="2th">
      <tg xml:lang="fin">
@@ -4290,7 +4290,7 @@ Possible errors following proofreading are, e. g., substitution of special fonts
    <lg>
      <l pos="Prc">люкась</l><orig>люкась</orig>
    </lg>
-   <mg ind="1th"><drvg><inflect type="Der/сь" drv="Prc"/><stem>люканы</stem></drvg>
+   <mg ind="1th"><compg><comp ord="E1" pos="V">люканы</comp><comp ord="E2" type="Der/сь" drv="Prc"/></compg>
    </mg>
    <mg ind="2th">
      <tg xml:lang="fin">
@@ -4302,7 +4302,7 @@ Possible errors following proofreading are, e. g., substitution of special fonts
    <lg>
      <l pos="Prc">мадись</l><orig>мадись</orig>
    </lg>
-   <mg ind="1th"><drvg><inflect type="Der/сь" drv="Prc"/><stem>мадьыны</stem></drvg>
+   <mg ind="1th"><compg><comp ord="E1" pos="V">мадьыны</comp><comp ord="E2" type="Der/сь" drv="Prc"/></compg>
    </mg>
    <mg ind="2th"><defNative>вераса улӥсь</defNative>
      <tg xml:lang="fin">
@@ -4319,7 +4319,7 @@ Possible errors following proofreading are, e. g., substitution of special fonts
    <lg>
      <l pos="Prc">мадиськись</l><orig>мадиськись</orig>
    </lg>
-   <mg ind="1th"><drvg><inflect type="Der/сь" drv="Prc"/><stem>мадиськыны</stem></drvg>
+   <mg ind="1th"><compg><comp ord="E1" pos="V">мадиськыны</comp><comp ord="E2" type="Der/сь" drv="Prc"/></compg>
    </mg>
    <mg ind="2th">
      <tg xml:lang="fin">
@@ -4331,7 +4331,7 @@ Possible errors following proofreading are, e. g., substitution of special fonts
    <lg>
      <l pos="Prc">мактаськись</l><orig>мактаськись</orig>
    </lg>
-   <mg ind="1th"><drvg><inflect type="Der/сь" drv="Prc"/><stem>мактаськыны</stem></drvg>
+   <mg ind="1th"><compg><comp ord="E1" pos="V">мактаськыны</comp><comp ord="E2" type="Der/сь" drv="Prc"/></compg>
    </mg>
    <mg ind="2th"><defNative>ушъяськись мурт</defNative>
      <tg xml:lang="fin">
@@ -4348,7 +4348,7 @@ Possible errors following proofreading are, e. g., substitution of special fonts
    <lg>
      <l pos="Prc">маскаръяськись</l><orig>маскаръяськись</orig>
    </lg>
-   <mg ind="1th"><drvg><inflect type="Der/сь" drv="Prc"/><stem>маскаръяськыны </stem></drvg>
+   <mg ind="1th"><compg><comp ord="E1" pos="V">маскаръяськыны</comp><comp ord="E2" type="Der/сь" drv="Prc"/></compg>
    </mg>
    <mg ind="2th">
      <variants>
@@ -4360,7 +4360,7 @@ Possible errors following proofreading are, e. g., substitution of special fonts
    <lg>
      <l pos="Prc">медэм</l><orig>медэм</orig>
    </lg>
-   <mg ind="1th"><drvg><inflect type="Der/Эм" drv="Prc;V»N"/><stem>медыны</stem></drvg>
+   <mg ind="1th"><compg><comp ord="E1">медыны</comp><comp ord="E2" type="Der/Эм" drv="Prc;V»N"/></compg>
    </mg>
    <mg ind="2th">
      <tg xml:lang="fin">
@@ -4377,7 +4377,7 @@ Possible errors following proofreading are, e. g., substitution of special fonts
    <lg>
      <l pos="Prc">мертчем</l><orig>мертчем</orig>
    </lg>
-   <mg ind="1th"><drvg><inflect type="Der/Эм" drv="Prc;V»N"/><stem>мертчыны</stem></drvg>
+   <mg ind="1th"><compg><comp ord="E1">мертчыны</comp><comp ord="E2" type="Der/Эм" drv="Prc;V»N"/></compg>
    </mg>
    <mg ind="2th"><defNative>шырпу</defNative>
      <tg xml:lang="fin">
@@ -4406,7 +4406,7 @@ Possible errors following proofreading are, e. g., substitution of special fonts
    <lg>
      <l pos="Prc">могась</l><orig>могась</orig>
    </lg>
-   <mg ind="1th"><drvg><inflect type="Der/сь" drv="Prc"/><stem>моганы</stem></drvg>
+   <mg ind="1th"><compg><comp ord="E1" pos="V">моганы</comp><comp ord="E2" type="Der/сь" drv="Prc"/></compg>
    </mg>
    <mg ind="2th"><defNative>бакчись</defNative>
      <tg xml:lang="fin">
@@ -4418,7 +4418,7 @@ Possible errors following proofreading are, e. g., substitution of special fonts
    <lg>
      <l pos="Prc">мушкась</l><orig>мушкась</orig>
    </lg>
-   <mg ind="1th"><drvg><inflect type="Der/сь" drv="Prc"/><stem>мушканы</stem></drvg>
+   <mg ind="1th"><compg><comp ord="E1" pos="V">мушканы</comp><comp ord="E2" type="Der/сь" drv="Prc"/></compg>
    </mg>
    <mg ind="2th">
      <tg xml:lang="fin">
@@ -4430,7 +4430,7 @@ Possible errors following proofreading are, e. g., substitution of special fonts
    <lg>
      <l pos="Prc">мыжгем</l><orig>мыжгем</orig>
    </lg>
-   <mg ind="1th"><drvg><inflect type="Der/Эм" drv="Prc;V»N"/><stem>мыжгыны</stem></drvg>
+   <mg ind="1th"><compg><comp ord="E1">мыжгыны</comp><comp ord="E2" type="Der/Эм" drv="Prc;V»N"/></compg>
    </mg>
    <mg ind="2th">
      <tg xml:lang="fin">
@@ -4443,7 +4443,7 @@ Possible errors following proofreading are, e. g., substitution of special fonts
    <lg>
      <l pos="Prc">мынӥсь-ветлӥсь</l><orig>мынӥсь-ветлӥсь</orig>
    </lg>
-   <mg ind="1th"><drvg><inflect type="Der/сь" drv="Prc"/><stem>мыныны-ветлыны</stem></drvg>
+   <mg ind="1th"><compg><comp ord="E1" pos="V">мыныны-ветлыны</comp><comp ord="E2" type="Der/сь" drv="Prc"/></compg>
    </mg>
    <mg ind="2th"><defNative>пыдын</defNative>
      <tg xml:lang="fin">
@@ -4467,7 +4467,7 @@ Possible errors following proofreading are, e. g., substitution of special fonts
    <lg>
      <l pos="Prc">мыньпотэм</l><orig>мыньпотэм</orig>
    </lg>
-   <mg ind="1th"><drvg><inflect type="Der/Эм" drv="Prc;V»N"/><stem>мынь/потыны</stem></drvg>
+   <mg ind="1th"><compg><comp ord="E1">мынь/потыны</comp><comp ord="E2" type="Der/Эм" drv="Prc;V»N"/></compg>
    </mg>
    <mg ind="2th">
      <tg xml:lang="fin">
@@ -4479,7 +4479,7 @@ Possible errors following proofreading are, e. g., substitution of special fonts
    <lg>
      <l pos="Prc">мяугетэм</l><orig>мяугетэм</orig>
    </lg>
-   <mg ind="1th"><drvg><inflect type="Der/Эм" drv="Prc;V»N"/><stem>мяугетыны</stem></drvg>
+   <mg ind="1th"><compg><comp ord="E1">мяугетыны</comp><comp ord="E2" type="Der/Эм" drv="Prc;V»N"/></compg>
    </mg>
    <mg ind="2th">
      <tg xml:lang="fin">
@@ -4494,7 +4494,7 @@ Possible errors following proofreading are, e. g., substitution of special fonts
    <lg>
      <l pos="Prc">никсэм</l><orig>никсэм</orig>
    </lg>
-   <mg ind="1th"><drvg><inflect type="Der/Эм" drv="Prc"/><stem>никсыны</stem></drvg>
+   <mg ind="1th"><compg><comp ord="E1" pos="V">никсыны</comp><comp ord="E2" type="Der/Эм" drv="Prc"/></compg>
    </mg>
    <mg ind="2th">
      <tg xml:lang="fin">
@@ -4512,7 +4512,7 @@ Possible errors following proofreading are, e. g., substitution of special fonts
    <lg>
      <l pos="Prc">нискетэм</l><orig>нискетэм</orig>
    </lg>
-   <mg ind="1th"><drvg><inflect type="Der/Эм" drv="Prc"/><stem>нискетыны</stem></drvg>
+   <mg ind="1th"><compg><comp ord="E1" pos="V">нискетыны</comp><comp ord="E2" type="Der/Эм" drv="Prc"/></compg>
    </mg>
    <mg ind="2th"><defNative>пунылэн</defNative>
      <tg xml:lang="fin">
@@ -4536,7 +4536,7 @@ Possible errors following proofreading are, e. g., substitution of special fonts
    <lg>
      <l pos="Prc">нуись-ваись</l><orig>нуись-ваись</orig>
    </lg>
-   <mg ind="1th"><drvg><inflect type="Der/сь" drv="Prc"/><stem>нуыны-вайыны</stem></drvg>
+   <mg ind="1th"><compg><comp ord="E1" pos="V">нуыны-вайыны</comp><comp ord="E2" type="Der/сь" drv="Prc"/></compg>
    </mg>
    <mg ind="2th"><defNative>киын нуллӥсь</defNative>
      <tg xml:lang="fin">
@@ -4551,7 +4551,7 @@ Possible errors following proofreading are, e. g., substitution of special fonts
    <lg>
      <l pos="Prc">нукыртэм</l><orig>нукыртэм</orig>
    </lg>
-   <mg ind="1th"><drvg><inflect type="Der/Эм" drv="Prc"/><stem>нукыртыны</stem></drvg>
+   <mg ind="1th"><compg><comp ord="E1" pos="V">нукыртыны</comp><comp ord="E2" type="Der/Эм" drv="Prc"/></compg>
    </mg>
    <mg ind="2th"><font face="SmolenskSGR">(<i>мыргетэм, ӟурем</i>) </font>
      <tg xml:lang="fin">
@@ -4569,14 +4569,14 @@ Possible errors following proofreading are, e. g., substitution of special fonts
    <lg>
      <l pos="Prc">нюлэм<rom ind="1"/></l>
    </lg>
-   <mg><drvg><inflect type="Der/Эм" drv="Prc;V»N"/><stem>нюлыны</stem></drvg>
+   <mg><compg><comp ord="E1">нюлыны</comp><comp ord="E2" type="Der/Эм" drv="Prc;V»N"/></compg>
    </mg>
 </e>
 <e>
    <lg>
      <l pos="Prc">нюръяськись</l><orig>нюръяськись</orig>
    </lg>
-   <mg ind="1th"><drvg><inflect type="Der/сь" drv="Prc"/><stem>нюръяськыны</stem></drvg>
+   <mg ind="1th"><compg><comp ord="E1" pos="V">нюръяськыны</comp><comp ord="E2" type="Der/сь" drv="Prc"/></compg>
    </mg>
    <mg ind="2th"><field>urh.</field>
      <tg xml:lang="fin">
@@ -4593,7 +4593,7 @@ Possible errors following proofreading are, e. g., substitution of special fonts
    <lg>
      <l pos="Prc">огазеяськем</l><orig>огазеяськем</orig>
    </lg>
-   <mg ind="1th"><drvg><inflect type="Der/Эм" drv="Prc"/><stem>огазеяськыны</stem>;</drvg>
+   <mg ind="1th"><compg><inflect type="Der/Эм" drv="Prc"/><stem>огазеяськыны</stem>;</compg>
    </mg>
    <mg ind="2th"><defNative>огазеяськон</defNative>
      <tg xml:lang="fin">
@@ -4605,7 +4605,7 @@ Possible errors following proofreading are, e. g., substitution of special fonts
    <lg>
      <l pos="Prc">ожмаськись</l><orig>ожмаськись</orig>
    </lg>
-   <mg ind="1th"><drvg><inflect type="Der/сь" drv="Prc"/><stem>ожмаськыны</stem></drvg>
+   <mg ind="1th"><compg><comp ord="E1" pos="V">ожмаськыны</comp><comp ord="E2" type="Der/сь" drv="Prc"/></compg>
    </mg>
    <mg ind="2th">
      <tg xml:lang="fin">
@@ -4627,14 +4627,14 @@ Possible errors following proofreading are, e. g., substitution of special fonts
    <lg>
      <l pos="Prc">ӧвӧлтэм<rom ind="2"/></l>
    </lg>
-   <mg><drvg><inflect type="Der/Эм" drv="Prc;V»N"/><stem>ӧвӧлтыны</stem></drvg>
+   <mg><compg><comp ord="E1">ӧвӧлтыны</comp><comp ord="E2" type="Der/Эм" drv="Prc;V»N"/></compg>
    </mg>
 </e>
 <e>
    <lg>
      <l pos="Prc">ӧнерась</l><orig>ӧнерась</orig>
    </lg>
-   <mg ind="1th"><drvg><inflect type="Der/сь" drv="Prc"/><stem>ӧнераны </stem></drvg>
+   <mg ind="1th"><compg><comp ord="E1" pos="V">ӧнераны</comp><comp ord="E2" type="Der/сь" drv="Prc"/></compg>
    </mg>
    <mg ind="2th">
      <variants>
@@ -4646,7 +4646,7 @@ Possible errors following proofreading are, e. g., substitution of special fonts
    <lg>
      <l pos="Prc">ӧрекчаськись</l><orig>ӧрекчаськись</orig>
    </lg>
-   <mg ind="1th"><drvg><inflect type="Der/сь" drv="Prc"/><stem>ӧрекчаськыны</stem></drvg>
+   <mg ind="1th"><compg><comp ord="E1" pos="V">ӧрекчаськыны</comp><comp ord="E2" type="Der/сь" drv="Prc"/></compg>
    </mg>
    <mg ind="2th"><defNative>ӧрекчи</defNative>
      <tg xml:lang="fin">
@@ -4661,7 +4661,7 @@ Possible errors following proofreading are, e. g., substitution of special fonts
    <lg>
      <l pos="Prc">ӧскем</l><orig>ӧскем</orig>
    </lg>
-   <mg ind="1th"><drvg><inflect type="Der/Эм" drv="Prc"/><stem>ӧскыны</stem></drvg>
+   <mg ind="1th"><compg><comp ord="E1" pos="V">ӧскыны</comp><comp ord="E2" type="Der/Эм" drv="Prc"/></compg>
    </mg>
    <mg ind="2th"><defNative>ӧскон</defNative>
      <tg xml:lang="fin">
@@ -4687,7 +4687,7 @@ Possible errors following proofreading are, e. g., substitution of special fonts
    <lg>
      <l pos="Prc">ӧтем</l><orig>ӧтем</orig>
    </lg>
-   <mg ind="1th"><drvg><inflect type="Der/Эм" drv="Prc"/><stem>ӧтьыны</stem></drvg>
+   <mg ind="1th"><compg><comp ord="E1" pos="V">ӧтьыны</comp><comp ord="E2" type="Der/Эм" drv="Prc"/></compg>
    </mg>
    <mg ind="2th">
      <tg xml:lang="fin">
@@ -4699,7 +4699,7 @@ Possible errors following proofreading are, e. g., substitution of special fonts
    <lg>
      <l pos="Prc">пайдаяськись</l><orig>пайдаяськись</orig>
    </lg>
-   <mg ind="1th"><drvg><inflect type="Der/сь" drv="Prc"/><stem>пайдаяськыны</stem></drvg>
+   <mg ind="1th"><compg><comp ord="E1" pos="V">пайдаяськыны</comp><comp ord="E2" type="Der/сь" drv="Prc"/></compg>
    </mg>
    <mg ind="2th">
      <tg xml:lang="fin">
@@ -4711,7 +4711,7 @@ Possible errors following proofreading are, e. g., substitution of special fonts
    <lg>
      <l pos="Prc">пегась</l><orig>пегась</orig>
    </lg>
-   <mg ind="1th"><drvg><inflect type="Der/сь" drv="Prc"/><stem>пеганы</stem></drvg>
+   <mg ind="1th"><compg><comp ord="E1" pos="V">пеганы</comp><comp ord="E2" type="Der/сь" drv="Prc"/></compg>
    </mg>
    <mg ind="2th">
      <tg xml:lang="fin">
@@ -4723,7 +4723,7 @@ Possible errors following proofreading are, e. g., substitution of special fonts
    <lg>
      <l pos="Prc">пельтэм<rom ind="2"/></l>
    </lg>
-   <mg ind="1th"><drvg><inflect type="Der/Эм" drv="Prc;V»N"/><stem>пельтыны</stem></drvg>
+   <mg ind="1th"><compg><comp ord="E1">пельтыны</comp><comp ord="E2" type="Der/Эм" drv="Prc;V»N"/></compg>
    </mg>
    <mg ind="2th"><defNative>тӧлан</defNative>
      <tg xml:lang="fin">
@@ -4743,7 +4743,7 @@ Possible errors following proofreading are, e. g., substitution of special fonts
    <lg>
      <l pos="Prc">перелӟем</l><orig>перелӟем</orig>
    </lg>
-   <mg ind="1th"><drvg><inflect type="Der/Эм" drv="Prc;V»N"/><stem>перелӟыны</stem></drvg>
+   <mg ind="1th"><compg><comp ord="E1">перелӟыны</comp><comp ord="E2" type="Der/Эм" drv="Prc;V»N"/></compg>
    </mg>
    <mg ind="2th"><defNative>перел</defNative>
      <tg xml:lang="fin">
@@ -4794,7 +4794,7 @@ Possible errors following proofreading are, e. g., substitution of special fonts
    <lg>
      <l pos="Prc">посӥськем</l><orig>посӥськем</orig>
    </lg>
-   <mg ind="1th"><drvg><inflect type="Der/Эм" drv="Prc;V»N"/><stem>посӥськыны</stem></drvg>
+   <mg ind="1th"><compg><comp ord="E1">посӥськыны</comp><comp ord="E2" type="Der/Эм" drv="Prc;V»N"/></compg>
    </mg>
    <mg ind="2th">
      <tg xml:lang="fin">
@@ -4809,7 +4809,7 @@ Possible errors following proofreading are, e. g., substitution of special fonts
    <lg>
      <l pos="Prc">пӧзем</l><orig>пӧзем</orig>
    </lg>
-   <mg><drvg><inflect type="Der/Эм" drv="Prc;V»N"/><stem>пӧзьыны </stem></drvg>◊ <font face="SmolenskSGR"><b>пӧзем лул</b> (<i>я. </i><b>ыж йыр) </b></font><note><i>haukk.</i></note>
+   <mg><compg><comp ord="E1">пӧзьыны</comp><comp ord="E2" type="Der/Эм" drv="Prc;V»N"/></compg>◊ <font face="SmolenskSGR"><b>пӧзем лул</b> (<i>я. </i><b>ыж йыр) </b></font><note><i>haukk.</i></note>
      <tg xml:lang="fin">
        <t>törttö, höntti, tohelo, tollo</t>
      </tg>
@@ -4819,7 +4819,7 @@ Possible errors following proofreading are, e. g., substitution of special fonts
    <lg>
      <l pos="Prc">пӧйшурась</l><orig>пӧйшурась</orig>
    </lg>
-   <mg ind="1th"><drvg><inflect type="Der/сь" drv="Prc"/><stem>пӧйшураны</stem></drvg>
+   <mg ind="1th"><compg><comp ord="E1" pos="V">пӧйшураны</comp><comp ord="E2" type="Der/сь" drv="Prc"/></compg>
    </mg>
    <mg ind="2th">
      <tg xml:lang="fin">
@@ -4841,7 +4841,7 @@ Possible errors following proofreading are, e. g., substitution of special fonts
    <lg>
      <l pos="Prc">пӧрась</l><orig>пӧрась</orig>
    </lg>
-   <mg ind="1th"><drvg><inflect type="Der/сь" drv="Prc"/><stem>пӧраны</stem></drvg>
+   <mg ind="1th"><compg><comp ord="E1" pos="V">пӧраны</comp><comp ord="E2" type="Der/сь" drv="Prc"/></compg>
    </mg>
    <mg ind="2th">
      <tg xml:lang="fin">
@@ -4858,7 +4858,7 @@ Possible errors following proofreading are, e. g., substitution of special fonts
    <lg>
      <l pos="Prc">пӧсятэм</l><orig>пӧсятэм</orig>
    </lg>
-   <mg ind="1th"><drvg><inflect type="Der/Эм" drv="Prc;V»N"/><stem>пӧсятыны</stem></drvg>
+   <mg ind="1th"><compg><comp ord="E1">пӧсятыны</comp><comp ord="E2" type="Der/Эм" drv="Prc;V»N"/></compg>
    </mg>
    <mg ind="2th">
      <tg xml:lang="fin">
@@ -4874,7 +4874,7 @@ Possible errors following proofreading are, e. g., substitution of special fonts
    <lg>
      <l pos="Prc">пӧялляськись</l><orig>пӧялляськись</orig>
    </lg>
-   <mg ind="1th"><drvg><inflect type="Der/сь" drv="Prc"/><stem>пӧялляськыны</stem></drvg>
+   <mg ind="1th"><compg><comp ord="E1" pos="V">пӧялляськыны</comp><comp ord="E2" type="Der/сь" drv="Prc"/></compg>
    </mg>
    <mg ind="2th">
      <tg xml:lang="fin">
@@ -4886,7 +4886,7 @@ Possible errors following proofreading are, e. g., substitution of special fonts
    <lg>
      <l pos="Prc">пӧяськись</l><orig>пӧяськись</orig>
    </lg>
-   <mg ind="1th"><drvg><inflect type="Der/сь" drv="Prc"/><stem>пӧяськыны</stem></drvg>
+   <mg ind="1th"><compg><comp ord="E1" pos="V">пӧяськыны</comp><comp ord="E2" type="Der/сь" drv="Prc"/></compg>
    </mg>
    <mg ind="2th"><defNative>пӧечи</defNative>
      <tg xml:lang="fin">
@@ -4938,7 +4938,7 @@ Possible errors following proofreading are, e. g., substitution of special fonts
    <lg>
      <l pos="Prc">пульдэм</l><orig>пульдэм</orig>
    </lg>
-   <mg ind="1th"><drvg><inflect type="Der/Эм" drv="Prc;V»N"/><stem>пульдыны</stem></drvg>
+   <mg ind="1th"><compg><comp ord="E1">пульдыны</comp><comp ord="E2" type="Der/Эм" drv="Prc;V»N"/></compg>
    </mg>
    <mg ind="2th"><defNative>вупульы</defNative>
      <tg xml:lang="fin">
@@ -4956,14 +4956,14 @@ Possible errors following proofreading are, e. g., substitution of special fonts
    <lg>
      <l pos="Prc">пунэм<rom ind="2"/></l>
    </lg>
-   <mg><drvg><inflect type="Der/Эм" drv="Prc;V»N"/><stem>пуныны</stem></drvg>
+   <mg><compg><comp ord="E1">пуныны</comp><comp ord="E2" type="Der/Эм" drv="Prc;V»N"/></compg>
    </mg>
 </e>
 <e>
    <lg>
      <l pos="Prc">путкошкем</l><orig>путкошкем</orig>
    </lg>
-   <mg ind="1th"><drvg><inflect type="Der/Эм" drv="Prc;V»N"/><stem>пут/кошкыны </stem></drvg>
+   <mg ind="1th"><compg><comp ord="E1">пут/кошкыны</comp><comp ord="E2" type="Der/Эм" drv="Prc;V»N"/></compg>
    </mg>
    <mg ind="2th">
      <variants>
@@ -4975,7 +4975,7 @@ Possible errors following proofreading are, e. g., substitution of special fonts
    <lg>
      <l pos="Prc">путыртэм</l><orig>путыртэм</orig>
    </lg>
-   <mg ind="1th"><drvg><inflect type="Der/Эм" drv="Prc"/><stem>путыртыны</stem></drvg>
+   <mg ind="1th"><compg><comp ord="E1" pos="V">путыртыны</comp><comp ord="E2" type="Der/Эм" drv="Prc"/></compg>
    </mg>
    <mg ind="2th"><defNative>лачыртэм</defNative>
      <tg xml:lang="fin">
@@ -4990,7 +4990,7 @@ Possible errors following proofreading are, e. g., substitution of special fonts
    <lg>
      <l pos="Prc">путэм</l><orig>путэм</orig>
    </lg>
-   <mg ind="1th"><drvg><inflect type="Der/Эм" drv="Prc;V»N"/><stem>путыны </stem></drvg>
+   <mg ind="1th"><compg><comp ord="E1">путыны</comp><comp ord="E2" type="Der/Эм" drv="Prc;V»N"/></compg>
    </mg>
    <mg ind="2th">
      <variants>
@@ -5012,7 +5012,7 @@ Possible errors following proofreading are, e. g., substitution of special fonts
    <lg>
      <l pos="Prc">пыжиськем</l><orig>пыжиськем</orig>
    </lg>
-   <mg><drvg><inflect type="Der/Эм" drv="Prc;V»N"/><stem>пыжиськыны; пыжиськемъёс </stem></drvg><note><i>mon.</i></note>
+   <mg><compg><comp ord="E1">пыжиськыны; пыжиськемъёс</comp><comp ord="E2" type="Der/Эм" drv="Prc;V»N"/></compg><note><i>mon.</i></note>
      <tg xml:lang="fin">
        <t>leivonnaiset, paistokset</t>
      </tg>
@@ -5022,7 +5022,7 @@ Possible errors following proofreading are, e. g., substitution of special fonts
    <lg>
      <l pos="Prc">пыриськись</l><orig>пыриськись</orig>
    </lg>
-   <mg ind="1th"><drvg><inflect type="Der/сь" drv="Prc"/><stem>пыриськыны</stem></drvg>
+   <mg ind="1th"><compg><comp ord="E1" pos="V">пыриськыны</comp><comp ord="E2" type="Der/сь" drv="Prc"/></compg>
    </mg>
    <mg ind="2th"><font face="SmolenskSGR">(<i>кыӵе ке ужрадэ пыриськись</i>)</font>
      <tg xml:lang="fin">
@@ -5049,7 +5049,7 @@ Possible errors following proofreading are, e. g., substitution of special fonts
    <lg>
      <l pos="Prc">радъясь</l><orig>радъясь</orig>
    </lg>
-   <mg ind="1th"><drvg><inflect type="Der/сь" drv="Prc"/><stem>радъяны</stem></drvg>
+   <mg ind="1th"><compg><comp ord="E1" pos="V">радъяны</comp><comp ord="E2" type="Der/сь" drv="Prc"/></compg>
    </mg>
    <mg ind="2th">
      <tg xml:lang="fin">
@@ -5061,7 +5061,7 @@ Possible errors following proofreading are, e. g., substitution of special fonts
    <lg>
      <l pos="Prc">сактэм</l><orig>сактэм</orig>
    </lg>
-   <mg ind="1th"><drvg><inflect type="Der/Эм" drv="Prc;V»N"/><stem>сактыны </stem></drvg>
+   <mg ind="1th"><compg><comp ord="E1">сактыны</comp><comp ord="E2" type="Der/Эм" drv="Prc;V»N"/></compg>
    </mg>
    <mg ind="2th">
      <variants>
@@ -5073,7 +5073,7 @@ Possible errors following proofreading are, e. g., substitution of special fonts
    <lg>
      <l pos="Prc">сектаськись</l><orig>сектаськись</orig>
    </lg>
-   <mg ind="1th"><drvg><inflect type="Der/сь" drv="Prc"/><stem>сектаськыны</stem></drvg>
+   <mg ind="1th"><compg><comp ord="E1" pos="V">сектаськыны</comp><comp ord="E2" type="Der/сь" drv="Prc"/></compg>
    </mg>
    <mg ind="2th">
      <tg xml:lang="fin">
@@ -5124,7 +5124,7 @@ Possible errors following proofreading are, e. g., substitution of special fonts
    <lg>
      <l pos="Prc">сиись</l><orig>сиись</orig>
    </lg>
-   <mg ind="1th"><drvg><inflect type="Der/сь" drv="Prc"/><stem>сиыны</stem></drvg>
+   <mg ind="1th"><compg><comp ord="E1" pos="V">сиыны</comp><comp ord="E2" type="Der/сь" drv="Prc"/></compg>
    </mg>
    <mg ind="2th">
      <tg xml:lang="fin">
@@ -5136,7 +5136,7 @@ Possible errors following proofreading are, e. g., substitution of special fonts
    <lg>
      <l pos="Prc">сипыртэм</l><orig>сипыртэм</orig>
    </lg>
-   <mg ind="1th"><drvg><inflect type="Der/Эм" drv="Prc"/><stem>сипыртыны</stem></drvg>
+   <mg ind="1th"><compg><comp ord="E1" pos="V">сипыртыны</comp><comp ord="E2" type="Der/Эм" drv="Prc"/></compg>
    </mg>
    <mg ind="2th">
      <tg xml:lang="fin">
@@ -5164,7 +5164,7 @@ Possible errors following proofreading are, e. g., substitution of special fonts
    <lg>
      <l pos="Prc">сисьмем</l><orig>сисьмем</orig>
    </lg>
-   <mg ind="1th"><drvg><inflect type="Der/Эм" drv="Prc;V»N"/><stem>сисьмыны</stem></drvg>
+   <mg ind="1th"><compg><comp ord="E1">сисьмыны</comp><comp ord="E2" type="Der/Эм" drv="Prc;V»N"/></compg>
    </mg>
    <mg ind="2th">
      <tg xml:lang="fin">
@@ -5188,7 +5188,7 @@ Possible errors following proofreading are, e. g., substitution of special fonts
    <lg>
      <l pos="Prc">сӧсырмем</l><orig>сӧсырмем</orig>
    </lg>
-   <mg ind="1th"><drvg><inflect type="Der/Эм" drv="Prc;V»N"/><stem>сӧсырмыны</stem></drvg>
+   <mg ind="1th"><compg><comp ord="E1">сӧсырмыны</comp><comp ord="E2" type="Der/Эм" drv="Prc;V»N"/></compg>
    </mg>
    <mg ind="2th">
      <tg xml:lang="fin">
@@ -5203,7 +5203,7 @@ Possible errors following proofreading are, e. g., substitution of special fonts
    <lg>
      <l pos="Prc">судъясь</l><orig>судъясь</orig>
    </lg>
-   <mg ind="1th"><drvg><inflect type="Der/сь" drv="Prc"/><stem>судъяны </stem></drvg>
+   <mg ind="1th"><compg><comp ord="E1" pos="V">судъяны</comp><comp ord="E2" type="Der/сь" drv="Prc"/></compg>
    </mg>
    <mg ind="2th">
      <variants>
@@ -5215,7 +5215,7 @@ Possible errors following proofreading are, e. g., substitution of special fonts
    <lg>
      <l pos="Prc">сулятэм</l><orig>сулятэм</orig>
    </lg>
-   <mg ind="1th"><drvg><inflect type="Der/Эм" drv="Prc;V»N"/><stem>сулятыны</stem></drvg>
+   <mg ind="1th"><compg><comp ord="E1">сулятыны</comp><comp ord="E2" type="Der/Эм" drv="Prc;V»N"/></compg>
    </mg>
    <mg ind="2th"><defNative>курегпуз пуштэм</defNative>
      <tg xml:lang="fin">
@@ -5227,7 +5227,7 @@ Possible errors following proofreading are, e. g., substitution of special fonts
    <lg>
      <l pos="Prc">супыльтӥсь</l><orig>супыльтӥсь</orig>
    </lg>
-   <mg ind="1th"><drvg><inflect type="Der/сь" drv="Prc"/><stem>супыльтыны </stem></drvg>
+   <mg ind="1th"><compg><comp ord="E1" pos="V">супыльтыны</comp><comp ord="E2" type="Der/сь" drv="Prc"/></compg>
    </mg>
    <mg ind="2th">
      <variants>
@@ -5239,7 +5239,7 @@ Possible errors following proofreading are, e. g., substitution of special fonts
    <lg>
      <l pos="Prc">супыльтэм</l><orig>супыльтэм</orig>
    </lg>
-   <mg ind="1th"><drvg><inflect type="Der/Эм" drv="Prc;V»N"/><stem>супыльтыны 2. (</stem></drvg><note><i>myös</i></note><font face="SmolenskSGR"><b>токма</b></font> <font face="SmolenskSGR"><i>я. </i></font>
+   <mg ind="1th"><compg><comp ord="E1">супыльтыны 2. (</comp><comp ord="E2" type="Der/Эм" drv="Prc;V»N"/></compg><note><i>myös</i></note><font face="SmolenskSGR"><b>токма</b></font> <font face="SmolenskSGR"><i>я. </i></font>
      <xg><x>юнме супыльтэм)</x>
        <xt xml:lang="fin">pöty, hölynpöly, palturi;</xt>
      </xg><font face="SmolenskSGR">(<i>кыл вӧлдэм</i>)</font>
@@ -5252,7 +5252,7 @@ Possible errors following proofreading are, e. g., substitution of special fonts
    <lg>
      <l pos="Prc">сурам</l><orig>сурам</orig>
    </lg>
-   <mg ind="1th"><drvg><inflect type="Der/Эм" drv="Prc;V»N"/><stem>сураны </stem></drvg>
+   <mg ind="1th"><compg><comp ord="E1">сураны</comp><comp ord="E2" type="Der/Эм" drv="Prc;V»N"/></compg>
    </mg>
    <mg ind="2th">
      <variants>
@@ -5264,7 +5264,7 @@ Possible errors following proofreading are, e. g., substitution of special fonts
    <lg>
      <l pos="Prc">суредась</l><orig>суредась</orig>
    </lg>
-   <mg ind="1th"><drvg><inflect type="Der/сь" drv="Prc"/><stem>суреданы</stem></drvg>
+   <mg ind="1th"><compg><comp ord="E1" pos="V">суреданы</comp><comp ord="E2" type="Der/сь" drv="Prc"/></compg>
    </mg>
    <mg ind="2th"><defNative>к-сь карандашен</defNative>
      <tg xml:lang="fin">
@@ -5279,7 +5279,7 @@ Possible errors following proofreading are, e. g., substitution of special fonts
    <lg>
      <l pos="Prc">суредаськись</l><orig>суредаськись</orig>
    </lg>
-   <mg ind="1th"><drvg><inflect type="Der/сь" drv="Prc"/><stem>суредаськыны </stem></drvg>
+   <mg ind="1th"><compg><comp ord="E1" pos="V">суредаськыны</comp><comp ord="E2" type="Der/сь" drv="Prc"/></compg>
    </mg>
    <mg ind="2th">
      <variants>
@@ -5310,7 +5310,7 @@ Possible errors following proofreading are, e. g., substitution of special fonts
    <lg>
      <l pos="Prc">сюдӥсь</l><orig>сюдӥсь</orig>
    </lg>
-   <mg ind="1th"><drvg><inflect type="Der/сь" drv="Prc"/><stem>сюдыны</stem></drvg>
+   <mg ind="1th"><compg><comp ord="E1" pos="V">сюдыны</comp><comp ord="E2" type="Der/сь" drv="Prc"/></compg>
    </mg>
    <mg ind="2th">
      <tg xml:lang="fin">
@@ -5325,7 +5325,7 @@ Possible errors following proofreading are, e. g., substitution of special fonts
    <lg>
      <l pos="Prc">сюдӥсь-вордӥсь</l><orig>сюдӥсь-вордӥсь</orig>
    </lg>
-   <mg ind="1th"><drvg><inflect type="Der/сь" drv="Prc"/><stem>сюдыны-вордыны</stem></drvg>
+   <mg ind="1th"><compg><comp ord="E1" pos="V">сюдыны-вордыны</comp><comp ord="E2" type="Der/сь" drv="Prc"/></compg>
    </mg>
    <mg ind="2th">
      <tg xml:lang="fin">
@@ -5340,7 +5340,7 @@ Possible errors following proofreading are, e. g., substitution of special fonts
    <lg>
      <l pos="Prc">сялӟем</l><orig>сялӟем</orig>
    </lg>
-   <mg ind="1th"><drvg><inflect type="Der/Эм" drv="Prc;V»N"/><stem>сялӟыны</stem></drvg>
+   <mg ind="1th"><compg><comp ord="E1">сялӟыны</comp><comp ord="E2" type="Der/Эм" drv="Prc;V»N"/></compg>
    </mg>
    <mg ind="2th">
      <tg xml:lang="fin">
@@ -5352,7 +5352,7 @@ Possible errors following proofreading are, e. g., substitution of special fonts
    <lg>
      <l pos="Prc">такыртэм</l><orig>такыртэм</orig>
    </lg>
-   <mg ind="1th"><drvg><inflect type="Der/Эм" drv="Prc;V»N"/><stem>такыртыны</stem></drvg>
+   <mg ind="1th"><compg><comp ord="E1">такыртыны</comp><comp ord="E2" type="Der/Эм" drv="Prc;V»N"/></compg>
    </mg>
    <mg ind="2th">
      <tg xml:lang="fin">
@@ -5364,7 +5364,7 @@ Possible errors following proofreading are, e. g., substitution of special fonts
    <lg>
      <l pos="Prc">тачыртэм</l><orig>тачыртэм</orig>
    </lg>
-   <mg ind="1th"><drvg><inflect type="Der/Эм" drv="Prc"/><stem>тачыртыны</stem></drvg>
+   <mg ind="1th"><compg><comp ord="E1" pos="V">тачыртыны</comp><comp ord="E2" type="Der/Эм" drv="Prc"/></compg>
    </mg>
    <mg ind="2th">
      <tg xml:lang="fin">
@@ -5376,7 +5376,7 @@ Possible errors following proofreading are, e. g., substitution of special fonts
    <lg>
      <l pos="Prc">тодӥсь-адӟись</l><orig>тодӥсь-адӟись</orig>
    </lg>
-   <mg ind="1th"><drvg><inflect type="Der/сь" drv="Prc"/><stem>тодыны-адӟыны</stem></drvg>
+   <mg ind="1th"><compg><comp ord="E1" pos="V">тодыны-адӟыны</comp><comp ord="E2" type="Der/сь" drv="Prc"/></compg>
    </mg>
    <mg ind="2th">
      <tg xml:lang="fin">
@@ -5388,7 +5388,7 @@ Possible errors following proofreading are, e. g., substitution of special fonts
    <lg>
      <l pos="Prc">тодӥсьяськись</l><orig>тодӥсьяськись</orig>
    </lg>
-   <mg ind="1th"><drvg><inflect type="Der/сь" drv="Prc"/><stem>тодӥсьяськыны</stem></drvg>
+   <mg ind="1th"><compg><comp ord="E1" pos="V">тодӥсьяськыны</comp><comp ord="E2" type="Der/сь" drv="Prc"/></compg>
    </mg>
    <mg ind="2th"><note><i>iron.</i></note>
      <tg xml:lang="fin">
@@ -5407,7 +5407,7 @@ Possible errors following proofreading are, e. g., substitution of special fonts
    <lg>
      <l pos="Prc">тӧрнам</l>
    </lg>
-   <mg ind="1th"><drvg><inflect type="Der/Эм" drv="Prc;V»N"/><stem>тӧрнаны</stem></drvg>
+   <mg ind="1th"><compg><comp ord="E1">тӧрнаны</comp><comp ord="E2" type="Der/Эм" drv="Prc;V»N"/></compg>
    </mg>
    <mg ind="2th"><defNative>пыктос</defNative>
      <tg xml:lang="fin">
@@ -5419,7 +5419,7 @@ Possible errors following proofreading are, e. g., substitution of special fonts
    <lg>
      <l pos="Prc">тунаськись</l><orig>тунаськись</orig>
    </lg>
-   <mg ind="1th"><drvg><inflect type="Der/сь" drv="Prc"/><stem>тунаськыны</stem></drvg>
+   <mg ind="1th"><compg><comp ord="E1" pos="V">тунаськыны</comp><comp ord="E2" type="Der/сь" drv="Prc"/></compg>
    </mg>
    <mg ind="2th">
      <tg xml:lang="fin">
@@ -5431,7 +5431,7 @@ Possible errors following proofreading are, e. g., substitution of special fonts
    <lg>
      <l pos="Prc">тупатскем</l><orig>тупатскем</orig>
    </lg>
-   <mg ind="1th"><drvg><inflect type="Der/Эм" drv="Prc;V»N"/><stem>тупатскыны</stem></drvg>
+   <mg ind="1th"><compg><comp ord="E1">тупатскыны</comp><comp ord="E2" type="Der/Эм" drv="Prc;V»N"/></compg>
    </mg>
    <mg ind="2th"><field>kiel.</field><font face="SmolenskSGR">(<i>согласование</i>)</font>
      <tg xml:lang="fin">
@@ -5443,7 +5443,7 @@ Possible errors following proofreading are, e. g., substitution of special fonts
    <lg>
      <l pos="Prc">турнась</l><orig>турнась</orig>
    </lg>
-   <mg ind="1th"><drvg><inflect type="Der/сь" drv="Prc"/><stem>турнаны</stem></drvg>
+   <mg ind="1th"><compg><comp ord="E1" pos="V">турнаны</comp><comp ord="E2" type="Der/сь" drv="Prc"/></compg>
    </mg>
    <mg ind="2th">
      <tg xml:lang="fin">
@@ -5455,7 +5455,7 @@ Possible errors following proofreading are, e. g., substitution of special fonts
    <lg>
      <l pos="Prc">тылскем</l><orig>тылскем</orig>
    </lg>
-   <mg ind="1th"><drvg><inflect type="Der/Эм" drv="Prc;V»N"/><stem>тылскыны</stem></drvg>
+   <mg ind="1th"><compg><comp ord="E1">тылскыны</comp><comp ord="E2" type="Der/Эм" drv="Prc;V»N"/></compg>
    </mg>
    <mg ind="2th">
      <tg xml:lang="fin">
@@ -5467,7 +5467,7 @@ Possible errors following proofreading are, e. g., substitution of special fonts
    <lg>
      <l pos="Prc">тыпыртэм</l><orig>тыпыртэм</orig>
    </lg>
-   <mg ind="1th"><drvg><inflect type="Der/Эм" drv="Prc;V»N"/><stem>тыпыртыны</stem></drvg>
+   <mg ind="1th"><compg><comp ord="E1">тыпыртыны</comp><comp ord="E2" type="Der/Эм" drv="Prc;V»N"/></compg>
    </mg>
    <mg ind="2th">
      <tg xml:lang="fin">
@@ -5479,7 +5479,7 @@ Possible errors following proofreading are, e. g., substitution of special fonts
    <lg>
      <l pos="Prc">тырмымтэ</l><orig>тырмымтэ</orig>
    </lg>
-   <mg ind="1th"><drvg><inflect type="Der/Эмтэ" drv="Prc"/><stem>тырмыны</stem></drvg>
+   <mg ind="1th"><compg><comp ord="E1" pos="V">тырмыны</comp><comp ord="E2" type="Der/Эмтэ" drv="Prc"/></compg>
    </mg>
    <mg ind="2th"><defNative>тырмыт луымтэ, кулэяськон</defNative>
      <tg xml:lang="fin">
@@ -5496,7 +5496,7 @@ Possible errors following proofreading are, e. g., substitution of special fonts
    <lg>
      <l pos="Prc">тыршем</l><orig>тыршем</orig>
    </lg>
-   <mg ind="1th"><drvg><inflect type="Der/Эм" drv="Prc;V»N"/><stem>тыршыны</stem></drvg>
+   <mg ind="1th"><compg><comp ord="E1">тыршыны</comp><comp ord="E2" type="Der/Эм" drv="Prc;V»N"/></compg>
    </mg>
    <mg ind="2th">
      <tg xml:lang="fin">
@@ -5536,7 +5536,7 @@ Possible errors following proofreading are, e. g., substitution of special fonts
    <lg>
      <l pos="Prc">узыясь</l><orig>узыясь</orig>
    </lg>
-   <mg ind="1th"><drvg><inflect type="Der/сь" drv="Prc"/><stem>узыяны</stem></drvg>
+   <mg ind="1th"><compg><comp ord="E1" pos="V">узыяны</comp><comp ord="E2" type="Der/сь" drv="Prc"/></compg>
    </mg>
    <mg ind="2th">
      <tg xml:lang="fin">
@@ -5548,7 +5548,7 @@ Possible errors following proofreading are, e. g., substitution of special fonts
    <lg>
      <l pos="Prc">уйбыртэм</l><orig>уйбыртэм</orig>
    </lg>
-   <mg ind="1th"><drvg><inflect type="Der/Эм" drv="Prc"/><stem>уйбыртыны</stem></drvg>
+   <mg ind="1th"><compg><comp ord="E1" pos="V">уйбыртыны</comp><comp ord="E2" type="Der/Эм" drv="Prc"/></compg>
    </mg>
    <mg ind="2th">
      <tg xml:lang="fin">
@@ -5563,7 +5563,7 @@ Possible errors following proofreading are, e. g., substitution of special fonts
    <lg>
      <l pos="Prc">уйиськись</l><orig>уйиськись</orig>
    </lg>
-   <mg ind="1th"><drvg><inflect type="Der/сь" drv="Prc"/><stem>уйиськыны</stem></drvg>
+   <mg ind="1th"><compg><comp ord="E1" pos="V">уйиськыны</comp><comp ord="E2" type="Der/сь" drv="Prc"/></compg>
    </mg>
    <mg ind="2th">
      <tg xml:lang="fin">
@@ -5575,7 +5575,7 @@ Possible errors following proofreading are, e. g., substitution of special fonts
    <lg>
      <l pos="Prc">укылтэмъяськись</l><orig>укылтэмъяськись</orig>
    </lg>
-   <mg ind="1th"><drvg><inflect type="Der/сь" drv="Prc"/><stem>укылтэмъяськыны</stem></drvg>
+   <mg ind="1th"><compg><comp ord="E1" pos="V">укылтэмъяськыны</comp><comp ord="E2" type="Der/сь" drv="Prc"/></compg>
    </mg>
    <mg ind="2th">
      <tg xml:lang="fin">
@@ -5587,7 +5587,7 @@ Possible errors following proofreading are, e. g., substitution of special fonts
    <lg>
      <l pos="Prc">улӥсь</l><orig>улӥсь</orig>
    </lg>
-   <mg ind="1th"><drvg><inflect type="Der/сь" drv="Prc"/><stem>улыны</stem></drvg>
+   <mg ind="1th"><compg><comp ord="E1" pos="V">улыны</comp><comp ord="E2" type="Der/сь" drv="Prc"/></compg>
    </mg>
    <mg ind="2th">
      <tg xml:lang="fin">
@@ -5599,7 +5599,7 @@ Possible errors following proofreading are, e. g., substitution of special fonts
    <lg>
      <l pos="Prc">ултӥям</l><orig>ултӥям</orig>
    </lg>
-   <mg ind="1th"><drvg><inflect type="Der/Эм" drv="Prc;V»N"/><stem>ултӥяны</stem></drvg>
+   <mg ind="1th"><compg><comp ord="E1">ултӥяны</comp><comp ord="E2" type="Der/Эм" drv="Prc;V»N"/></compg>
    </mg>
    <mg ind="2th">
      <tg xml:lang="fin">
@@ -5614,7 +5614,7 @@ Possible errors following proofreading are, e. g., substitution of special fonts
    <lg>
      <l pos="Prc">ургетэм</l><orig>ургетэм</orig>
    </lg>
-   <mg ind="1th"><drvg><inflect type="Der/Эм" drv="Prc"/><stem>ургетыны</stem></drvg>
+   <mg ind="1th"><compg><comp ord="E1" pos="V">ургетыны</comp><comp ord="E2" type="Der/Эм" drv="Prc"/></compg>
    </mg>
    <mg ind="2th"><defNative>кӧтын</defNative>
      <tg xml:lang="fin">
@@ -5653,7 +5653,7 @@ Possible errors following proofreading are, e. g., substitution of special fonts
    <lg>
      <l pos="Prc">усыясь</l><orig>усыясь</orig>
    </lg>
-   <mg ind="1th"><drvg><inflect type="Der/сь" drv="Prc"/><stem>усыяны</stem></drvg>
+   <mg ind="1th"><compg><comp ord="E1" pos="V">усыяны</comp><comp ord="E2" type="Der/сь" drv="Prc"/></compg>
    </mg>
    <mg ind="2th">
      <tg xml:lang="fin">
@@ -5665,7 +5665,7 @@ Possible errors following proofreading are, e. g., substitution of special fonts
    <lg>
      <l pos="Prc">утись</l><orig>утись</orig>
    </lg>
-   <mg ind="1th"><drvg><inflect type="Der/сь" drv="Prc"/><stem>утьыны</stem></drvg>
+   <mg ind="1th"><compg><comp ord="E1" pos="V">утьыны</comp><comp ord="E2" type="Der/сь" drv="Prc"/></compg>
    </mg>
    <mg ind="2th">
      <tg xml:lang="fin">
@@ -5692,7 +5692,7 @@ Possible errors following proofreading are, e. g., substitution of special fonts
    <lg>
      <l pos="Prc">утись-вордӥсь</l><orig>утись-вордӥсь</orig>
    </lg>
-   <mg ind="1th"><drvg><inflect type="Der/сь" drv="Prc"/><stem>утьыны-вордыны</stem></drvg>
+   <mg ind="1th"><compg><comp ord="E1" pos="V">утьыны-вордыны</comp><comp ord="E2" type="Der/сь" drv="Prc"/></compg>
    </mg>
    <mg ind="2th"><mwemg ind="1th"/>
      <tg xml:lang="fin">
@@ -5707,7 +5707,7 @@ Possible errors following proofreading are, e. g., substitution of special fonts
    <lg>
      <l pos="Prc">утчаськись</l><orig>утчаськись</orig>
    </lg>
-   <mg ind="1th"><drvg><inflect type="Der/сь" drv="Prc"/><stem>утчаськыны</stem></drvg>
+   <mg ind="1th"><compg><comp ord="E1" pos="V">утчаськыны</comp><comp ord="E2" type="Der/сь" drv="Prc"/></compg>
    </mg>
    <mg ind="2th">
      <tg xml:lang="fin">
@@ -5719,7 +5719,7 @@ Possible errors following proofreading are, e. g., substitution of special fonts
    <lg>
      <l pos="Prc">утэм<rom ind="1"/></l>
    </lg>
-   <mg ind="1th"><drvg><inflect type="Der/Эм" drv="Prc"/><stem>утыны <rom ind="1"/>; </stem></drvg>
+   <mg ind="1th"><compg><inflect type="Der/Эм" drv="Prc"/><stem>утыны <rom ind="1"/>; </stem></compg>
    </mg>
    <mg ind="2th"><defNative>к-сь коньдон</defNative>
      <tg xml:lang="fin">
@@ -5731,7 +5731,7 @@ Possible errors following proofreading are, e. g., substitution of special fonts
    <lg>
      <l pos="Prc">утэм<rom ind="2"/></l>
    </lg>
-   <mg ind="1th"><drvg><inflect type="Der/Эм" drv="Prc"/><stem>утыны <rom ind="2"/>; </stem></drvg>
+   <mg ind="1th"><compg><inflect type="Der/Эм" drv="Prc"/><stem>утыны <rom ind="2"/>; </stem></compg>
    </mg>
    <mg ind="2th"><defNative>пунылэн</defNative>
      <tg xml:lang="fin">
@@ -5743,7 +5743,7 @@ Possible errors following proofreading are, e. g., substitution of special fonts
    <lg>
      <l pos="Prc">учкись</l><orig>учкись</orig>
    </lg>
-   <mg ind="1th"><drvg><inflect type="Der/сь" drv="Prc"/><stem>учкыны</stem></drvg>
+   <mg ind="1th"><compg><comp ord="E1" pos="V">учкыны</comp><comp ord="E2" type="Der/сь" drv="Prc"/></compg>
    </mg>
    <mg ind="2th">
      <tg xml:lang="fin">
@@ -5755,7 +5755,7 @@ Possible errors following proofreading are, e. g., substitution of special fonts
    <lg>
      <l pos="Prc">уясь</l><orig>уясь</orig>
    </lg>
-   <mg ind="1th"><drvg><inflect>partis. ja teonn. v:stä</inflect><stem>уяны</stem></drvg>
+   <mg ind="1th"><compg><comp ord="E1">уяны</comp><comp ord="E2">partis. ja teonn. v:stä</comp></compg>
    </mg>
    <mg ind="2th">
      <tg xml:lang="fin">
@@ -5777,7 +5777,7 @@ Possible errors following proofreading are, e. g., substitution of special fonts
    <lg>
      <l pos="Prc">чабкем</l><orig>чабкем</orig>
    </lg>
-   <mg ind="1th"><drvg><inflect type="Der/Эм" drv="Prc"/><stem>чабкыны</stem></drvg>
+   <mg ind="1th"><compg><comp ord="E1" pos="V">чабкыны</comp><comp ord="E2" type="Der/Эм" drv="Prc"/></compg>
    </mg>
    <mg ind="2th"><defNative>шуккем</defNative>
      <tg xml:lang="fin">
@@ -5797,7 +5797,7 @@ Possible errors following proofreading are, e. g., substitution of special fonts
    <lg>
      <l pos="Prc">чабкись</l><orig>чабкись</orig>
    </lg>
-   <mg ind="1th"><drvg><inflect type="Der/сь" drv="Prc"/><stem>чабкыны</stem></drvg>
+   <mg ind="1th"><compg><comp ord="E1" pos="V">чабкыны</comp><comp ord="E2" type="Der/сь" drv="Prc"/></compg>
    </mg>
    <mg ind="2th"><defNative>кичабись</defNative>
      <tg xml:lang="fin">
@@ -5809,7 +5809,7 @@ Possible errors following proofreading are, e. g., substitution of special fonts
    <lg>
      <l pos="Prc">чабкиськем</l><orig>чабкиськем</orig>
    </lg>
-   <mg ind="1th"><drvg><inflect type="Der/Эм" drv="Prc"/><stem>чабкиськыны</stem></drvg>
+   <mg ind="1th"><compg><comp ord="E1" pos="V">чабкиськыны</comp><comp ord="E2" type="Der/Эм" drv="Prc"/></compg>
    </mg>
    <mg ind="2th">
      <tg xml:lang="fin">
@@ -5822,7 +5822,7 @@ Possible errors following proofreading are, e. g., substitution of special fonts
    <lg>
      <l pos="Prc">чагаськем</l><orig>чагаськем</orig>
    </lg>
-   <mg ind="1th"><drvg><inflect type="Der/Эм" drv="Prc"/><stem>чагаськыны</stem></drvg>
+   <mg ind="1th"><compg><comp ord="E1" pos="V">чагаськыны</comp><comp ord="E2" type="Der/Эм" drv="Prc"/></compg>
    </mg>
    <mg ind="2th">
      <tg xml:lang="fin">
@@ -5852,7 +5852,7 @@ Possible errors following proofreading are, e. g., substitution of special fonts
    <lg>
      <l pos="Prc">чагиськись</l><orig>чагиськись</orig>
    </lg>
-   <mg ind="1th"><drvg><inflect type="Der/сь" drv="Prc"/><stem>чагиськыны</stem></drvg>
+   <mg ind="1th"><compg><comp ord="E1" pos="V">чагиськыны</comp><comp ord="E2" type="Der/сь" drv="Prc"/></compg>
    </mg>
    <mg ind="2th"><defNative>донос лэсьтӥсь</defNative>
      <tg xml:lang="fin">
@@ -5877,7 +5877,7 @@ Possible errors following proofreading are, e. g., substitution of special fonts
    <lg>
      <l pos="Prc">чакмем</l><orig>чакмем</orig>
    </lg>
-   <mg ind="1th"><drvg><inflect type="Der/Эм" drv="Prc"/><stem>чакмыны</stem></drvg>
+   <mg ind="1th"><compg><comp ord="E1" pos="V">чакмыны</comp><comp ord="E2" type="Der/Эм" drv="Prc"/></compg>
    </mg>
    <mg ind="2th"><defNative>восьмем</defNative>
      <tg xml:lang="fin">
@@ -5894,7 +5894,7 @@ Possible errors following proofreading are, e. g., substitution of special fonts
    <lg>
      <l pos="Prc">чальккетэм</l><orig>чальккетэм</orig>
    </lg>
-   <mg ind="1th"><drvg><inflect type="Der/Эм" drv="Prc;V»N"/><stem>чальккетыны</stem></drvg>
+   <mg ind="1th"><compg><comp ord="E1">чальккетыны</comp><comp ord="E2" type="Der/Эм" drv="Prc;V»N"/></compg>
    </mg>
    <mg ind="2th">
      <tg xml:lang="fin">
@@ -5907,7 +5907,7 @@ Possible errors following proofreading are, e. g., substitution of special fonts
    <lg>
      <l pos="Prc">чапыльтэм</l><orig>чапыльтэм</orig>
    </lg>
-   <mg ind="1th"><drvg><inflect type="Der/Эм" drv="Prc"/><stem>чапыльтыны</stem></drvg>
+   <mg ind="1th"><compg><comp ord="E1" pos="V">чапыльтыны</comp><comp ord="E2" type="Der/Эм" drv="Prc"/></compg>
    </mg>
    <mg ind="2th">
      <tg xml:lang="fin">
@@ -5919,21 +5919,21 @@ Possible errors following proofreading are, e. g., substitution of special fonts
    <lg>
      <l pos="Prc">чатырскем</l><orig>чатырскем</orig>
    </lg>
-   <mg><drvg><inflect type="Der/Эм" drv="Prc;V»N"/><stem>чатырскыны</stem></drvg>
+   <mg><compg><comp ord="E1">чатырскыны</comp><comp ord="E2" type="Der/Эм" drv="Prc;V»N"/></compg>
    </mg>
 </e>
 <e>
    <lg>
      <l pos="Prc">чеберам</l><orig>чеберам</orig>
    </lg>
-   <mg><drvg><inflect type="Der/Эм" drv="Prc;V»N"/><stem>чебераны</stem></drvg>
+   <mg><compg><comp ord="E1">чебераны</comp><comp ord="E2" type="Der/Эм" drv="Prc;V»N"/></compg>
    </mg>
 </e>
 <e>
    <lg>
      <l pos="Prc">чеберъяськись</l><orig>чеберъяськись</orig>
    </lg>
-   <mg ind="1th"><drvg><inflect type="Der/сь" drv="Prc"/><stem>чеберъяськыны </stem></drvg>
+   <mg ind="1th"><compg><comp ord="E1" pos="V">чеберъяськыны</comp><comp ord="E2" type="Der/сь" drv="Prc"/></compg>
    </mg>
    <mg ind="2th"> <font face="SmolenskSGR">(<i>чебер дӥсяськись</i>) </font>
      <tg xml:lang="fin">
@@ -5950,7 +5950,7 @@ Possible errors following proofreading are, e. g., substitution of special fonts
    <lg>
      <l pos="Prc">ченгешем</l><orig>ченгешем</orig>
    </lg>
-   <mg ind="1th"><drvg><inflect type="Der/Эм" drv="Prc"/><stem>ченгешыны</stem></drvg>
+   <mg ind="1th"><compg><comp ord="E1" pos="V">ченгешыны</comp><comp ord="E2" type="Der/Эм" drv="Prc"/></compg>
    </mg>
    <mg ind="2th"><defNative>мытылэм</defNative>
      <tg xml:lang="fin">
@@ -5970,7 +5970,7 @@ Possible errors following proofreading are, e. g., substitution of special fonts
    <lg>
      <l pos="Prc">ченгешись</l><orig>ченгешись</orig>
    </lg>
-   <mg ind="1th"><drvg><inflect type="Der/сь" drv="Prc"/><stem>ченгешыны</stem></drvg>
+   <mg ind="1th"><compg><comp ord="E1" pos="V">ченгешыны</comp><comp ord="E2" type="Der/сь" drv="Prc"/></compg>
    </mg>
    <mg ind="2th"><field>lak.</field><font face="SmolenskSGR">(<i>споръяськись</i>)</font>
      <tg xml:lang="fin">
@@ -5982,7 +5982,7 @@ Possible errors following proofreading are, e. g., substitution of special fonts
    <lg>
      <l pos="Prc">чепыльтэм</l><orig>чепыльтэм</orig>
    </lg>
-   <mg ind="1th"><drvg><inflect type="Der/Эм" drv="Prc;V»N"/><stem>чепыльтыны </stem></drvg>
+   <mg ind="1th"><compg><comp ord="E1">чепыльтыны</comp><comp ord="E2" type="Der/Эм" drv="Prc;V»N"/></compg>
    </mg>
    <mg ind="2th">
      <variants>
@@ -5994,14 +5994,14 @@ Possible errors following proofreading are, e. g., substitution of special fonts
    <lg>
      <l pos="Prc">чередем</l><orig>чередем</orig>
    </lg>
-   <mg><drvg><inflect type="Der/Эм" drv="Prc;V»N"/><stem>чередьыны</stem></drvg>
+   <mg><compg><comp ord="E1">чередьыны</comp><comp ord="E2" type="Der/Эм" drv="Prc;V»N"/></compg>
    </mg>
 </e>
 <e>
    <lg>
      <l pos="Prc">черектэм</l><orig>черектэм</orig>
    </lg>
-   <mg ind="1th"><drvg><inflect type="Der/Эм" drv="Prc"/><stem>черектыны</stem></drvg>
+   <mg ind="1th"><compg><comp ord="E1" pos="V">черектыны</comp><comp ord="E2" type="Der/Эм" drv="Prc"/></compg>
    </mg>
    <mg ind="2th"><defNative>ӧтён</defNative>
      <tg xml:lang="fin">
@@ -6025,7 +6025,7 @@ Possible errors following proofreading are, e. g., substitution of special fonts
    <lg>
      <l pos="Prc">черекъям</l><orig>черекъям</orig>
    </lg>
-   <mg ind="1th"><drvg><inflect type="Der/Эм" drv="Prc"/><stem>черекъяны</stem></drvg>
+   <mg ind="1th"><compg><comp ord="E1" pos="V">черекъяны</comp><comp ord="E2" type="Der/Эм" drv="Prc"/></compg>
    </mg>
    <mg ind="2th"><defNative>вазён</defNative>
      <tg xml:lang="fin">
@@ -6046,7 +6046,7 @@ Possible errors following proofreading are, e. g., substitution of special fonts
    <lg>
      <l pos="Prc">черлам</l><orig>черлам</orig>
    </lg>
-   <mg ind="1th"><drvg><inflect type="Der/Эм" drv="Prc"/><stem>черланы </stem></drvg>
+   <mg ind="1th"><compg><comp ord="E1" pos="V">черланы</comp><comp ord="E2" type="Der/Эм" drv="Prc"/></compg>
    </mg>
    <mg ind="2th"><defNative>чер кутскем</defNative>
      <tg xml:lang="fin">
@@ -6067,7 +6067,7 @@ Possible errors following proofreading are, e. g., substitution of special fonts
    <lg>
      <l pos="Prc">черсӥсь</l><orig>черсӥсь</orig>
    </lg>
-   <mg ind="1th"><drvg><inflect type="Der/сь" drv="Prc"/><stem>черсыны</stem></drvg>
+   <mg ind="1th"><compg><comp ord="E1" pos="V">черсыны</comp><comp ord="E2" type="Der/сь" drv="Prc"/></compg>
    </mg>
    <mg ind="2th">
      <tg xml:lang="fin">
@@ -6079,7 +6079,7 @@ Possible errors following proofreading are, e. g., substitution of special fonts
    <lg>
      <l pos="Prc">черсэм</l><orig>черсэм</orig>
    </lg>
-   <mg ind="1th"><drvg><inflect type="Der/Эм" drv="Prc"/><stem>черсыны</stem></drvg>
+   <mg ind="1th"><compg><comp ord="E1" pos="V">черсыны</comp><comp ord="E2" type="Der/Эм" drv="Prc"/></compg>
    </mg>
    <mg ind="2th"><defNative>вырон</defNative>
      <tg xml:lang="fin">
@@ -6106,7 +6106,7 @@ Possible errors following proofreading are, e. g., substitution of special fonts
    <lg>
      <l pos="Prc">чигнатэм</l><orig>чигнатэм</orig>
    </lg>
-   <mg ind="1th"><drvg><inflect type="Der/Эм" drv="Prc"/><stem>чигнатыны</stem></drvg>
+   <mg ind="1th"><compg><comp ord="E1" pos="V">чигнатыны</comp><comp ord="E2" type="Der/Эм" drv="Prc"/></compg>
    </mg>
    <mg ind="2th"><defNative>берланьтэм</defNative>
      <tg xml:lang="fin">
@@ -6136,14 +6136,14 @@ Possible errors following proofreading are, e. g., substitution of special fonts
    <lg>
      <l pos="Prc">чидам</l><orig>чидам</orig>
    </lg>
-   <mg><drvg><inflect type="Der/Эм" drv="Prc;V»N"/><stem>чиданы</stem></drvg>
+   <mg><compg><comp ord="E1">чиданы</comp><comp ord="E2" type="Der/Эм" drv="Prc;V»N"/></compg>
    </mg>
 </e>
 <e>
    <lg>
      <l pos="Prc">чиедмем</l><orig>чиедмем</orig>
    </lg>
-   <mg ind="1th"><drvg><inflect type="Der/Эм" drv="Prc"/><stem>чиедмыны</stem></drvg>
+   <mg ind="1th"><compg><comp ord="E1" pos="V">чиедмыны</comp><comp ord="E2" type="Der/Эм" drv="Prc"/></compg>
    </mg>
    <mg ind="2th">
      <tg xml:lang="fin">
@@ -6155,7 +6155,7 @@ Possible errors following proofreading are, e. g., substitution of special fonts
    <lg>
      <l pos="Prc">чиетэм</l><orig>чиетэм</orig>
    </lg>
-   <mg ind="1th"><drvg><inflect type="Der/Эм" drv="Prc"/><stem>чиетыны</stem></drvg>
+   <mg ind="1th"><compg><comp ord="E1" pos="V">чиетыны</comp><comp ord="E2" type="Der/Эм" drv="Prc"/></compg>
    </mg>
    <mg ind="2th">
      <tg xml:lang="fin">
@@ -6167,7 +6167,7 @@ Possible errors following proofreading are, e. g., substitution of special fonts
    <lg>
      <l pos="Prc">чиккетӥсь</l><orig>чиккетӥсь</orig>
    </lg>
-   <mg ind="1th"><drvg><inflect type="Der/сь" drv="Prc"/><stem>чиккетыны</stem></drvg>
+   <mg ind="1th"><compg><comp ord="E1" pos="V">чиккетыны</comp><comp ord="E2" type="Der/сь" drv="Prc"/></compg>
    </mg>
    <mg ind="2th"><field>el.</field><font face="SmolenskSGR">(<i>тэлясь</i>)</font>
      <tg xml:lang="fin">
@@ -6180,7 +6180,7 @@ Possible errors following proofreading are, e. g., substitution of special fonts
    <lg>
      <l pos="Prc">чиккетэм</l><orig>чиккетэм</orig>
    </lg>
-   <mg ind="1th"><drvg><inflect type="Der/Эм" drv="Prc"/><stem>чиккетыны</stem></drvg>
+   <mg ind="1th"><compg><comp ord="E1" pos="V">чиккетыны</comp><comp ord="E2" type="Der/Эм" drv="Prc"/></compg>
    </mg>
    <mg ind="2th"><defNative>к-сь шырлэн</defNative>
      <tg xml:lang="fin">
@@ -6197,7 +6197,7 @@ Possible errors following proofreading are, e. g., substitution of special fonts
    <lg>
      <l pos="Prc">чикыртэм</l><orig>чикыртэм</orig>
    </lg>
-   <mg ind="1th"><drvg><inflect type="Der/Эм" drv="V»N"/><stem>чикыртыны</stem></drvg>
+   <mg ind="1th"><compg><comp ord="E1" pos="V">чикыртыны</comp><comp ord="E2" type="Der/Эм" drv="V»N"/></compg>
    </mg>
    <mg ind="2th"><defNative>к-сь пиньёсын</defNative>
      <tg xml:lang="fin">
@@ -6216,7 +6216,7 @@ Possible errors following proofreading are, e. g., substitution of special fonts
    <lg>
      <l pos="Prc">чилектэм</l><orig>чилектэм</orig>
    </lg>
-   <mg ind="1th"><drvg><inflect type="Der/Эм" drv="Prc"/><stem>чилектыны</stem></drvg>
+   <mg ind="1th"><compg><comp ord="E1" pos="V">чилектыны</comp><comp ord="E2" type="Der/Эм" drv="Prc"/></compg>
    </mg>
    <mg ind="2th">
      <tg xml:lang="fin">
@@ -6233,7 +6233,7 @@ Possible errors following proofreading are, e. g., substitution of special fonts
    <lg>
      <l pos="Prc">чилекъям</l><orig>чилекъям</orig>
    </lg>
-   <mg ind="1th"><drvg><inflect type="Der/Эм" drv="Prc"/><stem>чилекъяны</stem></drvg>
+   <mg ind="1th"><compg><comp ord="E1" pos="V">чилекъяны</comp><comp ord="E2" type="Der/Эм" drv="Prc"/></compg>
    </mg>
    <mg ind="2th"><defNative>ворекъям</defNative>
      <tg xml:lang="fin">
@@ -6253,7 +6253,7 @@ Possible errors following proofreading are, e. g., substitution of special fonts
    <lg>
      <l pos="Prc">чилекъям-ворекъям</l><orig>чилекъям-ворекъям</orig>
    </lg>
-   <mg ind="1th"><drvg><inflect type="Der/Эм" drv="Prc"/><stem>чилекъяны-ворекъяны</stem></drvg>
+   <mg ind="1th"><compg><comp ord="E1" pos="V">чилекъяны-ворекъяны</comp><comp ord="E2" type="Der/Эм" drv="Prc"/></compg>
    </mg>
    <mg ind="2th"><defNative>ворекъям</defNative>
      <tg xml:lang="fin">
@@ -6275,7 +6275,7 @@ Possible errors following proofreading are, e. g., substitution of special fonts
    <lg>
      <l pos="Prc">чильпам</l><orig>чильпам</orig>
    </lg>
-   <mg ind="1th"><drvg><inflect type="Der/Эм" drv="Prc"/><stem>чильпаны</stem></drvg>
+   <mg ind="1th"><compg><comp ord="E1" pos="V">чильпаны</comp><comp ord="E2" type="Der/Эм" drv="Prc"/></compg>
    </mg>
    <mg ind="2th">
      <tg xml:lang="fin">
@@ -6298,7 +6298,7 @@ Possible errors following proofreading are, e. g., substitution of special fonts
    <lg>
      <l pos="Prc">чильпаськем</l><orig>чильпаськем</orig>
    </lg>
-   <mg ind="1th"><drvg><inflect type="Der/Эм" drv="V»N"/><stem>чильпаськыны</stem></drvg>
+   <mg ind="1th"><compg><comp ord="E1" pos="V">чильпаськыны</comp><comp ord="E2" type="Der/Эм" drv="V»N"/></compg>
    </mg>
    <mg ind="2th">
      <tg xml:lang="fin">
@@ -6308,7 +6308,7 @@ Possible errors following proofreading are, e. g., substitution of special fonts
 </e>
 <e>
    <lg>
-     <l pos="Prc">чильыктэм</l> <!-- korjasin radikaalisti, T.K. --> <drvg><inflect>partis. v:stä</inflect><stem>чильыктыны</stem></drvg>
+     <l pos="Prc">чильыктэм</l> <!-- korjasin radikaalisti, T.K. --> <compg><comp ord="E1">чильыктыны</comp><comp ord="E2">partis. v:stä</comp></compg>
    </lg>
    <mg ind="2th">
      <tg xml:lang="fin">
@@ -6354,7 +6354,7 @@ Possible errors following proofreading are, e. g., substitution of special fonts
    <lg>
      <l pos="Prc">чингетэм</l><orig>чингетэм</orig>
    </lg>
-   <mg ind="1th"><drvg><inflect type="Der/Эм" drv="Prc"/><stem>чингетыны</stem></drvg>
+   <mg ind="1th"><compg><comp ord="E1" pos="V">чингетыны</comp><comp ord="E2" type="Der/Эм" drv="Prc"/></compg>
    </mg>
    <mg ind="2th">
      <tg xml:lang="fin">
@@ -6366,7 +6366,7 @@ Possible errors following proofreading are, e. g., substitution of special fonts
    <lg>
      <l pos="Prc">чипсэм</l><orig>чипсэм</orig>
    </lg>
-   <mg ind="1th"><drvg><inflect type="Der/Эм" drv="Prc;V»N"/><stem>чипсыны</stem></drvg>
+   <mg ind="1th"><compg><comp ord="E1">чипсыны</comp><comp ord="E2" type="Der/Эм" drv="Prc;V»N"/></compg>
    </mg>
    <mg ind="2th"><defNative>шулам</defNative>
      <tg xml:lang="fin">
@@ -6398,7 +6398,7 @@ Possible errors following proofreading are, e. g., substitution of special fonts
    <lg>
      <l pos="Prc">чиргетэм</l><orig>чиргетэм</orig>
    </lg>
-   <mg ind="1th"><drvg><inflect type="Der/Эм" drv="V»N"/><stem>чиргетыны</stem></drvg>
+   <mg ind="1th"><compg><comp ord="E1" pos="V">чиргетыны</comp><comp ord="E2" type="Der/Эм" drv="V»N"/></compg>
    </mg>
    <mg ind="2th">
      <tg xml:lang="fin">
@@ -6417,7 +6417,7 @@ Possible errors following proofreading are, e. g., substitution of special fonts
    <lg>
      <l pos="Prc">чирдэм</l><orig>чирдэм</orig>
    </lg>
-   <mg ind="1th"><drvg><inflect type="Der/Эм" drv="Prc"/><stem>чирдыны</stem></drvg>
+   <mg ind="1th"><compg><comp ord="E1" pos="V">чирдыны</comp><comp ord="E2" type="Der/Эм" drv="Prc"/></compg>
    </mg>
    <mg ind="2th"><defNative>кырӟам – к-сь уӵылэн</defNative>
      <tg xml:lang="fin">
@@ -6458,7 +6458,7 @@ Possible errors following proofreading are, e. g., substitution of special fonts
    <lg>
      <l pos="Prc">чукам</l><orig>чукам</orig>
    </lg>
-   <mg ind="1th"><drvg><inflect type="Der/Эм" drv="Prc"/><stem>чуканы</stem></drvg>
+   <mg ind="1th"><compg><comp ord="E1" pos="V">чуканы</comp><comp ord="E2" type="Der/Эм" drv="Prc"/></compg>
    </mg>
    <mg ind="2th"><defNative>кугӟатэм, дэмӟытэм</defNative>
      <tg xml:lang="fin">
@@ -6480,14 +6480,14 @@ Possible errors following proofreading are, e. g., substitution of special fonts
    <lg>
      <l pos="Prc">чумолёям</l><orig>чумолёям</orig>
    </lg>
-   <mg><drvg><inflect type="Der/Эм" drv="Prc;V»N"/><stem>чумолёяны</stem></drvg>
+   <mg><compg><comp ord="E1">чумолёяны</comp><comp ord="E2" type="Der/Эм" drv="Prc;V»N"/></compg>
    </mg>
 </e>
 <e>
    <lg>
      <l pos="Prc">чургетэм</l><orig>чургетэм</orig>
    </lg>
-   <mg ind="1th"><drvg><inflect type="Der/Эм" drv="Prc"/><stem>чургетыны</stem></drvg>
+   <mg ind="1th"><compg><comp ord="E1" pos="V">чургетыны</comp><comp ord="E2" type="Der/Эм" drv="Prc"/></compg>
    </mg>
    <mg ind="2th">
      <tg xml:lang="fin">
@@ -6500,7 +6500,7 @@ Possible errors following proofreading are, e. g., substitution of special fonts
    <lg>
      <l pos="Prc">чурытаськем</l><orig>чурытаськем</orig>
    </lg>
-   <mg ind="1th"><drvg><inflect type="Der/Эм" drv="Prc"/><stem>чурытаськыны</stem></drvg>
+   <mg ind="1th"><compg><comp ord="E1" pos="V">чурытаськыны</comp><comp ord="E2" type="Der/Эм" drv="Prc"/></compg>
    </mg>
    <mg ind="2th">
      <tg xml:lang="fin">
@@ -6512,7 +6512,7 @@ Possible errors following proofreading are, e. g., substitution of special fonts
    <lg>
      <l pos="Prc">чусомем</l><orig>чусомем</orig>
    </lg>
-   <mg ind="1th"><drvg><inflect type="Der/Эм" drv="Prc"/><stem>чусомыны</stem></drvg>
+   <mg ind="1th"><compg><comp ord="E1" pos="V">чусомыны</comp><comp ord="E2" type="Der/Эм" drv="Prc"/></compg>
    </mg>
    <mg ind="2th"><defNative>шып луэм</defNative>
      <tg xml:lang="fin">
@@ -6540,7 +6540,7 @@ Possible errors following proofreading are, e. g., substitution of special fonts
    <lg>
      <l pos="Prc">чутэм</l><orig>чутэм</orig>
    </lg>
-   <mg ind="1th"><drvg><inflect type="Der/Эм" drv="Prc"/><stem>чутыны</stem></drvg>
+   <mg ind="1th"><compg><comp ord="E1" pos="V">чутыны</comp><comp ord="E2" type="Der/Эм" drv="Prc"/></compg>
    </mg>
    <mg ind="2th">
      <tg xml:lang="fin">
@@ -6552,7 +6552,7 @@ Possible errors following proofreading are, e. g., substitution of special fonts
    <lg>
      <l pos="Prc">ӵабтӥсь</l><orig>ӵабтӥсь</orig>
    </lg>
-   <mg ind="1th"><drvg><inflect type="Der/сь" drv="Prc"/><stem>ӵабтыны</stem></drvg>
+   <mg ind="1th"><compg><comp ord="E1" pos="V">ӵабтыны</comp><comp ord="E2" type="Der/сь" drv="Prc"/></compg>
    </mg>
    <mg ind="2th"> <senseType>kuv.</senseType><defNative>лушкась</defNative>
      <tg xml:lang="fin">
@@ -6564,7 +6564,7 @@ Possible errors following proofreading are, e. g., substitution of special fonts
    <lg>
      <l pos="Prc">ӵабтэм</l><orig>ӵабтэм</orig>
    </lg>
-   <mg ind="1th"><drvg><inflect type="Der/Эм" drv="Prc"/><stem>ӵабтыны</stem></drvg>
+   <mg ind="1th"><compg><comp ord="E1" pos="V">ӵабтыны</comp><comp ord="E2" type="Der/Эм" drv="Prc"/></compg>
    </mg>
    <mg ind="2th">
      <tg xml:lang="fin">
@@ -6605,7 +6605,7 @@ Possible errors following proofreading are, e. g., substitution of special fonts
    <lg>
      <l pos="Prc">ӵажгетэм</l><orig>ӵажгетэм</orig>
    </lg>
-   <mg ind="1th"><drvg><inflect type="Der/Эм" drv="Prc"/><stem>ӵажгетыны</stem></drvg>
+   <mg ind="1th"><compg><comp ord="E1" pos="V">ӵажгетыны</comp><comp ord="E2" type="Der/Эм" drv="Prc"/></compg>
    </mg>
    <mg ind="2th">
      <tg xml:lang="fin">
@@ -6622,7 +6622,7 @@ Possible errors following proofreading are, e. g., substitution of special fonts
    <lg>
      <l pos="Prc">ӵашетэм</l><orig>ӵашетэм</orig>
    </lg>
-   <mg ind="1th"><drvg><inflect type="Der/Эм" drv="Prc;V»N"/><stem>ӵашетыны</stem></drvg>
+   <mg ind="1th"><compg><comp ord="E1">ӵашетыны</comp><comp ord="E2" type="Der/Эм" drv="Prc;V»N"/></compg>
    </mg>
    <mg ind="2th"><defNative>куашетэм</defNative>
      <tg xml:lang="fin">
@@ -6644,7 +6644,7 @@ Possible errors following proofreading are, e. g., substitution of special fonts
    <lg>
      <l pos="Prc">ӵашъем</l><orig>ӵашъем</orig>
    </lg>
-   <mg ind="1th"><drvg><inflect type="Der/Эм" drv="Prc;V»N"/><stem>ӵашйыны</stem></drvg>
+   <mg ind="1th"><compg><comp ord="E1">ӵашйыны</comp><comp ord="E2" type="Der/Эм" drv="Prc;V»N"/></compg>
    </mg>
    <mg ind="2th">
      <tg xml:lang="fin">
@@ -6674,7 +6674,7 @@ Possible errors following proofreading are, e. g., substitution of special fonts
    <lg>
      <l pos="Prc">ӵуштыртэм</l><orig>ӵуштыртэм</orig>
    </lg>
-   <mg ind="1th"><drvg><inflect type="Der/Эм" drv="Prc"/><stem>ӵуштыртыны</stem></drvg>
+   <mg ind="1th"><compg><comp ord="E1" pos="V">ӵуштыртыны</comp><comp ord="E2" type="Der/Эм" drv="Prc"/></compg>
    </mg>
    <mg ind="2th"><defNative>марлэн ке</defNative>
      <tg xml:lang="fin">
@@ -6714,7 +6714,7 @@ Possible errors following proofreading are, e. g., substitution of special fonts
    <lg>
      <l pos="Prc">ӵышкем</l><orig>ӵышкем</orig>
    </lg>
-   <mg ind="1th"><drvg><inflect type="Der/Эм" drv="Prc;V»N"/><stem>ӵышкыны</stem></drvg>
+   <mg ind="1th"><compg><comp ord="E1">ӵышкыны</comp><comp ord="E2" type="Der/Эм" drv="Prc;V»N"/></compg>
    </mg>
    <mg ind="2th"><defNative>причёска</defNative>
      <tg xml:lang="fin">
@@ -6727,7 +6727,7 @@ Possible errors following proofreading are, e. g., substitution of special fonts
    <lg>
      <l pos="Prc">ӵыштыртэм</l><orig>ӵыштыртэм</orig>
    </lg>
-   <mg ind="1th"><drvg><inflect type="Der/Эм" drv="Prc"/><stem>ӵыштыртыны</stem></drvg>
+   <mg ind="1th"><compg><comp ord="E1" pos="V">ӵыштыртыны</comp><comp ord="E2" type="Der/Эм" drv="Prc"/></compg>
    </mg>
    <mg ind="2th"><defNative>марлэн ке</defNative>
      <tg xml:lang="fin">
@@ -6742,7 +6742,7 @@ Possible errors following proofreading are, e. g., substitution of special fonts
    <lg>
      <l pos="Prc">шалтыртэм</l><orig>шалтыртэм</orig>
    </lg>
-   <mg ind="1th"><drvg><inflect type="Der/Эм" drv="Prc"/><stem>шалтыртыны</stem></drvg>
+   <mg ind="1th"><compg><comp ord="E1" pos="V">шалтыртыны</comp><comp ord="E2" type="Der/Эм" drv="Prc"/></compg>
    </mg>
    <mg ind="2th"><defNative>марлэн ке</defNative>
      <tg xml:lang="fin">
@@ -6757,7 +6757,7 @@ Possible errors following proofreading are, e. g., substitution of special fonts
    <lg>
      <l pos="Prc">шальккетэм</l><orig>шальккетэм</orig>
    </lg>
-   <mg ind="1th"><drvg><inflect type="Der/Эм" drv="Prc"/><stem>шальккетыны</stem></drvg>
+   <mg ind="1th"><compg><comp ord="E1" pos="V">шальккетыны</comp><comp ord="E2" type="Der/Эм" drv="Prc"/></compg>
    </mg>
    <mg ind="2th"><defNative>малэн ке</defNative>
      <tg xml:lang="fin">
@@ -6772,7 +6772,7 @@ Possible errors following proofreading are, e. g., substitution of special fonts
    <lg>
      <l pos="Prc">шальтыртэм</l><orig>шальтыртэм</orig>
    </lg>
-   <mg ind="1th"><drvg><inflect type="Der/Эм" drv="Prc"/><stem>шальтыртыны</stem></drvg>
+   <mg ind="1th"><compg><comp ord="E1" pos="V">шальтыртыны</comp><comp ord="E2" type="Der/Эм" drv="Prc"/></compg>
    </mg>
    <mg ind="2th"><defNative>малэн ке</defNative>
      <tg xml:lang="fin">
@@ -6787,7 +6787,7 @@ Possible errors following proofreading are, e. g., substitution of special fonts
    <lg>
      <l pos="Prc">шарккетэм</l><orig>шарккетэм</orig>
    </lg>
-   <mg ind="1th"><drvg><inflect type="Der/Эм" drv="Prc"/><stem>шарккетыны</stem></drvg>
+   <mg ind="1th"><compg><comp ord="E1" pos="V">шарккетыны</comp><comp ord="E2" type="Der/Эм" drv="Prc"/></compg>
    </mg>
    <mg ind="2th">
      <tg xml:lang="fin">
@@ -6802,7 +6802,7 @@ Possible errors following proofreading are, e. g., substitution of special fonts
    <lg>
      <l pos="Prc">шаугетэм</l><orig>шаугетэм</orig>
    </lg>
-   <mg ind="1th"><drvg><inflect type="Der/Эм" drv="Prc"/><stem>шаугетыны</stem></drvg>
+   <mg ind="1th"><compg><comp ord="E1" pos="V">шаугетыны</comp><comp ord="E2" type="Der/Эм" drv="Prc"/></compg>
    </mg>
    <mg ind="2th">
      <tg xml:lang="fin">
@@ -6814,7 +6814,7 @@ Possible errors following proofreading are, e. g., substitution of special fonts
    <lg>
      <l pos="Prc">шачыртэм</l><orig>шачыртэм</orig>
    </lg>
-   <mg ind="1th"><drvg><inflect type="Der/Эм" drv="Prc"/><stem>шачыртыны</stem></drvg>
+   <mg ind="1th"><compg><comp ord="E1" pos="V">шачыртыны</comp><comp ord="E2" type="Der/Эм" drv="Prc"/></compg>
    </mg>
    <mg ind="2th"><defNative>дэриетӥ ветлэм</defNative>
      <tg xml:lang="fin">
@@ -6836,7 +6836,7 @@ Possible errors following proofreading are, e. g., substitution of special fonts
    <lg>
      <l pos="Prc">шекертэм</l><orig>шекертэм</orig>
    </lg>
-   <mg ind="1th"><drvg><inflect type="Der/Эм" drv="Prc"/><stem>шекертыны</stem></drvg>
+   <mg ind="1th"><compg><comp ord="E1" pos="V">шекертыны</comp><comp ord="E2" type="Der/Эм" drv="Prc"/></compg>
    </mg>
    <mg ind="2th">
      <tg xml:lang="fin">
@@ -6848,7 +6848,7 @@ Possible errors following proofreading are, e. g., substitution of special fonts
    <lg>
      <l pos="Prc">шертӥсь</l><orig>шертӥсь</orig>
    </lg>
-   <mg ind="1th"><drvg><inflect type="Der/сь" drv="Prc"/><stem>шертыны</stem></drvg>
+   <mg ind="1th"><compg><comp ord="E1" pos="V">шертыны</comp><comp ord="E2" type="Der/сь" drv="Prc"/></compg>
    </mg>
    <mg ind="2th">
      <tg xml:lang="fin">
@@ -6860,7 +6860,7 @@ Possible errors following proofreading are, e. g., substitution of special fonts
    <lg>
      <l pos="Prc">шиетэм</l><orig>шиетэм</orig>
    </lg>
-   <mg ind="1th"><drvg><inflect type="Der/Эм" drv="Prc"/><stem>шиетыны</stem></drvg>
+   <mg ind="1th"><compg><comp ord="E1" pos="V">шиетыны</comp><comp ord="E2" type="Der/Эм" drv="Prc"/></compg>
    </mg>
    <mg ind="2th">
      <tg xml:lang="fin">
@@ -6875,7 +6875,7 @@ Possible errors following proofreading are, e. g., substitution of special fonts
    <lg>
      <l pos="Prc">шильыртэм</l><orig>шильыртэм</orig>
    </lg>
-   <mg ind="1th"><drvg><inflect type="Der/Эм" drv="Prc"/><stem>шильыртыны</stem></drvg>
+   <mg ind="1th"><compg><comp ord="E1" pos="V">шильыртыны</comp><comp ord="E2" type="Der/Эм" drv="Prc"/></compg>
    </mg>
    <mg ind="2th"><defNative>малэн ке</defNative>
      <tg xml:lang="fin">
@@ -6890,7 +6890,7 @@ Possible errors following proofreading are, e. g., substitution of special fonts
    <lg>
      <l pos="Prc">шлачкетэм</l><orig>шлачкетэм</orig>
    </lg>
-   <mg ind="1th"><drvg><inflect type="Der/Эм" drv="Prc"/><stem>шлачкетыны</stem></drvg>
+   <mg ind="1th"><compg><comp ord="E1" pos="V">шлачкетыны</comp><comp ord="E2" type="Der/Эм" drv="Prc"/></compg>
    </mg>
    <mg ind="2th"><defNative>шлач карыса шуккылэм</defNative>
      <tg xml:lang="fin">
@@ -6907,7 +6907,7 @@ Possible errors following proofreading are, e. g., substitution of special fonts
    <lg>
      <l pos="Prc">шудӥсь</l><orig>шудӥсь</orig>
    </lg>
-   <mg ind="1th"><drvg><inflect type="Der/сь" drv="Prc"/><stem>шудыны</stem></drvg>
+   <mg ind="1th"><compg><comp ord="E1" pos="V">шудыны</comp><comp ord="E2" type="Der/сь" drv="Prc"/></compg>
    </mg>
    <mg ind="2th"><defNative>к-сь нылпи шудонын</defNative>
      <tg xml:lang="fin">
@@ -6948,7 +6948,7 @@ Possible errors following proofreading are, e. g., substitution of special fonts
    <lg>
      <l pos="Prc">шуккем</l><orig>шуккем</orig>
    </lg>
-   <mg ind="1th"><drvg><inflect type="Der/Эм" drv="Prc;V»N"/><stem>шуккыны</stem></drvg>
+   <mg ind="1th"><compg><comp ord="E1">шуккыны</comp><comp ord="E2" type="Der/Эм" drv="Prc;V»N"/></compg>
    </mg>
    <mg ind="2th"><defNative>салем, васькытэм, жугем</defNative>
      <tg xml:lang="fin">
@@ -6989,7 +6989,7 @@ Possible errors following proofreading are, e. g., substitution of special fonts
    <lg>
      <l pos="Prc">шуккиськем</l><orig>шуккиськем</orig>
    </lg>
-   <mg ind="1th"><drvg><inflect type="Der/Эм" drv="Prc;V»N"/><stem>шуккиськыны</stem></drvg>
+   <mg ind="1th"><compg><comp ord="E1">шуккиськыны</comp><comp ord="E2" type="Der/Эм" drv="Prc;V»N"/></compg>
    </mg>
    <mg ind="2th"><font face="SmolenskSGR">(<i>ваче шуккиськем</i>)</font>
      <tg xml:lang="fin">
@@ -7011,7 +7011,7 @@ Possible errors following proofreading are, e. g., substitution of special fonts
    <lg>
      <l pos="Prc">шулам</l><orig>шулам</orig>
    </lg>
-   <mg ind="1th"><drvg><inflect type="Der/Эм" drv="Prc;V»N"/><stem>шуланы</stem></drvg>
+   <mg ind="1th"><compg><comp ord="E1">шуланы</comp><comp ord="E2" type="Der/Эм" drv="Prc;V»N"/></compg>
    </mg>
    <mg ind="2th">
      <tg xml:lang="fin">
@@ -7035,7 +7035,7 @@ Possible errors following proofreading are, e. g., substitution of special fonts
    <lg>
      <l pos="Prc">шулась</l><orig>шулась</orig>
    </lg>
-   <mg ind="1th"><drvg><inflect type="Der/сь" drv="Prc"/><stem>шуланы</stem></drvg>
+   <mg ind="1th"><compg><comp ord="E1" pos="V">шуланы</comp><comp ord="E2" type="Der/сь" drv="Prc"/></compg>
    </mg>
    <mg ind="2th">
      <tg xml:lang="fin">
@@ -7047,7 +7047,7 @@ Possible errors following proofreading are, e. g., substitution of special fonts
    <lg>
      <l pos="Prc">шульыртэм</l><orig>шульыртэм</orig>
    </lg>
-   <mg ind="1th"><drvg><inflect type="Der/Эм" drv="Prc"/><stem>шульыртыны</stem></drvg>
+   <mg ind="1th"><compg><comp ord="E1" pos="V">шульыртыны</comp><comp ord="E2" type="Der/Эм" drv="Prc"/></compg>
    </mg>
    <mg ind="2th"><defNative>сачыртэм</defNative>
      <tg xml:lang="fin">
@@ -7064,7 +7064,7 @@ Possible errors following proofreading are, e. g., substitution of special fonts
    <lg>
      <l pos="Prc">шуметэм</l><orig>шуметэм</orig>
    </lg>
-   <mg ind="1th"><drvg><inflect type="Der/Эм" drv="Prc;V»N"/><stem>шуметыны</stem></drvg>
+   <mg ind="1th"><compg><comp ord="E1">шуметыны</comp><comp ord="E2" type="Der/Эм" drv="Prc;V»N"/></compg>
    </mg>
    <mg ind="2th"><note><i>myös kuv. </i></note><font face="SmolenskSGR">(<i>куаш поттэм</i>)</font>
      <tg xml:lang="fin">
@@ -7094,7 +7094,7 @@ Possible errors following proofreading are, e. g., substitution of special fonts
    <lg>
      <l pos="Prc">шургетэм</l><orig>шургетэм</orig>
    </lg>
-   <mg ind="1th"><drvg><inflect type="Der/Эм" drv="Prc"/><stem>шургетыны</stem></drvg>
+   <mg ind="1th"><compg><comp ord="E1" pos="V">шургетыны</comp><comp ord="E2" type="Der/Эм" drv="Prc"/></compg>
    </mg>
    <mg ind="2th"><defNative>ӵаштыртэм</defNative>
      <tg xml:lang="fin">
@@ -7112,7 +7112,7 @@ Possible errors following proofreading are, e. g., substitution of special fonts
    <lg>
      <l pos="Prc">ыбем</l><orig>ыбем</orig>
    </lg>
-   <mg ind="1th"><drvg><inflect type="Der/Эм" drv="Prc"/><stem>ыбыны</stem></drvg>
+   <mg ind="1th"><compg><comp ord="E1" pos="V">ыбыны</comp><comp ord="E2" type="Der/Эм" drv="Prc"/></compg>
    </mg>
    <mg ind="2th"><defNative>ыбыса лэзён</defNative>
      <tg xml:lang="fin">
@@ -7136,7 +7136,7 @@ Possible errors following proofreading are, e. g., substitution of special fonts
    <lg>
      <l pos="Prc">ыбылӥськем</l><orig>ыбылӥськем</orig>
    </lg>
-   <mg ind="1th"><drvg><inflect type="Der/Эм" drv="Prc"/><stem>ыбылӥськыны</stem></drvg>
+   <mg ind="1th"><compg><comp ord="E1" pos="V">ыбылӥськыны</comp><comp ord="E2" type="Der/Эм" drv="Prc"/></compg>
    </mg>
    <mg ind="2th">
      <tg xml:lang="fin">
@@ -7158,7 +7158,7 @@ Possible errors following proofreading are, e. g., substitution of special fonts
    <lg>
      <l pos="Prc">ыбылӥськись</l><orig>ыбылӥськись</orig>
    </lg>
-   <mg ind="1th"><drvg><inflect type="Der/сь" drv="Prc"/><stem>ыбылӥськыны</stem></drvg>
+   <mg ind="1th"><compg><comp ord="E1" pos="V">ыбылӥськыны</comp><comp ord="E2" type="Der/сь" drv="Prc"/></compg>
    </mg>
    <mg ind="2th">
      <tg xml:lang="fin">
@@ -7183,7 +7183,7 @@ Possible errors following proofreading are, e. g., substitution of special fonts
    <lg>
      <l pos="Prc">ыргетэм</l><orig>ыргетэм</orig>
    </lg>
-   <mg ind="1th"><drvg><inflect type="Der/Эм" drv="Prc"/><stem>ыргетыны</stem></drvg>
+   <mg ind="1th"><compg><comp ord="E1" pos="V">ыргетыны</comp><comp ord="E2" type="Der/Эм" drv="Prc"/></compg>
    </mg>
    <mg ind="2th">
      <tg xml:lang="fin">
@@ -7195,7 +7195,7 @@ Possible errors following proofreading are, e. g., substitution of special fonts
    <lg>
      <l pos="Prc">эмъясь</l><orig>эмъясь</orig>
    </lg>
-   <mg ind="1th"><drvg><inflect type="Der/сь" drv="Prc"/><stem>эмъяны</stem></drvg>
+   <mg ind="1th"><compg><comp ord="E1" pos="V">эмъяны</comp><comp ord="E2" type="Der/сь" drv="Prc"/></compg>
    </mg>
    <mg ind="2th"><defNative>врач</defNative>
      <tg xml:lang="fin">
@@ -7212,7 +7212,7 @@ Possible errors following proofreading are, e. g., substitution of special fonts
    <lg>
      <l pos="Prc">эмъяськись</l><orig>эмъяськись</orig>
    </lg>
-   <mg ind="1th"><drvg><inflect type="Der/сь" drv="Prc"/><stem>эмъяськыны</stem></drvg>
+   <mg ind="1th"><compg><comp ord="E1" pos="V">эмъяськыны</comp><comp ord="E2" type="Der/сь" drv="Prc"/></compg>
    </mg>
    <mg ind="2th"><defNative>висись</defNative>
      <tg xml:lang="fin">
@@ -7232,7 +7232,7 @@ Possible errors following proofreading are, e. g., substitution of special fonts
    <lg>
      <l pos="Prc">эрекчаськем</l><orig>эрекчаськем</orig>
    </lg>
-   <mg ind="1th"><drvg><inflect type="Der/Эм" drv="Prc"/><stem>эрекчаськыны</stem></drvg>
+   <mg ind="1th"><compg><comp ord="E1" pos="V">эрекчаськыны</comp><comp ord="E2" type="Der/Эм" drv="Prc"/></compg>
    </mg>
    <mg ind="2th"><defNative>алдаськем, пӧяськем</defNative>
      <tg xml:lang="fin">
@@ -7244,7 +7244,7 @@ Possible errors following proofreading are, e. g., substitution of special fonts
    <lg>
      <l pos="Prc">эрекчаськись</l><orig>эрекчаськись</orig>
    </lg>
-   <mg ind="1th"><drvg><inflect type="Der/сь" drv="Prc"/><stem>эрекчаськыны</stem></drvg>
+   <mg ind="1th"><compg><comp ord="E1" pos="V">эрекчаськыны</comp><comp ord="E2" type="Der/сь" drv="Prc"/></compg>
    </mg>
    <mg ind="2th"><defNative>пӧечи</defNative>
      <tg xml:lang="fin">
@@ -7259,7 +7259,7 @@ Possible errors following proofreading are, e. g., substitution of special fonts
    <lg>
      <l pos="Prc">эркеяськись</l><orig>эркеяськись</orig>
    </lg>
-   <mg ind="1th"><drvg><inflect type="Der/сь" drv="Prc"/><stem>эркеяськыны </stem></drvg>
+   <mg ind="1th"><compg><comp ord="E1" pos="V">эркеяськыны</comp><comp ord="E2" type="Der/сь" drv="Prc"/></compg>
    </mg>
    <mg ind="2th">
      <variants>
@@ -7271,7 +7271,7 @@ Possible errors following proofreading are, e. g., substitution of special fonts
    <lg>
      <l pos="Prc">эскерись</l><orig>эскерись</orig>
    </lg>
-   <mg ind="1th"><drvg><inflect type="Der/сь" drv="Prc"/><stem>эскерыны</stem></drvg>
+   <mg ind="1th"><compg><comp ord="E1" pos="V">эскерыны</comp><comp ord="E2" type="Der/сь" drv="Prc"/></compg>
    </mg>
    <mg ind="2th"><defNative>чаклась</defNative>
      <tg xml:lang="fin">
@@ -7323,7 +7323,7 @@ Possible errors following proofreading are, e. g., substitution of special fonts
    <lg>
      <l pos="Prc">юам</l><orig>юам</orig>
    </lg>
-   <mg ind="1th"><drvg><inflect type="Der/Эм" drv="Prc"/><stem>юаны</stem></drvg>
+   <mg ind="1th"><compg><comp ord="E1" pos="V">юаны</comp><comp ord="E2" type="Der/Эм" drv="Prc"/></compg>
    </mg>
    <mg ind="2th">
      <tg xml:lang="fin">
@@ -7338,7 +7338,7 @@ Possible errors following proofreading are, e. g., substitution of special fonts
    <lg>
      <l pos="Prc">юам-верам</l><orig>юам-верам</orig>
    </lg>
-   <mg ind="1th"><drvg><inflect type="Der/Эм" drv="Prc"/><stem>юаны- вераны</stem></drvg>
+   <mg ind="1th"><compg><comp ord="E1" pos="V">юаны- вераны</comp><comp ord="E2" type="Der/Эм" drv="Prc"/></compg>
    </mg>
    <mg ind="2th">
      <tg xml:lang="fin">
@@ -7350,7 +7350,7 @@ Possible errors following proofreading are, e. g., substitution of special fonts
    <lg>
      <l pos="Prc">югдытӥсь</l><orig>югдытӥсь</orig>
    </lg>
-   <mg ind="1th"><drvg><inflect type="Der/сь" drv="Prc"/><stem>югдытыны</stem></drvg>
+   <mg ind="1th"><compg><comp ord="E1" pos="V">югдытыны</comp><comp ord="E2" type="Der/сь" drv="Prc"/></compg>
    </mg>
    <mg ind="2th"><defNative>югыт карись</defNative>
      <tg xml:lang="fin">
@@ -7367,7 +7367,7 @@ Possible errors following proofreading are, e. g., substitution of special fonts
    <lg>
      <l pos="Prc">юись</l><orig>юись</orig>
    </lg>
-   <mg ind="1th"><drvg><inflect type="Der/сь" drv="Prc"/><stem>юыны </stem></drvg>
+   <mg ind="1th"><compg><comp ord="E1" pos="V">юыны</comp><comp ord="E2" type="Der/сь" drv="Prc"/></compg>
    </mg>
    <mg ind="2th">
    </mg>
@@ -7390,7 +7390,7 @@ Possible errors following proofreading are, e. g., substitution of special fonts
    <lg>
      <l pos="Prc">юргетэм</l><orig>юргетэм</orig>
    </lg>
-   <mg ind="1th"><drvg><inflect type="Der/Эм" drv="Prc"/><stem>юргетыны</stem></drvg>
+   <mg ind="1th"><compg><comp ord="E1" pos="V">юргетыны</comp><comp ord="E2" type="Der/Эм" drv="Prc"/></compg>
    </mg>
    <mg ind="2th">
      <tg xml:lang="fin">
@@ -7402,7 +7402,7 @@ Possible errors following proofreading are, e. g., substitution of special fonts
    <lg>
      <l pos="Prc">юрттӥсь</l><orig>юрттӥсь</orig>
    </lg>
-   <mg ind="1th"><drvg><inflect type="Der/сь" drv="Prc"/><stem>юрттыны</stem></drvg>
+   <mg ind="1th"><compg><comp ord="E1" pos="V">юрттыны</comp><comp ord="E2" type="Der/сь" drv="Prc"/></compg>
    </mg>
    <mg ind="2th">
      <tg xml:lang="fin">
@@ -7445,7 +7445,7 @@ Possible errors following proofreading are, e. g., substitution of special fonts
    <lg>
      <l pos="Prc">юрттӥськись</l><orig>юрттӥськись</orig>
    </lg>
-   <mg ind="1th"><drvg><inflect type="Der/сь" drv="Prc"/><stem>юрттӥськыны</stem></drvg>
+   <mg ind="1th"><compg><comp ord="E1" pos="V">юрттӥськыны</comp><comp ord="E2" type="Der/сь" drv="Prc"/></compg>
    </mg>
    <mg ind="2th">
      <tg xml:lang="fin">
@@ -7457,7 +7457,7 @@ Possible errors following proofreading are, e. g., substitution of special fonts
    <lg>
      <l pos="Prc">юэм</l><orig>юэм</orig>
    </lg>
-   <mg ind="1th"><drvg><inflect type="Der/Эм" drv="Prc"/><stem>юыны</stem></drvg>
+   <mg ind="1th"><compg><comp ord="E1" pos="V">юыны</comp><comp ord="E2" type="Der/Эм" drv="Prc"/></compg>
    </mg>
    <mg ind="2th">
      <tg xml:lang="fin">
@@ -7477,7 +7477,7 @@ Possible errors following proofreading are, e. g., substitution of special fonts
    <lg>
      <l pos="Prc">яратэм</l><orig>яратэм</orig>
    </lg>
-   <mg ind="1th"><drvg><inflect type="Der/Эм" drv="Prc;V»N"/><stem>яратыны</stem></drvg>
+   <mg ind="1th"><compg><comp ord="E1">яратыны</comp><comp ord="E2" type="Der/Эм" drv="Prc;V»N"/></compg>
    </mg>
    <mg ind="2th">
      <tg xml:lang="fin">

@@ -84,7 +84,7 @@ Possible errors following proofreading are, e. g., substitution of special fonts
    <lg>
      <l pos="Po">понна</l><orig>понна</orig>
    </lg>
-   <mg ind="1th"><pos ind="Po"/><font face="SmolenskSGR">(<i>кинлы ке, марлы ке</i>)</font>
+   <mg ind="1th"><pos ind="Po"/><defNative>кинлы ке, марлы ке</defNative>
      <tg xml:lang="fin">
        <t>varten, hyväksi</t>
      </tg>
@@ -92,7 +92,7 @@ Possible errors following proofreading are, e. g., substitution of special fonts
        <xt xml:lang="fin">kaikki on tehty sinua varten (t. sinun hyväksesi)</xt>
      </xg>
    </mg>
-   <mg ind="2th"> <pos ind="Po"/><font face="SmolenskSGR">(<i>сэрен</i>)</font>
+   <mg ind="2th"> <pos ind="Po"/><defNative>сэрен</defNative>
      <tg xml:lang="fin">
        <t>takia, vuoksi, tähden;</t>
      </tg><font face="SmolenskSGR"><b>быриз ук каръян пинал дауре дас тямыс арес ныл понна </b></font><note><i>kansanl.</i></note>
@@ -100,7 +100,7 @@ Possible errors following proofreading are, e. g., substitution of special fonts
        <t>nuoruusparkani loppui kahdeksantoistaikäisen tytön takia</t>
      </tg>
    </mg>
-   <mg ind="3th"> <pos ind="Po"/><font face="SmolenskSGR">(<i>кин ке, мар ке пумысен, ласянь</i>)</font>
+   <mg ind="3th"> <pos ind="Po"/><defNative>кин ке, мар ке пумысен, ласянь</defNative>
      <tg xml:lang="fin">
        <t>puolesta, =sta / =stä;</t>
      </tg>
@@ -114,9 +114,9 @@ Possible errors following proofreading are, e. g., substitution of special fonts
        <xt xml:lang="fin">olen aina huolissani puolestanne, minun on aina huoli teistä</xt>
      </xg>
    </mg>
-   <mg ind="4th"> <pos ind="Po"/><font face="SmolenskSGR">(<i>марлы ке мыныны</i>)</font> <note><i>käännetään noudannan päämäärää t. kohdetta ilmaisevalla finaalirakenteella</i></note>
-     <tg xml:lang="fin">
-       <t>:</t>
+   <mg ind="4th"> <pos ind="Po"/><defNative>марлы ке мыныны</defNative>
+ <tg xml:lang="fin">
+       <t>käännetään noudannan päämäärää t. kohdetta ilmaisevalla finaalirakenteella</t>
      </tg>
      <xg><x>врач понна ыстыны</x>
        <xt xml:lang="fin">lähettää noutamaan lääkäriä;</xt>

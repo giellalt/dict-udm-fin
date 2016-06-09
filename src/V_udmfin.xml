@@ -1298,7 +1298,7 @@ Possible errors following proofreading are, e. g., substitution of special fonts
    <lg>
      <l pos="V">бичатыны<rom ind="2"/></l>
    </lg>
-   <mg><drvg><inflect type="Der/тыны" drv="V"/><note><i>fakt. v:stä</i></note><stem>бичаны</stem></drvg>
+   <mg><compg><inflect type="Der/тыны" drv="V"/><note><i>fakt. v:stä</i></note><stem>бичаны</stem></compg>
    </mg>
 </e>
 <e>
@@ -2439,7 +2439,7 @@ Possible errors following proofreading are, e. g., substitution of special fonts
        <t pos="V">päättyä, loppua</t>
      </tg>
    </mg>
-   <mg ind="3th"> <drvg><inflect>pass. v:stä</inflect><stem>быдэстыны</stem></drvg>
+   <mg ind="3th"> <compg><comp ord="E1">быдэстыны</comp><comp ord="E2">pass. v:stä</comp></compg>
      <xg><x>уж быдэстӥське</x>
        <xt xml:lang="fin">työ on tekeillä, työtä tehdään</xt>
      </xg>
@@ -3665,7 +3665,7 @@ Possible errors following proofreading are, e. g., substitution of special fonts
 </e>
 <e>
    <lg>
-     <l pos="V">валэкъяны</l> <drvg><note><i>iter.</i></note></drvg>
+     <l pos="V">валэкъяны</l> <compg><note><i>iter.</i></note></compg>
    </lg>
    <mg>
      <tg xml:lang="fin">
@@ -5144,7 +5144,7 @@ Possible errors following proofreading are, e. g., substitution of special fonts
        <xt xml:lang="fin">kunnostautua ahkeralla työllä</xt>
      </xg>
    </mg>
-   <mg ind="4th"> <drvg><inflect>pass. v:stä</inflect><stem>висъяны</stem></drvg>
+   <mg ind="4th"> <compg><comp ord="E1">висъяны</comp><comp ord="E2">pass. v:stä</comp></compg>
    </mg>
 </e>
 <e>
@@ -5928,7 +5928,7 @@ Possible errors following proofreading are, e. g., substitution of special fonts
        <xt xml:lang="fin">käydä lääkärissä</xt>
      </xg>
    </mg>
-   <mg ind="2th"> <drvg><inflect>pass. v:stä</inflect><stem>возьматыны</stem></drvg>
+   <mg ind="2th"> <compg><comp ord="E1">возьматыны</comp><comp ord="E2">pass. v:stä</comp></compg>
    </mg>
 </e>
 <e>
@@ -6314,7 +6314,7 @@ Possible errors following proofreading are, e. g., substitution of special fonts
      </tg> <font face="SmolenskSGR">(<i>усьтонэн</i>)</font>
      <tg xml:lang="fin">
        <t pos="V">lukita, panna lukkoon</t>
-     </tg><font face="SmolenskSGR"><b>ворсаськон </b></font><drvg><inflect type="Der/Он" drv="V»N"/><stem>ворсаськыны</stem></drvg>
+     </tg><font face="SmolenskSGR"><b>ворсаськон </b></font><compg><comp ord="E1" pos="V">ворсаськыны</comp><comp ord="E2" type="Der/Он" drv="V»N"/></compg>
    </mg>
 </e>
 <e>
@@ -6900,7 +6900,7 @@ Possible errors following proofreading are, e. g., substitution of special fonts
        <t pos="V">harrastaa ompelemista, räätälöidä</t>
      </tg>
    </mg>
-   <mg ind="2th"> <drvg><inflect>pass. v:stä</inflect><stem>вурыны</stem></drvg>
+   <mg ind="2th"> <compg><comp ord="E1">вурыны</comp><comp ord="E2">pass. v:stä</comp></compg>
    </mg>
 </e>
 <e>
@@ -7438,7 +7438,7 @@ Possible errors following proofreading are, e. g., substitution of special fonts
        <l_syn type="&gt;">выжтыны</l_syn>
      </variants>
    </mg>
-   <mg ind="2th"><drvg><note><i>fakt. v:stä</i></note><stem>выжыны</stem></drvg>
+   <mg ind="2th"><compg><note><i>fakt. v:stä</i></note><stem>выжыны</stem></compg>
    </mg>
 </e>
 <e>
@@ -9619,7 +9619,7 @@ Possible errors following proofreading are, e. g., substitution of special fonts
    <mg ind="2th"> <note><i>kuv. ark.</i></note><font face="SmolenskSGR">(<i>адями с-сь</i>)</font>
      <tg xml:lang="fin">
        <t pos="V">höröttää, hirnua, nauraa</t>
-     </tg><font face="SmolenskSGR"><b>гырдалтон </b></font><drvg><inflect type="Der/Он" drv="V»N"/><stem>гырдалтыны</stem></drvg>
+     </tg><font face="SmolenskSGR"><b>гырдалтон </b></font><compg><comp ord="E1" pos="V">гырдалтыны</comp><comp ord="E2" type="Der/Он" drv="V»N"/></compg>
    </mg>
 </e>
 <e>
@@ -11203,7 +11203,7 @@ Possible errors following proofreading are, e. g., substitution of special fonts
        <l_syn type="&gt;">жагдыны</l_syn>
      </variants>
    </mg>
-   <mg ind="2th"><drvg><inflect>pass. v:stä</inflect><stem>жагдыны</stem></drvg>
+   <mg ind="2th"><compg><comp ord="E1">жагдыны</comp><comp ord="E2">pass. v:stä</comp></compg>
    </mg>
 </e>
 <e>
@@ -11432,7 +11432,7 @@ Possible errors following proofreading are, e. g., substitution of special fonts
        <t pos="V">silpiä, riipiä, olla silpimässä (t. riipimässä)</t>
      </tg>
    </mg>
-   <mg ind="2th"> <drvg><inflect>pass. v:stä</inflect><stem>жильдыны </stem></drvg>
+   <mg ind="2th"> <compg><comp ord="E1">жильдыны</comp><comp ord="E2">pass. v:stä</comp></compg>
    </mg>
    <mg ind="3th"><senseType>kuv.</senseType><defNative>лябӟыны</defNative>
      <tg xml:lang="fin">
@@ -12534,7 +12534,7 @@ Possible errors following proofreading are, e. g., substitution of special fonts
        <re>mieliala</re>
      </tg>
    </mg>
-   <mg ind="3th"> <drvg><inflect>pass. v:stä</inflect><stem>зӥбыны</stem></drvg>
+   <mg ind="3th"> <compg><comp ord="E1">зӥбыны</comp><comp ord="E2">pass. v:stä</comp></compg>
    </mg>
 </e>
 <e>
@@ -14498,7 +14498,7 @@ Possible errors following proofreading are, e. g., substitution of special fonts
    <lg>
      <l pos="V">калтӥськыны<rom ind="2"/></l>
    </lg>
-   <mg><drvg><inflect>pass. v:stä</inflect><stem>калтыны</stem></drvg>
+   <mg><compg><comp ord="E1">калтыны</comp><comp ord="E2">pass. v:stä</comp></compg>
    </mg>
 </e>
 <e>
@@ -17169,7 +17169,7 @@ Possible errors following proofreading are, e. g., substitution of special fonts
    <lg>
      <l pos="V">колӟаськыны</l><orig>колӟаськыны</orig>
    </lg>
-   <mg ind="1th"><drvg><inflect>pass. v:stä</inflect><stem>колӟаны</stem></drvg>
+   <mg ind="1th"><compg><comp ord="E1">колӟаны</comp><comp ord="E2">pass. v:stä</comp></compg>
    </mg>
    <mg ind="2th"><defNative>бугорскыны</defNative>
      <tg xml:lang="fin">
@@ -17493,7 +17493,7 @@ Possible errors following proofreading are, e. g., substitution of special fonts
        <t pos="V">hakata (t. kaataa) metsää, olla hakkaamassa (t. kaatamassa) metsää</t>
      </tg>
    </mg>
-   <mg ind="2th"> <drvg><inflect>pass. v:stä</inflect><stem>кораны</stem></drvg>
+   <mg ind="2th"> <compg><comp ord="E1">кораны</comp><comp ord="E2">pass. v:stä</comp></compg>
    </mg>
 </e>
 <e>
@@ -19228,7 +19228,7 @@ Possible errors following proofreading are, e. g., substitution of special fonts
        <t pos="V">kutoa, olla kutomassa, harrastaa kutomista</t>
      </tg>
    </mg>
-   <mg ind="2th"> <drvg><inflect>pass. v:stä</inflect><stem>куыны</stem></drvg>
+   <mg ind="2th"> <compg><comp ord="E1">куыны</comp><comp ord="E2">pass. v:stä</comp></compg>
    </mg>
 </e>
 <e>
@@ -20101,7 +20101,7 @@ Possible errors following proofreading are, e. g., substitution of special fonts
        <t pos="V">olla puimassa</t>
      </tg>
    </mg>
-   <mg ind="2th"> <drvg><inflect>pass. v:stä</inflect><stem>кутсаны</stem></drvg>
+   <mg ind="2th"> <compg><comp ord="E1">кутсаны</comp><comp ord="E2">pass. v:stä</comp></compg>
    </mg>
 </e>
 <e>
@@ -20522,7 +20522,7 @@ Possible errors following proofreading are, e. g., substitution of special fonts
        <t pos="V">uhrata (t. toimittaa uhrimenot) kuolleiden lepyttämiseksi</t>
      </tg>
    </mg>
-   <mg ind="3th"> <drvg><inflect>pass. v:stä</inflect><stem>куяны</stem></drvg>
+   <mg ind="3th"> <compg><comp ord="E1">куяны</comp><comp ord="E2">pass. v:stä</comp></compg>
    </mg>
 </e>
 <e>
@@ -21938,7 +21938,7 @@ Possible errors following proofreading are, e. g., substitution of special fonts
        <re>töihin</re>
      </tg>
    </mg>
-   <mg ind="2th"> <drvg><inflect>pass. v:stä</inflect><stem>кыткыны</stem></drvg>
+   <mg ind="2th"> <compg><comp ord="E1">кыткыны</comp><comp ord="E2">pass. v:stä</comp></compg>
    </mg>
 </e>
 <e>
@@ -23415,7 +23415,7 @@ Possible errors following proofreading are, e. g., substitution of special fonts
    <mg ind="2th"> <note><i>kuv.</i></note><range>puhek.</range><defNative>тузыны</defNative>
      <tg xml:lang="fin">
        <t pos="V">ajaa pois, antaa potkut</t>
-     </tg><font face="SmolenskSGR"><b>лобӟон </b></font><drvg><inflect type="Der/Он" drv="V»N"/><stem>лобӟыны</stem></drvg>
+     </tg><font face="SmolenskSGR"><b>лобӟон </b></font><compg><comp ord="E1" pos="V">лобӟыны</comp><comp ord="E2" type="Der/Он" drv="V»N"/></compg>
    </mg>
 </e>
 <e>
@@ -23783,7 +23783,7 @@ Possible errors following proofreading are, e. g., substitution of special fonts
        <t pos="V">veistää, piiluta, olla veistämässä (t. piiluamassa)</t>
      </tg>
    </mg>
-   <mg ind="2th"> <drvg><inflect>pass. v:stä</inflect><stem>лусйыны</stem></drvg>
+   <mg ind="2th"> <compg><comp ord="E1">лусйыны</comp><comp ord="E2">pass. v:stä</comp></compg>
    </mg>
 </e>
 <e>
@@ -24045,7 +24045,7 @@ Possible errors following proofreading are, e. g., substitution of special fonts
        <t pos="V">lukea jtak, olla lukemassa jtak, harrastaa lukemista</t>
      </tg>
    </mg>
-   <mg ind="2th"> <drvg><inflect>pass. v:stä</inflect><stem>лыдӟыны</stem></drvg>
+   <mg ind="2th"> <compg><comp ord="E1">лыдӟыны</comp><comp ord="E2">pass. v:stä</comp></compg>
    </mg>
 </e>
 <e>
@@ -25418,7 +25418,7 @@ Possible errors following proofreading are, e. g., substitution of special fonts
    <lg>
      <l pos="V">лӧпкытъяны</l><orig>лӧпкытъяны</orig>
    </lg>
-   <mg><drvg><inflect>iter. v:stä</inflect><stem>лӧпкытыны</stem></drvg>
+   <mg><compg><comp ord="E1">лӧпкытыны</comp><comp ord="E2">iter. v:stä</comp></compg>
    </mg>
 </e>
 <e>
@@ -25636,7 +25636,7 @@ Possible errors following proofreading are, e. g., substitution of special fonts
        <t pos="V">haravoida heiniä (t. heinät) kokoon</t>
      </tg>
    </mg>
-   <mg ind="2th"> <drvg><inflect>pass. v:stä</inflect><stem>мажсаны</stem></drvg>
+   <mg ind="2th"> <compg><comp ord="E1">мажсаны</comp><comp ord="E2">pass. v:stä</comp></compg>
    </mg>
 </e>
 <e>
@@ -26367,7 +26367,7 @@ Possible errors following proofreading are, e. g., substitution of special fonts
    <lg>
      <l pos="V">меӵкытъяны</l><orig>меӵкытъяны</orig>
    </lg>
-   <mg><drvg><inflect>iter. v:stä</inflect><stem>меӵкытыны</stem></drvg>
+   <mg><compg><comp ord="E1">меӵкытыны</comp><comp ord="E2">iter. v:stä</comp></compg>
    </mg>
 </e>
 <e>
@@ -27276,7 +27276,7 @@ Possible errors following proofreading are, e. g., substitution of special fonts
    <lg>
      <l pos="V">мыркйыны</l><orig>мыркйыны</orig>
    </lg>
-   <mg><drvg><inflect>teonn. v:stä</inflect><stem>мыркйыны</stem></drvg>
+   <mg><compg><comp ord="E1">мыркйыны</comp><comp ord="E2">teonn. v:stä</comp></compg>
    </mg>
 </e>
 <e>
@@ -27744,7 +27744,7 @@ Possible errors following proofreading are, e. g., substitution of special fonts
        <t pos="V">liata (t. tahrata, sotkea) itsensä, tahria itsensä likaan</t>
      </tg>
    </mg>
-   <mg ind="2th"> <drvg><inflect>pass. v:stä</inflect><stem>наштаны</stem></drvg>
+   <mg ind="2th"> <compg><comp ord="E1">наштаны</comp><comp ord="E2">pass. v:stä</comp></compg>
    </mg>
 </e>
 <e>
@@ -28193,7 +28193,7 @@ Possible errors following proofreading are, e. g., substitution of special fonts
        <xt xml:lang="fin">käteni hankautui (t. hiertyi) puuhun</xt>
      </xg>
    </mg>
-   <mg ind="2th"> <drvg><inflect>pass. v:stä</inflect><stem>ниртыны</stem></drvg>
+   <mg ind="2th"> <compg><comp ord="E1">ниртыны</comp><comp ord="E2">pass. v:stä</comp></compg>
    </mg>
 </e>
 <e>
@@ -29055,7 +29055,7 @@ Possible errors following proofreading are, e. g., substitution of special fonts
        <t pos="V">rypistyä, rutistua</t>
      </tg>
    </mg>
-   <mg ind="4th"> <drvg><inflect>pass. v:stä</inflect><stem>ныркыны</stem></drvg>
+   <mg ind="4th"> <compg><comp ord="E1">ныркыны</comp><comp ord="E2">pass. v:stä</comp></compg>
    </mg>
 </e>
 <e>
@@ -29743,7 +29743,7 @@ Possible errors following proofreading are, e. g., substitution of special fonts
        <t pos="V">lyöttäytyä seuraan, alkaa seurata (t. tungetella, ahdistella)</t>
      </tg>
    </mg>
-   <mg ind="3th"> <drvg><inflect>pass. v:stä</inflect><stem>няняны</stem></drvg>
+   <mg ind="3th"> <compg><comp ord="E1">няняны</comp><comp ord="E2">pass. v:stä</comp></compg>
    </mg>
 </e>
 <e>
@@ -30336,7 +30336,7 @@ Possible errors following proofreading are, e. g., substitution of special fonts
        <t pos="V">ostaa, ostella, tehdä ostokset, olla ostoksilla</t>
      </tg>
    </mg>
-   <mg ind="3th"> <drvg><inflect>pass. v:stä</inflect><stem>октыны</stem></drvg>
+   <mg ind="3th"> <compg><comp ord="E1">октыны</comp><comp ord="E2">pass. v:stä</comp></compg>
    </mg>
 </e>
 <e>
@@ -30349,7 +30349,7 @@ Possible errors following proofreading are, e. g., substitution of special fonts
        <t pos="V">siivota, siistiä, panna (t. laittaa) kuntoon</t>
      </tg>
    </mg>
-   <mg ind="2th"> <drvg><inflect>pass. v:stä</inflect><stem>октыны-калтыны</stem></drvg>
+   <mg ind="2th"> <compg><comp ord="E1">октыны-калтыны</comp><comp ord="E2">pass. v:stä</comp></compg>
    </mg>
 </e>
 <e>
@@ -30765,7 +30765,7 @@ Possible errors following proofreading are, e. g., substitution of special fonts
 </e>
 <e>
    <lg>
-     <l pos="V">ошылыны</l> <drvg><note><i>frekv. v:stä</i></note><stem>ошыны</stem></drvg>
+     <l pos="V">ошылыны</l> <compg><note><i>frekv. v:stä</i></note><stem>ошыны</stem></compg>
    </lg>
    <mg ind="2th"> <note><i>iter.</i></note>
      <tg xml:lang="fin">
@@ -33751,7 +33751,7 @@ Possible errors following proofreading are, e. g., substitution of special fonts
        <t pos="V">, harrastaa seksiä</t>
      </tg>
    </mg>
-   <mg ind="2th"> <drvg><inflect>pass. v:stä</inflect><stem>поныны</stem></drvg>
+   <mg ind="2th"> <compg><comp ord="E1">поныны</comp><comp ord="E2">pass. v:stä</comp></compg>
    </mg>
 </e>
 <e>
@@ -33764,7 +33764,7 @@ Possible errors following proofreading are, e. g., substitution of special fonts
        <t pos="V">juuria, raivata kantoja</t>
      </tg>
    </mg>
-   <mg ind="2th"> <drvg><inflect>pass. v:stä</inflect><stem>порыны</stem></drvg>
+   <mg ind="2th"> <compg><comp ord="E1">порыны</comp><comp ord="E2">pass. v:stä</comp></compg>
    </mg>
 </e>
 <e>
@@ -34623,7 +34623,7 @@ Possible errors following proofreading are, e. g., substitution of special fonts
        <t pos="V">istuttaa vihannekset, panna vihannekset kasvamaan</t>
      </tg>
    </mg>
-   <mg ind="3th"> <drvg><inflect>pass. v:stä</inflect><stem>пуктыны</stem></drvg>
+   <mg ind="3th"> <compg><comp ord="E1">пуктыны</comp><comp ord="E2">pass. v:stä</comp></compg>
    </mg>
 </e>
 <e>
@@ -35166,7 +35166,7 @@ Possible errors following proofreading are, e. g., substitution of special fonts
        <t pos="V">, olla punomassa, harrastaa punomista (t. punontaa)</t>
      </tg>
    </mg>
-   <mg ind="2th"> <drvg><inflect>pass. v:stä</inflect><stem>пуныны</stem></drvg>
+   <mg ind="2th"> <compg><comp ord="E1">пуныны</comp><comp ord="E2">pass. v:stä</comp></compg>
    </mg>
 </e>
 <e>
@@ -35405,7 +35405,7 @@ Possible errors following proofreading are, e. g., substitution of special fonts
        <t pos="V">merkitä nimensä, ilmoittautua</t>
      </tg>
    </mg>
-   <mg ind="2th"> <drvg><inflect>pass. v:stä</inflect><stem>пусйыны</stem></drvg>
+   <mg ind="2th"> <compg><comp ord="E1">пусйыны</comp><comp ord="E2">pass. v:stä</comp></compg>
    </mg>
 </e>
 <e>
@@ -37273,7 +37273,7 @@ Possible errors following proofreading are, e. g., substitution of special fonts
    <lg>
      <l pos="V">пӧськытъяны</l><orig>пӧськытъяны</orig>
    </lg>
-   <mg><drvg><inflect>iter. v:stä</inflect><stem>пӧськытыны</stem></drvg>
+   <mg><compg><comp ord="E1">пӧськытыны</comp><comp ord="E2">iter. v:stä</comp></compg>
    </mg>
 </e>
 <e>
@@ -37364,7 +37364,7 @@ Possible errors following proofreading are, e. g., substitution of special fonts
    <lg>
      <l pos="V">пӧсятъяны</l><orig>пӧсятъяны</orig>
    </lg>
-   <mg><drvg><inflect>iter. v:stä</inflect><stem>пӧсятыны</stem></drvg>
+   <mg><compg><comp ord="E1">пӧсятыны</comp><comp ord="E2">iter. v:stä</comp></compg>
    </mg>
 </e>
 <e>
@@ -37560,7 +37560,7 @@ Possible errors following proofreading are, e. g., substitution of special fonts
        <t pos="V">hyökätä (t. karata, käydä, syöksyä) kimppuun</t>
      </tg>
    </mg>
-   <mg ind="2th"> <drvg><inflect>pass. v:stä</inflect><stem>сабыны</stem></drvg>
+   <mg ind="2th"> <compg><comp ord="E1">сабыны</comp><comp ord="E2">pass. v:stä</comp></compg>
    </mg>
 </e>
 <e>
@@ -38014,7 +38014,7 @@ Possible errors following proofreading are, e. g., substitution of special fonts
        <xt xml:lang="fin">suojautua nyrkiniskulta</xt>
      </xg>
    </mg>
-   <mg ind="4th"> <drvg><inflect>pass. v:stä</inflect><stem>сайяны</stem></drvg>
+   <mg ind="4th"> <compg><comp ord="E1">сайяны</comp><comp ord="E2">pass. v:stä</comp></compg>
    </mg>
 </e>
 <e>
@@ -39057,7 +39057,7 @@ Possible errors following proofreading are, e. g., substitution of special fonts
        <re>esim. taivas</re>
      </tg>
    </mg>
-   <mg ind="4th"> <drvg><inflect>pass. v:stä</inflect><stem>согыны</stem></drvg>
+   <mg ind="4th"> <compg><comp ord="E1">согыны</comp><comp ord="E2">pass. v:stä</comp></compg>
    </mg>
 </e>
 <e>
@@ -39453,7 +39453,7 @@ Possible errors following proofreading are, e. g., substitution of special fonts
        <t pos="V">puhdistua</t>
      </tg>
    </mg>
-   <mg ind="2th"> <drvg><inflect>pass. v:stä</inflect><stem>сузяны</stem></drvg>
+   <mg ind="2th"> <compg><comp ord="E1">сузяны</comp><comp ord="E2">pass. v:stä</comp></compg>
    </mg>
 </e>
 <e>
@@ -40020,7 +40020,7 @@ Possible errors following proofreading are, e. g., substitution of special fonts
        <t pos="V">maalata, harrastaa taulujen maalausta, olla maalaamassa tauluja</t>
      </tg>
    </mg>
-   <mg ind="2th"> <drvg><inflect>pass. v:stä</inflect><stem>суреданы</stem></drvg>
+   <mg ind="2th"> <compg><comp ord="E1">суреданы</comp><comp ord="E2">pass. v:stä</comp></compg>
    </mg>
 </e>
 <e>
@@ -40665,7 +40665,7 @@ Possible errors following proofreading are, e. g., substitution of special fonts
        <t pos="V">heilahtaa</t>
      </tg>
    </mg>
-   <mg ind="4th"> <drvg><inflect>pass. v:stä</inflect><stem>сэзъялтыны</stem></drvg>
+   <mg ind="4th"> <compg><comp ord="E1">сэзъялтыны</comp><comp ord="E2">pass. v:stä</comp></compg>
    </mg>
 </e>
 <e>
@@ -40776,7 +40776,7 @@ Possible errors following proofreading are, e. g., substitution of special fonts
        <xt xml:lang="fin">(ajaa) köröttää rattailla</xt>
      </xg>
    </mg>
-   <mg ind="4th"> <drvg><inflect>pass. v:stä</inflect><stem>сэзъяны</stem></drvg>
+   <mg ind="4th"> <compg><comp ord="E1">сэзъяны</comp><comp ord="E2">pass. v:stä</comp></compg>
    </mg>
 </e>
 <e>
@@ -40980,7 +40980,7 @@ Possible errors following proofreading are, e. g., substitution of special fonts
        <t pos="V">mennä kumoon, pyllähtää nurin (t. ylösalaisin)</t>
      </tg>
    </mg>
-   <mg ind="3th"> <drvg><inflect>pass. v:stä</inflect><stem>сэрпалтыны</stem></drvg>
+   <mg ind="3th"> <compg><comp ord="E1">сэрпалтыны</comp><comp ord="E2">pass. v:stä</comp></compg>
    </mg>
 </e>
 <e>
@@ -41077,7 +41077,7 @@ Possible errors following proofreading are, e. g., substitution of special fonts
        <re>multakokkareet</re>
      </tg>
    </mg>
-   <mg ind="3th"> <drvg><inflect>pass. v:stä</inflect><stem>сэрттыны</stem></drvg>
+   <mg ind="3th"> <compg><comp ord="E1">сэрттыны</comp><comp ord="E2">pass. v:stä</comp></compg>
    </mg>
 </e>
 <e>
@@ -41612,7 +41612,7 @@ Possible errors following proofreading are, e. g., substitution of special fonts
    <mg ind="2th"><note><i>kuv.</i></note><range>puhek.</range><defNative>мыжганы</defNative>
      <tg xml:lang="fin">
        <t pos="V">antaa selkään, hakata, lyödä</t>
-     </tg><font face="SmolenskSGR"><b>сётъяськон </b></font><drvg><inflect type="Der/Он" drv="V»N"/><stem>сётъяськыны</stem></drvg>
+     </tg><font face="SmolenskSGR"><b>сётъяськон </b></font><compg><comp ord="E1" pos="V">сётъяськыны</comp><comp ord="E2" type="Der/Он" drv="V»N"/></compg>
    </mg>
 </e>
 <e>
@@ -41637,7 +41637,7 @@ Possible errors following proofreading are, e. g., substitution of special fonts
        <l_syn type="&gt;">сётскыны</l_syn>
      </variants>
    </mg>
-   <mg ind="3th"><drvg><inflect>pass. v:stä</inflect><stem>сётъяны</stem></drvg>
+   <mg ind="3th"><compg><comp ord="E1">сётъяны</comp><comp ord="E2">pass. v:stä</comp></compg>
    </mg>
 </e>
 <e>
@@ -41770,7 +41770,7 @@ Possible errors following proofreading are, e. g., substitution of special fonts
        <l_syn type="&gt;">сётскыны</l_syn>
      </variants>
    </mg>
-   <mg ind="2th"><drvg><inflect>pass. v:stä</inflect><stem>сётыны</stem></drvg>
+   <mg ind="2th"><compg><comp ord="E1">сётыны</comp><comp ord="E2">pass. v:stä</comp></compg>
    </mg>
 </e>
 <e>
@@ -41786,7 +41786,7 @@ Possible errors following proofreading are, e. g., substitution of special fonts
        <xt xml:lang="fin">lupautua uhraamaan vasikka vainajille, tehdä pyhä lupaus uhrata vasikka vainajille</xt>
      </xg>
    </mg>
-   <mg ind="2th"> <drvg><inflect>pass. v:stä</inflect><stem>сӥзьыны</stem></drvg>
+   <mg ind="2th"> <compg><comp ord="E1">сӥзьыны</comp><comp ord="E2">pass. v:stä</comp></compg>
    </mg>
 </e>
 <e>
@@ -41894,7 +41894,7 @@ Possible errors following proofreading are, e. g., substitution of special fonts
    <lg>
      <l pos="V">сӥсъяськыны</l><orig>сӥсъяськыны</orig>
    </lg>
-   <mg><drvg><inflect>pass. v:stä</inflect><stem>сӥсъяны</stem></drvg>
+   <mg><compg><comp ord="E1">сӥсъяны</comp><comp ord="E2">pass. v:stä</comp></compg>
    </mg>
 </e>
 <e>
@@ -42492,7 +42492,7 @@ Possible errors following proofreading are, e. g., substitution of special fonts
    <lg>
      <l pos="V">тодматъяны</l><orig>тодматъяны</orig>
    </lg>
-   <mg><drvg><inflect>iter. v:stä</inflect><stem>тодматыны</stem></drvg>
+   <mg><compg><comp ord="E1">тодматыны</comp><comp ord="E2">iter. v:stä</comp></compg>
    </mg>
 </e>
 <e>
@@ -42844,7 +42844,7 @@ Possible errors following proofreading are, e. g., substitution of special fonts
        <t pos="V">karstata villaa</t>
      </tg>
    </mg>
-   <mg ind="2th"> <drvg><inflect>pass. v:stä</inflect><stem>тугыны</stem></drvg>
+   <mg ind="2th"> <compg><comp ord="E1">тугыны</comp><comp ord="E2">pass. v:stä</comp></compg>
    </mg>
 </e>
 <e>
@@ -44458,7 +44458,7 @@ Possible errors following proofreading are, e. g., substitution of special fonts
    <lg>
      <l pos="V">тӧлатъяны</l><orig>тӧлатъяны</orig>
    </lg>
-   <mg><drvg><inflect>iter. v:stä</inflect><stem>тӧлатыны</stem></drvg>
+   <mg><compg><comp ord="E1">тӧлатыны</comp><comp ord="E2">iter. v:stä</comp></compg>
    </mg>
 </e>
 <e>
@@ -45442,7 +45442,7 @@ Possible errors following proofreading are, e. g., substitution of special fonts
    <lg>
      <l pos="V">улӟытъяны</l><orig>улӟытъяны</orig>
    </lg>
-   <mg><drvg><inflect>iter. v:stä</inflect><stem>улӟытыны</stem></drvg>
+   <mg><compg><comp ord="E1">улӟытыны</comp><comp ord="E2">iter. v:stä</comp></compg>
    </mg>
 </e>
 <e>
@@ -45866,7 +45866,7 @@ Possible errors following proofreading are, e. g., substitution of special fonts
        <xt xml:lang="fin">nousta sortajia vastaan</xt>
      </xg>
    </mg>
-   <mg ind="4th"> <drvg><inflect>pass. v:stä</inflect><stem>урдыны</stem></drvg>
+   <mg ind="4th"> <compg><comp ord="E1">урдыны</comp><comp ord="E2">pass. v:stä</comp></compg>
    </mg>
 </e>
 <e>
@@ -46199,7 +46199,7 @@ Possible errors following proofreading are, e. g., substitution of special fonts
        <t pos="V">pudottaa, pudotella</t>
      </tg>
    </mg>
-   <mg ind="2th"> <drvg><inflect>frek. v:stä</inflect><stem>уськытыны</stem></drvg>
+   <mg ind="2th"> <compg><comp ord="E1">уськытыны</comp><comp ord="E2">frek. v:stä</comp></compg>
    </mg>
 </e>
 <e>
@@ -49881,7 +49881,7 @@ Possible errors following proofreading are, e. g., substitution of special fonts
    <lg>
      <l pos="V">чуръяськыны</l><orig>чуръяськыны</orig>
    </lg>
-   <mg ind="1th"><drvg><inflect>pass. v:stä</inflect><stem>чуръяны</stem></drvg>
+   <mg ind="1th"><compg><comp ord="E1">чуръяны</comp><comp ord="E2">pass. v:stä</comp></compg>
    </mg>
    <mg ind="2th"><defNative>ӧръяськыны</defNative>
      <tg xml:lang="fin">
@@ -50330,7 +50330,7 @@ Possible errors following proofreading are, e. g., substitution of special fonts
    <lg>
      <l pos="V">чӧлляськыны</l><orig>чӧлляськыны</orig>
    </lg>
-   <mg ind="1th"><drvg><inflect>pass. v:stä</inflect><stem>чӧлляны</stem></drvg>
+   <mg ind="1th"><compg><comp ord="E1">чӧлляны</comp><comp ord="E2">pass. v:stä</comp></compg>
    </mg>
    <mg ind="2th"><note><i>iter.</i></note>
      <tg xml:lang="fin">
@@ -51232,7 +51232,7 @@ Possible errors following proofreading are, e. g., substitution of special fonts
        <xt xml:lang="fin">hoksasin heti mitä vastata, keksin heti vastauksen</xt>
      </xg>
    </mg>
-   <mg ind="2th"> <drvg><inflect>pass. v:stä</inflect><stem>шедьтыны</stem></drvg>
+   <mg ind="2th"> <compg><comp ord="E1">шедьтыны</comp><comp ord="E2">pass. v:stä</comp></compg>
    </mg>
 </e>
 <e>
@@ -53208,7 +53208,7 @@ Possible errors following proofreading are, e. g., substitution of special fonts
        <l_syn type="&gt;">шулдырскыны</l_syn>
      </variants>
    </mg>
-   <mg ind="2th"><drvg><inflect>pass. v:stä</inflect><stem>шулдыртыны</stem></drvg>
+   <mg ind="2th"><compg><comp ord="E1">шулдыртыны</comp><comp ord="E2">pass. v:stä</comp></compg>
    </mg>
 </e>
 <e>
@@ -53629,7 +53629,7 @@ Possible errors following proofreading are, e. g., substitution of special fonts
        <l_syn type="&gt;">шунскыны</l_syn>
      </variants>
    </mg>
-   <mg ind="2th"><drvg><inflect>pass. v:stä</inflect><stem>шунтыны</stem></drvg>
+   <mg ind="2th"><compg><comp ord="E1">шунтыны</comp><comp ord="E2">pass. v:stä</comp></compg>
    </mg>
 </e>
 <e>
@@ -54018,7 +54018,7 @@ Possible errors following proofreading are, e. g., substitution of special fonts
    <lg>
      <l pos="V">шымыръяны</l><orig>шымыръяны</orig>
    </lg>
-   <mg><drvg><inflect>iter. v:stä</inflect><stem>шымыртыны</stem></drvg>
+   <mg><compg><comp ord="E1">шымыртыны</comp><comp ord="E2">iter. v:stä</comp></compg>
    </mg>
 </e>
 <e>
@@ -55033,7 +55033,7 @@ Possible errors following proofreading are, e. g., substitution of special fonts
        <t pos="V">laittaa vuodeverho</t>
      </tg>
    </mg>
-   <mg ind="2th"> <drvg><inflect>pass. v:stä</inflect><stem>ынъяны</stem></drvg>
+   <mg ind="2th"> <compg><comp ord="E1">ынъяны</comp><comp ord="E2">pass. v:stä</comp></compg>
    </mg>
 </e>
 <e>
@@ -55768,7 +55768,7 @@ Possible errors following proofreading are, e. g., substitution of special fonts
        <t pos="V">katsahtaa (t. katsella, silmäillä, katsoa) ympärilleen</t>
      </tg>
    </mg>
-   <mg ind="3th"> <drvg><inflect>pass. v:stä</inflect><stem>эскерыны</stem></drvg>
+   <mg ind="3th"> <compg><comp ord="E1">эскерыны</comp><comp ord="E2">pass. v:stä</comp></compg>
    </mg>
 </e>
 <e>
@@ -58246,7 +58246,7 @@ Possible errors following proofreading are, e. g., substitution of special fonts
        <re>kehruulanka</re>
      </tg>
    </mg>
-   <mg ind="3th"> <drvg><inflect>pass. v:stä</inflect><stem>ӝоктыны</stem></drvg>
+   <mg ind="3th"> <compg><comp ord="E1">ӝоктыны</comp><comp ord="E2">pass. v:stä</comp></compg>
    </mg>
 </e>
 <e>
@@ -60567,7 +60567,7 @@ Possible errors following proofreading are, e. g., substitution of special fonts
        <t pos="V">lupautua tekemään jtak, luvata tehdä jtak</t>
      </tg>
    </mg>
-   <mg ind="3th"> <drvg><inflect>pass. v:stä</inflect><stem>ӵектыны</stem></drvg>
+   <mg ind="3th"> <compg><comp ord="E1">ӵектыны</comp><comp ord="E2">pass. v:stä</comp></compg>
    </mg>
 </e>
 <e>
@@ -60703,7 +60703,7 @@ Possible errors following proofreading are, e. g., substitution of special fonts
        <xt xml:lang="fin">kananpoikaset kuoriutuivat munasta yön kuluessa</xt>
      </xg>
    </mg>
-   <mg ind="3th"> <drvg><inflect>pass. v:stä</inflect><stem>ӵогыны</stem></drvg>
+   <mg ind="3th"> <compg><comp ord="E1">ӵогыны</comp><comp ord="E2">pass. v:stä</comp></compg>
    </mg>
 </e>
 <e>
@@ -61225,7 +61225,7 @@ Possible errors following proofreading are, e. g., substitution of special fonts
    <lg>
      <l pos="V">ӵошатӥськыны</l><orig>ӵошатӥськыны</orig>
    </lg>
-   <mg ind="1th"><drvg><inflect>pass. v:stä</inflect><stem>ӵошатыны </stem></drvg>
+   <mg ind="1th"><compg><comp ord="E1">ӵошатыны</comp><comp ord="E2">pass. v:stä</comp></compg>
    </mg>
    <mg ind="2th">
      <variants>
@@ -61316,7 +61316,7 @@ Possible errors following proofreading are, e. g., substitution of special fonts
        <t pos="V">lakaista, olla lakaisemassa</t>
      </tg>
    </mg>
-   <mg ind="2th"> <drvg><inflect>pass. v:stä</inflect><stem>ӵужыны</stem></drvg>
+   <mg ind="2th"> <compg><comp ord="E1">ӵужыны</comp><comp ord="E2">pass. v:stä</comp></compg>
    </mg>
 </e>
 <e>
@@ -62019,7 +62019,7 @@ Possible errors following proofreading are, e. g., substitution of special fonts
        <l_syn type="&gt;">ӵынатскыны</l_syn>
      </variants>
    </mg>
-   <mg ind="2th"><drvg><inflect>pass. v:stä</inflect><stem>ӵынатыны</stem></drvg>
+   <mg ind="2th"><compg><comp ord="E1">ӵынатыны</comp><comp ord="E2">pass. v:stä</comp></compg>
    </mg>
 </e>
 <e>

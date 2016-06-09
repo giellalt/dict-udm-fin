@@ -445,7 +445,7 @@ Possible errors following proofreading are, e. g., substitution of special fonts
    <lg>
      <l pos="Pron">маин</l><orig>маин</orig>
    </lg>
-   <mg><drvg><inflect>instr. pron:sta </inflect><stem>ма</stem></drvg>
+   <mg><compg><comp ord="E1">ма</comp><comp ord="E2">instr. pron:sta</comp></compg>
 <tg xml:lang="fin">
 <t>millä</t>
 </tg>
@@ -456,7 +456,7 @@ Possible errors following proofreading are, e. g., substitution of special fonts
    <lg>
      <l pos="Pron">малы</l><orig>малы</orig>
    </lg>
-   <mg ind="1th"><drvg><inflect>dat. pron:sta </inflect><stem>ма</stem></drvg>
+   <mg ind="1th"><compg><comp ord="E1">ма</comp><comp ord="E2">dat. pron:sta</comp></compg>
 <tg xml:lang="fin">
 <t>mille, miksi</t>
 </tg>
@@ -10455,6 +10455,22 @@ Possible errors following proofreading are, e. g., substitution of special fonts
      <xg><x>яна улыны</x>
        <xt xml:lang="fin">asua erillään</xt>
      </xg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Adv">полэс</l><orig>полэс</orig>
+     </lg>
+   <mg ind="2th"><defNative>коже</defNative>
+     <tg xml:lang="fin">
+       <t>vain, pelkästään;</t>
+     </tg>
+     <xg><x>дэрем полэс</x>
+       <xt xml:lang="fin">vain paita yllä</xt>
+     </xg>◊ <xg><x>йыр полэс</x>
+     <range>murt.</range>
+     <xt xml:lang="fin">paljain päin; avopäinen</xt>
+   </xg>
    </mg>
 </e>
 </r>

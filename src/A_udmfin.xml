@@ -170,7 +170,7 @@ Possible errors following proofreading are, e. g., substitution of special fonts
 <e> <lg><l pos="A">ваё-ваё</l><orig>ваёʼ-ваё</orig> </lg> <mg> <tg xml:lang="fin"> <t>monihaarainen</t> </tg> </mg> </e>
 <e> <lg> <l pos="A">важной</l><orig>ваʼжной</orig> </lg> <mg> <tg xml:lang="fin"> <t>tärkeä, merkittävä</t> </tg> <variants> <l_syn type="&gt;">йӧнлыко</l_syn> </variants> </mg> </e>
 <e> <lg> <l pos="A">вакчи</l><orig>вакчи</orig> </lg> <mg> <tg xml:lang="fin"> <t>lyhyt</t> </tg>◊ <xg><x>вакчи визь</x> <xt xml:lang="fin">tyhmyri, houkka</xt> </xg><font face="SmolenskSGR"><b>вакчи гож </b></font><field>kiel.</field> <tg xml:lang="fin"> <t>yhdysmerkki, tavuviiva</t> </tg> </mg> </e>
-<e> <lg> <l pos="A">вакчиятэм</l> <drvg><inflect type="Der/Эм" drv="Prc"/><stem>вакчиятыны</stem></drvg> </lg> <mg> <xg> <x>вакчиятэм кыл</x> <field>kiel.</field> <xt xml:lang="fin">lyhenne</xt> </xg> </mg> </e>
+<e> <lg> <l pos="A">вакчиятэм</l> <compg><comp ord="E1" pos="V">вакчиятыны</comp><comp ord="E2" type="Der/Эм" drv="Prc"/></compg> </lg> <mg> <xg> <x>вакчиятэм кыл</x> <field>kiel.</field> <xt xml:lang="fin">lyhenne</xt> </xg> </mg> </e>
 <e> <lg><l pos="A">валег</l><orig>валег</orig> </lg> <mg> <tg xml:lang="fin"> <t>liukas, luistava</t> </tg> <xg><x>сюрес туж валег</x> <xt xml:lang="fin">tie on oikein liukas</xt> </xg> <xg><x>татын валег</x> <xt xml:lang="fin">tässä on liukasta</xt> </xg> <variants> <l_syn type="&gt;">волег</l_syn> </variants> </mg> </e>
 <e> <lg> <l pos="A">валляла</l><orig>валляла</orig> </lg> <mg ind="1th"><defNative>вашкала</defNative> <tg xml:lang="fin"> <t>vanha, muinainen, muinaisaikainen</t> </tg> </mg> <mg ind="2th"><variants> <l_syn type="&gt;">валлян<rom ind="0_2"/></l_syn> </variants> </mg> </e>
 <e> <lg> <l pos="A">ваменэс</l><orig>ваменэс</orig> </lg> <mg> <tg xml:lang="fin"> <t>itsepäinen, uppiniskainen, itsepintainen</t> </tg> </mg> </e>
@@ -215,7 +215,7 @@ Possible errors following proofreading are, e. g., substitution of special fonts
 <e> <lg><l pos="A">вожо<rom ind="1"/></l> </lg> <mg><defNative>вож</defNative> <tg xml:lang="fin"> <t>vihreä</t> </tg><font face="SmolenskSGR">(<i>вожо-вожо</i>)</font> <tg xml:lang="fin"> <t>vihreätäpläinen</t> </tg> </mg> </e>
 <e> <lg><l pos="A">вожпыр</l><orig>воʼжпор</orig> <variants> <l_syn>вожпыръем</l_syn> </variants> </lg> <mg> <variants> <l_syn type="&gt;">вожалэс</l_syn> </variants> </mg> </e>
 <e> <lg> <l pos="A">вожпыръем</l><orig>воʼжпыръеʼм</orig> <variants> <l_syn>вожпыр</l_syn> </variants> </lg> <mg> <variants> <l_syn type="&gt;">вожалэс</l_syn> </variants> </mg> </e>
-<e> <lg><l pos="A">возьдаськись</l> <drvg><inflect type="Der/сь" drv="Prc"/><stem>возьдаськыны</stem></drvg> </lg> <mg ind="2th"><tg xml:lang="fin"> <t>ujo, kaino, häveliäs</t> </tg> </mg> </e>
+<e> <lg><l pos="A">возьдаськись</l> <compg><comp ord="E1" pos="V">возьдаськыны</comp><comp ord="E2" type="Der/сь" drv="Prc"/></compg> </lg> <mg ind="2th"><tg xml:lang="fin"> <t>ujo, kaino, häveliäs</t> </tg> </mg> </e>
 <e> <lg> <l pos="A">возьыто-буро</l><orig>возьытоʼ-буроʼ</orig> </lg> <mg> <tg xml:lang="fin"> <t>ujo, kaino, häveliäs</t> </tg> </mg> </e>
 <e> <lg> <l pos="A">возьыттэм</l><orig>возьыттэм</orig> </lg> <mg> <tg xml:lang="fin"> <t>hävytön, häpeämätön; tunnoton</t> </tg> </mg> </e>
 <e> <lg><l pos="A">волег</l><orig>волег</orig> </lg> <mg> <tg xml:lang="fin"> <t>liukas</t> </tg> <xg><x>йӧ вылын туж волег</x> <xt xml:lang="fin">jäällä on hyvin liukasta</xt> </xg><font face="SmolenskSGR"><b>валег</b></font> </mg> </e>
@@ -9781,7 +9781,7 @@ Possible errors following proofreading are, e. g., substitution of special fonts
 </e>
 <e>
    <lg>
-     <l pos="A">пӧзьтэм</l> <drvg><inflect type="Der/Эм" drv="Prc;V»N"/><stem>пӧзьтыны</stem></drvg>
+     <l pos="A">пӧзьтэм</l> <compg><comp ord="E1">пӧзьтыны</comp><comp ord="E2" type="Der/Эм" drv="Prc;V»N"/></compg>
    </lg>
    <mg ind="2th">
      <tg xml:lang="fin">
@@ -15471,6 +15471,51 @@ Possible errors following proofreading are, e. g., substitution of special fonts
      </tg>
      <xg><x>ят мурт</x>
        <xt xml:lang="fin">vieras (t. sivullinen) ihminen</xt>
+     </xg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="A">пор</l><orig>пор</orig>
+   </lg>
+   <mg>
+     <tg xml:lang="fin">
+       <t>marilainen</t>
+     </tg>
+     <xg><x>пор кыл</x>
+       <xt xml:lang="fin">mari(n kieli)</xt>
+     </xg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="A">полэс</l><orig>полэс</orig>
+   </lg>
+   <mg ind="1th">
+     <tg xml:lang="fin">
+       <t>=kertainen;</t>
+     </tg>
+     <xg><x>одӥг полэс</x>
+       <xt xml:lang="fin">yksinkertainen;</xt>
+     </xg>
+     <xg><x>уно полэс</x>
+       <xt xml:lang="fin">moninkertainen</xt>
+     </xg>
+   </mg>
+   </e>
+<e>
+   <lg>
+     <l pos="A">пожарной</l><orig>пожаʼрной</orig>
+   </lg>
+   <mg>
+     <tg xml:lang="fin">
+       <t>palo=, tulipalon</t>
+     </tg>
+     <xg><x>пожарной команда</x>
+       <xt xml:lang="fin">palokunta;</xt>
+     </xg>
+     <xg><x>пожарной машина</x>
+       <xt xml:lang="fin">paloauto;</xt>
      </xg>
    </mg>
 </e>
