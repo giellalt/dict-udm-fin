@@ -5839,7 +5839,7 @@ Possible errors following proofreading are, e. g., substitution of special fonts
    <lg>
      <l pos="N">бабон</l><orig>бабон</orig>
    </lg>
-   <mg><note><i>last.</i></note>
+   <mg><range>last.</range>
      <tg xml:lang="fin">
        <t pos="N">nukkuminen</t>
      </tg>
@@ -5922,7 +5922,7 @@ Possible errors following proofreading are, e. g., substitution of special fonts
    <lg>
      <l pos="N">бабытон</l><orig>бабытон</orig>
    </lg>
-   <mg><note><i>last.</i></note>
+   <mg><range>last.</range>
      <tg xml:lang="fin">
        <t pos="N">nukuttaminen, nukutus</t>
      </tg>
@@ -36288,7 +36288,7 @@ Possible errors following proofreading are, e. g., substitution of special fonts
    <lg>
      <l pos="N">коко</l><orig>коко</orig>
    </lg>
-   <mg><note><i>last.</i></note>
+   <mg><range>last.</range>
    <mg ind="1th"/><defNative>курегпус</defNative>
      <tg xml:lang="fin">
        <t pos="N">kananmuna</t>
@@ -49116,7 +49116,7 @@ Possible errors following proofreading are, e. g., substitution of special fonts
    <lg>
      <l pos="N">лёлё</l><orig>лёлё</orig>
    </lg>
-   <mg> <note><i>last.</i></note>
+   <mg> <range>last.</range>
      <tg xml:lang="fin">
        <t pos="N">maito, «maitonen»</t>
      </tg>
@@ -61034,7 +61034,7 @@ Possible errors following proofreading are, e. g., substitution of special fonts
    <lg>
      <l pos="N">папа<rom ind="2"/></l>
    </lg>
-   <mg><note><i>last.</i></note><font face="SmolenskSGR">(<i>атай</i>)</font>
+   <mg><range>last.</range><font face="SmolenskSGR">(<i>атай</i>)</font>
      <tg xml:lang="fin">
        <t pos="N">pappa, isä, iskä</t>
      </tg>
@@ -94161,7 +94161,7 @@ Possible errors following proofreading are, e. g., substitution of special fonts
    <lg>
      <l pos="N">чимы</l><orig>чимы</orig>
    </lg>
-   <mg ind="1th"><note><i>last.</i></note><font face="SmolenskSGR">(<i>син</i>)</font>
+   <mg ind="1th"><range>last.</range><font face="SmolenskSGR">(<i>син</i>)</font>
      <tg xml:lang="fin">
        <t pos="N">silmä(t)</t>
      </tg>

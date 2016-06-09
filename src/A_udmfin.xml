@@ -15519,4 +15519,30 @@ Possible errors following proofreading are, e. g., substitution of special fonts
      </xg>
    </mg>
 </e>
+<e>
+   <lg>
+     <l pos="A">чидантэм</l><orig>чидаʼнтэʼм</orig>
+     </lg>
+   <mg>
+     <tg xml:lang="fin">
+       <t>sietämätön, kestämätön;</t>
+       </tg>
+     <xg><x>чидантэм мурт</x>
+       <xt xml:lang="fin">sietämätön ihminen</xt>
+     </xg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="A">чечы</l><orig>чечы</orig>
+     </lg>
+   <mg>
+     <tg xml:lang="fin">
+       <t>metinen</t>
+       </tg>
+     <xg><x>чечы зын</x>
+       <xt xml:lang="fin">metinen tuoksu</xt>
+     </xg>
+   </mg>
+</e>
 </r>

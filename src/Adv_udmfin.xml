@@ -10473,4 +10473,17 @@ Possible errors following proofreading are, e. g., substitution of special fonts
    </xg>
    </mg>
 </e>
+<e>
+   <lg>
+     <l pos="Adv">чидантэм</l><orig>чидаʼнтэʼм</orig>
+   </lg>
+   <mg>
+     <tg xml:lang="fin">
+       <t>sietämättömästi, sietämättömän</t>
+     </tg>
+     <xg><x>чидантэм секыт</x>
+       <xt xml:lang="fin">sietämättömän vaikea;</xt>
+     </xg>
+   </mg>
+     </e>
 </r>

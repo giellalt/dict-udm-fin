@@ -114,7 +114,7 @@ Possible errors following proofreading are, e. g., substitution of special fonts
    <lg>
      <l pos="Interj">чур<rom ind="3"/></l>
    </lg>
-   <mg><note><i>last.</i></note>
+   <mg><range>last.</range>
      <tg xml:lang="fin">
        <t>:</t>
      </tg><font face="SmolenskSGR"><b>чур, мон нырысез </b></font><pos ind="Interj"/>
@@ -779,7 +779,7 @@ Possible errors following proofreading are, e. g., substitution of special fonts
    <lg>
      <l pos="Interj">чур<rom ind="3"/></l>
    </lg>
-   <mg><note><i>last.</i></note>
+   <mg><range>last.</range>
      <tg xml:lang="fin">
        <t>:</t>
      </tg><font face="SmolenskSGR"><b>чур, мон нырысез </b></font><pos ind="Interj"/>

@@ -469,9 +469,6 @@
      <xg><x>кулэм чечы</x>
        <xt xml:lang="fin">kiteytynyt (t. sakea, paksu) hunaja;</xt>
      </xg>
-     <xg><x>чечы зын</x>
-       <xt xml:lang="fin">metinen tuoksu;</xt>
-     </xg>
      <xg><x>чечы кыскыны</x> <x>чечы поттыны</x>
        <xt xml:lang="fin">lingota hunajaa;</xt>
      </xg>
@@ -491,12 +488,12 @@
        <xt xml:lang="fin">teelusikka</xt>
      </xg>
    </mg>
-</e>
+     </e>
 <e>
    <lg>
      <l pos="A;N">чечым</l><orig>чечым</orig>
    </lg>
-   <mg><note><i>last.</i></note>
+   <mg><range>last.</range>
    <mg ind="1th"/><defNative>ческыт</defNative>
      <tg xml:lang="fin">
        <t>herkullinen, hyvänmakuinen, maukas // herkku, hyvänmakuinen (t. maukas) ruoka</t>
@@ -537,34 +534,6 @@
      </tg>
      <xg><x>чиган кыл</x>
        <xt xml:lang="fin">romani, mustalaiskieli</xt>
-     </xg>
-   </mg>
-</e>
-<e>
-   <lg>
-     <l pos="Prc;A">чигись</l><orig>чигись</orig>
-   </lg>
-   <mg ind="1th"><compg><comp ord="E1" pos="V">чигыны</comp><comp ord="E2" type="Der/сь" drv="Prc"/></compg>
-   </mg>
-   <mg ind="2th">
-     <tg xml:lang="fin">
-       <t>helposti särkyvä (t. katkeava, taittuva), hauras</t>
-     </tg>
-   </mg>
-</e>
-<e>
-   <lg>
-     <l pos="Adv;A">чидантэм</l><orig>чидаʼнтэʼм</orig>
-   </lg>
-   <mg>
-     <tg xml:lang="fin">
-       <t>sietämättömästi, sietämättömän // sietämätön, kestämätön;</t>
-     </tg>
-     <xg><x>чидантэм секыт</x>
-       <xt xml:lang="fin">sietämättömän vaikea;</xt>
-     </xg>
-     <xg><x>чидантэм мурт</x>
-       <xt xml:lang="fin">sietämätön ihminen</xt>
      </xg>
    </mg>
 </e>
@@ -676,7 +645,7 @@
    <lg>
      <l pos="Descr;Adv">чотак</l><orig>чоʼтаʼк</orig>
    </lg>
-   <mg ind="1th"><note><i>deskr.</i></note>
+   <mg ind="1th"><pos>deskr.</pos>
      <tg xml:lang="fin">
        <t>:</t>
      </tg>
@@ -4755,7 +4724,7 @@
    <lg>
      <l pos="N;A">булгар</l><orig>булгар</orig>
    </lg>
-   <mg><note><i>hist.</i></note>
+   <mg><field>hist.</field>
      <tg xml:lang="fin">
        <t>:</t>
      </tg>
@@ -6115,7 +6084,7 @@
    <lg>
      <l pos="Descr;Adv">гимзит</l><orig>гимзит</orig>
    </lg>
-   <mg ind="1th"><note><i>deskr.</i></note>
+   <mg ind="1th"><pos>deskr.</pos>
      <tg xml:lang="fin">
        <t>:</t>
      </tg><font face="SmolenskSGR"><b>гимзит вырыны </b></font><font face="SmolenskSGR">(<i>гебыль вырыны</i>)</font>
@@ -6928,7 +6897,7 @@
    <lg>
      <l pos="Pcle">дыр<rom ind="2"/></l>
    </lg>
-   <mg><note><i>parent.</i></note>
+   <mg><pos>parent.</pos>
      <tg xml:lang="fin">
        <t>varmaan(kin), arvattavasti;</t>
      </tg><defNative>ӧвӧлтон дыръя</defNative>
@@ -7206,7 +7175,7 @@
        <l_syn>жальк</l_syn>
      </variants>
    </lg>
-   <mg><note><i>onom.</i></note>
+   <mg><pos>onom.</pos>
    <mg ind="1th"/><defNative>ву, тулкымъёс с-сь</defNative> <note><i>kuvaa aaltojen loiskahtamista</i></note>
      <tg xml:lang="fin">
        <t>: loiskis;</t>
@@ -7938,7 +7907,7 @@
    <lg>
      <l pos="Pcle">ик</l><orig>ик</orig>
    </lg>
-   <mg><note><i>part. vahv.</i></note>
+   <mg><pos>part. vahv.</pos>
    <mg ind="1th"/>
      <tg xml:lang="fin">
        <t>sama;</t>
@@ -8088,7 +8057,7 @@
        <xt xml:lang="fin">hän ei ole enää työssä siellä</xt>
      </xg>
    </mg>
-   <mg ind="2th"> <note><i>part. vahv.</i></note>
+   <mg ind="2th"> <pos>part. vahv.</pos>
      <tg xml:lang="fin">
        <t>jo;</t>
      </tg>
@@ -8140,7 +8109,7 @@
    <lg>
      <l pos="Pcle">иське</l><orig>иське</orig>
    </lg>
-   <mg><note><i>parent.</i></note>
+   <mg><pos>parent.</pos>
    <mg ind="1th"/><defNative>озьыен</defNative>
      <tg xml:lang="fin">
        <t>siis, näin (t. niin) ollen, niin muodoin;</t>
@@ -8680,7 +8649,7 @@
        <xt xml:lang="fin">täällä on paljon sinun kaltaisiasi</xt>
      </xg>
    </mg>
-   <mg ind="3th"> <note><i>parent.</i></note>
+   <mg ind="3th"> <pos>parent.</pos>
      <tg xml:lang="fin">
        <t>taitaa, kai;</t>
      </tg>
@@ -8984,7 +8953,7 @@
      </xg><defNative>ӧвӧлтон дыръя</defNative>
      <tg xml:lang="fin">
        <t>vaikka (ei), vaikkei, joskaan (ei), vaikkakaan (ei)</t>
-     </tg><mwemg ind="2th"/><note><i>part. vahv.</i></note>
+     </tg><mwemg ind="2th"/><pos>part. vahv.</pos>
      <tg xml:lang="fin">
        <t>edes, vaikka(pa);</t>
      </tg>
@@ -9117,7 +9086,7 @@
    <lg>
      <l pos="Pcle">керек<rom ind="2"/></l>
    </lg>
-   <mg><range>murt.</range><note><i>parent.</i></note><font face="SmolenskSGR">(<i>кадь, лэся</i>)</font>
+   <mg><range>murt.</range><pos>parent.</pos><font face="SmolenskSGR">(<i>кадь, лэся</i>)</font>
      <tg xml:lang="fin">
        <t>kai, taitaa;</t>
      </tg>
@@ -9756,7 +9725,7 @@
    <lg>
      <l pos="Pcle">коть</l><orig>коть</orig>
    </lg>
-   <mg ind="1th"><note><i>part. vahv.</i></note>
+   <mg ind="1th"><pos>part. vahv.</pos>
      <tg xml:lang="fin">
        <t>vaikka(pa), edes;</t>
      </tg>
@@ -9793,7 +9762,7 @@
    <lg>
      <l pos="A;Pron">котькыӵе</l><orig>коʼтькыӵеʼ</orig>
    </lg>
-   <mg><note><i>pron. indef.</i></note>
+   <mg><pos>pron. indef.</pos>
      <tg xml:lang="fin">
        <t>minkälainen (t. millainen) tahansa (t. hyvänsä), kaikenlainen, jokainen;</t>
      </tg>
@@ -9809,7 +9778,7 @@
        <l_syn>котьмар</l_syn>
      </variants>
    </lg>
-   <mg><note><i>pron. indef.</i></note>
+   <mg><pos>pron. indef.</pos>
      <tg xml:lang="fin">
        <t>mikä tahansa (t. hyvänsä); mitä tahansa (t. hyvänsä); kaikki, kaikenlainen;</t>
      </tg>
@@ -9837,7 +9806,7 @@
        <l_syn>котьма</l_syn>
      </variants>
    </lg>
-   <mg><note><i>pron. indef.</i></note>
+   <mg><pos>pron. indef.</pos>
      <tg xml:lang="fin">
        <t>mikä tahansa (t. hyvänsä); mitä tahansa (t. hyvänsä); kaikki, kaikenlainen;</t>
      </tg>
@@ -10165,7 +10134,7 @@
    <lg>
      <l pos="Pron">кудды</l><orig>кудды</orig>
    </lg>
-   <mg><note><i>pron. interr.</i></note>
+   <mg><pos>pron. interr.</pos>
      <tg xml:lang="fin">
        <t>kuka teistä;</t>
      </tg><font face="SmolenskSGR">(<i>кык пӧлысь</i>)</font>
@@ -10184,7 +10153,7 @@
    <lg>
      <l pos="Pron">кудзы</l><orig>кудзы</orig>
    </lg>
-   <mg><note><i>pron. interr.</i></note><font face="SmolenskSGR">(<i>кин</i>)</font>
+   <mg><pos>pron. interr.</pos><font face="SmolenskSGR">(<i>кин</i>)</font>
      <tg xml:lang="fin">
        <t>kuka heistä;</t>
      </tg><font face="SmolenskSGR">(<i>мар</i>)</font>
@@ -10244,7 +10213,7 @@
    <lg>
      <l pos="Pron">кудӥз</l><orig>кудӥз</orig>
    </lg>
-   <mg ind="1th"><note><i>pron. interr.</i></note><font face="SmolenskSGR">(<i>мар</i>)</font>
+   <mg ind="1th"><pos>pron. interr.</pos><font face="SmolenskSGR">(<i>мар</i>)</font>
      <tg xml:lang="fin">
        <t>mikä</t>
        <re>niistä</re>;
@@ -10263,7 +10232,7 @@
        <xt xml:lang="fin">kumpi talo on korkeampi, tuo vai tämä?</xt>
      </xg>
    </mg>
-   <mg ind="2th"> <note><i>pron. indef.</i></note><font face="SmolenskSGR">(<i>кудӥз ке</i>)</font>
+   <mg ind="2th"> <pos>pron. indef.</pos><font face="SmolenskSGR">(<i>кудӥз ке</i>)</font>
      <tg xml:lang="fin">
        <t>joku; jokin;</t>
      </tg>
@@ -10300,7 +10269,7 @@
    <lg>
      <l pos="Pron">кудмы</l><orig>кудмы</orig>
    </lg>
-   <mg><note><i>pron. interr.</i></note>
+   <mg><pos>pron. interr.</pos>
      <tg xml:lang="fin">
        <t>kuka meistä;</t>
      </tg> <font face="SmolenskSGR">(<i>кык пӧлысь</i>)</font>
@@ -10316,7 +10285,7 @@
    <lg>
      <l pos="Pron">куд-огез</l><orig>куд-огез</orig>
    </lg>
-   <mg><note><i>pron. indef.</i></note>
+   <mg><pos>pron. indef.</pos>
      <tg xml:lang="fin">
        <t>jotkut, jotkin, eräät, muutamat; jokin, joku, eräs, muutama;</t>
      </tg>
@@ -10468,7 +10437,7 @@
        <re>useista</re>
      </tg>
    </mg>
-   <mg ind="2th"> <note><i>parent.</i></note>
+   <mg ind="2th"> <pos>parent.</pos>
      <tg xml:lang="fin">
        <t>kolmanneksi</t>
      </tg>
@@ -10917,7 +10886,7 @@
        <re>useista</re>
      </tg>
    </mg>
-   <mg ind="2th"> <note><i>parent.</i></note>
+   <mg ind="2th"> <pos>parent.</pos>
      <tg xml:lang="fin">
        <t>toiseksi</t>
      </tg>
@@ -10927,7 +10896,7 @@
    <lg>
      <l pos="Pron">кыкмы</l><orig>кыкмы</orig>
    </lg>
-   <mg><note><i>pron. indef.</i></note>
+   <mg><pos>pron. indef.</pos>
      <tg xml:lang="fin">
        <t>kaksi meistä;</t>
      </tg>
@@ -10940,7 +10909,7 @@
    <lg>
      <l pos="Pron">кыкнады</l><orig>кыкнаʼдо</orig>
    </lg>
-   <mg ind="1th"><note><i>pron. indef.</i></note><font face="SmolenskSGR">(<i>кыкты ик</i>)</font>
+   <mg ind="1th"><pos>pron. indef.</pos><font face="SmolenskSGR">(<i>кыкты ик</i>)</font>
      <tg xml:lang="fin">
        <t>te molemmat, te kumpikin, molemmat (t. kumpikin) teistä</t>
      </tg>
@@ -10955,7 +10924,7 @@
    <lg>
      <l pos="Pron">кыкназы</l><orig>кыкнаʼзо</orig>
    </lg>
-   <mg ind="1th"><note><i>pron. indef.</i></note><font face="SmolenskSGR">(<i>кыксы ик</i>)</font>
+   <mg ind="1th"><pos>pron. indef.</pos><font face="SmolenskSGR">(<i>кыксы ик</i>)</font>
      <tg xml:lang="fin">
        <t>he molemmat, he kumpikin, molemmat (t. kumpikin) heistä</t>
      </tg>
@@ -10970,7 +10939,7 @@
    <lg>
      <l pos="Pron">кыкнамы</l><orig>кыкнаʼмо</orig>
    </lg>
-   <mg ind="1th"><note><i>pron. indef.</i></note><font face="SmolenskSGR">(<i>кыкмы ик</i>)</font>
+   <mg ind="1th"><pos>pron. indef.</pos><font face="SmolenskSGR">(<i>кыкмы ик</i>)</font>
      <tg xml:lang="fin">
        <t>me molemmat, me kumpikin, molemmat (t. kumpikin) meistä</t>
      </tg>
@@ -10985,7 +10954,7 @@
    <lg>
      <l pos="Pron">кыксы</l><orig>кыксы</orig>
    </lg>
-   <mg><note><i>pron. indef.</i></note>
+   <mg><pos>pron. indef.</pos>
      <tg xml:lang="fin">
        <t>kaksi heistä;</t>
      </tg>
@@ -10998,7 +10967,7 @@
    <lg>
      <l pos="Pron">кыкты</l><orig>кыкты</orig>
    </lg>
-   <mg><note><i>pron. indef.</i></note>
+   <mg><pos>pron. indef.</pos>
      <tg xml:lang="fin">
        <t>kaksi teistä;</t>
      </tg>
@@ -11537,7 +11506,7 @@
        <l_syn>либырак</l_syn>
      </variants>
    </lg>
-   <mg><note><i>deskr.</i></note>
+   <mg><pos>deskr.</pos>
      <tg xml:lang="fin">
        <t>:</t>
      </tg><font face="SmolenskSGR"><b>либрак луыны </b></font><mwemg ind="1th"/>
@@ -11560,7 +11529,7 @@
        <l_syn>либрак</l_syn>
      </variants>
    </lg>
-   <mg><note><i>deskr.</i></note>
+   <mg><pos>deskr.</pos>
      <tg xml:lang="fin">
        <t>:</t>
      </tg><font face="SmolenskSGR"><b>либырак луыны </b></font><mwemg ind="1th"/>
@@ -11627,7 +11596,7 @@
    <lg>
      <l pos="Descr;Adv">лосырак</l><orig>лоʼсыраʼк</orig>
    </lg>
-   <mg><note><i>onom.</i></note>
+   <mg><pos>onom.</pos>
      <tg xml:lang="fin">
        <t>rusahtaen, rouskahtaen;</t>
      </tg>
@@ -11665,7 +11634,7 @@
    </lg>
    <mg ind="1th"><font face="SmolenskSGR"><i>луыны-</i></font><note><i>verbin futuurin yksikön 3. persoona</i></note>
    </mg>
-   <mg ind="2th"> <note><i>parent.</i></note>
+   <mg ind="2th"> <pos>parent.</pos>
      <tg xml:lang="fin">
        <t>varmaan(kin), arvattavasti;</t>
      </tg><defNative>ӧвӧлтон дыръя</defNative>
@@ -11865,7 +11834,7 @@
    <lg>
      <l pos="Pcle">лэся</l><orig>лэся</orig>
    </lg>
-   <mg><note><i>parent.</i></note>
+   <mg><pos>parent.</pos>
      <tg xml:lang="fin">
        <t>kai, kaiketi, luultavasti, nähtävästi;</t>
      </tg>
@@ -12277,7 +12246,7 @@
 <e>
    <lg><l>мама<rom ind="1"/></l>
    </lg>
-   <mg><note><i>last.</i></note><font face="SmolenskSGR">(<i>анай</i>)</font>
+   <mg><range>last.</range><font face="SmolenskSGR">(<i>анай</i>)</font>
      <tg xml:lang="fin">
        <t>äiti</t>
      </tg>
@@ -12308,7 +12277,7 @@
    <lg>
      <l pos="Pron">мар</l><orig>мар</orig>
    </lg>
-   <mg ind="1th"><note><i>pron. interr.</i></note>
+   <mg ind="1th"><pos>pron. interr.</pos>
      <tg xml:lang="fin">
        <t>mikä, mitä; minkä;</t>
      </tg>
@@ -12398,7 +12367,7 @@
    <lg>
      <l pos="Pcle">марым</l><orig>марым</orig>
    </lg>
-   <mg><note><i>parent.</i></note><range>puhek.</range><note>(<i>mieleen juolahtamattoman sanan asemesta</i>)</note>
+   <mg><pos>parent.</pos><range>puhek.</range><note>(<i>mieleen juolahtamattoman sanan asemesta</i>)</note>
      <tg xml:lang="fin">
        <t> tuota (niin), no (tuota), tuo, siis, niinku;</t>
      </tg>
@@ -12414,7 +12383,7 @@
    <lg>
      <l pos="Pcle">марысь-мар: марысь-мар ке</l>
    </lg>
-   <mg><note><i>parent.</i></note>
+   <mg><pos>parent.</pos>
      <tg xml:lang="fin">
        <t>jos jotain tapahtuu; jos tulee mahdollisuus;</t>
      </tg>
@@ -12716,7 +12685,7 @@
        <t>meillä</t>
      </tg>
    </mg>
-   <mg ind="2th"> <note><i>pron. poss.</i></note>
+   <mg ind="2th"> <pos>pron. poss.</pos>
      <tg xml:lang="fin">
        <t>meidän;</t>
      </tg>
@@ -12956,7 +12925,7 @@
    <lg>
      <l pos="Pron">мукетыз</l><orig>мукетыз</orig>
    </lg>
-   <mg><note><i>pron. indef.</i></note>
+   <mg><pos>pron. indef.</pos>
      <tg xml:lang="fin">
        <t>toinen, muu</t>
        <re>kahdesta</re>;
@@ -13172,7 +13141,7 @@
        <t>minulla;</t>
      </tg>
    </mg>
-   <mg ind="2th"> <note><i>pron. poss.</i></note>
+   <mg ind="2th"> <pos>pron. poss.</pos>
      <tg xml:lang="fin">
        <t>minun;</t>
      </tg>
@@ -13219,7 +13188,7 @@
        <t>minulta</t>
      </tg>
    </mg>
-   <mg ind="2th"> <note><i>pron. poss.</i></note>
+   <mg ind="2th"> <pos>pron. poss.</pos>
      <tg xml:lang="fin">
        <t>minun</t>
      </tg>•
@@ -13381,7 +13350,7 @@
    <lg>
      <l pos="Pcle">на</l><orig>на</orig>
    </lg>
-   <mg><note><i>part. vahv.</i></note>
+   <mg><pos>part. vahv.</pos>
      <tg xml:lang="fin">
        <t>vielä;</t>
      </tg>
@@ -13795,7 +13764,7 @@
    <lg>
      <l pos="Pcle">но<rom ind="2"/></l>
    </lg>
-   <mg><note><i>part. vahv.</i></note>
+   <mg><pos>part. vahv.</pos>
      <tg xml:lang="fin">
        <t>=kin;</t>
      </tg><defNative>ӧвӧлтон дыръя</defNative>
@@ -13841,7 +13810,7 @@
    <lg>
      <l pos="Pron">нокин</l><orig>ноʼкиʼн</orig>
    </lg>
-   <mg><note><i>pron. kielt.</i></note>
+   <mg><pos>pron. kielt.</pos>
      <tg xml:lang="fin">
        <t>(ei) kukaan;</t>
      </tg>
@@ -13894,7 +13863,7 @@
    <lg>
      <l pos="Pron">нокудӥз</l><orig>ноʼкудӥʼз</orig>
    </lg>
-   <mg><note><i>pron. kielt.</i></note>
+   <mg><pos>pron. kielt.</pos>
      <tg xml:lang="fin">
        <t>(ei) mikään</t>
        <re>niistä</re>;
@@ -14098,7 +14067,7 @@
    <lg>
      <l pos="Pron">нокыӵе</l><orig>ноʼкыӵеʼ</orig>
    </lg>
-   <mg><note><i>pron. kielt.</i></note>
+   <mg><pos>pron. kielt.</pos>
      <tg xml:lang="fin">
        <t>(ei) minkäänlainen, (ei) mikään</t>
      </tg>◊ <font face="SmolenskSGR"><b>(солы) нокыӵе но ӧвӧл</b> (<i>я. </i></font>
@@ -14114,7 +14083,7 @@
        <l_syn>номыре</l_syn>
      </variants>
    </lg>
-   <mg><note><i>pron. kielt.</i></note>
+   <mg><pos>pron. kielt.</pos>
    <mg ind="1th"/>
      <tg xml:lang="fin">
        <t>(ei) mitään, (ei) mikään;</t>
@@ -14154,7 +14123,7 @@
        <l_syn>номыр</l_syn>
      </variants>
    </lg>
-   <mg><note><i>pron. kielt.</i></note>
+   <mg><pos>pron. kielt.</pos>
    <mg ind="1th"/>
      <tg xml:lang="fin">
        <t>(ei) mitään, (ei) mikään;</t>
@@ -14191,7 +14160,7 @@
    <lg>
      <l pos="Pron">номырин</l><orig>ноʼмыриʼн</orig>
    </lg>
-   <mg><note><i>pron. kielt.</i></note>
+   <mg><pos>pron. kielt.</pos>
    <mg ind="1th"/>
      <tg xml:lang="fin">
        <t>(ei) millään;</t>
@@ -14456,7 +14425,7 @@
        <xt xml:lang="fin">edellinen oli tätä isompi</xt>
      </xg>
    </mg>
-   <mg ind="4th"> <note><i>parent.</i></note>
+   <mg ind="4th"> <pos>parent.</pos>
      <tg xml:lang="fin">
        <t>ensiksi(kin), ensinnä(kin)</t>
      </tg>
@@ -14505,7 +14474,7 @@
    <lg>
      <l pos="Pron">ньыльназы</l><orig>ньыльнаʼзо</orig>
    </lg>
-   <mg ind="1th"><note><i>pron. indef.</i></note><font face="SmolenskSGR">(<i>ньыльзы ик</i>)</font>
+   <mg ind="1th"><pos>pron. indef.</pos><font face="SmolenskSGR">(<i>ньыльзы ик</i>)</font>
      <tg xml:lang="fin">
        <t>he (t. ne) kaikki neljä, jokainen heistä (t. niistä) neljästä</t>
      </tg>
@@ -14520,7 +14489,7 @@
    <lg>
      <l pos="Pron">ньыльнамы</l><orig>ньыльнаʼмо</orig>
    </lg>
-   <mg ind="1th"><note><i>pron. indef.</i></note><font face="SmolenskSGR">(<i>ньыльмы ик</i>)</font>
+   <mg ind="1th"><pos>pron. indef.</pos><font face="SmolenskSGR">(<i>ньыльмы ик</i>)</font>
      <tg xml:lang="fin">
        <t>me kaikki neljä, jokainen meistä neljästä</t>
      </tg>
@@ -14778,7 +14747,7 @@
    <lg>
      <l pos="Pron">огез</l><orig>огез</orig>
    </lg>
-   <mg><note><i>pron. indef.</i></note>
+   <mg><pos>pron. indef.</pos>
    <mg ind="1th"/>
      <tg xml:lang="fin">
        <t>yksi</t>
@@ -14830,7 +14799,7 @@
    <lg>
      <l pos="Pron">огзы</l><orig>огзы</orig>
    </lg>
-   <mg><note><i>pron. indef.</i></note>
+   <mg><pos>pron. indef.</pos>
      <tg xml:lang="fin">
        <t>yksi heistä;</t>
      </tg>
@@ -14904,7 +14873,7 @@
    <lg>
      <l pos="Pron">огмы</l><orig>огмы</orig>
    </lg>
-   <mg><note><i>pron. indef.</i></note>
+   <mg><pos>pron. indef.</pos>
      <tg xml:lang="fin">
        <t>yksi meistä;</t>
      </tg>
@@ -15100,7 +15069,7 @@
      </tg>
      <xg><x>отын огъя калык</x>
        <xt xml:lang="fin">se on täynnä väkeä</xt>
-     </xg>◊ <font face="SmolenskSGR"><b>огъя вераса </b></font><note><i>parent.</i></note>
+     </xg>◊ <font face="SmolenskSGR"><b>огъя вераса </b></font><pos>parent.</pos>
      <tg xml:lang="fin">
        <t>ylimalkaan (t. yleisesti katsoen);</t>
      </tg><font face="SmolenskSGR">(<i>огкылын, вакчияк</i>)</font>
@@ -15289,7 +15258,7 @@
        <t>voi että, kylläpä; oho(h)</t>
      </tg>
    </mg>
-   <mg ind="2th"> <note><i>parent.</i></note><font face="SmolenskSGR">(<i>котьмар ке но</i>)</font>
+   <mg ind="2th"> <pos>parent.</pos><font face="SmolenskSGR">(<i>котьмар ке но</i>)</font>
      <tg xml:lang="fin">
        <t>kuitenkin, sittenkin; mutta</t>
      </tg>
@@ -15425,7 +15394,7 @@
    <lg>
      <l pos="Pron">олокин</l><orig>олоʼкиʼн</orig>
    </lg>
-   <mg><note><i>pron. indef.</i></note>
+   <mg><pos>pron. indef.</pos>
      <tg xml:lang="fin">
        <t>ties kuka;</t>
      </tg>
@@ -15473,7 +15442,7 @@
    <lg>
      <l pos="Pron">олокудды</l><orig>олоʼкаддо</orig>
    </lg>
-   <mg><note><i>pron. indef.</i></note>
+   <mg><pos>pron. indef.</pos>
      <tg xml:lang="fin">
        <t>ties kuka teistä;</t>
      </tg><font face="SmolenskSGR">(<i>кык пӧлысь</i>)</font>
@@ -15486,7 +15455,7 @@
    <lg>
      <l pos="Pron">олокудзы</l><orig>олоʼкадзо</orig>
    </lg>
-   <mg><note><i>pron. indef.</i></note>
+   <mg><pos>pron. indef.</pos>
      <tg xml:lang="fin">
        <t>ties kuka heistä;</t>
      </tg><font face="SmolenskSGR">(<i>кык пӧлысь</i>)</font>
@@ -15499,7 +15468,7 @@
    <lg>
      <l pos="Pron">олокудӥз</l><orig>олоʼкадӥʼз</orig>
    </lg>
-   <mg><note><i>pron. indef.</i></note><font face="SmolenskSGR">(<i>олома</i>)</font>
+   <mg><pos>pron. indef.</pos><font face="SmolenskSGR">(<i>олома</i>)</font>
      <tg xml:lang="fin">
        <t>ties mikä</t>
        <re>niistä</re>;
@@ -15531,7 +15500,7 @@
    <lg>
      <l pos="Pron">олокудмы</l><orig>олоʼкадмо</orig>
    </lg>
-   <mg><note><i>pron. indef.</i></note>
+   <mg><pos>pron. indef.</pos>
      <tg xml:lang="fin">
        <t>ties kuka</t>
      </tg>
@@ -15644,7 +15613,7 @@
    <lg>
      <l pos="Pron">олокыӵе</l><orig>олоʼкоӵеʼ</orig>
    </lg>
-   <mg><note><i>pron. indef.</i></note>
+   <mg><pos>pron. indef.</pos>
      <tg xml:lang="fin">
        <t>ties mikä; ties kuka; ties minkälainen (t. millainen);</t>
      </tg>
@@ -15663,7 +15632,7 @@
    <lg>
      <l pos="Pron">олома</l><orig>олоʼмаʼ</orig>
    </lg>
-   <mg> <note><i>pron. indef.</i></note>
+   <mg> <pos>pron. indef.</pos>
      <tg xml:lang="fin">
        <t>ties mikä (t. mitä);</t>
      </tg>
@@ -16231,7 +16200,7 @@
    <lg>
      <l pos="Pcle">пе</l><orig>пе</orig>
    </lg>
-   <mg><note><i>parent.</i></note>
+   <mg><pos>parent.</pos>
      <tg xml:lang="fin">
        <t>kuulemma, muka(mas);</t>
      </tg>
@@ -18077,7 +18046,7 @@
        <t>häneltä; siltä</t>
      </tg>
    </mg>
-   <mg ind="2th"> <note><i>pron. poss.</i></note>
+   <mg ind="2th"> <pos>pron. poss.</pos>
      <tg xml:lang="fin">
        <t>hänen;</t>
      </tg><font face="SmolenskSGR">(<i>арбери, лулос с-сь</i>)</font>
@@ -19422,7 +19391,7 @@
        <xt xml:lang="fin">pilkkopimeä (t. säkkipimeä) yö</xt>
      </xg>
    </mg>
-   <mg ind="2th"> <font face="SmolenskSGR"><b>(тёʼп-тёʼп) </b></font><note><i>onom.</i></note><font face="SmolenskSGR">(<i>шап-шап</i>)</font> <note><i>kuvaa veden t. sateen tippumista</i></note>
+   <mg ind="2th"> <font face="SmolenskSGR"><b>(тёʼп-тёʼп) </b></font><pos>onom.</pos><font face="SmolenskSGR">(<i>шап-шап</i>)</font> <note><i>kuvaa veden t. sateen tippumista</i></note>
      <tg xml:lang="fin">
        <t>: tip-tip</t>
      </tg>
@@ -19489,7 +19458,7 @@
        <t>teiltä</t>
      </tg>
    </mg>
-   <mg ind="2th"> <note><i>pron. poss.</i></note>
+   <mg ind="2th"> <pos>pron. poss.</pos>
      <tg xml:lang="fin">
        <t>teidän;</t>
      </tg>
@@ -19507,7 +19476,7 @@
        <t>teillä</t>
      </tg>
    </mg>
-   <mg ind="2th"> <note><i>pron. poss.</i></note>
+   <mg ind="2th"> <pos>pron. poss.</pos>
      <tg xml:lang="fin">
        <t>teidän;</t>
      </tg>
@@ -19920,7 +19889,7 @@
        <t>sinulla</t>
      </tg>
    </mg>
-   <mg ind="2th"> <note><i>pron. poss.</i></note>
+   <mg ind="2th"> <pos>pron. poss.</pos>
      <tg xml:lang="fin">
        <t>sinun;</t>
      </tg>
@@ -19948,7 +19917,7 @@
        <t>sinulta</t>
      </tg>
    </mg>
-   <mg ind="2th"> <note><i>pron. poss.</i></note>
+   <mg ind="2th"> <pos>pron. poss.</pos>
      <tg xml:lang="fin">
        <t>sinun;</t>
      </tg>
@@ -20063,7 +20032,7 @@
    <lg>
      <l pos="Pcle">уга</l><orig>уга</orig>
    </lg>
-   <mg><note><i>part. vahv.</i></note>
+   <mg><pos>part. vahv.</pos>
      <tg xml:lang="fin">
        <t>=han / =hän;</t>
      </tg>
@@ -20982,7 +20951,7 @@
    <lg>
      <l pos="Descr;Adv">урыз</l><orig>урыз</orig>
    </lg>
-   <mg><note><i>deskr.</i></note>
+   <mg><pos>deskr.</pos>
      <tg xml:lang="fin">
        <t>:</t>
      </tg>
@@ -20995,7 +20964,7 @@
    <lg>
      <l pos="Pcle">уске</l><orig>уске</orig>
    </lg>
-   <mg><note><i>parent.</i></note><range>puhek.</range>
+   <mg><pos>parent.</pos><range>puhek.</range>
    <mg ind="1th"/><defNative>озьыен</defNative>
      <tg xml:lang="fin">
        <t> siis, näin (t. niin) ollen, niin muodoin;</t>
@@ -21884,7 +21853,7 @@
    <lg>
      <l pos="A;N">чечым</l><orig>чечым</orig>
    </lg>
-   <mg><note><i>last.</i></note>
+   <mg><range>last.</range>
    <mg ind="1th"/><defNative>ческыт</defNative>
      <tg xml:lang="fin">
        <t>herkullinen, hyvänmakuinen, maukas // herkku, hyvänmakuinen (t. maukas) ruoka</t>
@@ -22064,7 +22033,7 @@
    <lg>
      <l pos="Descr;Adv">чотак</l><orig>чоʼтаʼк</orig>
    </lg>
-   <mg ind="1th"><note><i>deskr.</i></note>
+   <mg ind="1th"><pos>deskr.</pos>
      <tg xml:lang="fin">
        <t>:</t>
      </tg>

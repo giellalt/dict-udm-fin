@@ -200,7 +200,7 @@ Possible errors following proofreading are, e. g., substitution of special fonts
    <lg>
      <l pos="V">бабытыны</l><orig>бабытыны</orig>
    </lg>
-   <mg><note><i>last.</i></note>
+   <mg><range>last.</range>
      <tg xml:lang="fin">
        <t pos="V">nukuttaa, saattaa uneen</t>
      </tg>
@@ -49047,7 +49047,7 @@ Possible errors following proofreading are, e. g., substitution of special fonts
    <lg>
      <l pos="V">чимыяськыны</l><orig>чимыяськыны</orig>
    </lg>
-   <mg><note><i>last.</i></note>
+   <mg><range>last.</range>
    <mg ind="1th"/><defNative>синъёсты ворсаны</defNative>
      <tg xml:lang="fin">
        <t pos="V">siristellä (t. siristää) silmiään, sulkea silmät, panna silmät kiinni</t>
@@ -49252,7 +49252,7 @@ Possible errors following proofreading are, e. g., substitution of special fonts
    <lg>
      <l pos="V">чисяны</l><orig>чисяны</orig>
    </lg>
-   <mg><note><i>last.</i></note>
+   <mg><range>last.</range>
      <tg xml:lang="fin">
        <t pos="V">pissata</t>
      </tg><font face="SmolenskSGR">(<i>улэ чисян</i>)</font>

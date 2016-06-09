@@ -83,4 +83,14 @@
      </tg>
    </mg>
 </e>
+<e>
+   <lg>
+     <l pos="V(Descr::V)">тэтэ карыны</l>
+   </lg>
+   <mg><range>last.</range>
+     <tg xml:lang="fin">
+       <t>ryhtyä kulkemaan</t>
+     </tg>
+   </mg>
+</e>
 </r>
