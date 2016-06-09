@@ -80,4 +80,56 @@ Possible errors following proofreading are, e. g., substitution of special fonts
 <e> <lg> <l pos="Po">вӧзысь</l><orig>вӧзысь</orig> </lg> <mg> <tg xml:lang="fin"> <t>vierestä;</t> </tg> <xg><x>тон вӧзысь кошкыны</x> <xt xml:lang="fin">lähteä pois sinun vierestäsi</xt> </xg> </mg> </e>
 <e> <lg> <l pos="Po">вылозь</l><orig>вылозь</orig> </lg> <mg> <tg xml:lang="fin"> <t>=lle (asti), päälle (asti);</t> </tg> <xg><x>сюрес вылозь келяны</x> <xt xml:lang="fin">saattaa tielle (asti)</xt> </xg> </mg> </e>
 <e> <lg> <l pos="Po">вылысен</l> </lg> <mg ind="2th"> <tg xml:lang="fin"> <t>=lta / =ltä, päältä; =lla / =llä, päällä;</t> </tg> <xg><x>пукон вылысен но мыным адӟиське</x> <xt xml:lang="fin">tuoliltakin minulle näkyy;</xt> </xg> <xg><x>сюрес вылысен пумиськимы</x> <xt xml:lang="fin">me tapasimme tiellä</xt> </xg> </mg> </e>
+<e>
+   <lg>
+     <l pos="Po">понна</l><orig>понна</orig>
+   </lg>
+   <mg ind="1th"><pos ind="Po"/><font face="SmolenskSGR">(<i>кинлы ке, марлы ке</i>)</font>
+     <tg xml:lang="fin">
+       <t>varten, hyväksi</t>
+     </tg>
+     <xg><x>ваньмыз со тон понна лэсьтэмын</x>
+       <xt xml:lang="fin">kaikki on tehty sinua varten (t. sinun hyväksesi)</xt>
+     </xg>
+   </mg>
+   <mg ind="2th"> <pos ind="Po"/><font face="SmolenskSGR">(<i>сэрен</i>)</font>
+     <tg xml:lang="fin">
+       <t>takia, vuoksi, tähden;</t>
+     </tg><font face="SmolenskSGR"><b>быриз ук каръян пинал дауре дас тямыс арес ныл понна </b></font><note><i>kansanl.</i></note>
+     <tg xml:lang="fin">
+       <t>nuoruusparkani loppui kahdeksantoistaikäisen tytön takia</t>
+     </tg>
+   </mg>
+   <mg ind="3th"> <pos ind="Po"/><font face="SmolenskSGR">(<i>кин ке, мар ке пумысен, ласянь</i>)</font>
+     <tg xml:lang="fin">
+       <t>puolesta, =sta / =stä;</t>
+     </tg>
+     <xg><x>кин ке понна куарадэ сётыны</x>
+       <xt xml:lang="fin">äänestää jnk puolesta;</xt>
+     </xg>
+     <xg><x>мар понна премия басьтӥд?</x>
+       <xt xml:lang="fin">mistä sait palkinnon?;</xt>
+     </xg>
+     <xg><x>тӥ понна мон весь сюлмаськисько</x>
+       <xt xml:lang="fin">olen aina huolissani puolestanne, minun on aina huoli teistä</xt>
+     </xg>
+   </mg>
+   <mg ind="4th"> <pos ind="Po"/><font face="SmolenskSGR">(<i>марлы ке мыныны</i>)</font> <note><i>käännetään noudannan päämäärää t. kohdetta ilmaisevalla finaalirakenteella</i></note>
+     <tg xml:lang="fin">
+       <t>:</t>
+     </tg>
+     <xg><x>врач понна ыстыны</x>
+       <xt xml:lang="fin">lähettää noutamaan lääkäriä;</xt>
+     </xg>
+     <xg><x>ву понна ветлыны</x>
+       <xt xml:lang="fin">käydä vettä hakemassa;</xt>
+     </xg>
+     <xg><x>ву понна мыныны</x>
+       <xt xml:lang="fin">mennä vettä hakemaan;</xt>
+     </xg>
+     <xg><x>магазинэ нянь понна мыныны</x>
+       <xt xml:lang="fin">mennä kauppaan leipää ostamaan</xt>
+     </xg>
+   </mg>
+</e>
 </r>

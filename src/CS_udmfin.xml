@@ -42,4 +42,26 @@ Possible errors following proofreading are, e. g., substitution of special fonts
      </xg>
    </mg>
 </e>
+<e>
+   <lg>
+     <l pos="CS">понна</l><orig>понна</orig>
+   </lg>
+   <mg ind="5th"> <note><i>konj:na</i></note>
+     <tg xml:lang="fin">
+       <t>jotta, että, sen tähden (t. vuoksi) että;</t>
+     </tg>
+     <xg><x>мон туннэ вазь султӥ, вань ужъёсме быдэстыны понна</x>
+       <xt xml:lang="fin">tänään minä nousin aikaisin, jotta ehtisin tehdä kaikki työt;</xt>
+     </xg>
+     <xg><x>мон дыртӥсько, лекцие вуыны понна</x>
+       <xt xml:lang="fin">minä pidän kiirettä, että ehtisin ajoissa luennolle; minä pidän kiirettä ehtiäkseni ajoissa luennolle;</xt>
+     </xg>
+     <xg><x>со тонэныд вераськыны понна лыктэм</x>
+       <xt xml:lang="fin">hän tuli puhumaan kanssasi</xt>
+     </xg>◊
+     <xg><x>инмар(е) понна!</x>
+       <xt xml:lang="fin">jumalan tähden!</xt>
+     </xg>
+   </mg>
+</e>
 </r>
