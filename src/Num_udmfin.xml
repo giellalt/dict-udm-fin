@@ -42,6 +42,29 @@ Possible errors following proofreading are, e. g., substitution of special fonts
 
 <e>
    <lg>
+     <l pos="Num">куамын</l><orig>куамын</orig>
+   </lg>
+   <mg>
+     <tg xml:lang="fin">
+       <t>kolmekymmentä</t>
+     </tg>
+   <xg><x>куамын интыын</x>
+     <xt xml:lang="fin">kolmessakymmenessä paikassa</xt>
+     </xg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Num">куиньмос</l><orig>куиньмос</orig>
+   </lg>
+   <mg>
+     <tg xml:lang="fin">
+       <t>kolmannes, kolmasosa</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
      <l pos="Num">витьмос</l><orig>витьмос</orig>
    </lg>
    <mg>

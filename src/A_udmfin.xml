@@ -28,6 +28,59 @@ Possible errors following proofreading are, e. g., substitution of special fonts
 
 <e>
    <lg>
+     <l pos="A">куктэм</l>
+   </lg>
+   <mg ind="1th">
+     <tg xml:lang="fin">
+       <t>jalaton, sääretön; kintuton, koiveton</t>
+     </tg>
+   </mg>
+   <mg ind="2th"><defNative>пал кук</defNative>
+     <tg xml:lang="fin">
+       <t>yksijalkainen, jalkapuoli, yksisäärinen, sääripuoli; yksikinttuinen, yksikoipinen</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="A">кумрес</l>
+   </lg>
+   <mg ind="1th"><defNative>жум тусъем</defNative>
+     <tg xml:lang="fin">
+       <t>alakuloinen</t>
+     </tg>
+   </mg>
+   <mg ind="2th"><defNative>кунэрес</defNative>
+     <tg xml:lang="fin">
+       <t>kulmiensa alta, alta kulmain;</t>
+     </tg>
+     <xg><x>кумрес учкыны</x>
+       <xt xml:lang="fin">katsoa kulmiensa alta</xt>
+     </xg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="A">курыталэс</l><orig>курыталэс</orig>
+   </lg>
+   <mg>
+     <tg xml:lang="fin">
+       <t>katkerahko, kitkerähkö</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="A">куттэмпыд</l>
+   </lg>
+<mg><range>murt.</range>
+     <tg xml:lang="fin">
+       <t pos="A">avojalkainen, paljasjalkainen</t>
+     </tg>
+</mg>
+</e>
+<e>
+   <lg>
      <l pos="A">адӟемпотонтэм</l>
      <stg>
        <st Contlex="A_">адӟемпотонтэм</st>

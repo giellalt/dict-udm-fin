@@ -25,6 +25,25 @@ Possible errors following proofreading are, e. g., substitution of special fonts
       </sourcenote>
    </lics>
 <e>
+   <lg><l pos="V">куасаны</l></lg>
+     <mg>
+     <tg xml:lang="fin"><t>taivuttaa, vääntää, koukistaa;</t></tg>
+     <xg><x>буко куасаны</x>
+       <xt xml:lang="fin">taivuttaa luokiksi</xt>
+     </xg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="V">кунаны</l><orig>кунаны</orig>
+   </lg>
+   <mg>
+     <tg xml:lang="fin">
+       <t>härskiintyä, eltaantua</t>
+     </tg>
+   </mg>
+</e>
+<e>
    <lg>
      <l pos="V">абдраны</l>
      <stg>

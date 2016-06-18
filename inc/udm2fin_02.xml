@@ -53,11 +53,11 @@
    </mg>
    <mg ind="2th"><defNative>зӥбыт</defNative>
      <tg xml:lang="fin">
-       <t>hiljainen, rauhallinen, tyyni</t>
+       <t pos="A">hiljainen, rauhallinen, tyyni</t>
        <re>ihminen</re>
      </tg>
      <tg xml:lang="fin">
-       <t> // hiljaa, rauhallisesti, tyynesti</t>
+       <t pos="Adv">hiljaa, rauhallisesti, tyynesti</t>
      </tg>
    </mg>
    <mg ind="3th"><defNative>вераськытэк улӥсь</defNative>
@@ -14694,15 +14694,6 @@
    </mg>
 </e>
 <e>
-   <lg><l>оборудование</l><orig>оборадование</orig>
-   </lg>
-   <mg>
-     <tg xml:lang="fin">
-       <t>laitteisto, laitteet, kalusto, kojeisto, varusteet</t>
-     </tg>
-   </mg>
-</e>
-<e>
    <lg>
      <l pos="N;A">огарес</l><orig>огарес</orig>
    </lg>
@@ -14892,56 +14883,6 @@
    <mg>
      <tg xml:lang="fin">
        <t>sinä yksin</t>
-     </tg>
-   </mg>
-</e>
-<e>
-   <lg>
-     <l pos="Pron">огнады</l><orig>огнаʼдо</orig>
-   </lg>
-   <mg>
-     <tg xml:lang="fin">
-       <t>te yksin</t>
-     </tg>
-   </mg>
-</e>
-<e>
-   <lg>
-     <l pos="Pron">огназ</l><orig>огназ</orig>
-   </lg>
-   <mg>
-     <tg xml:lang="fin">
-       <t>hän (t. se) yksin</t>
-     </tg>
-   </mg>
-</e>
-<e>
-   <lg>
-     <l pos="Pron">огназы</l><orig>огнаʼзо</orig>
-   </lg>
-   <mg>
-     <tg xml:lang="fin">
-       <t>he (t. ne) yksin</t>
-     </tg>
-   </mg>
-</e>
-<e>
-   <lg>
-     <l pos="Pron">огнам</l><orig>огнам</orig>
-   </lg>
-   <mg>
-     <tg xml:lang="fin">
-       <t>minä yksin</t>
-     </tg>
-   </mg>
-</e>
-<e>
-   <lg>
-     <l pos="Pron">огнамы</l><orig>огнаʼмо</orig>
-   </lg>
-   <mg>
-     <tg xml:lang="fin">
-       <t>me yksin</t>
      </tg>
    </mg>
 </e>
@@ -15392,54 +15333,6 @@
 </e>
 <e>
    <lg>
-     <l pos="Pron">олокин</l><orig>олоʼкиʼн</orig>
-   </lg>
-   <mg><pos>pron. indef.</pos>
-     <tg xml:lang="fin">
-       <t>ties kuka;</t>
-     </tg>
-     <xg><x>со коркан олокин улэ</x>
-       <xt xml:lang="fin">ties kuka asuu siinä talossa</xt>
-     </xg>◊
-     <xg><x>олокин ассэ кожа, олокин кариське</x>
-       <xt xml:lang="fin">pitää itseään ties minä, luulee liikoja itsestään;</xt>
-     </xg>
-     <xg><x>олокин но</x>
-       <xt xml:lang="fin">vaikka kuka, kuka tahansa (t. hyvänsä)</xt>
-     </xg>
-   </mg>
-</e>
-<e>
-   <lg>
-     <l pos="Pron">олокӧня</l><orig>олоʼкӧʼняʼ</orig>
-   </lg>
-   <mg>
-     <tg xml:lang="fin">
-       <t>ties kuinka monta (t. paljon);</t>
-     </tg>
-     <xg><x>олокӧня пол вераны</x>
-       <xt xml:lang="fin">sanoa (t. kerrata) ties kuinka monta kertaa</xt>
-     </xg>◊
-     <xg><x>олокӧня но</x>
-       <xt xml:lang="fin">vaikka kuinka monta (t. paljon), kuinka monta (t. paljon) tahansa (t. hyvänsä)</xt>
-     </xg>
-   </mg>
-</e>
-<e>
-   <lg>
-     <l pos="Pron">олоку</l><orig>олоʼка</orig>
-   </lg>
-   <mg>
-     <tg xml:lang="fin">
-       <t>ties milloin (t. koska)</t>
-     </tg>◊
-     <xg><x>олоку но</x>
-       <xt xml:lang="fin">vaikka milloin (t. koska), milloin (t. koska) tahansa (t. hyvänsä)</xt>
-     </xg>
-   </mg>
-</e>
-<e>
-   <lg>
      <l pos="Pron">олокудды</l><orig>олоʼкаддо</orig>
    </lg>
    <mg><pos>pron. indef.</pos>
@@ -15513,222 +15406,6 @@
      <tg xml:lang="fin">
        <t>meistä</t>
      </tg>
-   </mg>
-</e>
-<e>
-   <lg>
-     <l pos="Pron">олокызьы</l><orig>олоʼкозьо</orig>
-   </lg>
-   <mg>
-     <tg xml:lang="fin">
-       <t>ties miten (t. millä tavalla)</t>
-     </tg>◊
-     <xg><x>олокызьы но</x>
-       <xt xml:lang="fin">vaikka miten (t. millä tavalla), miten (t. millä tavalla) tahansa (t. hyvänsä), kaikin tavoin</xt>
-     </xg>
-   </mg>
-</e>
-<e>
-   <lg>
-     <l pos="Pron">олокытӥ</l><orig>олоʼкотӥʼ</orig>
-   </lg>
-   <mg>
-     <tg xml:lang="fin">
-       <t>ties missä</t>
-       <re>liikeverbien yhteydessä</re>
-     </tg>
-     <tg xml:lang="fin">
-       <t>, ties mistä</t>
-     </tg>◊
-     <xg><x>олокытӥ но</x>
-       <xt xml:lang="fin">vaikka missä, missä tahansa (t. hyvänsä)</xt><xre>liikeverbien yhteydessä</xre>
-     </xg>
-     <tg xml:lang="fin">
-       <t>, vaikka mistä, mistä tahansa (t. hyvänsä)</t>
-     </tg>
-   </mg>
-</e>
-<e>
-   <lg>
-     <l pos="Pron">олокытчы</l><orig>олоʼкотчо</orig>
-   </lg>
-   <mg>
-     <tg xml:lang="fin">
-       <t>ties mihin (t. minne)</t>
-     </tg>◊
-     <xg><x>олокытчы но</x>
-       <xt xml:lang="fin">vaikka mihin (t. minne), mihin (t. minne) tahansa (t. hyvänsä);</xt>
-     </xg>
-     <xg><x>олокытчы но мынэмез потэ</x>
-       <xt xml:lang="fin">hän haluaa mennä (t. matkustaa) vaikka mihin;</xt>
-     </xg>
-     <xg><x>мон олокытчы но ветлӥ ни</x>
-       <xt xml:lang="fin">minä olen jo matkustanut ties mihin; minä olen jo käynyt ties missä</xt>
-     </xg>
-   </mg>
-</e>
-<e>
-   <lg>
-     <l pos="Pron">олокытын</l><orig>олоʼкотон</orig>
-   </lg>
-   <mg>
-     <tg xml:lang="fin">
-       <t>ties missä</t>
-     </tg>◊
-     <xg><x>олокытын но</x>
-       <xt xml:lang="fin">vaikka missä, missä tahansa (t. hyvänsä)</xt>
-     </xg>
-   </mg>
-</e>
-<e>
-   <lg>
-     <l pos="Pron">олокытысен</l><orig>олокотосеʼн</orig>
-   </lg>
-   <mg>
-     <tg xml:lang="fin">
-       <t>ties mistä; ties missä;</t>
-     </tg>
-     <xg><x>олокытысен мон соин пумиськи</x>
-       <xt xml:lang="fin">ties missä minä tapasin hänet</xt>
-     </xg>◊
-     <xg><x>олокытысен но</x>
-       <xt xml:lang="fin">vaikka missä, missä tahansa (t. hyvänsä); vaikka mistä, mistä tahansa (t. hyvänsä)</xt>
-     </xg>
-   </mg>
-</e>
-<e>
-   <lg>
-     <l pos="Pron">олокытысь</l><orig>олоʼкотось</orig>
-   </lg>
-   <mg>
-     <tg xml:lang="fin">
-       <t>ties mistä</t>
-     </tg>◊
-     <xg><x>олокытысь но</x>
-       <xt xml:lang="fin">vaikka mistä, mistä tahansa (t. hyvänsä)</xt>
-     </xg>
-   </mg>
-</e>
-<e>
-   <lg>
-     <l pos="Pron">олокыӵе</l><orig>олоʼкоӵеʼ</orig>
-   </lg>
-   <mg><pos>pron. indef.</pos>
-     <tg xml:lang="fin">
-       <t>ties mikä; ties kuka; ties minkälainen (t. millainen);</t>
-     </tg>
-     <xg><x>олокыӵе классын со дышетске</x>
-       <xt xml:lang="fin">ties millä luokalla hän opiskelee;</xt>
-     </xg>
-     <xg><x>олокыӵе сяська солы басьтоно</x>
-       <xt xml:lang="fin">ties minkälaisia kukkia hänelle on ostettava</xt>
-     </xg>◊
-     <xg><x>олокыӵе но</x>
-       <xt xml:lang="fin">vaikka mikä, mikä tahansa (t. hyvänsä); vaikka kuka, kuka tahansa (t. hyvänsä); vaikka minkälainen (t. millainen), minkälainen (t. millainen) tahansa (t. hyvänsä)</xt>
-     </xg>
-   </mg>
-</e>
-<e>
-   <lg>
-     <l pos="Pron">олома</l><orig>олоʼмаʼ</orig>
-   </lg>
-   <mg> <pos>pron. indef.</pos>
-     <tg xml:lang="fin">
-       <t>ties mikä (t. mitä);</t>
-     </tg>
-     <xg><x>олома отын каре</x>
-       <xt xml:lang="fin">hän tekee siellä ties mitä</xt>
-     </xg>◊
-     <xg><x>олома но</x>
-       <xt xml:lang="fin">vaikka mikä (t. mitä), mikä (t. mitä) tahansa (t. hyvänsä);</xt>
-     </xg>
-     <xg><x>олома но отын вань</x>
-       <xt xml:lang="fin">siellä on (olemassa) mitä tahansa (t. hyvänsä)</xt>
-     </xg>
-   </mg>
-</e>
-<e>
-   <lg>
-     <l pos="Pron">оломаин</l><orig>олоʼмаʼиʼн</orig>
-   </lg>
-   <mg>
-     <tg xml:lang="fin">
-       <t>ties millä;</t>
-     </tg>
-     <xg><x>оломаин таос вуиллям</x>
-       <xt xml:lang="fin">ties millä nämä ovat tulleet (t. saapuneet)</xt>
-     </xg>◊
-     <xg><x>оломаин но</x>
-       <xt xml:lang="fin">vaikka millä, millä tahansa (t. hyvänsä)</xt>
-     </xg>
-   </mg>
-</e>
-<e>
-   <lg>
-     <l pos="Pron">оломакеме</l><orig>оломаʼкеме</orig>
-   </lg>
-   <mg><defNative>туж кыдёке</defNative>
-     <tg xml:lang="fin">
-       <t>hyvin (t. oikein) kauas (t. etäälle);</t>
-     </tg><font face="SmolenskSGR">(<i>тодмо ӧвӧл</i>)</font>
-     <tg xml:lang="fin">
-       <t>ties kuinka kauas (t. etäälle)</t>
-     </tg>
-   </mg>
-</e>
-<e>
-   <lg>
-     <l pos="Adv;Pron">оломакемын</l><orig>оломаʼкемын</orig>
-   </lg>
-   <mg><defNative>туж кыдёкын</defNative>
-     <tg xml:lang="fin">
-       <t>hyvin (t. oikein) kaukana (t. etäällä);</t>
-     </tg><font face="SmolenskSGR">(<i>тодмо ӧвӧл</i>)</font>
-     <tg xml:lang="fin">
-       <t>ties kuinka kaukana (t. etäällä);</t>
-     </tg>
-     <xg><x>оломакемын соос уло</x>
-       <xt xml:lang="fin">he asuvat ties kuinka kaukana</xt>
-     </xg>
-   </mg>
-</e>
-<e>
-   <lg>
-     <l pos="Adv;Pron">оломакемысен</l><orig>оломаʼкемысен</orig>
-   </lg>
-   <mg><defNative>туж кыдёкысен</defNative>
-     <tg xml:lang="fin">
-       <t>hyvin (t. oikein) kaukaa (t. etäältä); hyvin (t. oikein) kaukana (t. etäällä);</t>
-     </tg><font face="SmolenskSGR">(<i>тодмо ӧвӧл</i>)</font>
-     <tg xml:lang="fin">
-       <t>ties kuinka kaukaa (t. etäältä); ties kuinka kaukana (t. etäällä)</t>
-     </tg>
-   </mg>
-</e>
-<e>
-   <lg>
-     <l pos="Adv;Pron">оломакемысь</l><orig>оломаʼкемысь</orig>
-   </lg>
-   <mg><defNative>туж кыдёкысь</defNative>
-     <tg xml:lang="fin">
-       <t>hyvin (t. oikein) kaukaa (t. etäältä);</t>
-     </tg><font face="SmolenskSGR">(<i>тодмо ӧвӧл</i>)</font>
-     <tg xml:lang="fin">
-       <t>ties kuinka kaukaa (t. etäältä)</t>
-     </tg>
-   </mg>
-</e>
-<e>
-   <lg>
-     <l pos="Pron">оломалы</l><orig>олоʼмаʼло</orig>
-   </lg>
-   <mg>
-     <tg xml:lang="fin">
-       <t>ties miksi</t>
-     </tg>◊
-     <xg><x>оломалы но</x>
-       <xt xml:lang="fin">vaikka miksi, miksi tahansa (t. hyvänsä)</xt>
-     </xg>
    </mg>
 </e>
 <e>

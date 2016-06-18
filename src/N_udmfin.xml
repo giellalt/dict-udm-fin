@@ -27,6 +27,317 @@ Possible errors following proofreading are, e. g., substitution of special fonts
    </lics>
 <e>
    <lg>
+     <l pos="N">куара</l>
+   </lg>
+   <mg ind="1th">
+     <tg xml:lang="fin">
+       <t>ääni</t>
+     </tg>
+     <xg><x>векчи куара</x>
+       <xt xml:lang="fin">korkea ääni</xt>
+     </xg>
+     <xg><x>зӧк куара</x>
+       <xt xml:lang="fin">matala ääni</xt>
+     </xg>
+   </mg>
+   <mg ind="2th"><defNative>ӵашетэм</defNative>
+     <tg xml:lang="fin">
+       <t>melu, ääni</t>
+     </tg>
+     <xg><x>пыд куара</x>
+       <xt xml:lang="fin">jalkojen töminä (t. kopina)</xt>
+     </xg>
+   </mg>
+   <mg ind="3th"> <field>kiel.</field>
+     <tg xml:lang="fin">
+       <t>äänne</t>
+     </tg>◊
+     <xg><x>куара сётыны</x>
+       <xt xml:lang="fin">äänestää</xt>
+     </xg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="N">кузё</l><orig>кузё</orig>
+   </lg>
+   <mg ind="1th">
+     <tg xml:lang="fin">
+       <t>isäntä; herra;</t>
+     </tg>
+     <xg><x>коркалэн кузёез</x>
+       <xt xml:lang="fin">talon isäntä</xt>
+     </xg>
+   </mg>
+   <mg ind="2th"> <range>puhek.</range><defNative>йыр, кивалтӥсь</defNative>
+     <tg xml:lang="fin">
+       <t>päällikkö;</t>
+     </tg>
+     <xg><x>кин татын кузё</x>
+       <xt xml:lang="fin">kuka on täällä päällikkö?</xt>
+     </xg>
+   </mg>
+   <mg ind="3th"> <field>myt.</field><note>(<i>yhdyssanoissa</i>)</note>
+     <tg xml:lang="fin">
+       <t> haltija, henki;</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg><l pos="N">коркакузё</l></lg>
+     <mg>
+     <tg xml:lang="fin"><t>kodinhaltija, kotihaltija, talon haltija;</t></tg>
+     </mg>
+</e>
+<e>
+   <lg><l pos="N">нюлэскузё</l></lg>
+<mg>
+       <tg xml:lang="fin"><t>metsän haltija</t></tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="N">кузё-анай</l><orig>кузё-анай</orig>
+   </lg>
+   <mg><defNative>владычица</defNative>
+     <tg xml:lang="fin">
+       <t>valtijatar</t>
+     </tg></mg>
+</e>
+<e>
+   <lg>
+     <l pos="N">кузё-атай</l>
+   </lg>
+   <mg ind="1th">
+<defNative>владыка</defNative>
+     <tg xml:lang="fin">
+       <t>valtias, herra</t>
+     </tg>
+   </mg>
+   <mg ind="2th"> <field>kirk.</field>
+     <tg xml:lang="fin">
+       <t>esipaimen</t>
+       <re>piispa</re>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="N">кумызь</l>
+   </lg>
+   <mg ind="1th"><field>kasv.</field><defNative>кырсугон</defNative>
+     <tg xml:lang="fin">
+       <t>karhunlaukka</t>
+       <re>Allium ursinum</re>
+     </tg>
+   </mg>
+   <mg ind="2th"><defNative>чеснок</defNative>
+     <tg xml:lang="fin">
+       <t>valkosipuli</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="N">кумель</l><orig>кумель</orig>
+   </lg>
+   <mg>
+     <tg xml:lang="fin">
+       <t>kuoren alainen niinikerros</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="N">кумы</l><orig>кумы</orig>
+   </lg>
+   <mg>
+     <tg xml:lang="fin">
+       <t>polakoukku, hauenkoukku</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="N">кунган</l>
+   </lg>
+   <mg ind="1th"><defNative>кувшин</defNative>
+     <tg xml:lang="fin">
+       <t>kannu</t>
+     </tg>
+   </mg>
+   <mg ind="2th"> <range>murt.</range> <defNative>кимиськон</defNative>
+     <tg xml:lang="fin">
+       <t>(käsien)pesulaite, peseytymislaite</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="N">куноятон</l><orig>куноятон</orig>
+   </lg>
+   <mg>
+     <tg xml:lang="fin">
+       <t>kestitseminen, kestitys, tarjoaminen, tarjoilu</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="N">куншет</l><orig>куншет</orig>
+   </lg>
+   <mg>
+     <tg xml:lang="fin">
+       <t>kansallislippu;</t>
+     </tg>
+     <variants>
+       <l_syn type="vrt0">флаг</l_syn>
+     </variants>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="N">куплет</l><orig>куплет</orig>
+   </lg>
+   <mg>
+     <tg xml:lang="fin">
+       <t>säkeistö, säejakso</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="N">куртчаньги</l><orig>куртчаньги</orig>
+   </lg>
+   <mg><field>lääk.</field>
+     <tg xml:lang="fin">
+       <t>kuppa</t>
+     </tg></mg>
+</e>
+<e>
+   <lg>
+     <l pos="N">куртчем</l>
+   </lg>
+   <mg ind="1th"><compg><comp ord="E1">куртчыны</comp><comp ord="E2" type="Der/Эм" drv="Prc;V»N"/></compg>
+   </mg>
+   <mg ind="2th">
+     <tg xml:lang="fin">
+       <t>purema, puraisu;</t>
+     </tg>
+   </mg>
+<mg><defNative>чибиньлэн ои</defNative>
+     <tg xml:lang="fin">
+       <t>pisto</t>
+     </tg>
+     <xg><x>чибинь куртчем</x>
+       <xt xml:lang="fin">hyttysen pisto (t. purema)</xt>
+     </xg>◊
+     <xg><x>чурыт куртчем</x>
+       <xt xml:lang="fin">kitupiikki, saituri, nuukailija</xt>
+     </xg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="N">курлан</l>
+   </lg>
+   <mg ind="1th"><defNative>пыкылон</defNative>
+     <tg xml:lang="fin">
+       <t>moittiminen, paheksunta, tuomitseminen;</t>
+     </tg></mg>
+<mg><defNative>тышкаськон</defNative>
+     <tg xml:lang="fin">
+       <t>toruminen, sättiminen</t>
+     </tg>
+   </mg>
+   <mg ind="2th"><defNative>уродэн веран, сьӧдман</defNative>
+     <tg xml:lang="fin">
+       <t>häpäiseminen, häpäisy, parjaaminen, mustaaminen</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="N">куркапи</l><orig>куркапи</orig>
+   </lg>
+   <mg>
+     <tg xml:lang="fin">
+       <t>kalkkunanpoika(nen)</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="N">курытгумы</l>
+   </lg>
+   <mg ind="1th"><field>kasv.</field>
+<defNative>ӟучгумы, свербига</defNative>
+     <tg xml:lang="fin">
+       <t>peltoukonnauris</t>
+       <re>Erysimum cheiranthoides</re>
+     </tg>
+   </mg>
+   <mg ind="2th"><defNative>лудсяртчы, лудкушман, сурепка</defNative>
+     <tg xml:lang="fin">
+       <t>peltoretikka</t>
+       <re>Rafhanus rafhanistrum</re>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="N">кучырмо</l>
+   </lg><mg><field>el.</field>
+     <tg xml:lang="fin">
+       <t>siperianmaaorava</t>
+       <re>Eutamias sibiricus</re>
+     </tg>
+     <variants>
+       <l_syn type="&gt;">урдо</l_syn>
+     </variants>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="N">куттор</l><orig>куттор</orig>
+   </lg>
+   <mg><range>vanh.</range>
+     <tg xml:lang="fin">
+       <t>säärykset</t>
+     </tg></mg>
+</e>
+<e>
+   <lg>
+     <l pos="N">кучыран</l><orig>кучыран</orig>
+   </lg>
+   <mg><field>el.</field>
+   <mg ind="1th"/><defNative>душес</defNative>
+     <tg xml:lang="fin">
+       <t>haukka</t>
+       <re>Accipiter</re>;
+     </tg></mg>
+<mg><defNative>сьӧдкучыран</defNative>
+     <tg xml:lang="fin">
+       <t>haarahaukka</t>
+       <re>Milvus</re>
+     </tg>
+   </mg>
+   <mg ind="2th"><defNative>уйсы</defNative>
+     <tg xml:lang="fin">
+       <t>pöllö</t>
+     </tg></mg>
+</e>
+<e>
+   <lg><l pos="N">оборудование</l><orig>оборадование</orig>
+   </lg>
+   <mg>
+     <tg xml:lang="fin">
+       <t>laitteisto, laitteet, kalusto, kojeisto, varusteet</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
      <l pos="N">Интӧро</l><orig>Интӧро</orig>
    </lg>
    <mg><field>usk.</field>

@@ -27,6 +27,222 @@ Possible errors following proofreading are, e. g., substitution of special fonts
    </lics>
 
 <e>
+   <lg>
+     <l pos="Adv" type="Indef">куиньнады</l>
+   </lg>
+   <mg><defNative>куинь кузя</defNative>
+     <tg xml:lang="fin">
+       <t>te kolmisin, te kolmestaan</t>
+     </tg>
+     <xg><x>куиньнады татын пукиськоды-а?</x>
+       <xt xml:lang="fin">istutteko täällä kolmisin</xt>
+     </xg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Adv">куке-соку</l><orig>куке-соку</orig>
+   </lg>
+   <mg ind="1th"><defNative>азьвыл</defNative>
+     <tg xml:lang="fin">
+       <t>ennen (muinoin), aikoinaan, joskus</t>
+     </tg>
+   </mg>
+   <mg ind="2th"><defNative>куке азьланяз</defNative>
+     <tg xml:lang="fin">
+       <t>joskus, jolloinkin</t>
+     </tg></mg>
+</e>
+<e>
+   <lg>
+     <l pos="Adv">кунэр</l>
+   </lg>
+<mg>
+     <variants>
+       <l_syn type="&gt;">кунэрак</l_syn>
+       <l_syn type="&gt;">кунэрес</l_syn>
+     </variants>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Adv">куттэмпыд</l>
+     </lg>
+<mg><range>murt.</range>
+     <tg xml:lang="fin">
+       <t pos="Adv">avojaloin, paljain jaloin</t>
+     </tg>
+     <variants>
+       <l_syn type="&gt;">гольык пыд</l_syn>
+     </variants>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Adv">олокытӥ</l><orig>олоʼкотӥʼ</orig>
+   </lg>
+   <mg>
+     <tg xml:lang="fin">
+       <t>ties missä</t>
+       <re>liikeverbien yhteydessä</re>
+     </tg>
+     <tg xml:lang="fin">
+       <t>, ties mistä</t>
+     </tg>◊
+     <xg><x>олокытӥ но</x>
+       <xt xml:lang="fin">vaikka missä, missä tahansa (t. hyvänsä)</xt><xre>liikeverbien yhteydessä</xre>
+     </xg>
+     <tg xml:lang="fin">
+       <t>vaikka mistä, mistä tahansa (t. hyvänsä)</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Adv">олокытчы</l><orig>олоʼкотчо</orig>
+   </lg>
+   <mg>
+     <tg xml:lang="fin">
+       <t>ties mihin (t. minne)</t>
+     </tg>◊
+     <xg><x>олокытчы но</x>
+       <xt xml:lang="fin">vaikka mihin (t. minne), mihin (t. minne) tahansa (t. hyvänsä);</xt>
+     </xg>
+     <xg><x>олокытчы но мынэмез потэ</x>
+       <xt xml:lang="fin">hän haluaa mennä (t. matkustaa) vaikka mihin;</xt>
+     </xg>
+     <xg><x>мон олокытчы но ветлӥ ни</x>
+       <xt xml:lang="fin">minä olen jo matkustanut ties mihin; minä olen jo käynyt ties missä</xt>
+     </xg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Adv">олокытын</l><orig>олоʼкотон</orig>
+   </lg>
+   <mg>
+     <tg xml:lang="fin">
+       <t>ties missä</t>
+     </tg>◊
+     <xg><x>олокытын но</x>
+       <xt xml:lang="fin">vaikka missä, missä tahansa (t. hyvänsä)</xt>
+     </xg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Adv">олокытысен</l><orig>олокотосеʼн</orig>
+   </lg>
+   <mg>
+     <tg xml:lang="fin">
+       <t>ties mistä; ties missä;</t>
+     </tg>
+     <xg><x>олокытысен мон соин пумиськи</x>
+       <xt xml:lang="fin">ties missä minä tapasin hänet</xt>
+     </xg>◊
+     <xg><x>олокытысен но</x>
+       <xt xml:lang="fin">vaikka missä, missä tahansa (t. hyvänsä); vaikka mistä, mistä tahansa (t. hyvänsä)</xt>
+     </xg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Adv">олокытысь</l><orig>олоʼкотось</orig>
+   </lg>
+   <mg>
+     <tg xml:lang="fin">
+       <t>ties mistä</t>
+     </tg>◊
+     <xg><x>олокытысь но</x>
+       <xt xml:lang="fin">vaikka mistä, mistä tahansa (t. hyvänsä)</xt>
+     </xg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Adv">оломаин</l><orig>олоʼмаʼиʼн</orig>
+   </lg>
+   <mg>
+     <tg xml:lang="fin">
+       <t>ties millä;</t>
+     </tg>
+     <xg><x>оломаин таос вуиллям</x>
+       <xt xml:lang="fin">ties millä nämä ovat tulleet (t. saapuneet)</xt>
+     </xg>◊
+     <xg><x>оломаин но</x>
+       <xt xml:lang="fin">vaikka millä, millä tahansa (t. hyvänsä)</xt>
+     </xg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Adv">оломакеме</l><orig>оломаʼкеме</orig>
+   </lg>
+   <mg><defNative>туж кыдёке</defNative>
+     <tg xml:lang="fin">
+       <t>hyvin (t. oikein) kauas (t. etäälle);</t>
+     </tg><font face="SmolenskSGR">(<i>тодмо ӧвӧл</i>)</font>
+     <tg xml:lang="fin">
+       <t>ties kuinka kauas (t. etäälle)</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Adv">оломакемын</l><orig>оломаʼкемын</orig>
+   </lg>
+   <mg><defNative>туж кыдёкын</defNative>
+     <tg xml:lang="fin">
+       <t>hyvin (t. oikein) kaukana (t. etäällä);</t>
+     </tg><font face="SmolenskSGR">(<i>тодмо ӧвӧл</i>)</font>
+     <tg xml:lang="fin">
+       <t>ties kuinka kaukana (t. etäällä);</t>
+     </tg>
+     <xg><x>оломакемын соос уло</x>
+       <xt xml:lang="fin">he asuvat ties kuinka kaukana</xt>
+     </xg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Adv">оломакемысен</l><orig>оломаʼкемысен</orig>
+   </lg>
+   <mg><defNative>туж кыдёкысен</defNative>
+     <tg xml:lang="fin">
+       <t>hyvin (t. oikein) kaukaa (t. etäältä); hyvin (t. oikein) kaukana (t. etäällä);</t>
+     </tg><font face="SmolenskSGR">(<i>тодмо ӧвӧл</i>)</font>
+     <tg xml:lang="fin">
+       <t>ties kuinka kaukaa (t. etäältä); ties kuinka kaukana (t. etäällä)</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Adv">оломакемысь</l><orig>оломаʼкемысь</orig>
+   </lg>
+   <mg><defNative>туж кыдёкысь</defNative>
+     <tg xml:lang="fin">
+       <t>hyvin (t. oikein) kaukaa (t. etäältä);</t>
+     </tg><font face="SmolenskSGR">(<i>тодмо ӧвӧл</i>)</font>
+     <tg xml:lang="fin">
+       <t>ties kuinka kaukaa (t. etäältä)</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Adv">оломалы</l><orig>олоʼмаʼло</orig>
+   </lg>
+   <mg>
+     <tg xml:lang="fin">
+       <t>ties miksi</t>
+     </tg>◊
+     <xg><x>оломалы но</x>
+       <xt xml:lang="fin">vaikka miksi, miksi tahansa (t. hyvänsä)</xt>
+     </xg>
+   </mg>
+</e>
+<e>
    <lg><l pos="Adv">витетӥ</l><orig>витеʼтӥʼ</orig>
    </lg>
    <mg><defNative>вить интыын</defNative>

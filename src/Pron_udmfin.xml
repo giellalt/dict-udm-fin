@@ -28,6 +28,168 @@ Possible errors following proofreading are, e. g., substitution of special fonts
 
 <e>
    <lg>
+     <l pos="Pron">огнады</l><orig>огнаʼдо</orig>
+   </lg>
+   <mg>
+     <tg xml:lang="fin">
+       <t>te yksin</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Pron">огназ</l><orig>огназ</orig>
+   </lg>
+   <mg>
+     <tg xml:lang="fin">
+       <t>hän (t. se) yksin</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Pron">огназы</l><orig>огнаʼзо</orig>
+   </lg>
+   <mg>
+     <tg xml:lang="fin">
+       <t>he (t. ne) yksin</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Pron">огнам</l><orig>огнам</orig>
+   </lg>
+   <mg>
+     <tg xml:lang="fin">
+       <t>minä yksin</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Pron">огнамы</l><orig>огнаʼмо</orig>
+   </lg>
+   <mg>
+     <tg xml:lang="fin">
+       <t>me yksin</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Pron">олокин</l><orig>олоʼкиʼн</orig>
+   </lg>
+   <mg><pos>pron. indef.</pos>
+     <tg xml:lang="fin">
+       <t>ties kuka;</t>
+     </tg>
+     <xg><x>со коркан олокин улэ</x>
+       <xt xml:lang="fin">ties kuka asuu siinä talossa</xt>
+     </xg>◊
+     <xg><x>олокин ассэ кожа, олокин кариське</x>
+       <xt xml:lang="fin">pitää itseään ties minä, luulee liikoja itsestään;</xt>
+     </xg>
+     <xg><x>олокин но</x>
+       <xt xml:lang="fin">vaikka kuka, kuka tahansa (t. hyvänsä)</xt>
+     </xg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Pron">олокӧня</l><orig>олоʼкӧʼняʼ</orig>
+   </lg>
+   <mg>
+     <tg xml:lang="fin">
+       <t>ties kuinka monta (t. paljon);</t>
+     </tg>
+     <xg><x>олокӧня пол вераны</x>
+       <xt xml:lang="fin">sanoa (t. kerrata) ties kuinka monta kertaa</xt>
+     </xg>◊
+     <xg><x>олокӧня но</x>
+       <xt xml:lang="fin">vaikka kuinka monta (t. paljon), kuinka monta (t. paljon) tahansa (t. hyvänsä)</xt>
+     </xg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Pron">олоку</l><orig>олоʼка</orig>
+   </lg>
+   <mg>
+     <tg xml:lang="fin">
+       <t>ties milloin (t. koska)</t>
+     </tg>◊
+     <xg><x>олоку но</x>
+       <xt xml:lang="fin">vaikka milloin (t. koska), milloin (t. koska) tahansa (t. hyvänsä)</xt>
+     </xg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Pron">олокызьы</l><orig>олоʼкозьо</orig>
+   </lg>
+   <mg>
+     <tg xml:lang="fin">
+       <t>ties miten (t. millä tavalla)</t>
+     </tg>◊
+     <xg><x>олокызьы но</x>
+       <xt xml:lang="fin">vaikka miten (t. millä tavalla), miten (t. millä tavalla) tahansa (t. hyvänsä), kaikin tavoin</xt>
+     </xg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Pron">олокыӵе</l><orig>олоʼкоӵеʼ</orig>
+   </lg>
+   <mg><pos>pron. indef.</pos>
+     <tg xml:lang="fin">
+       <t>ties mikä; ties kuka; ties minkälainen (t. millainen);</t>
+     </tg>
+     <xg><x>олокыӵе классын со дышетске</x>
+       <xt xml:lang="fin">ties millä luokalla hän opiskelee;</xt>
+     </xg>
+     <xg><x>олокыӵе сяська солы басьтоно</x>
+       <xt xml:lang="fin">ties minkälaisia kukkia hänelle on ostettava</xt>
+     </xg>◊
+     <xg><x>олокыӵе но</x>
+       <xt xml:lang="fin">vaikka mikä, mikä tahansa (t. hyvänsä); vaikka kuka, kuka tahansa (t. hyvänsä); vaikka minkälainen (t. millainen), minkälainen (t. millainen) tahansa (t. hyvänsä)</xt>
+     </xg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Pron">олома</l><orig>олоʼмаʼ</orig>
+   </lg>
+   <mg> <pos>pron. indef.</pos>
+     <tg xml:lang="fin">
+       <t>ties mikä (t. mitä);</t>
+     </tg>
+     <xg><x>олома отын каре</x>
+       <xt xml:lang="fin">hän tekee siellä ties mitä</xt>
+     </xg>◊
+     <xg><x>олома но</x>
+       <xt xml:lang="fin">vaikka mikä (t. mitä), mikä (t. mitä) tahansa (t. hyvänsä);</xt>
+     </xg>
+     <xg><x>олома но отын вань</x>
+       <xt xml:lang="fin">siellä on (olemassa) mitä tahansa (t. hyvänsä)</xt>
+     </xg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Pron" type="Indef">куиньнады</l>
+   </lg>
+   <mg ind="1th"><note><i>pron. indef.</i></note><defNative>куиньды ик</defNative>
+     <tg xml:lang="fin">
+       <t>te kaikki kolme, jokainen teistä kolmesta;</t>
+     </tg>
+     <xg><x>куиньнады (ик) ӵуказе татчы лыктэ</x>
+       <xt xml:lang="fin">tulkaa te kaikki kolme tänne huomenna</xt>
+     </xg>
+   </mg>
+</e>
+<e>
+   <lg>
      <l pos="Pron">ми</l>
      <stg>
        <st Contlex="PRON-PERS-PL1_">ми</st>

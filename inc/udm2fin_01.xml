@@ -9875,25 +9875,6 @@
    </mg>
 </e>
 <e>
-   <lg>
-     <l pos="Num">куамын</l><orig>куамын</orig>
-   </lg>
-   <mg>
-     <tg xml:lang="fin">
-       <t>kolmekymmentä</t>
-     </tg><font face="SmolenskSGR"><b>куамынэтӥ </b></font><FIX2/>
-   <mg ind="1th"/>
-     <tg xml:lang="fin">
-       <t>kolmaskymmenes</t>
-     </tg>
-   </mg>
-   <mg ind="2th"> <font face="SmolenskSGR">(<b>куамын интыын</b>)</font>
-     <tg xml:lang="fin">
-       <t> kolmessakymmenessä paikassa</t>
-     </tg>
-   </mg>
-</e>
-<e>
    <lg><l>куаняньтон, куаняньтыны, куаняньтэм,</l><orig>куаняньтон, куаняньтыны, куаняньтэм,</orig><FIX3/>
    </lg>
    <mg>
@@ -9908,7 +9889,7 @@
    </lg>
    <mg ind="1th">
      <tg xml:lang="fin">
-       <t>lehti;</t>
+       <t>lehti</t>
      </tg>
      <xg><x>писпу куар</x>
        <xt xml:lang="fin">puun lehti (t. lehdet)</xt>
@@ -9917,34 +9898,8 @@
    <mg ind="2th"> <range>murt.</range><defNative>кубиста</defNative>
      <tg xml:lang="fin">
        <t>kaali</t>
-     </tg><font face="SmolenskSGR"><b>куара</b></font><FIX2/>
-   <mg ind="1th"/>
-     <tg xml:lang="fin">
-       <t>ääni;</t>
      </tg>
-     <xg><x>векчи куара</x>
-       <xt xml:lang="fin">korkea ääni;</xt>
-     </xg>
-     <xg><x>зӧк куара</x>
-       <xt xml:lang="fin">matala ääni</xt>
-     </xg>
-   </mg>
-   <mg ind="2th"><defNative>ӵашетэм</defNative>
-     <tg xml:lang="fin">
-       <t>melu, ääni;</t>
-     </tg>
-     <xg><x>пыд куара</x>
-       <xt xml:lang="fin">jalkojen töminä (t. kopina)</xt>
-     </xg>
-   </mg>
-   <mg ind="3th"> <field>kiel.</field>
-     <tg xml:lang="fin">
-       <t>äänne</t>
-     </tg>◊
-     <xg><x>куара сётыны</x>
-       <xt xml:lang="fin">äänestää</xt>
-     </xg>
-   </mg>
+</mg>
 </e>
 <e>
    <lg>
@@ -9971,15 +9926,6 @@
      <tg xml:lang="fin">
        <t>murtua, lannistua, nujertua</t>
      </tg>
-   </mg>
-</e>
-<e>
-   <lg><l>куасаны</l></lg>
-     <mg>
-     <tg xml:lang="fin"><t>taivuttaa, vääntää, koukistaa;</t></tg>
-     <xg><x>буко куасаны</x>
-       <xt xml:lang="fin">taivuttaa luokiksi</xt>
-     </xg>
    </mg>
 </e>
 <e>
@@ -10047,61 +9993,6 @@
 </e>
 <e>
    <lg>
-     <l pos="N">кузё</l><orig>кузё</orig>
-   </lg>
-   <mg ind="1th">
-     <tg xml:lang="fin">
-       <t>isäntä; herra;</t>
-     </tg>
-     <xg><x>коркалэн кузёез</x>
-       <xt xml:lang="fin">talon isäntä</xt>
-     </xg>
-   </mg>
-   <mg ind="2th"> <range>puhek.</range><defNative>йыр, кивалтӥсь</defNative>
-     <tg xml:lang="fin">
-       <t>päällikkö;</t>
-     </tg>
-     <xg><x>кин татын кузё</x>
-       <xt xml:lang="fin">kuka on täällä päällikkö?</xt>
-     </xg>
-   </mg>
-   <mg ind="3th"> <field>myt.</field><note>(<i>yhdyssanoissa</i>)</note>
-     <tg xml:lang="fin">
-       <t> haltija, henki;</t>
-     </tg>
-   </mg>
-</e> <FIX1/>
-<e>
-   <lg><l>коркакузё</l></lg>
-     <mg>
-     <tg xml:lang="fin"><t>kodinhaltija, kotihaltija, talon haltija;</t></tg><FIXME1/>
-     <xg><x>нюлэскузё</x>
-       <xt xml:lang="fin">metsän haltija</xt>
-     </xg>
-   </mg>
-</e>
-<e>
-   <lg>
-     <l pos="N">кузё-анай</l><orig>кузё-анай</orig>
-   </lg>
-   <mg><defNative>владычица</defNative>
-     <tg xml:lang="fin">
-       <t>valtijatar</t>
-     </tg><font face="SmolenskSGR"><b>кузё-атай </b></font><font face="SmolenskSGR">(<i>владыка</i>)</font><FIX2/>
-   <mg ind="1th"/>
-     <tg xml:lang="fin">
-       <t>valtias, herra</t>
-     </tg>
-   </mg>
-   <mg ind="2th"> <field>kirk.</field>
-     <tg xml:lang="fin">
-       <t>esipaimen</t>
-       <re>piispa</re>
-     </tg>
-   </mg>
-</e>
-<e>
-   <lg>
      <l pos="N">кузян<rom ind="2"/></l>
    </lg>
    <mg><inflect type="Der/Он" drv="V»N"/><font face="SmolenskSGR"><b>кузяны<rom ind="2"/></b></font><FIX2/><font face="SmolenskSGR"><b>кузяна</b></font>
@@ -10127,144 +10018,12 @@
 </e>
 <e>
    <lg>
-     <l pos="Num">куиньмос</l><orig>куиньмос</orig>
+     <l pos="V">куноятыны</l>
    </lg>
-   <mg>
+<mg><defNative>маин ке</defNative>
      <tg xml:lang="fin">
-       <t>kolmannes, kolmasosa</t>
-     </tg><font face="SmolenskSGR"><b>куиньнады</b></font><FIX2/>
-   <mg ind="1th"/><note><i>pron. indef.</i></note><font face="SmolenskSGR">(<i>куиньды ик</i>)</font>
-     <tg xml:lang="fin">
-       <t>te kaikki kolme, jokainen teistä kolmesta;</t>
+       <t>kestitä jllak, tarjota jtak</t>
      </tg>
-     <xg><x>куиньнады (ик) ӵуказе татчы лыктэ</x>
-       <xt xml:lang="fin">tulkaa te kaikki kolme tänne huomenna</xt>
-     </xg>
-   </mg>
-   <mg ind="2th"> <pos ind="Adv"/><font face="SmolenskSGR">(<i>куинь кузя</i>)</font>
-     <tg xml:lang="fin">
-       <t>te kolmisin, te kolmestaan;</t>
-     </tg>
-     <xg><x>куиньнады татын пукиськоды-а?</x>
-       <xt xml:lang="fin">istutteko täällä kolmisin</xt>
-     </xg>
-   </mg>
-</e>
-<e>
-   <lg>
-     <l pos="Adv">куке-соку</l><orig>куке-соку</orig>
-   </lg>
-   <mg ind="1th"><defNative>азьвыл</defNative>
-     <tg xml:lang="fin">
-       <t>ennen (muinoin), aikoinaan, joskus</t>
-     </tg>
-   </mg>
-   <mg ind="2th"><defNative>куке азьланяз</defNative>
-     <tg xml:lang="fin">
-       <t>joskus, jolloinkin</t>
-     </tg><font face="SmolenskSGR"><b>куктэм</b></font><FIX2/>
-   <mg ind="1th"/>
-     <tg xml:lang="fin">
-       <t>jalaton, sääretön; kintuton, koiveton</t>
-     </tg>
-   </mg>
-   <mg ind="2th"><defNative>пал кук</defNative>
-     <tg xml:lang="fin">
-       <t>yksijalkainen, jalkapuoli, yksisäärinen, sääripuoli; yksikinttuinen, yksikoipinen</t>
-     </tg>
-   </mg>
-</e>
-<e>
-   <lg>
-     <l pos="N">кумель</l><orig>кумель</orig>
-   </lg>
-   <mg>
-     <tg xml:lang="fin">
-       <t>kuoren alainen niinikerros</t>
-     </tg><font face="SmolenskSGR"><b>кумрес</b></font><FIX2/>
-   <mg ind="1th"/><defNative>жум тусъем</defNative>
-     <tg xml:lang="fin">
-       <t>alakuloinen</t>
-     </tg>
-   </mg>
-   <mg ind="2th"><defNative>кунэрес</defNative>
-     <tg xml:lang="fin">
-       <t>kulmiensa alta, alta kulmain;</t>
-     </tg>
-     <xg><x>кумрес учкыны</x>
-       <xt xml:lang="fin">katsoa kulmiensa alta</xt>
-     </xg>
-   </mg>
-</e>
-<e>
-   <lg>
-     <l pos="N">кумы</l><orig>кумы</orig>
-   </lg>
-   <mg>
-     <tg xml:lang="fin">
-       <t>polakoukku, hauenkoukku</t>
-     </tg><font face="SmolenskSGR"><b>кумызь </b></font><field>kasv.</field><FIX2/>
-   <mg ind="1th"/><defNative>кырсугон</defNative>
-     <tg xml:lang="fin">
-       <t>karhunlaukka</t>
-       <re>Allium ursinum</re>
-     </tg>
-   </mg>
-   <mg ind="2th"><defNative>чеснок</defNative>
-     <tg xml:lang="fin">
-       <t>valkosipuli</t>
-     </tg>
-   </mg>
-</e>
-<e>
-   <lg>
-     <l pos="V">кунаны</l><orig>кунаны</orig>
-   </lg>
-   <mg>
-     <tg xml:lang="fin">
-       <t>härskiintyä, eltaantua</t>
-     </tg><font face="SmolenskSGR"><b>кунган</b></font><FIX2/>
-   <mg ind="1th"/><defNative>кувшин</defNative>
-     <tg xml:lang="fin">
-       <t>kannu</t>
-     </tg>
-   </mg>
-   <mg ind="2th"> <range>murt.</range> <font face="SmolenskSGR">(<i>кимиськон</i>)</font>
-     <tg xml:lang="fin">
-       <t>(käsien)pesulaite, peseytymislaite</t>
-     </tg>
-   </mg>
-</e>
-<e>
-   <lg>
-     <l pos="N">куноятон</l><orig>куноятон</orig>
-   </lg>
-   <mg>
-     <tg xml:lang="fin">
-       <t>kestitseminen, kestitys, tarjoaminen, tarjoilu</t>
-     </tg><font face="SmolenskSGR"><b>куноятыны </b></font><font face="SmolenskSGR">(<i>маин ке</i></font><note><i>)</i></note><FIX2/>
-     <tg xml:lang="fin">
-       <t>kestitä</t>
-     </tg>
-     <tg xml:lang="fin">
-       <t>jllak, tarjota jtak</t>
-     </tg>
-   </mg>
-</e>
-<e>
-   <lg>
-     <l pos="N">куншет</l><orig>куншет</orig>
-   </lg>
-   <mg>
-     <tg xml:lang="fin">
-       <t>kansallislippu;</t>
-     </tg>
-     <variants>
-       <l_syn type="vrt0">флаг</l_syn>
-     </variants> <font face="SmolenskSGR"><b>кунэр</b></font><FIX2/>
-     <variants>
-       <l_syn type="&gt;">seur.</l_syn>
-     </variants>
    </mg>
 </e>
 <e>
@@ -10283,15 +10042,11 @@
 </e>
 <e>
    <lg>
-     <l pos="N">куплет</l><orig>куплет</orig>
+     <l pos="A">купрес, купырес</l>
    </lg>
-   <mg>
-     <tg xml:lang="fin">
-       <t>säkeistö, säejakso</t>
-     </tg>
-     <xg><x>купрес, купырес</x><FIX2/>
-       <xt xml:lang="fin">koukkuinen, koukkumainen, koukku=, koukistunut;</xt>
-     </xg><font face="SmolenskSGR">(<i>быж, ныр с-сь – ои</i>)</font>
+<mg>
+       <tg xml:lang="fin"><t>koukkuinen, koukkumainen, koukku=, koukistunut;</t>
+     </tg><font face="SmolenskSGR">(<i>быж, ныр с-сь – ои</i>)</font>
      <tg xml:lang="fin">
        <t>kippura</t>
      </tg>
@@ -10324,74 +10079,6 @@
      </tg>
    </mg>
 </e>
-<e>
-   <lg>
-     <l pos="N">куркапи</l><orig>куркапи</orig>
-   </lg>
-   <mg>
-     <tg xml:lang="fin">
-       <t>kalkkunanpoika(nen)</t>
-     </tg><font face="SmolenskSGR"><b>курлан</b></font><FIX2/>
-   <mg ind="1th"/><defNative>пыкылон</defNative>
-     <tg xml:lang="fin">
-       <t>moittiminen, paheksunta, tuomitseminen;</t>
-     </tg><font face="SmolenskSGR">(<i>тышкаськон</i>)</font>
-     <tg xml:lang="fin">
-       <t>toruminen, sättiminen</t>
-     </tg>
-   </mg>
-   <mg ind="2th"><defNative>уродэн веран, сьӧдман</defNative>
-     <tg xml:lang="fin">
-       <t>häpäiseminen, häpäisy, parjaaminen, mustaaminen</t>
-     </tg>
-   </mg>
-</e>
-<e>
-   <lg>
-     <l pos="N">куртчаньги</l><orig>куртчаньги</orig>
-   </lg>
-   <mg><field>lääk.</field>
-     <tg xml:lang="fin">
-       <t>kuppa</t>
-     </tg><font face="SmolenskSGR"><b>куртчем</b></font><FIX2/>
-   <mg ind="1th"/><compg><comp ord="E1">куртчыны</comp><comp ord="E2" type="Der/Эм" drv="Prc;V»N"/></compg>
-   </mg>
-   <mg ind="2th">
-     <tg xml:lang="fin">
-       <t>purema, puraisu;</t>
-     </tg> <font face="SmolenskSGR">(<i>чибиньлэн ои</i>)</font>
-     <tg xml:lang="fin">
-       <t>pisto;</t>
-     </tg>
-     <xg><x>чибинь куртчем</x>
-       <xt xml:lang="fin">hyttysen pisto (t. purema)</xt>
-     </xg>◊
-     <xg><x>чурыт куртчем</x>
-       <xt xml:lang="fin">kitupiikki, saituri, nuukailija</xt>
-     </xg>
-   </mg>
-</e>
-<e>
-   <lg>
-     <l pos="A">курыталэс</l><orig>курыталэс</orig>
-   </lg>
-   <mg>
-     <tg xml:lang="fin">
-       <t>katkerahko, kitkerähkö</t>
-     </tg><font face="SmolenskSGR"><b>курытгумы </b></font><field>kasv.</field><FIX2/>
-   <mg ind="1th"/><defNative>ӟучгумы, свербига</defNative>
-     <tg xml:lang="fin">
-       <t>peltoukonnauris</t>
-       <re>Erysimum cheiranthoides</re>
-     </tg>
-   </mg>
-   <mg ind="2th"><defNative>лудсяртчы, лудкушман, сурепка</defNative>
-     <tg xml:lang="fin">
-       <t>peltoretikka</t>
-       <re>Rafhanus rafhanistrum</re>
-     </tg>
-   </mg>
-</e>
 <e><FIXME2/>
      <xg> <x>кусӥн карыны</x> <x>кусӥн куасаны</x>
        <xt xml:lang="fin">taittaa (t. taivuttaa) kahtia;</xt>
@@ -10414,53 +10101,6 @@
      <xg><x>кутсаськон машина</x>
        <xt xml:lang="fin">puimakone, puimuri</xt>
      </xg>
-   </mg>
-</e>
-<e>
-   <lg>
-     <l pos="N">куттор</l><orig>куттор</orig>
-   </lg>
-   <mg><range>vanh.</range>
-     <tg xml:lang="fin">
-       <t>säärykset</t>
-     </tg><font face="SmolenskSGR"><b>куттэмпыд </b></font><range>murt.</range><FIX2/>
-     <tg xml:lang="fin">
-       <t>avojalkainen, paljasjalkainen // avojaloin, paljain</t>
-     </tg>
-     <tg xml:lang="fin">
-       <t>jaloin;</t>
-     </tg>
-     <variants>
-       <l_syn type="&gt;">гольык пыд</l_syn>
-     </variants>
-   </mg>
-</e>
-<e>
-   <lg>
-     <l pos="N">кучыран</l><orig>кучыран</orig>
-   </lg>
-   <mg><field>el.</field>
-   <mg ind="1th"/><defNative>душес</defNative>
-     <tg xml:lang="fin">
-       <t>haukka</t>
-       <re>Accipiter</re>;
-     </tg><font face="SmolenskSGR">(<i>сьӧдкучыран</i>)</font>
-     <tg xml:lang="fin">
-       <t>haarahaukka</t>
-       <re>Milvus</re>
-     </tg>
-   </mg>
-   <mg ind="2th"><defNative>уйсы</defNative>
-     <tg xml:lang="fin">
-       <t>pöllö</t>
-     </tg><font face="SmolenskSGR"><b>кучырмо </b></font><field>el.</field><FIX2/>
-     <tg xml:lang="fin">
-       <t>siperianmaaorava</t>
-       <re>Eutamias sibiricus</re>;
-     </tg>
-     <variants>
-       <l_syn type="&gt;">урдо</l_syn>
-     </variants>
    </mg>
 </e>
 <e>

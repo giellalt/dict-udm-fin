@@ -25,7 +25,16 @@ Possible errors following proofreading are, e. g., substitution of special fonts
      or could be wrongly sorted.
       </sourcenote>
    </lics>
-
+<e>
+   <lg>
+     <l pos="Det">куамынэтӥ</l>
+   </lg>
+   <mg ind="1th">
+     <tg xml:lang="fin">
+       <t>kolmaskymmenes</t>
+     </tg>
+   </mg>
+</e>
 <e>
    <lg><l pos="Det">витетӥ</l><orig>витеʼтӥʼ</orig>
    </lg>
