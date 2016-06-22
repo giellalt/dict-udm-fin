@@ -27,6 +27,47 @@ Possible errors following proofreading are, e. g., substitution of special fonts
    </lics>
 <e>
    <lg>
+     <l pos="Det">сюэтӥ</l><orig>сюэʼтӥʼ</orig>
+   </lg>
+   <mg>
+     <tg xml:lang="fin">
+       <t>sadas</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Det">та</l><orig>та</orig>
+   </lg>
+   <mg><note><i>pron. demonstr.</i></note>
+     <tg xml:lang="fin">
+       <t>tämä;</t>
+     </tg>
+     <xg><x>та виын</x>
+       <xt xml:lang="fin">nyt, tällä hetkellä, nykyaikana;</xt>
+     </xg>
+     <xg><x>та корка</x>
+       <xt xml:lang="fin">tämä talo;</xt>
+     </xg><font face="SmolenskSGR">(<i>кытчы?</i>)</font>
+     <tg xml:lang="fin">
+       <t>tähän taloon;</t>
+     </tg>
+     <xg><x>та коркан</x>
+       <xt xml:lang="fin">tässä talossa;</xt>
+     </xg>
+     <xg><x>та коркась</x>
+       <xt xml:lang="fin">tästä talosta;</xt>
+     </xg>
+     <xg><x>та ласянь</x>
+       <xt xml:lang="fin">täältä(päin), tästä, tästä suunnasta, tältä puolelta;</xt>
+     </xg>
+     <xg><x>та ласянь лыктыны</x>
+       <xt xml:lang="fin">tulla täältäpäin</xt>
+     </xg>
+   </mg>
+</e>
+<e>
+   <lg>
      <l pos="Det">куамынэтӥ</l>
    </lg>
    <mg ind="1th">

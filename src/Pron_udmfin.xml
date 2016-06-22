@@ -28,6 +28,118 @@ Possible errors following proofreading are, e. g., substitution of special fonts
 
 <e>
    <lg>
+     <l pos="Pron">таин</l><orig>таин</orig>
+   </lg>
+   <mg ind="1th"><compg><comp ord="E1">та</comp><comp ord="E2">instr. pron:sta</comp></compg>
+     <tg xml:lang="fin">
+       <t>tämän kanssa, tällä;</t>
+     </tg><font face="SmolenskSGR"><b>таин ӵош ик </b></font><mwemg ind="1th"/>
+     <tg xml:lang="fin">
+       <t>myös hänen kanssaan</t>
+     </tg><mwemg ind="2th"/>
+     <tg xml:lang="fin">
+       <t>tämänkin kanssa (t. yhteydessä)</t>
+     </tg>
+   </mg>
+   <mg ind="2th"> <defNative>таин сэрен</defNative>
+     <tg xml:lang="fin">
+       <t>siksi; tämän takia;</t>
+     </tg>
+     <xg><x>таин сэрен</x>
+       <xt xml:lang="fin">tämän takia</xt>
+     </xg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Pron">тӥлед</l><orig>тӥлед</orig>
+   </lg>
+   <mg>
+     <variants>
+       <l_syn type="&gt;">тӥледлы</l_syn>
+     </variants>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Pron">тӥледыз</l><orig>тӥледыз</orig>
+   </lg>
+   <mg>
+     <variants>
+       <l_syn type="&gt;">тӥледды</l_syn>
+     </variants>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Pron">тӥледын</l><orig>тӥледын</orig>
+     <variants>
+       <l_syn>тӥленыды</l_syn>
+     </variants>
+   </lg>
+   <mg><compg><comp ord="E1">тӥ</comp><comp ord="E2">instr. pron:sta</comp></compg>
+     <tg xml:lang="fin">
+       <t>teidän kanssanne;</t>
+     </tg>
+     <xg><x>тӥледын капчи вераськыны</x>
+       <xt xml:lang="fin">teidän kanssanne on helppo puhua (t. keskustella)</xt>
+     </xg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Pron">тӥленыды</l><orig>тӥленыды</orig>
+     <variants>
+       <l_syn>тӥледын</l_syn>
+     </variants>
+   </lg>
+   <mg><compg><comp ord="E1">тӥ</comp><comp ord="E2">instr. pron:sta</comp></compg>
+     <tg xml:lang="fin">
+       <t>teidän kanssanne;</t>
+     </tg>
+     <xg><x>тӥленыды капчи вераськыны</x>
+       <xt xml:lang="fin">teidän kanssanne on helppo puhua (t. keskustella)</xt>
+     </xg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Pron">тӥлесьтыд</l><orig>тӥлесьтыд</orig>
+   </lg>
+   <mg ind="1th"><compg><comp ord="E1">тӥ</comp><comp ord="E2">abl. pron:sta</comp></compg>
+     <tg xml:lang="fin">
+       <t>teiltä</t>
+     </tg>
+   </mg>
+   <mg ind="2th"> <pos>pron. poss.</pos>
+     <tg xml:lang="fin">
+       <t>teidän;</t>
+     </tg>
+     <xg><x>тӥлесьтыд атайдэс ушъяло</x>
+       <xt xml:lang="fin">teidän isäänne kehutaan</xt>
+     </xg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Pron">тӥляд</l><orig>тӥляд</orig>
+   </lg>
+   <mg ind="1th"><compg><comp ord="E1">тӥ</comp><comp ord="E2">gen. pron:sta</comp></compg>
+     <tg xml:lang="fin">
+       <t>teillä</t>
+     </tg>
+   </mg>
+   <mg ind="2th"> <pos>pron. poss.</pos>
+     <tg xml:lang="fin">
+       <t>teidän;</t>
+     </tg>
+     <xg><x>тӥляд коркады бадӟым</x>
+       <xt xml:lang="fin">teidän talonne on iso</xt>
+     </xg>
+   </mg>
+</e>
+<e>
+   <lg>
      <l pos="Pron">огнады</l><orig>огнаʼдо</orig>
    </lg>
    <mg>

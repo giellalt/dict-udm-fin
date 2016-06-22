@@ -28,6 +28,103 @@ Possible errors following proofreading are, e. g., substitution of special fonts
 
 <e>
    <lg>
+     <l pos="Po">сямен</l><orig>сямен</orig>
+   </lg>
+   <mg ind="1th"><defNative>кыӵе ке амалэн</defNative>
+     <tg xml:lang="fin">
+       <t>jnk tavalla (t. tavoin), jhk tapaan;</t>
+     </tg>
+     <xg><x>выль сямен ужаны</x>
+       <xt xml:lang="fin">työskennellä uudella tavalla;</xt>
+     </xg>
+     <xg><x>мукет сямен</x>
+       <xt xml:lang="fin">toisella (t. muulla) tavalla;</xt>
+     </xg>
+     <xg><x>мукет сямен вераса</x>
+       <xt xml:lang="fin">toisin sanoen</xt>
+     </xg>
+   </mg>
+   <mg ind="3th"><defNative>кинлэн ке малпамезъя, мылкыдызъя</defNative>
+     <tg xml:lang="fin">
+       <t>jnk mielestä (t. mielen mukaan);</t>
+     </tg>
+     <xg><x>мон сямен</x>
+       <xt xml:lang="fin">minusta, (minun) mielestäni (t. mieleni mukaan)</xt>
+     </xg>
+   </mg>
+   <mg ind="4th">
+     <tg xml:lang="fin">
+       <t>jnk kielellä, =ksi,</t>
+     </tg><note><i>kääntyy partitiivilla</i></note>
+     <tg xml:lang="fin">
+       <t>;</t>
+     </tg>
+     <xg><x>удмурт сямен вераськыны</x>
+       <xt xml:lang="fin">puhua udmurttia;</xt>
+     </xg>
+     <xg><x>удмурт сямен гожъяны</x>
+       <xt xml:lang="fin">kirjoittaa udmurtiksi;</xt>
+     </xg>
+     <xg><x>вера сое удмурт сямен</x>
+       <xt xml:lang="fin">sano se udmurtiksi;</xt>
+     </xg>
+     <xg><x>кызьы со луоз финн сямен?</x>
+       <xt xml:lang="fin">mikä se on suomeksi?</xt>
+     </xg>◊
+     <xg><x>котьку сямен</x>
+       <xt xml:lang="fin">tavallisesti; kuten aina</xt>
+     </xg>
+   </mg>
+   </e>
+<e>
+   <lg>
+     <l pos="Po">сяна</l><orig>сяна</orig>
+   </lg>
+   <mg>
+     <tg xml:lang="fin">
+       <t>paitsi, lukuun ottamatta;</t>
+     </tg>
+     <xg><x>со сяна</x>
+       <xt xml:lang="fin">sitä paitsi;</xt>
+     </xg>
+     <xg><x>ваньзы отын вал, тон сяна</x>
+       <xt xml:lang="fin">kaikki olivat siellä paitsi sinä</xt>
+     </xg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Po">сярысь</l><orig>сярысь</orig>
+   </lg>
+   <mg ind="1th"><pos ind="Po"/>
+     <tg xml:lang="fin">
+<re>osoittaa puheen, ajatuksen, huolenpidon tms. kohdetta</re>
+       <t>=sta / =stä;</t>
+     </tg>
+     <xg><x>кин сярысь вераськиськоды?</x>
+       <xt xml:lang="fin">kenestä te puhutte?;</xt>
+     </xg>
+     <xg><x>со сярысь весь сюлмаськисько</x>
+       <xt xml:lang="fin">olen aina huolissani hänestä (t. siitä)</xt>
+     </xg>
+   </mg>
+   <mg ind="2th"> <note><i>konj. komp.</i></note>
+     <tg xml:lang="fin">
+       <t>kuin, jhk verrattuna;</t>
+     </tg>
+     <xg><x>толло сярысь туннэ шулдыргес</x>
+       <xt xml:lang="fin">tänään sää on kauniimpi kuin eilen;</xt>
+     </xg>
+     <xg><x>толон сярысь туннэ шулдыргес</x>
+       <xt xml:lang="fin">tänään sää on kauniimpi kuin eilen;</xt>
+     </xg>
+     <xg><x>тон мон сярысь умойгес лэсьтӥд</x>
+       <xt xml:lang="fin">sinä teit paremmin kuin minä</xt>
+     </xg>
+   </mg>
+</e>
+<e>
+   <lg>
      <l pos="Po">бертӥ</l><orig>бертӥ</orig>
    </lg>
    <mg>

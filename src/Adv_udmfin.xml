@@ -28,6 +28,27 @@ Possible errors following proofreading are, e. g., substitution of special fonts
 
 <e>
    <lg>
+     <l pos="Adv">только</l><orig>тоʼлько</orig>
+     </lg>
+   <mg ind="2th"><defNative>алигес</defNative>
+     <tg xml:lang="fin">
+       <t>juuri, äsken;</t>
+     </tg>
+     <xg><x>со только кошкиз</x>
+       <xt xml:lang="fin">hän lähti äsken</xt>
+     </xg>
+   </mg>
+   <mg ind="3th"><defNative>гинэ</defNative>
+     <tg xml:lang="fin">
+       <t>vain, vasta;</t>
+     </tg>
+     <xg><x>та только кутскон гинэ</x>
+       <xt xml:lang="fin">tämä on vasta alkua</xt>
+     </xg>
+   </mg>
+</e>
+<e>
+   <lg>
      <l pos="Adv" type="Indef">куиньнады</l>
    </lg>
    <mg><defNative>куинь кузя</defNative>

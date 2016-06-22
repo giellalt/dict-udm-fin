@@ -1,6 +1,336 @@
 <?xml version="1.0" encoding="utf-8"?>
 <r xml:lang="udm">
 <e>
+   <lg>
+     <l pos="V(V::V)">тренировать карыны</l>
+   </lg>
+   <mg>
+     <tg xml:lang="fin">
+       <t>valmentaa</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="V(V::V)">звонить карыны</l>
+   </lg>
+   <mg><mwemg ind="1th"/><range>puhek.</range> <font face="SmolenskSGR">(<i>кинлы ке</i>)</font>
+     <tg xml:lang="fin">
+       <t>soittaa puhelimella</t>
+     </tg><mwemg ind="2th"/><defNative>к-сь телефон</defNative>
+     <tg xml:lang="fin">
+       <t>soida</t>
+       <re>puhelin</re>;
+     </tg>
+     <variants>
+       <l_syn type="&gt;">жингыртыны 2,<rom ind="0_3"/></l_syn>
+     </variants>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="V(V::V)">известковать карыны</l>
+   </lg>
+   <mg><field>maat.</field>
+     <tg xml:lang="fin">
+       <t>kalkita</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="V(V::V)">конфисковать карыны</l>
+   </lg>
+   <mg>
+     <tg xml:lang="fin">
+       <t>takavarikoida</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="V(V::V)">мариновать карыны</l>
+   </lg>
+   <mg>
+     <tg xml:lang="fin">
+       <t>marinoida</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="V(V::V)">нападать карыны</l>
+   </lg>
+   <mg>
+     <tg xml:lang="fin">
+       <t>hyökätä (jnk kimppuun t. jtak vastaan), käydä (t. karata, rynnätä) kimppuun;</t>
+     </tg>
+     <xg><x>тушмон вылэ нападать карыны</x>
+       <xt xml:lang="fin">hyökätä vihollisen kimppuun</xt>
+     </xg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="V(V::V)">наследовать карыны</l>
+   </lg>
+   <mg>
+     <tg xml:lang="fin">
+       <t>periä, saada perintönä (t. perinnöksi)</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="V(V::V)">наступать карыны</l>
+   </lg>
+   <mg><field>sot.</field>
+     <tg xml:lang="fin">
+       <t>hyökätä, edetä</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="V(V::V)">национализировать карыны</l>
+   </lg>
+   <mg>
+     <tg xml:lang="fin">
+       <t>kansallistaa, sosialisoida, valtiollistaa, yhteiskunnallistaa</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="V(V::V)">обеспечить карыны</l>
+   </lg>
+   <mg><mwemg ind="1th"/><defNative>тырмытыны</defNative>
+     <tg xml:lang="fin">
+       <t>turvata toimeentulo;</t>
+     </tg>
+     <xg><x>ас семьядэ обеспечить карыны</x>
+       <xt xml:lang="fin">turvata perheensä toimeentulo</xt>
+     </xg><mwemg ind="2th"/><defNative>вуттыны, вайылыны</defNative>
+     <tg xml:lang="fin">
+       <t>turvata, toimittaa, varustaa;</t>
+     </tg>
+     <xg><x>заводэз сырьёен обеспечить карыны</x>
+       <xt xml:lang="fin">toimittaa tehtaalle raakaaine(tta)</xt>
+     </xg><mwemg ind="3th"/><defNative>сюлмаськыны, гарантировать карыны</defNative>
+     <tg xml:lang="fin">
+       <t>pitää huolta, taata, turvata</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="V(V::V)">относиться кариськыны</l>
+   </lg>
+   <mg><mwemg ind="1th"/><defNative>кинэ ке умой / урод карыны</defNative>
+     <tg xml:lang="fin">
+       <t>suhtautua jhk, kohdella jtak</t>
+     </tg><mwemg ind="2th"/><defNative>малэн ке люкетэз луыны</defNative>
+     <tg xml:lang="fin">
+       <t>kuulua jhk</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="V(V::V)">отравить карыны</l>
+   </lg>
+   <mg>
+     <tg xml:lang="fin">
+       <t>myrkyttää</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="V(V::V)">парализовать карыны</l>
+   </lg>
+   <mg><val ind="yksipers."/>
+     <tg xml:lang="fin">
+       <t>halvauttaa, halvaannuttaa</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="V(V::V)">планировать карон</l>
+   </lg>
+   <mg>
+     <tg xml:lang="fin">
+       <t>suunnittelu;</t>
+     </tg>
+     <xg><x>планировать карыны</x>
+       <xt xml:lang="fin">suunnitella</xt>
+     </xg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="V(V::V)">подчинить карыны</l>
+   </lg>
+   <mg>
+     <tg xml:lang="fin">
+       <t>alistaa</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="V(V::V)">подчиняться кариськыны</l>
+   </lg>
+   <mg>
+     <tg xml:lang="fin">
+       <t>alistua</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="V(V::V)">ранить карыны</l>
+   </lg>
+   <mg>
+     <tg xml:lang="fin">
+       <t>haavoittaa</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="V(V::V)">рекомендовать карыны</l>
+   </lg>
+   <mg>
+     <tg xml:lang="fin">
+       <t>suositella</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="V(V::V)">ремонтировать карыны</l>
+   </lg>
+   <mg>
+     <tg xml:lang="fin">
+       <t>korjata, kunnostaa, remontoida</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="V(V::V)">репрессировать карыны</l>
+   </lg>
+   <mg>
+     <tg xml:lang="fin">
+       <t>rangaista, käyttää rankaisutoimia (t.</t>
+     </tg>
+     <tg xml:lang="fin">
+       <t>rangaistustoimia)</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="V(V::V)">рисковать карыны</l>
+   </lg>
+   <mg><mwemg ind="1th"/>
+     <tg xml:lang="fin">
+       <t>riskeerata, ottaa riski</t>
+     </tg><mwemg ind="2th"/><defNative>маин ке</defNative>
+     <tg xml:lang="fin">
+       <t>vaarantaa</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="V(V::V)">снимать карыны</l>
+   </lg>
+   <mg><mwemg ind="1th"/>
+     <tg xml:lang="fin">
+       <t>(valo)kuvata, ottaa kuva(t);</t>
+     </tg><note><i>elok.</i></note>
+     <tg xml:lang="fin">
+       <t>kuvata;</t>
+     </tg>
+     <xg><x>фильм снимать карыны</x>
+       <xt xml:lang="fin">kuvata elokuva (t. filmi)</xt>
+     </xg></mg>
+<mg><defNative>улонни</defNative>
+     <tg xml:lang="fin">
+       <t>vuokrata, ottaa vuokralle;</t>
+     </tg><font face="SmolenskSGR"><b>квартира</b></font>
+     <xg><x>снимать карыны</x>
+       <xt xml:lang="fin">vuokrata huoneisto (t. asunto)</xt>
+     </xg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="V(V::V)">спекулировать карыны</l>
+   </lg>
+   <mg>
+     <tg xml:lang="fin">
+       <t>harjoittaa salakauppaa; trokata</t>
+     </tg><note><i>ark.</i></note>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="V(V::V)">страховаться кариськыны</l>
+   </lg>
+   <mg>
+     <tg xml:lang="fin">
+       <t>ottaa henkivakuutus, vakuuttaa itsensä</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="V(V::V)">судить карыны</l>
+   </lg>
+   <mg>
+     <tg xml:lang="fin">
+       <t>tuomita</t>
+       <re>oikeudessa</re>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="V(V::V)">судиться кариськыны</l>
+   </lg>
+   <mg>
+     <tg xml:lang="fin">
+       <t>käydä</t>
+     </tg>
+     <tg xml:lang="fin">
+       <t>oikeutta, käräjöidä</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="V(V::V)">компостировать карыны</l>
+   </lg>
+   <mg><defNative>поезд билетэз</defNative>
+     <tg xml:lang="fin">
+       <t>merkityttää paikka (ja aika)</t>
+       <re>junalippuun</re>;
+     </tg><font face="SmolenskSGR">(<i>пасяны</i>)</font>
+     <tg xml:lang="fin">
+       <t>lävistää</t>
+       <re>lävistyslaitteessa</re>;
+     </tg><font face="SmolenskSGR">(<i>штамп пуктыны</i>)</font>
+     <tg xml:lang="fin">
+       <t>leimata</t>
+       <re>leimauslaitteessa</re>
+     </tg>
+   </mg>
+</e>
+<e>
    <lg><l pos="V(V::V)">гипсовать карыны</l></lg>
 <mg>
        <tg xml:lang="fin"><t>kipsata, panna kipsiin</t>

@@ -28,6 +28,22 @@ Possible errors following proofreading are, e. g., substitution of special fonts
 
 <e>
    <lg>
+     <l pos="CS">сямен</l><orig>сямен</orig>
+     </lg>
+   <mg ind="2th"> <note><i>komp.konj:na</i></note><font face="SmolenskSGR">(<i>музэн, кадь</i>)</font>
+     <tg xml:lang="fin">
+       <t>kuten, niin kuin, jnk lailla;</t>
+     </tg>
+     <xg><x>мон сямен кар</x>
+       <xt xml:lang="fin">tee (t. toimi) kuten (t. niin kuin) minä, tee (t. toimi) minun laillani;</xt>
+     </xg>
+     <xg><x>кин ке сямен ик</x>
+       <xt xml:lang="fin">samalla kuin joku, niin kuin joku</xt>
+     </xg>
+   </mg>
+</e>
+<e>
+   <lg>
      <l pos="CS">а</l>
      <stg>
        <st Contlex="CS_">а</st>

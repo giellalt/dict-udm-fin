@@ -28,6 +28,19 @@ Possible errors following proofreading are, e. g., substitution of special fonts
 
 <e>
    <lg>
+     <l pos="CC">только</l><orig>тоʼлько</orig>
+   </lg>
+   <mg ind="1th">
+     <tg xml:lang="fin">
+       <t>mutta;</t>
+     </tg>
+     <xg><x>мон кошко, только берло эн йыркуръяськы</x>
+       <xt xml:lang="fin">minä lähden, mutta älä sitten suutu</xt>
+     </xg>
+   </mg>
+   </e>
+<e>
+   <lg>
      <l pos="CC">а</l>
      <stg>
        <st Contlex="CC_">а</st>

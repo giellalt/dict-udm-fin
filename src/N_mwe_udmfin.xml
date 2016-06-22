@@ -26,6 +26,69 @@ Possible errors following proofreading are, e. g., substitution of special fonts
       </sourcenote>
    </lics>
 
+<e>
+   <lg>
+     <l pos="N(A::N)">трослыко каронкыл</l>
+   </lg>
+   <mg><field>kiel.</field>
+     <tg xml:lang="fin">
+       <t>frekventatiiviverbi</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="N(V::N)">грабить карон</l>
+   </lg>
+   <mg>
+     <tg xml:lang="fin">
+       <t>ryöstäminen, ryöstö;</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="N(V::N)">известковать карон</l>
+   </lg>
+   <mg><field>maat.</field>
+     <tg xml:lang="fin">
+       <t>kalkitseminen, kalkitus</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="N(V::N)">подчинить карон</l>
+   </lg>
+   <mg>
+     <tg xml:lang="fin">
+       <t>alistaminen;</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="N(V::N)">подчиняться кариськон</l>
+   </lg>
+   <mg>
+     <tg xml:lang="fin">
+       <t>alistuminen;</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="N(V::N)">финансировать карон</l>
+   </lg>
+   <mg>
+     <tg xml:lang="fin">
+       <t>rahoittaminen, rahoitus, finansiointi;</t>
+     </tg>
+     <xg><x>финансировать карыны</x>
+       <xt xml:lang="fin">rahoittaa, finansioida</xt>
+     </xg>
+   </mg>
+</e>
 <e> <lg><l pos="N(V::N)">бастовать карон</l> </lg> <mg> <tg xml:lang="fin"> <t>lakkoilu;</t> </tg> </mg> </e>
 <e> <lg><l pos="N(V::N)">бомбить карон</l> </lg> <mg> <tg xml:lang="fin"> <t>pommittaminen, pommitus;</t> </tg> </mg> </e>
 <e> <lg><l pos="N(V::N)">брить карон</l> </lg> <mg> <tg xml:lang="fin"> <t>(parran)ajo, (parran) ajaminen;</t> </tg> </mg> </e>

@@ -27,6 +27,40 @@ Possible errors following proofreading are, e. g., substitution of special fonts
    </lics>
 <e>
    <lg>
+     <l pos="N">тап-тап</l><orig>таʼп-тап</orig>
+   </lg>
+   <mg ind="1th">
+     <tg xml:lang="fin">
+<re>onom. kuvaa soinnitonta kalahdusta, jalkojen kopinaa, hevosen kapsetta</re>
+       <t>tömähdys, kopina, kapse;</t>
+     </tg>
+     <xg><x>пыдыныз тап-тап каре</x>
+       <xt xml:lang="fin">tömisyttää jalkojaan</xt>
+     </xg>
+   </mg>
+   <mg ind="2th">
+     <tg xml:lang="fin">
+ <t>deskr. kuvaa kovaksi t. tiiviiksi tallattua massaa</t>
+<re>esim. savea, maata</re>
+     </tg>
+     <xg><x>сюрес тап-тап лёгемын</x>
+       <xt xml:lang="fin">tiiviksi tallattu polku (t. tie)</xt>
+     </xg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="N">тапыр</l><orig>тапыр</orig>
+   </lg>
+   <mg>
+     <tg xml:lang="fin">
+<re>onom. kuvaa jalkojen kopinaa, töminää</re>
+       <t>kopina, kapse, töminä</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
      <l pos="N">куара</l>
    </lg>
    <mg ind="1th">

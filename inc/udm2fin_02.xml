@@ -6271,16 +6271,6 @@
 </e>
 <e>
    <lg>
-     <l pos="N(V::N)">грабить карон</l>
-   </lg>
-   <mg>
-     <tg xml:lang="fin">
-       <t>ryöstäminen, ryöstö;</t>
-     </tg>
-   </mg>
-</e>
-<e>
-   <lg>
      <l pos="N;A">грек</l><orig>грек</orig>
    </lg>
    <mg>
@@ -7682,23 +7672,6 @@
 </e>
 <e>
    <lg>
-     <l pos="V(V::V)">звонить карыны</l>
-   </lg>
-   <mg><mwemg ind="1th"/><range>puhek.</range> <font face="SmolenskSGR">(<i>кинлы ке</i>)</font>
-     <tg xml:lang="fin">
-       <t>soittaa puhelimella</t>
-     </tg><mwemg ind="2th"/><defNative>к-сь телефон</defNative>
-     <tg xml:lang="fin">
-       <t>soida</t>
-       <re>puhelin</re>;
-     </tg>
-     <variants>
-       <l_syn type="&gt;">жингыртыны 2,<rom ind="0_3"/></l_syn>
-     </variants>
-   </mg>
-</e>
-<e>
-   <lg>
      <l pos="A;Adv">зӥбыт</l><orig>зӥбыт</orig>
    </lg>
    <mg>
@@ -7871,26 +7844,6 @@
      <xg><x>ижор кыл</x>
        <xt xml:lang="fin">inkeroinen, inkeroiskieli</xt>
      </xg>
-   </mg>
-</e>
-<e>
-   <lg>
-     <l pos="N(V::N)">известковать карон</l>
-   </lg>
-   <mg><field>maat.</field>
-     <tg xml:lang="fin">
-       <t>kalkitseminen, kalkitus</t>
-     </tg>
-   </mg>
-</e>
-<e>
-   <lg>
-     <l pos="V(V::V)">известковать карыны</l>
-   </lg>
-   <mg><field>maat.</field>
-     <tg xml:lang="fin">
-       <t>kalkita</t>
-     </tg>
    </mg>
 </e>
 <e>
@@ -9380,40 +9333,11 @@
    </mg>
 </e>
 <e>
-   <lg>
-     <l pos="V(V::V)">компостировать: компостировать карыны</l>
-   </lg>
-   <mg><defNative>поезд билетэз</defNative>
-     <tg xml:lang="fin">
-       <t>merkityttää paikka (ja aika)</t>
-       <re>junalippuun</re>;
-     </tg><font face="SmolenskSGR">(<i>пасяны</i>)</font>
-     <tg xml:lang="fin">
-       <t>lävistää</t>
-       <re>lävistyslaitteessa</re>;
-     </tg><font face="SmolenskSGR">(<i>штамп пуктыны</i>)</font>
-     <tg xml:lang="fin">
-       <t>leimata</t>
-       <re>leimauslaitteessa</re>
-     </tg>
-   </mg>
-</e>
-<e>
    <lg><l>конкурссы</l><orig>коʼнкурссы</orig>
    </lg>
    <mg>
      <tg xml:lang="fin">
        <t>laulajien kilpailu</t>
-     </tg>
-   </mg>
-</e>
-<e>
-   <lg>
-     <l pos="V(V::V)">конфисковать: конфисковать карыны</l>
-   </lg>
-   <mg>
-     <tg xml:lang="fin">
-       <t>takavarikoida</t>
      </tg>
    </mg>
 </e>
@@ -12355,16 +12279,6 @@
 </e>
 <e>
    <lg>
-     <l pos="V(V::V)">мариновать: мариновать карыны</l>
-   </lg>
-   <mg>
-     <tg xml:lang="fin">
-       <t>marinoida</t>
-     </tg>
-   </mg>
-</e>
-<e>
-   <lg>
      <l pos="Pcle">марым</l><orig>марым</orig>
    </lg>
    <mg><pos>parent.</pos><range>puhek.</range><note>(<i>mieleen juolahtamattoman sanan asemesta</i>)</note>
@@ -13360,49 +13274,6 @@
      <xg><x>мар карод на...</x>
        <xt xml:lang="fin">minkäs sille mahtaa...</xt>
      </xg>
-   </mg>
-</e>
-<e>
-   <lg>
-     <l pos="V(V::V)">нападать: нападать карыны</l>
-   </lg>
-   <mg>
-     <tg xml:lang="fin">
-       <t>hyökätä (jnk kimppuun t. jtak vastaan), käydä (t. karata, rynnätä) kimppuun;</t>
-     </tg>
-     <xg><x>тушмон вылэ нападать карыны</x>
-       <xt xml:lang="fin">hyökätä vihollisen kimppuun</xt>
-     </xg>
-   </mg>
-</e>
-<e>
-   <lg>
-     <l pos="V(V::V)">наследовать: наследовать карыны</l>
-   </lg>
-   <mg>
-     <tg xml:lang="fin">
-       <t>periä, saada perintönä (t. perinnöksi)</t>
-     </tg>
-   </mg>
-</e>
-<e>
-   <lg>
-     <l pos="V(V::V)">наступать: наступать карыны</l>
-   </lg>
-   <mg><field>sot.</field>
-     <tg xml:lang="fin">
-       <t>hyökätä, edetä</t>
-     </tg>
-   </mg>
-</e>
-<e>
-   <lg>
-     <l pos="V(V::V)">национализировать: национализировать карыны</l>
-   </lg>
-   <mg>
-     <tg xml:lang="fin">
-       <t>kansallistaa, sosialisoida, valtiollistaa, yhteiskunnallistaa</t>
-     </tg>
    </mg>
 </e>
 <e>
@@ -14673,28 +14544,6 @@
 </e>
 <e>
    <lg>
-     <l pos="V(V::V)">обеспечить: обеспечить карыны</l>
-   </lg>
-   <mg><mwemg ind="1th"/><defNative>тырмытыны</defNative>
-     <tg xml:lang="fin">
-       <t>turvata toimeentulo;</t>
-     </tg>
-     <xg><x>ас семьядэ обеспечить карыны</x>
-       <xt xml:lang="fin">turvata perheensä toimeentulo</xt>
-     </xg><mwemg ind="2th"/><defNative>вуттыны, вайылыны</defNative>
-     <tg xml:lang="fin">
-       <t>turvata, toimittaa, varustaa;</t>
-     </tg>
-     <xg><x>заводэз сырьёен обеспечить карыны</x>
-       <xt xml:lang="fin">toimittaa tehtaalle raakaaine(tta)</xt>
-     </xg><mwemg ind="3th"/><defNative>сюлмаськыны, гарантировать карыны</defNative>
-     <tg xml:lang="fin">
-       <t>pitää huolta, taata, turvata</t>
-     </tg>
-   </mg>
-</e>
-<e>
-   <lg>
      <l pos="N;A">огарес</l><orig>огарес</orig>
    </lg>
    <mg>
@@ -15517,29 +15366,6 @@
 </e>
 <e>
    <lg>
-     <l pos="V(V::V)">относиться: относиться кариськыны</l>
-   </lg>
-   <mg><mwemg ind="1th"/><defNative>кинэ ке умой / урод карыны</defNative>
-     <tg xml:lang="fin">
-       <t>suhtautua jhk, kohdella jtak</t>
-     </tg><mwemg ind="2th"/><defNative>малэн ке люкетэз луыны</defNative>
-     <tg xml:lang="fin">
-       <t>kuulua jhk</t>
-     </tg>
-   </mg>
-</e>
-<e>
-   <lg>
-     <l pos="V(V::V)">отравить: отравить карыны</l>
-   </lg>
-   <mg>
-     <tg xml:lang="fin">
-       <t>myrkyttää</t>
-     </tg>
-   </mg>
-</e>
-<e>
-   <lg>
      <l pos="Pcle">о-тэ</l><orig>оʼ-тэ</orig>
    </lg>
    <mg><note><i>part. vahv.,</i></note><range>puhek.</range><defNative>меда, бен ведь</defNative> <note><i>vahvistaa kysymystä:</i></note>
@@ -15787,16 +15613,6 @@
      <xg><x>палэнысь шаеръёс</x>
        <xt xml:lang="fin">kaukaiset maat</xt>
      </xg>
-   </mg>
-</e>
-<e>
-   <lg>
-     <l pos="V(V::V)">парализовать: парализовать карыны</l>
-   </lg>
-   <mg><val ind="yksipers."/>
-     <tg xml:lang="fin">
-       <t>halvauttaa, halvaannuttaa</t>
-     </tg>
    </mg>
 </e>
 <e>
@@ -16078,64 +15894,11 @@
 </e>
 <e>
    <lg>
-     <l pos="V(V::V)">планировать: планировать карон</l>
-   </lg>
-   <mg>
-     <tg xml:lang="fin">
-       <t>suunnittelu;</t>
-     </tg>
-     <xg><x>планировать карыны</x>
-       <xt xml:lang="fin">suunnitella</xt>
-     </xg>
-   </mg>
-</e>
-<e>
-   <lg>
      <l pos="A;N">пленной</l><orig>плеʼнной</orig>
    </lg>
    <mg>
      <tg xml:lang="fin">
        <t>vangittu, vanki</t>
-     </tg>
-   </mg>
-</e>
-<e>
-   <lg>
-     <l pos="N(V::N)">подчинить карон</l>
-   </lg>
-   <mg>
-     <tg xml:lang="fin">
-       <t>alistaminen;</t>
-     </tg>
-   </mg>
-</e>
-<e>
-   <lg>
-     <l pos="V(V::V)">подчинить карыны</l>
-   </lg>
-   <mg>
-     <tg xml:lang="fin">
-       <t>alistaa</t>
-     </tg>
-   </mg>
-</e>
-<e>
-   <lg>
-     <l pos="N(V::N)">подчиняться кариськон</l>
-   </lg>
-   <mg>
-     <tg xml:lang="fin">
-       <t>alistuminen;</t>
-     </tg>
-   </mg>
-</e>
-<e>
-   <lg>
-     <l pos="V(V::V)">подчиняться кариськыны</l>
-   </lg>
-   <mg>
-     <tg xml:lang="fin">
-       <t>alistua</t>
      </tg>
    </mg>
 </e>
@@ -17100,62 +16863,6 @@
 </e>
 <e>
    <lg>
-     <l pos="V(V::V)">ранить: ранить карыны</l>
-   </lg>
-   <mg>
-     <tg xml:lang="fin">
-       <t>haavoittaa</t>
-     </tg>
-   </mg>
-</e>
-<e>
-   <lg>
-     <l pos="V(V::V)">рекомендовать: рекомендовать карыны</l>
-   </lg>
-   <mg>
-     <tg xml:lang="fin">
-       <t>suositella</t>
-     </tg>
-   </mg>
-</e>
-<e>
-   <lg>
-     <l pos="V(V::V)">ремонтировать: ремонтировать карыны</l>
-   </lg>
-   <mg>
-     <tg xml:lang="fin">
-       <t>korjata, kunnostaa, remontoida</t>
-     </tg>
-   </mg>
-</e>
-<e>
-   <lg>
-     <l pos="V(V::V)">репрессировать: репрессировать карыны</l>
-   </lg>
-   <mg>
-     <tg xml:lang="fin">
-       <t>rangaista, käyttää rankaisutoimia (t.</t>
-     </tg>
-     <tg xml:lang="fin">
-       <t>rangaistustoimia)</t>
-     </tg>
-   </mg>
-</e>
-<e>
-   <lg>
-     <l pos="V(V::V)">рисковать: рисковать карыны</l>
-   </lg>
-   <mg><mwemg ind="1th"/>
-     <tg xml:lang="fin">
-       <t>riskeerata, ottaa riski</t>
-     </tg><mwemg ind="2th"/><defNative>маин ке</defNative>
-     <tg xml:lang="fin">
-       <t>vaarantaa</t>
-     </tg>
-   </mg>
-</e>
-<e>
-   <lg>
      <l pos="A;N">румын</l><orig>румын</orig>
    </lg>
    <mg>
@@ -17547,28 +17254,6 @@
    </mg>
 </e>
 <e>
-   <lg>
-     <l pos="V(V::V)">снимать: снимать карыны</l>
-   </lg>
-   <mg><mwemg ind="1th"/>
-     <tg xml:lang="fin">
-       <t>(valo)kuvata, ottaa kuva(t);</t>
-     </tg><note><i>elok.</i></note>
-     <tg xml:lang="fin">
-       <t>kuvata;</t>
-     </tg>
-     <xg><x>фильм снимать карыны</x>
-       <xt xml:lang="fin">kuvata elokuva (t. filmi)</xt>
-     </xg><mwemg ind="2th"/><defNative>улонни</defNative>
-     <tg xml:lang="fin">
-       <t>vuokrata, ottaa vuokralle;</t>
-     </tg><font face="SmolenskSGR"><b>квартира</b></font>
-     <xg><x>снимать карыны</x>
-       <xt xml:lang="fin">vuokrata huoneisto (t. asunto)</xt>
-     </xg>
-   </mg>
-</e>
-<e>
    <lg><l>советсы</l><orig>советсы</orig>
    </lg>
    <mg>
@@ -17779,16 +17464,6 @@
 </e>
 <e>
    <lg>
-     <l pos="V(V::V)">спекулировать: спекулировать карыны</l>
-   </lg>
-   <mg>
-     <tg xml:lang="fin">
-       <t>harjoittaa salakauppaa; trokata</t>
-     </tg><note><i>ark.</i></note>
-   </mg>
-</e>
-<e>
-   <lg>
      <l pos="N;A">спорт</l><orig>спорт</orig>
    </lg>
    <mg>
@@ -17817,40 +17492,6 @@
    <mg>
      <tg xml:lang="fin">
        <t>strategia, sodanjohtotaito; johtamistaito // strateginen</t>
-     </tg>
-   </mg>
-</e>
-<e>
-   <lg>
-     <l pos="V(V::V)">страховаться: страховаться кариськыны</l>
-   </lg>
-   <mg>
-     <tg xml:lang="fin">
-       <t>ottaa henkivakuutus, vakuuttaa itsensä</t>
-     </tg>
-   </mg>
-</e>
-<e>
-   <lg>
-     <l pos="V(V::V)">судить: судить карыны</l>
-   </lg>
-   <mg>
-     <tg xml:lang="fin">
-       <t>tuomita</t>
-       <re>oikeudessa</re>
-     </tg>
-   </mg>
-</e>
-<e>
-   <lg>
-     <l pos="V(V::V)">судиться: судиться кариськыны</l>
-   </lg>
-   <mg>
-     <tg xml:lang="fin">
-       <t>käydä</t>
-     </tg>
-     <tg xml:lang="fin">
-       <t>oikeutta, käräjöidä</t>
      </tg>
    </mg>
 </e>
@@ -18721,120 +18362,6 @@
 </e>
 <e>
    <lg>
-     <l pos="Det">сюэтӥ</l><orig>сюэʼтӥʼ</orig>
-   </lg>
-   <mg>
-     <tg xml:lang="fin">
-       <t>sadas</t>
-     </tg>
-   </mg>
-</e>
-<e>
-   <lg>
-     <l pos="Po;Conj">сямен</l><orig>сямен</orig>
-   </lg>
-   <mg ind="1th"><defNative>кыӵе ке амалэн</defNative>
-     <tg xml:lang="fin">
-       <t>jnk tavalla (t. tavoin), jhk tapaan;</t>
-     </tg>
-     <xg><x>выль сямен ужаны</x>
-       <xt xml:lang="fin">työskennellä uudella tavalla;</xt>
-     </xg>
-     <xg><x>мукет сямен</x>
-       <xt xml:lang="fin">toisella (t. muulla) tavalla;</xt>
-     </xg>
-     <xg><x>мукет сямен вераса</x>
-       <xt xml:lang="fin">toisin sanoen</xt>
-     </xg>
-   </mg>
-   <mg ind="2th"> <note><i>komp.konj:na</i></note><font face="SmolenskSGR">(<i>музэн, кадь</i>)</font>
-     <tg xml:lang="fin">
-       <t>kuten, niin kuin, jnk lailla;</t>
-     </tg>
-     <xg><x>мон сямен кар</x>
-       <xt xml:lang="fin">tee (t. toimi) kuten (t. niin kuin) minä, tee (t. toimi) minun laillani;</xt>
-     </xg>
-     <xg><x>кин ке сямен ик</x>
-       <xt xml:lang="fin">samalla kuin joku, niin kuin joku</xt>
-     </xg>
-   </mg>
-   <mg ind="3th"><defNative>кинлэн ке малпамезъя, мылкыдызъя</defNative>
-     <tg xml:lang="fin">
-       <t>jnk mielestä (t. mielen mukaan);</t>
-     </tg>
-     <xg><x>мон сямен</x>
-       <xt xml:lang="fin">minusta, (minun) mielestäni (t. mieleni mukaan)</xt>
-     </xg>
-   </mg>
-   <mg ind="4th">
-     <tg xml:lang="fin">
-       <t>jnk kielellä, =ksi,</t>
-     </tg><note><i>kääntyy partitiivilla</i></note>
-     <tg xml:lang="fin">
-       <t>;</t>
-     </tg>
-     <xg><x>удмурт сямен вераськыны</x>
-       <xt xml:lang="fin">puhua udmurttia;</xt>
-     </xg>
-     <xg><x>удмурт сямен гожъяны</x>
-       <xt xml:lang="fin">kirjoittaa udmurtiksi;</xt>
-     </xg>
-     <xg><x>вера сое удмурт сямен</x>
-       <xt xml:lang="fin">sano se udmurtiksi;</xt>
-     </xg>
-     <xg><x>кызьы со луоз финн сямен?</x>
-       <xt xml:lang="fin">mikä se on suomeksi?</xt>
-     </xg>◊
-     <xg><x>котьку сямен</x>
-       <xt xml:lang="fin">tavallisesti; kuten aina</xt>
-     </xg>
-   </mg>
-</e>
-<e>
-   <lg>
-     <l pos="Po">сяна</l><orig>сяна</orig>
-   </lg>
-   <mg>
-     <tg xml:lang="fin">
-       <t>paitsi, lukuun ottamatta;</t>
-     </tg>
-     <xg><x>со сяна</x>
-       <xt xml:lang="fin">sitä paitsi;</xt>
-     </xg>
-     <xg><x>ваньзы отын вал, тон сяна</x>
-       <xt xml:lang="fin">kaikki olivat siellä paitsi sinä</xt>
-     </xg>
-   </mg>
-</e>
-<e>
-   <lg>
-     <l pos="Po">сярысь</l><orig>сярысь</orig>
-   </lg>
-   <mg ind="1th"><pos ind="Po"/><note><i>osoittaa puheen, ajatuksen, huolenpidon tms. kohdetta</i></note>
-     <tg xml:lang="fin">
-       <t>: =sta / =stä;</t>
-     </tg>
-     <xg><x>кин сярысь вераськиськоды?</x>
-       <xt xml:lang="fin">kenestä te puhutte?;</xt>
-     </xg>
-     <xg><x>со сярысь весь сюлмаськисько</x>
-       <xt xml:lang="fin">olen aina huolissani hänestä (t. siitä)</xt>
-     </xg>
-   </mg>
-   <mg ind="2th"> <note><i>konj. komp.</i></note>
-     <tg xml:lang="fin">
-       <t>kuin, jhk verrattuna;</t>
-     </tg><font face="SmolenskSGR"><b>толло</b> (<i>я. </i></font>
-     <xg><x>толон) сярысь туннэ шулдыргес</x>
-       <xt xml:lang="fin">tänään sää on kauniimpi kuin eilen;</xt>
-     </xg>
-     <xg><x>тон мон сярысь умойгес лэсьтӥд</x>
-       <xt xml:lang="fin">sinä teit paremmin kuin minä</xt>
-     </xg>
-   </mg>
-</e>
-<e>
-   <lg>
      <l pos="Prc">сяськаяськись</l><orig>сяськаяськись</orig>
    </lg>
    <mg ind="1th"><compg><comp ord="E1" pos="V">сяськаяськыны</comp><comp ord="E2" type="Der/сь" drv="Prc"/></compg>
@@ -18843,37 +18370,6 @@
      <tg xml:lang="fin">
        <t>kukoistava; kehittynyt</t>
      </tg>
-   </mg>
-</e>
-<e>
-   <lg>
-     <l pos="Pron">та</l><orig>та</orig>
-   </lg>
-   <mg><note><i>pron. demonstr.</i></note>
-     <tg xml:lang="fin">
-       <t>tämä;</t>
-     </tg>
-     <xg><x>та виын</x>
-       <xt xml:lang="fin">nyt, tällä hetkellä, nykyaikana;</xt>
-     </xg>
-     <xg><x>та корка</x>
-       <xt xml:lang="fin">tämä talo;</xt>
-     </xg><font face="SmolenskSGR">(<i>кытчы?</i>)</font>
-     <tg xml:lang="fin">
-       <t>tähän taloon;</t>
-     </tg>
-     <xg><x>та коркан</x>
-       <xt xml:lang="fin">tässä talossa;</xt>
-     </xg>
-     <xg><x>та коркась</x>
-       <xt xml:lang="fin">tästä talosta;</xt>
-     </xg>
-     <xg><x>та ласянь</x>
-       <xt xml:lang="fin">täältä(päin), tästä, tästä suunnasta, tältä puolelta;</xt>
-     </xg>
-     <xg><x>та ласянь лыктыны</x>
-       <xt xml:lang="fin">tulla täältäpäin</xt>
-     </xg>
    </mg>
 </e>
 <e>
@@ -18891,55 +18387,11 @@
 </e>
 <e>
    <lg>
-     <l pos="Pron">таин</l><orig>таин</orig>
-   </lg>
-   <mg ind="1th"><compg><comp ord="E1">та</comp><comp ord="E2">instr. pron:sta</comp></compg>
-     <tg xml:lang="fin">
-       <t>tämän kanssa, tällä;</t>
-     </tg><font face="SmolenskSGR"><b>таин ӵош ик </b></font><mwemg ind="1th"/>
-     <tg xml:lang="fin">
-       <t>myös hänen kanssaan</t>
-     </tg><mwemg ind="2th"/>
-     <tg xml:lang="fin">
-       <t>tämänkin kanssa (t. yhteydessä)</t>
-     </tg>
-   </mg>
-   <mg ind="2th"> <font face="SmolenskSGR">(<i>таин сэрен</i>)</font>
-     <tg xml:lang="fin">
-       <t>siksi; tämän takia;</t>
-     </tg>
-     <xg><x>таин сэрен</x>
-       <xt xml:lang="fin">tämän takia</xt>
-     </xg>
-   </mg>
-</e>
-<e>
-   <lg>
      <l pos="A;Adv">тамаша</l><orig>тамаша</orig>
    </lg>
    <mg>
      <variants>
        <l_syn type="&gt;">тумошо</l_syn>
-     </variants>
-   </mg>
-</e>
-<e>
-   <lg>
-     <l pos="Pcle">тани</l><orig>таʼниʼ</orig>
-   </lg>
-   <mg>
-     <tg xml:lang="fin">
-       <t>kas näin!, tässä näin!</t>
-     </tg>
-   </mg>
-</e>
-<e>
-   <lg>
-     <l pos="Pcle">тань</l><orig>тань</orig>
-   </lg>
-   <mg><range>puhek.</range>
-     <variants>
-       <l_syn type="&gt;">таʼниʼ</l_syn>
      </variants>
    </mg>
 </e>
@@ -18964,37 +18416,6 @@
      <xg><x>тапал ярдур</x>
        <xt xml:lang="fin">tämänpuoleinen ranta (joen)</xt>
      </xg>
-   </mg>
-</e>
-<e>
-   <lg>
-     <l pos="Descr;N">тап-тап</l><orig>таʼп-тап</orig>
-   </lg>
-   <mg ind="1th"><note><i>onom. kuvaa soinnitonta kalahdusta, jalkojen kopinaa, hevosen kapsetta</i></note>
-     <tg xml:lang="fin">
-       <t>: tömähdys, kopina, kapse;</t>
-     </tg>
-     <xg><x>пыдыныз тап-тап каре</x>
-       <xt xml:lang="fin">tömisyttää jalkojaan</xt>
-     </xg>
-   </mg>
-   <mg ind="2th"> <note><i>deskr. kuvaa kovaksi t. tiiviiksi tallattua massaa</i></note><note>(<i>esim. savea, maata</i>)</note>
-     <tg xml:lang="fin">
-       <t>:</t>
-     </tg>
-     <xg><x>сюрес тап-тап лёгемын</x>
-       <xt xml:lang="fin">tiiviksi tallattu polku (t. tie)</xt>
-     </xg>
-   </mg>
-</e>
-<e>
-   <lg>
-     <l pos="Descr;N">тапыр</l><orig>тапыр</orig>
-   </lg>
-   <mg><note><i>onom. kuvaa jalkojen kopinaa, töminää</i></note>
-     <tg xml:lang="fin">
-       <t>: kopina, kapse, töminä</t>
-     </tg>
    </mg>
 </e>
 <e>
@@ -19076,114 +18497,6 @@
 </e>
 <e>
    <lg>
-     <l pos="Pron">тӥлед</l><orig>тӥлед</orig>
-   </lg>
-   <mg>
-     <variants>
-       <l_syn type="&gt;">тӥледлы</l_syn>
-     </variants>
-   </mg>
-</e>
-<e>
-   <lg>
-     <l pos="Pron">тӥледыз</l><orig>тӥледыз</orig>
-   </lg>
-   <mg>
-     <variants>
-       <l_syn type="&gt;">тӥледды</l_syn>
-     </variants>
-   </mg>
-</e>
-<e>
-   <lg>
-     <l pos="Pron">тӥледын</l><orig>тӥледын</orig>
-     <variants>
-       <l_syn>тӥленыды</l_syn>
-     </variants>
-   </lg>
-   <mg><compg><comp ord="E1">тӥ</comp><comp ord="E2">instr. pron:sta</comp></compg>
-     <tg xml:lang="fin">
-       <t>teidän kanssanne;</t>
-     </tg>
-     <xg><x>тӥледын капчи вераськыны</x>
-       <xt xml:lang="fin">teidän kanssanne on helppo puhua (t. keskustella)</xt>
-     </xg>
-   </mg>
-</e>
-<e>
-   <lg>
-     <l pos="Pron">тӥленыды</l><orig>тӥленыды</orig>
-     <variants>
-       <l_syn>тӥледын</l_syn>
-     </variants>
-   </lg>
-   <mg><compg><comp ord="E1">тӥ</comp><comp ord="E2">instr. pron:sta</comp></compg>
-     <tg xml:lang="fin">
-       <t>teidän kanssanne;</t>
-     </tg>
-     <xg><x>тӥленыды капчи вераськыны</x>
-       <xt xml:lang="fin">teidän kanssanne on helppo puhua (t. keskustella)</xt>
-     </xg>
-   </mg>
-</e>
-<e>
-   <lg>
-     <l pos="Pron">тӥлесьтыд</l><orig>тӥлесьтыд</orig>
-   </lg>
-   <mg ind="1th"><compg><comp ord="E1">тӥ</comp><comp ord="E2">abl. pron:sta</comp></compg>
-     <tg xml:lang="fin">
-       <t>teiltä</t>
-     </tg>
-   </mg>
-   <mg ind="2th"> <pos>pron. poss.</pos>
-     <tg xml:lang="fin">
-       <t>teidän;</t>
-     </tg>
-     <xg><x>тӥлесьтыд атайдэс ушъяло</x>
-       <xt xml:lang="fin">teidän isäänne kehutaan</xt>
-     </xg>
-   </mg>
-</e>
-<e>
-   <lg>
-     <l pos="Pron">тӥляд</l><orig>тӥляд</orig>
-   </lg>
-   <mg ind="1th"><compg><comp ord="E1">тӥ</comp><comp ord="E2">gen. pron:sta</comp></compg>
-     <tg xml:lang="fin">
-       <t>teillä</t>
-     </tg>
-   </mg>
-   <mg ind="2th"> <pos>pron. poss.</pos>
-     <tg xml:lang="fin">
-       <t>teidän;</t>
-     </tg>
-     <xg><x>тӥляд коркады бадӟым</x>
-       <xt xml:lang="fin">teidän talonne on iso</xt>
-     </xg>
-   </mg>
-</e>
-<e>
-   <lg>
-     <l pos="Pcle">тӥни</l><orig>тӥʼниʼ</orig>
-   </lg>
-   <mg>
-     <tg xml:lang="fin">
-       <t>kas tuolla, kas noin;</t>
-     </tg>
-     <xg><x>тӥни кыӵе со вылэм</x>
-       <xt xml:lang="fin">kas sellainen hän on</xt>
-     </xg>
-   </mg>
-</e>
-<e>
-   <lg>
-     <l pos="Pcle">тӥнь</l><orig>тӥнь</orig>
-   </lg>
-   <mg><range>puhek.</range><font face="TimesNewRomanPS" type="&gt;"><b>тӥни</b></font>
-   </mg>
-</e>
-<e>
-   <lg>
      <l pos="Prc;A">тӥяськись</l><orig>тӥяськись</orig>
    </lg>
    <mg ind="1th"><compg><comp ord="E1" pos="V">тӥяськыны</comp><comp ord="E2" type="Der/сь" drv="Prc"/></compg>
@@ -19233,47 +18546,6 @@
 </e>
 <e>
    <lg>
-     <l pos="CC;Adv">только</l><orig>тоʼлько</orig>
-   </lg>
-   <mg ind="1th">
-     <tg xml:lang="fin">
-       <t>mutta;</t>
-     </tg>
-     <xg><x>мон кошко, только берло эн йыркуръяськы</x>
-       <xt xml:lang="fin">minä lähden, mutta älä sitten suutu</xt>
-     </xg>
-   </mg>
-   <mg ind="2th"><defNative>алигес</defNative>
-     <tg xml:lang="fin">
-       <t>juuri, äsken;</t>
-     </tg>
-     <xg><x>со только кошкиз</x>
-       <xt xml:lang="fin">hän lähti äsken</xt>
-     </xg>
-   </mg>
-   <mg ind="3th"><defNative>гинэ</defNative>
-     <tg xml:lang="fin">
-       <t>vain, vasta;</t>
-     </tg>
-     <xg><x>та только кутскон гинэ</x>
-       <xt xml:lang="fin">tämä on vasta alkua</xt>
-     </xg>
-   </mg>
-</e>
-<e>
-   <lg>
-     <l pos="Prc;A">тӧласькись</l><orig>тӧласькись</orig>
-   </lg>
-   <mg ind="1th"><compg><comp ord="E1" pos="V">тӧласькыны</comp><comp ord="E2" type="Der/сь" drv="Prc"/></compg>
-   </mg>
-   <mg ind="2th">
-     <tg xml:lang="fin">
-       <t>tuulinen</t>
-     </tg>
-   </mg>
-</e>
-<e>
-   <lg>
      <l pos="A;Adv">тӧлъя-буръя</l><orig>тӧлъя-буръя</orig>
    </lg>
    <mg>
@@ -19283,16 +18555,6 @@
      <xg><x>шудэ тӧлъя-буръя кошкиз</x>
        <xt xml:lang="fin">onneni lähti myötätuuleen (t. tuulen mukaan)</xt>
      </xg>
-   </mg>
-</e>
-<e>
-   <lg>
-     <l pos="V(V::V)">тренировать: тренировать карыны</l>
-   </lg>
-   <mg>
-     <tg xml:lang="fin">
-       <t>valmentaa</t>
-     </tg>
    </mg>
 </e>
 <e>
@@ -19342,16 +18604,6 @@
      </xg>◊ <font face="SmolenskSGR"><b>трос лыд </b></font><field>kiel.</field>
      <tg xml:lang="fin">
        <t>monikko</t>
-     </tg>
-   </mg>
-</e>
-<e>
-   <lg>
-     <l pos="N(A::N)">трослыко: трослыко каронкыл</l>
-   </lg>
-   <mg><field>kiel.</field>
-     <tg xml:lang="fin">
-       <t>frekventatiiviverbi</t>
      </tg>
    </mg>
 </e>
@@ -20772,19 +20024,6 @@
      </tg>
      <xg><x>филологи факультет</x>
        <xt xml:lang="fin">filologinen (t. filologian) tiedekunta</xt>
-     </xg>
-   </mg>
-</e>
-<e>
-   <lg>
-     <l pos="V(V::N)">финансировать: финансировать карон</l>
-   </lg>
-   <mg>
-     <tg xml:lang="fin">
-       <t>rahoittaminen, rahoitus, finansiointi;</t>
-     </tg>
-     <xg><x>финансировать карыны</x>
-       <xt xml:lang="fin">rahoittaa, finansioida</xt>
      </xg>
    </mg>
 </e>

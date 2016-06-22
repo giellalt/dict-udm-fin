@@ -28,6 +28,18 @@ Possible errors following proofreading are, e. g., substitution of special fonts
 
 <e>
    <lg>
+     <l pos="Prc">тӧласькись</l><orig>тӧласькись</orig>
+   </lg>
+   <mg ind="1th"><compg><comp ord="E1" pos="V">тӧласькыны</comp><comp ord="E2" type="Der/сь" drv="Prc"/></compg>
+   </mg>
+   <mg ind="2th">
+     <tg xml:lang="fin">
+       <t pos="A">tuulinen</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
      <l pos="Prc">бездӥсь</l><orig>бездӥсь</orig>
    </lg>
    <mg ind="1th"><compg><comp ord="E1" pos="V">бездыны</comp><comp ord="E2" type="Der/сь" drv="Prc"/></compg>

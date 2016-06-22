@@ -28,6 +28,46 @@ Possible errors following proofreading are, e. g., substitution of special fonts
 
 <e>
    <lg>
+     <l pos="Pcle">тани</l><orig>таʼниʼ</orig>
+   </lg>
+   <mg>
+     <tg xml:lang="fin">
+       <t>kas näin!, tässä näin!</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Pcle">тань</l><orig>тань</orig>
+   </lg>
+   <mg><range>puhek.</range>
+     <variants>
+       <l_syn type="&gt;">таʼниʼ</l_syn>
+     </variants>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Pcle">тӥни</l><orig>тӥʼниʼ</orig>
+   </lg>
+   <mg>
+     <tg xml:lang="fin">
+       <t>kas tuolla, kas noin;</t>
+     </tg>
+     <xg><x>тӥни кыӵе со вылэм</x>
+       <xt xml:lang="fin">kas sellainen hän on</xt>
+     </xg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Pcle">тӥнь</l><orig>тӥнь</orig>
+   </lg>
+   <mg><range>puhek.</range><font face="TimesNewRomanPS" type="&gt;"><b>тӥни</b></font>
+   </mg>
+</e>
+<e>
+   <lg>
      <l hid="Hom1" pos="Pcle">а</l>
      <stg>
        <st Contlex="PCLE_">а</st>
