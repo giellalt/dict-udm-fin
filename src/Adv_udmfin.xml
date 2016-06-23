@@ -318,7 +318,7 @@ Possible errors following proofreading are, e. g., substitution of special fonts
 <e> <lg><l pos="Adv">буре</l><orig>буре</orig> </lg> <mg> <tg xml:lang="fin"> <t>oikealle (puolelle)</t> </tg> </mg> </e>
 <e> <lg> <l pos="Adv">бурлань</l><orig>бурлань</orig> </lg> <mg> <tg xml:lang="fin"> <t>oikealle päin</t> </tg> </mg> </e>
 <e> <lg> <l pos="Adv">бурласянь</l><orig>бурласянь</orig> </lg> <mg> <tg xml:lang="fin"> <t>oikealta</t> </tg> </mg> </e>
-<e> <lg> <l pos="Adv">бушен</l><orig>бушен</orig> </lg> <mg ind="1th"><defNative>тырттэмен</defNative> <tg xml:lang="fin"> <t>tyhjillään, tyhjänä</t> </tg> </mg> <mg ind="2th"><defNative>дунтэк</defNative> <tg xml:lang="fin"> <t>ilmaiseksi, maksutta •</t> </tg><font face="SmolenskSGR"><b>бушен сётыны </b></font><mwemg ind="1th"/> <tg xml:lang="fin"> <t>antaa tyhjänä</t> </tg><mwemg ind="2th"/> <tg xml:lang="fin"> <t>antaa ilmaiseksi (t. maksutta)</t> </tg> </mg> </e>
+<e> <lg> <l pos="Adv">бушен</l><orig>бушен</orig> </lg> <mg ind="1th"><defNative>тырттэмен</defNative> <tg xml:lang="fin"> <t>tyhjillään, tyhjänä</t> </tg> </mg> <mg ind="2th"><defNative>дунтэк</defNative> <tg xml:lang="fin"> <t>ilmaiseksi, maksutta •</t> </tg><xg><x>бушен сётыны</x><xt xml:lang="fin">antaa tyhjänä</xt><xt xml:lang="fin">antaa ilmaiseksi (t. maksutta)</xt> </xg> </mg> </e>
 <e> <lg><l pos="Adv">быгатыса</l><orig>быгатыса</orig> </lg> <mg> <tg xml:lang="fin"> <t>taitavasti</t> </tg> </mg> </e>
 <e> <lg><l pos="Adv">быдтыр</l><orig>бодтор</orig> <variants> <l_syn>быдтырак</l_syn> </variants> </lg> <mg> <tg xml:lang="fin"> <t>lakkaamatta, keskeytymättä, aina, jatkuvasti</t> </tg> </mg> </e>
 <e> <lg><l pos="Adv">быдтырак</l><orig>бодтыраʼк</orig> <variants> <l_syn>бодтор</l_syn> </variants> </lg> <mg> <tg xml:lang="fin"> <t>lakkaamatta, keskeytymättä, aina, jatkuvasti</t> </tg> </mg> </e>
@@ -334,7 +334,7 @@ Possible errors following proofreading are, e. g., substitution of special fonts
 <e> <lg><l pos="Adv">вазьнал</l></lg> <mg><range>murt.</range> <tg xml:lang="fin"> <t>toissapäivänä</t> </tg> <variants> <l_syn type="&gt;">валлян<rom ind="0_1"/></l_syn> </variants> </mg> </e>
 <e> <lg> <l pos="Adv">вактад</l><orig>вактад</orig> </lg> <mg> <tg xml:lang="fin"> <t>itseksesi</t> <re>olla, puhua, miettiä</re>; </tg> <variants> <l_syn type="vrt0">вактаз</l_syn> </variants> </mg> </e>
 <e> <lg><l pos="Adv">вактады</l><orig>вактады</orig> </lg> <mg> <tg xml:lang="fin"> <t>itseksenne</t> <re>olla, puhua, miettiä</re>; </tg><font face="SmolenskSGR" type="vrt0"><i>вактаз</i></font> </mg> </e>
-<e> <lg> <l pos="Adv">вактаз</l><orig>вактаз</orig> </lg> <mg> <tg xml:lang="fin"> <t>itsekseen, itseksensä</t> <re>hän</re>; </tg> <xg><x>ас вактаз вераськыны</x> <xt xml:lang="fin">puhua itsekseen;</xt> </xg> <xg><x>ас вактаз ветлыны</x> <xt xml:lang="fin">kulkea vaipuneena omiin mietteisiinsä (t. haaveisiinsa);</xt> </xg> <xg><x>ас вактаз улыны</x> <xt xml:lang="fin">olla vaipuneena omiin mietteisiinsä (t. haaveisiinsa);</xt> </xg><font face="SmolenskSGR"><b>ас вактаз усьыны </b></font><mwemg ind="1th"/> <tg xml:lang="fin"> <t>vaipua omiin mietteisiinsä (t. haaveisiinsa)</t> </tg><mwemg ind="2th"/> <senseType>kuv.</senseType> <tg xml:lang="fin"> <t>tulla (vanhuuttaan) höperöksi, höpertyä (vanhuuttaan)</t> </tg> </mg> </e>
+<e> <lg> <l pos="Adv">вактаз</l><orig>вактаз</orig> </lg> <mg> <tg xml:lang="fin"> <t>itsekseen, itseksensä</t> <re>hän</re>; </tg> <xg><x>ас вактаз вераськыны</x> <xt xml:lang="fin">puhua itsekseen;</xt> </xg> <xg><x>ас вактаз ветлыны</x> <xt xml:lang="fin">kulkea vaipuneena omiin mietteisiinsä (t. haaveisiinsa);</xt> </xg> <xg><x>ас вактаз улыны</x> <xt xml:lang="fin">olla vaipuneena omiin mietteisiinsä (t. haaveisiinsa);</xt> </xg><xg><x>ас вактаз усьыны</x><xt xml:lang="fin">vaipua omiin mietteisiinsä (t. haaveisiinsa)</xt><xt xml:lang="fin"><senseType>kuv.</senseType>tulla (vanhuuttaan) höperöksi, höpertyä (vanhuuttaan)</xt> </xg> </mg> </e>
 <e> <lg><l pos="Adv">вактазы</l><orig>вактазы</orig> </lg> <mg> <tg xml:lang="fin"> <t>itsekseen, itseksensä</t> <re>he</re> <re>olla, puhua, miettiä</re>; </tg> <variants> <l_syn type="vrt0">вактаз</l_syn> </variants> </mg> </e>
 <e> <lg><l pos="Adv">вактам</l><orig>вактам</orig> </lg> <mg> <tg xml:lang="fin"> <t>itsekseni</t> <re>olla, puhua, miettiä</re>; </tg> <variants> <l_syn type="vrt0">вактаз</l_syn> </variants> </mg> </e>
 <e> <lg><l pos="Adv">вактамы</l><orig>вактамы</orig> </lg> <mg> <tg xml:lang="fin"> <t>itseksemme</t> <re>olla, puhua, miettiä</re>; </tg> <variants> <l_syn type="vrt0">вактаз</l_syn> </variants> </mg> </e>
@@ -713,13 +713,11 @@ Possible errors following proofreading are, e. g., substitution of special fonts
      </xg>
      <xg><x>малы со сыӵе вазь кошкиз?</x>
        <xt xml:lang="fin">miksi hän lähti niin aikaisin?;</xt>
-     </xg><font face="SmolenskSGR"><b>малы со кулэ? </b></font><mwemg ind="1th"/>
-     <tg xml:lang="fin">
-       <t>mitä varten se on?</t>
-     </tg><mwemg ind="2th"/><defNative>кулэ ӧвӧл</defNative>
-     <tg xml:lang="fin">
-       <t>ei ole mitään tarvetta</t>
-     </tg>◊
+     </xg>
+     <xg><x>малы со кулэ?</x>
+     <xt xml:lang="fin">mitä varten se on?</xt>
+     <xt xml:lang="fin"><defNative>кулэ ӧвӧл</defNative>ei ole mitään tarvetta</xt>
+     </xg>◊
      <xg><x>малы ке (но)</x>
        <xt xml:lang="fin">jostain syystä;</xt>
      </xg>
@@ -1243,13 +1241,15 @@ Possible errors following proofreading are, e. g., substitution of special fonts
    <mg>
      <tg xml:lang="fin">
        <t>suoraan; pystyyn, pystyssä</t>
-     </tg><font face="SmolenskSGR"><b>пельёсыз ӵогак карыны</b> (<i>я. </i><b>пуктыны) </b></font><mwemg ind="1th"/>
-     <tg xml:lang="fin">
-       <t>höristää korviaan, teroittaa kuuloaan</t>
-     </tg><mwemg ind="2th"/><senseType>kuv.</senseType>
-     <tg xml:lang="fin">
-       <t>nostaa korvansa pystyyn</t>
      </tg>
+     <xg><x>пельёсыз ӵогак карыны</x>
+     <xt xml:lang="fin">höristää korviaan, teroittaa kuuloaan</xt>
+<xt xml:lang="fin"><senseType>kuv.</senseType>nostaa korvansa pystyyn</xt>
+</xg>
+<xg><x>пельёсыз ӵогак пуктыны</x>
+     <xt xml:lang="fin">höristää korviaan, teroittaa kuuloaan</xt>
+<xt xml:lang="fin"><senseType>kuv.</senseType>nostaa korvansa pystyyn</xt>
+</xg>
    </mg>
 </e>
 <e>

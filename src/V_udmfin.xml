@@ -25,6 +25,55 @@ Possible errors following proofreading are, e. g., substitution of special fonts
       </sourcenote>
    </lics>
 <e>
+   <lg>
+     <l pos="V" val="IV">чакласькыны</l><orig>чакласькыны</orig>
+   </lg>
+   <mg ind="1th"><defNative>учкыса улыны</defNative>
+     <tg xml:lang="fin">
+       <t>seurata, tarkkailla, olla seuraamassa (t. tarkkailemassa);</t>
+     </tg>
+     <xg><x>умой чаклаське!</x>
+       <xt xml:lang="fin">seuratkaa tarkasti!</xt>
+     </xg>
+   </mg>
+   <mg ind="2th"><defNative>эскериськыны</defNative>
+     <tg xml:lang="fin">
+       <t>varoa, olla varovainen;</t>
+     </tg>
+     <xg><x>пуэдлэсь чакласькыны кулэ</x>
+       <xt xml:lang="fin">pitää varoa vilustumista;</xt>
+     </xg>
+   </mg>
+   <mg ind="3th"><defNative>возьмаськыны, син азьын возьыны</defNative>
+     <tg xml:lang="fin">
+       <t>vartioida, vahtia; pitää silmällä</t>
+     </tg>
+   </mg>
+   <mg ind="4th"><defNative>малпаськыны</defNative>
+     <tg xml:lang="fin">
+       <t>miettiä, mietiskellä, tuumia, tuumailla, olla mietteissään</t>
+     </tg>
+   </mg>
+   <mg ind="5th"><defNative>сюлэмшугъяскыны</defNative>
+     <tg xml:lang="fin">
+       <t>olla huolissaan</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="V">чеберманы</l><orig>чеберманы</orig>
+   </lg>
+   <mg>
+     <tg xml:lang="fin">
+       <t>koristaa, somistaa;</t>
+     </tg>
+<xg><x>ёлкаез чеберманы</x>
+     <xt xml:lang="fin">koristaa joulukuusi</xt>
+     </xg>
+   </mg>
+</e>
+<e>
    <lg><l pos="V">куасаны</l></lg>
      <mg>
      <tg xml:lang="fin"><t>taivuttaa, vääntää, koukistaa;</t></tg>

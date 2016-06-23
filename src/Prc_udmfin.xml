@@ -28,10 +28,29 @@ Possible errors following proofreading are, e. g., substitution of special fonts
 
 <e>
    <lg>
-     <l pos="Prc">тӧласькись</l><orig>тӧласькись</orig>
+     <l pos="Prc">чакласькись</l><orig>чакласькись</orig>
+<compg><comp ord="E1" pos="V">чакласькыны</comp><comp ord="E2" type="Der/сь" drv="Prc"/></compg>
    </lg>
-   <mg ind="1th"><compg><comp ord="E1" pos="V">тӧласькыны</comp><comp ord="E2" type="Der/сь" drv="Prc"/></compg>
+   <mg ind="2th"><defNative>эскериськись, ваньзэ эскерись-адӟись</defNative>
+     <tg xml:lang="fin">
+       <t>huomiokykyinen, havaintokykyinen, tarkka(silmäinen)</t>
+     </tg>
    </mg>
+   <mg ind="3th"><defNative>ассэ эскерись</defNative>
+     <tg xml:lang="fin">
+       <t>varovainen</t>
+     </tg>
+ <xg><x>со туж чакласькись адями</x><xt xml:lang="fin"><defNative>ваньзэ эскерись-адӟись</defNative>hän on oikein huomiokykyinen ihminen</xt>
+     <xt xml:lang="fin"><defNative>ассэ эскерись</defNative>hän on oikein varovainen ihminen</xt>
+     </xg>
+</mg>
+</e>
+<e>
+   <lg>
+     <l pos="Prc">тӧласькись</l><orig>тӧласькись</orig>
+
+   <compg><comp ord="E1" pos="V">тӧласькыны</comp><comp ord="E2" type="Der/сь" drv="Prc"/></compg>
+   </lg>
    <mg ind="2th">
      <tg xml:lang="fin">
        <t pos="A">tuulinen</t>
@@ -41,9 +60,8 @@ Possible errors following proofreading are, e. g., substitution of special fonts
 <e>
    <lg>
      <l pos="Prc">бездӥсь</l><orig>бездӥсь</orig>
+   <compg><comp ord="E1" pos="V">бездыны</comp><comp ord="E2" type="Der/сь" drv="Prc"/></compg>
    </lg>
-   <mg ind="1th"><compg><comp ord="E1" pos="V">бездыны</comp><comp ord="E2" type="Der/сь" drv="Prc"/></compg>
-</mg>
    <mg ind="2th"><tg xml:lang="fin">
        <t>haalistuva, virttyvä, väriäpitämätön</t>
      </tg>

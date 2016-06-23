@@ -1,6 +1,15 @@
 <?xml version="1.0" encoding="utf-8"?>
 <r xml:lang="udm">
 <e>
+   <lg><l pos="Ger">чакласькыса</l></lg>
+     <mg>
+     <tg xml:lang="fin">
+<t>varovasti</t>
+<t>varovaisesti</t>
+</tg>
+   </mg>
+</e>
+<e>
    <lg>
      <l pos="Ger">быгатыса</l>
      <stg>

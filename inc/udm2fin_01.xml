@@ -2,196 +2,27 @@
  <r xml:lang="udm">
 <e>
    <lg>
-     <l pos="Prc;A;N">чакласькись</l><orig>чакласькись</orig>
+     <l pos="Prc">чакыр-чакыр</l>
    </lg>
-   <mg ind="1th"><inflect type="Der/сь" drv="Prc"/>
-     <variants>
-       <l_syn type="&gt;">чакласькыны</l_syn>
-     </variants>
-   </mg>
-   <mg ind="2th"><defNative>эскериськись, ваньзэ эскерись-адӟись</defNative>
-     <tg xml:lang="fin">
-       <t>huomiokykyinen, havaintokykyinen, tarkka(silmäinen)</t>
-     </tg>
-   </mg>
-   <mg ind="3th"><defNative>ассэ эскерись</defNative>
-     <tg xml:lang="fin">
-       <t>varovainen</t>
-     </tg>
-   </mg>
-   <mg ind="4th"><defNative>учкыса, эскерыса улӥсь мурт</defNative>
-     <tg xml:lang="fin">
-       <t>havainnoi(tsi)ja, tarkkailija</t>
-     </tg>• <font face="SmolenskSGR"><b>со туж чакласькись адями </b></font><mwemg ind="1th"/><defNative>ваньзэ эскерись-адӟись</defNative>
-     <tg xml:lang="fin">
-       <t>hän on oikein huomiokykyinen ihminen</t>
-     </tg><mwemg ind="2th"/><defNative>ассэ эскерись</defNative>
-     <tg xml:lang="fin">
-       <t>hän</t>
-     </tg>
-     <tg xml:lang="fin">
-       <t>on oikein varovainen ihminen</t>
-     </tg><font face="SmolenskSGR"><b>чакласькон</b></font><FIX2/>
-   <mg ind="1th"/><compg><comp ord="E1" pos="V">чакласькыны</comp><comp ord="E2" type="Der/Он" drv="V»N"/></compg>
-   </mg>
-   <mg ind="2th"><defNative>тодмет, оскон</defNative>
-     <tg xml:lang="fin">
-       <t>enne, (ennus)merkki</t>
-     </tg>
-   </mg>
-</e>
-<e>
-   <lg>
-     <l pos="V">чакласькыны</l><orig>чакласькыны</orig>
-   </lg>
-   <mg><val>intr.</val>
-   <mg ind="1th"/><defNative>учкыса улыны</defNative>
-     <tg xml:lang="fin">
-       <t>seurata, tarkkailla, olla seuraamassa (t. tarkkailemassa);</t>
-     </tg>
-     <xg><x>умой чаклаське!</x>
-       <xt xml:lang="fin">seuratkaa tarkasti!</xt>
-     </xg>
-   </mg>
-   <mg ind="2th"><defNative>эскериськыны</defNative>
-     <tg xml:lang="fin">
-       <t>varoa, olla varovainen;</t>
-     </tg>
-     <xg><x>пуэдлэсь чакласькыны кулэ</x>
-       <xt xml:lang="fin">pitää varoa vilustumista;</xt>
-     </xg>
-   </mg>
-</e> <FIX1/>
-<e>
-   <lg><l>чакласькыса</l></lg>
-     <mg>
-     <tg xml:lang="fin"><t>varova(ise)sti</t></tg>
-   </mg>
-   <mg ind="3th"><defNative>возьмаськыны, син азьын возьыны</defNative>
-     <tg xml:lang="fin">
-       <t>vartioida, vahtia; pitää silmällä</t>
-     </tg>
-   </mg>
-   <mg ind="4th"><defNative>малпаськыны</defNative>
-     <tg xml:lang="fin">
-       <t>miettiä, mietiskellä, tuumia, tuumailla, olla mietteissään</t>
-     </tg>
-   </mg>
-   <mg ind="5th"><defNative>сюлэмшугъяскыны</defNative>
-     <tg xml:lang="fin">
-       <t>olla huolissaan</t>
-     </tg>
-   </mg>
-</e>
-<e>
-   <lg>
-     <l pos="N">чакма</l><orig>чакма</orig>
-   </lg>
-   <mg><range>vanh.</range>
-     <tg xml:lang="fin">
-       <t>tulusrauta, tulirauta;</t>
-     </tg>
-     <xg><x>чакма пуйы</x>
-       <xt xml:lang="fin">tuluskukkaro, tuluspussi</xt>
-     </xg><font face="SmolenskSGR"><b>чакмарга </b></font><range>murt.</range><FIX2/>
-     <tg xml:lang="fin">
-       <t>(vuoren)huippu</t>
-     </tg>
-   </mg>
-</e>
-<e>
-   <lg>
-     <l pos="Prc;N">чакыртэм</l><orig>чакыртэм</orig>
-   </lg>
-   <mg ind="1th"><compg><comp ord="E1">чакыртыны</comp><comp ord="E2" type="Der/Эм" drv="Prc;V»N"/></compg>
-   </mg>
-   <mg ind="2th">
-     <tg xml:lang="fin">
-       <t>kirskunta, kirskutus, narske, narskutus</t>
-     </tg><font face="SmolenskSGR"><b>чакыр-чакыр</b></font><FIX2/>
-   <mg ind="1th"/>
+   <mg ind="1th">
      <variants>
        <l_syn type="&gt;">чакыр</l_syn>
      </variants>
-   </mg>
-   <mg ind="2th"><defNative>куажрес</defNative>
+<defNative>куажрес</defNative>
      <tg xml:lang="fin">
        <t>rouskuva, narskuva, rutiseva</t>
      </tg>
    </mg>
 </e>
 <e>
-   <lg>
-     <l pos="Prc;N">чалмем</l><orig>чалмем</orig>
-   </lg>
-   <mg ind="1th"><compg><comp ord="E1">чалмыны</comp><comp ord="E2" type="Der/Эм" drv="Prc;V»N"/></compg>
-   </mg>
-   <mg ind="2th"><defNative>шып луэм</defNative>
-     <tg xml:lang="fin">
-       <t>hiljentyminen, hiljeneminen</t>
-     </tg>
-   </mg>
-   <mg ind="3th"><defNative>буйгам</defNative>
-     <tg xml:lang="fin">
-       <t>rauhoittuminen</t>
-     </tg>
-   </mg>
-   <mg ind="4th"><defNative>басылам, каллен луэм – к-сь тӧл</defNative>
-     <tg xml:lang="fin">
-       <t>tyyntyminen, vaimentuminen, asettuminen</t>
-     </tg>
-   </mg>
-   <mg ind="5th"><defNative>вераськемысь дугдэм</defNative>
-     <tg xml:lang="fin">
-       <t>vaikeneminen</t>
-       <re>puhumasta lakkaaminen</re>
-     </tg><font face="SmolenskSGR"><b>чалмон</b></font><FIX2/>
-   <mg ind="1th"/><defNative>шып кариськон</defNative>
-     <tg xml:lang="fin">
-       <t>hiljeneminen, hiljeneminen, vaikeneminen</t>
-     </tg>
-   </mg>
-   <mg ind="2th"><defNative>буйган</defNative>
-     <tg xml:lang="fin">
-       <t>rauhoittuminen</t>
-     </tg>
-   </mg>
-   <mg ind="3th"><defNative>басылан, каллен луон – к-сь тӧл</defNative>
-     <tg xml:lang="fin">
-       <t>tyyntyminen, vaimentuminen, asettuminen</t>
-     </tg>
-   </mg>
-   <mg ind="4th"><defNative>вераськемысь дугдон</defNative>
-     <tg xml:lang="fin">
-       <t>vaikeneminen</t>
-       <re>puhumasta lakkaaminen</re>
-     </tg> ◊
-     <xg><x>нылпиос чалмонэз уг валалляло</x>
-       <xt xml:lang="fin">lapset eivät tunne rauhaa</xt>
-     </xg>
-   </mg>
-</e>
-<e>
-   <lg>
-     <l pos="N">чан<rom ind="1"/></l>
-   </lg>
-   <mg>
-     <tg xml:lang="fin">
-       <t>amme, sammio, tiinu, pytty</t>
-     </tg> <font face="SmolenskSGR"><b>чан<rom ind="2"/></b></font><range>murt.</range><font face="SmolenskSGR">(<i>гырлы</i>)</font><FIX2/>
-     <tg xml:lang="fin">
-       <t>kello; (soitto)kello;</t>
-     </tg>
-     <xg><x>чан кыл</x>
-       <xt xml:lang="fin">kellon kieli (t. läppä)</xt>
-     </xg>
-   </mg>
-</e>
-<e><FIXME2/><font face="SmolenskSGR"><b>чаркак: чаркак потыны </b></font><font face="SmolenskSGR">(<i>кышкатскыны</i>)</font>
-   <mg>
+<lg><l pos="V(Descr::V)">чаркак потыны</l></lg>
+<mg>
+ <defNative>кышкатскыны</defNative>
      <tg xml:lang="fin">
        <t>säikähtää, säikähtyä, pelästyä;</t>
-     </tg><font face="SmolenskSGR">(<i>нёркак потыны</i>)</font>
+     </tg>
+</mg>
+<mg><defNative>нёркак потыны</defNative>
      <tg xml:lang="fin">
        <t>hätkähtää, säpsähtää, sävähtää, vavahtaa</t>
      </tg>
@@ -207,81 +38,7 @@
      </tg>
      <xg><x>чарлако корка</x>
        <xt xml:lang="fin">parveketalo</xt>
-     </xg><font face="SmolenskSGR"><b>чарлан </b></font><field>el.</field><FIX2/>
-     <tg xml:lang="fin">
-       <t>lokki</t>
-       <re>Larus</re>
-     </tg>
-   </mg>
-   <mg>
-     <tg xml:lang="fin">
-       <t> kalalokki</t>
-       <re>Larus canus</re>;
-     </tg>
-     <variants>
-       <l_syn type="&gt;">чайка</l_syn>
-     </variants>
-   </mg>
-</e>
-<e>
-   <lg>
-     <l pos="N">чарпа</l><orig>чарпа</orig>
-   </lg>
-   <mg ind="1th"><defNative>векчи из</defNative>
-     <tg xml:lang="fin">
-       <t>sepeli, (kivi)</t>
-     </tg><FIX3/>
-     <tg xml:lang="fin">
-       <t>murska, pieni kivi</t>
-     </tg>
-   </mg>
-   <mg ind="2th"><defNative>изваска из</defNative>
-     <tg xml:lang="fin">
-       <t>kalkkikivi</t>
-     </tg>
-   </mg>
-</e>
-<e>
-   <lg>
-     <l pos="N">час</l><orig>час</orig>
-   </lg>
-   <mg ind="1th">
-     <tg xml:lang="fin">
-       <t>kello;</t>
-     </tg><font face="SmolenskSGR"><b>бадӟым</b> (<i>я. </i></font>
-     <xg><x>борддор) час</x>
-       <xt xml:lang="fin">seinäkello;</xt>
-     </xg>
-     <xg><x>кисыын нуллон час</x>
-       <xt xml:lang="fin">taskukello;</xt>
-     </xg>
-     <xg><x>киын нуллон час</x>
-       <xt xml:lang="fin">rannekello;</xt>
-     </xg>
-     <xg><x>час кыл</x>
-       <xt xml:lang="fin">heiluri, pendeli;</xt>
-     </xg>
-     <xg><x>час лэсьтӥсь</x>
-       <xt xml:lang="fin">kelloseppä</xt>
-     </xg>
-<xg><x>час тупатъясь</x>
-       <xt xml:lang="fin">kelloseppä</xt>
-     </xg>
-   </mg>
-   <mg ind="2th"><defNative>дыр с-сь</defNative>
-     <tg xml:lang="fin">
-       <t>tunti;</t>
-     </tg>
-     <xg><x>час ортчыса</x>
-       <xt xml:lang="fin">tunnin kuluttua;</xt>
-     </xg>
-     <xg><x>со куинь часын луоз</x>
-       <xt xml:lang="fin">hän tulee (t. se tapahtuu) kello kolme (t. kolmelta);</xt>
-     </xg>
-     <xg><x>часэ лыктэ(лэ)!</x>
-       <xt xml:lang="fin">tulkaa kello yksi (t. yhdeltä)!</xt>
-     </xg>
-   </mg>
+     </xg></mg>
 </e>
 <e>
    <lg>
@@ -325,52 +82,10 @@
    <lg>
      <l pos="N">чат</l><orig>чат</orig>
    </lg>
-   <mg><font face="Symbol">Ι Ι </font><font face="SmolenskSGR">(<i>интернет пыр кусып возён</i>)</font>
+   <mg><defNative>интернет пыр кусып возён</defNative>
      <tg xml:lang="fin">
        <t>juttelu, rupattelu, chat</t>
-     </tg><font face="SmolenskSGR"><b>чатран </b></font><inflect type="Der/Он" drv="V»N"/><font face="SmolenskSGR"><b>чатраны; чатран басьтон (люкет)! </b></font><note><i>haukk.</i></note><FIX2/>
-     <tg xml:lang="fin">
-       <t>painu</t>
-     </tg>
-     <tg xml:lang="fin">
-       <t>helvettiin, kärvistele siinä!;</t>
-     </tg><font face="SmolenskSGR"><b>чатран но уг басьты сое </b></font><note><i>haukk.</i></note>
-     <tg xml:lang="fin">
-       <t>ei edes suonenveto (t. kuolema) vie häntä</t>
-     </tg>
-   </mg>
-</e>
-<e>
-   <lg>
-     <l pos="Prc;N">чебермам</l><orig>чебермам</orig>
-   </lg>
-   <mg><inflect type="Der/Эм" drv="Prc;V»N"/><FIXME1/>
-     <xg><x>чеберманы</x>
-       <xt xml:lang="fin">;</xt>
-     </xg>
-     <xg><x>чебермам борддоръёс</x>
-       <xt xml:lang="fin">koristetut seinät;</xt>
-     </xg>
-     <xg><x>чебермам сӥес тӥрлык</x>
-       <xt xml:lang="fin">koristetut valjaat;</xt>
-     </xg>
-     <xg><x>чебермам укно наличникъёс</x>
-       <xt xml:lang="fin">koristetut ikkunalaudat</xt>
-     </xg>
-   </mg>
-</e>
-<e>
-   <lg>
-     <l pos="V">чеберманы</l><orig>чеберманы</orig>
-   </lg>
-   <mg>
-     <tg xml:lang="fin">
-       <t>koristaa, somistaa;</t>
-     </tg>ё<note><b>лкаез<FIX3/> чеберманы </b></note>
-     <tg xml:lang="fin">
-       <t>koristaa joulukuusi</t>
-     </tg>
-   </mg>
+     </tg></mg>
 </e>
 <e>
    <lg>
@@ -389,35 +104,6 @@
      <tg xml:lang="fin">
        <t>itsestäsi (t. itsestänne)!</t>
      </tg>
-   </mg>
-</e>
-<e>
-   <lg>
-     <l pos="V">чеброс</l><orig>чеброс</orig>
-   </lg>
-   <mg> <note><b>II<FIX2/> </b></note><range>murt.</range><font face="SmolenskSGR">(<i>паллян ки</i>)</font>
-     <tg xml:lang="fin">
-       <t>vasenkätinen; vasuri</t>
-     </tg>
-   </mg>
-</e>
-<e>
-   <lg>
-     <l pos="N">чемодан</l><orig>чемодан</orig>
-   </lg>
-   <mg>
-     <tg xml:lang="fin">
-       <t>matkalaukku</t>
-     </tg><font face="SmolenskSGR"><b>чемпион </b></font><field>urh.</field><FIX2/>
-     <tg xml:lang="fin">
-       <t>mestari;</t>
-     </tg>
-     <xg><x>боксъя дуннеысь чемпион</x>
-       <xt xml:lang="fin">nyrkkeilyn maailmanmestari;</xt>
-     </xg><font face="SmolenskSGR"><b>олимпи</b> (<i>я. </i></font>
-     <xg><x>олимпийской) чемпион</x>
-       <xt xml:lang="fin">olympiavoittaja</xt>
-     </xg>
    </mg>
 </e>
 <e>
