@@ -35118,21 +35118,6 @@ Possible errors following proofreading are, e. g., substitution of special fonts
 </e>
 <e>
    <lg>
-     <l pos="V">пуныны</l>
-     <stg>
-       <st Contlex="V_MONO">пуны</st>
-     </stg>
-   </lg> <phonet>пуныны</phonet>
-   <mg> <defNative/>
-     <tg xml:lang="fin">
-       <t pos="V">punoa</t>
-       <t pos="V">palmikoida</t>
-       <t pos="V">letittää</t>
-     </tg>
-   </mg>
-</e>
-<e>
-   <lg>
      <l pos="V">пуньырскыны</l><orig>пуньырскыны</orig>
    </lg>
    <mg ind="1th">
@@ -35409,10 +35394,8 @@ Possible errors following proofreading are, e. g., substitution of special fonts
    </lg>
    <mg>
      <tg xml:lang="fin">
-       <t pos="V">tehdä terttua (t.</t>
-     </tg>
-     <tg xml:lang="fin">
-       <t pos="V">norkkoa)</t>
+       <t pos="V">tehdä terttua</t>
+       <t pos="V">tehdä norkkoa</t>
      </tg>
    </mg>
 </e>
