@@ -7527,4 +7527,22 @@ Possible errors following proofreading are, e. g., substitution of special fonts
      </tg>
    </mg>
 </e>
+<e>
+   <lg>
+     <l pos="Prc">йӧнантэм</l><orig>йӧнантэм</orig>
+   </lg>
+   <mg ind="1th">
+     <tg xml:lang="fin">
+       <t>parantumaton;</t>
+     </tg>
+     <xg><x>йӧнантэм висён</x>
+       <xt xml:lang="fin">parantumaton tauti</xt>
+     </xg>
+   </mg>
+   <mg ind="2th"> <senseType>kuv.</senseType><defNative>тупатсконтэм</defNative>
+     <tg xml:lang="fin">
+       <t>parantumaton, auttamaton</t>
+     </tg>
+   </mg>
+</e>
 </r>

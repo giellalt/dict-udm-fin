@@ -10723,4 +10723,29 @@ Possible errors following proofreading are, e. g., substitution of special fonts
      </xg>
    </mg>
      </e>
+<e>
+   <lg>
+     <l pos="Adv">ини</l><orig>ини</orig>
+   </lg>
+   <mg ind="1th">
+     <tg xml:lang="fin">
+       <t pos="Adv">jo</t>
+       <t pos="Adv" re="ӧвӧлтон дыръя">(ei) enää</t>
+     </tg>
+     <xg><x>тулыс вуиз ини</x>
+       <xt xml:lang="fin">kevät on jo tullut</xt>
+     </xg>
+     <xg><x>со отын уг ужа ини</x>
+       <xt xml:lang="fin">hän ei ole enää työssä siellä</xt>
+     </xg>
+   </mg>
+   <mg ind="2th"> <pos>??part. vahv.</pos>
+     <tg xml:lang="fin">
+       <t>jo</t>
+     </tg>
+     <xg><x>ӵуказеяз ини со валаз</x>
+       <xt xml:lang="fin">hän ymmärsi jo seuraavana päivänä</xt>
+     </xg>
+   </mg>
+</e>
 </r>

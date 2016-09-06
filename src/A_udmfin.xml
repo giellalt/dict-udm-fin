@@ -15598,4 +15598,62 @@ Possible errors following proofreading are, e. g., substitution of special fonts
      </xg>
    </mg>
 </e>
+<e>
+   <lg>
+     <l pos="A">ӟуч</l><orig>ӟуч</orig>
+   </lg>
+   <mg>
+     <tg xml:lang="fin">
+       <t>venäläinen</t>
+       <t>Venäjän</t>
+     </tg>
+     <xg><x>ӟуч кыл</x>
+       <xt xml:lang="fin">venäjä</xt>
+       <xt xml:lang="fin">venäjän kieli</xt>
+     </xg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="A">ижор</l><orig>ижор</orig>
+   </lg>
+   <mg>
+     <tg xml:lang="fin">
+       <t>inkerois=</t>
+       <t>inkeroisten</t>
+       <t>inkerikkojen</t>
+     </tg>
+     <xg><x>ижор кыл</x>
+       <xt xml:lang="fin">inkeroinen</xt>
+       <xt xml:lang="fin">inkeroiskieli</xt>
+     </xg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="A">ингуш</l><orig>ингуш</orig>
+   </lg>
+   <mg>
+     <tg xml:lang="fin">
+       <t>ingušin, ingušien, Ingušian;</t>
+     </tg>
+     <xg><x>ингуш кыл</x>
+       <xt xml:lang="fin">inguši</xt>
+       <xt xml:lang="fin">ingušin kieli</xt>
+     </xg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="A">индус</l><orig>индус</orig>
+   </lg>
+   <mg>
+     <tg xml:lang="fin">
+       <t>intialainen;</t>
+     </tg>
+     <xg><x>индус кышно</x>
+       <xt xml:lang="fin">intialainen nainen</xt>
+     </xg>
+   </mg>
+</e>
 </r>

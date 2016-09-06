@@ -120682,4 +120682,68 @@ Possible errors following proofreading are, e. g., substitution of special fonts
      </tg>
    </mg>
 </e>
+<e>
+   <lg>
+     <l pos="N">ӟучгумы</l>
+   </lg>
+   <mg><field>kasv.</field><FIX2/>
+     <tg xml:lang="fin">
+       <t>peltoukonnauris</t>
+       <re>Erysimum cheiranthoides</re>
+     </tg>
+     <variants>
+       <l_syn type="&gt;">курытгумы<rom ind="0_1"/></l_syn>
+     </variants>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="N">ӟуч</l><orig>ӟуч</orig>
+   </lg>
+   <mg>
+     <tg xml:lang="fin">
+       <t>venäläinen</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="N">ижор</l><orig>ижор</orig>
+   </lg>
+   <mg>
+     <tg xml:lang="fin">
+       <t>inkeroinen</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="N">ингуш</l><orig>ингуш</orig>
+   </lg>
+   <mg>
+     <tg xml:lang="fin">
+       <t>inguši</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="N">индус</l><orig>индус</orig>
+   </lg>
+   <mg>
+     <tg xml:lang="fin">
+       <t>intialainen</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="N">исамес карон</l>
+   </lg>
+   <mg>
+     <tg xml:lang="fin">
+       <t>ivailu, pilkkaaminen, pilkanteko, nauraminen</t>
+     </tg>
+   </mg>
+</e>
 </r> 

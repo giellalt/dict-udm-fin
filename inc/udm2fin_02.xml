@@ -7821,33 +7821,6 @@
 </e>
 <e>
    <lg>
-     <l pos="A;N">ӟуч</l><orig>ӟуч</orig>
-   </lg>
-   <mg>
-     <tg xml:lang="fin">
-       <t>venäläinen //</t><note><i>myös</i></note>
-       <t>Venäjän;</t>
-     </tg>
-     <xg><x>ӟуч кыл</x>
-       <xt xml:lang="fin">venäjä(n kieli)</xt>
-     </xg>
-   </mg>
-</e>
-<e>
-   <lg>
-     <l pos="A;N">ижор</l><orig>ижор</orig>
-   </lg>
-   <mg>
-     <tg xml:lang="fin">
-       <t>inkerois=, inkeroisten, inkerikkojen;</t>
-     </tg>
-     <xg><x>ижор кыл</x>
-       <xt xml:lang="fin">inkeroinen, inkeroiskieli</xt>
-     </xg>
-   </mg>
-</e>
-<e>
-   <lg>
      <l pos="Prc">измем</l><orig>измем</orig>
    </lg>
    <mg><inflect type="Der/Эм" drv="Prc"/>
@@ -7968,59 +7941,6 @@
 </e>
 <e>
    <lg>
-     <l pos="N;A">ингуш</l><orig>ингуш</orig>
-   </lg>
-   <mg>
-     <tg xml:lang="fin">
-       <t>inguši // ingušin, ingušien, Ingušian;</t>
-     </tg>
-     <xg><x>ингуш кыл</x>
-       <xt xml:lang="fin">inguši(n kieli)</xt>
-     </xg>
-   </mg>
-</e>
-<e>
-   <lg>
-     <l pos="N;A">индус</l><orig>индус</orig>
-   </lg>
-   <mg>
-     <tg xml:lang="fin">
-       <t>intialainen;</t>
-     </tg>
-     <xg><x>индус кышно</x>
-       <xt xml:lang="fin">intialainen nainen</xt>
-     </xg>
-   </mg>
-</e>
-<e>
-   <lg>
-     <l pos="Pcle">ини</l><orig>ини</orig>
-   </lg>
-   <mg ind="1th"><pos ind="Adv"/>
-     <tg xml:lang="fin">
-       <t>jo;</t>
-     </tg><defNative>ӧвӧлтон дыръя</defNative>
-     <tg xml:lang="fin">
-       <t>(ei) enää;</t>
-     </tg>
-     <xg><x>тулыс вуиз ини</x>
-       <xt xml:lang="fin">kevät on jo tullut;</xt>
-     </xg>
-     <xg><x>со отын уг ужа ини</x>
-       <xt xml:lang="fin">hän ei ole enää työssä siellä</xt>
-     </xg>
-   </mg>
-   <mg ind="2th"> <pos>part. vahv.</pos>
-     <tg xml:lang="fin">
-       <t>jo;</t>
-     </tg>
-     <xg><x>ӵуказеяз ини со валаз</x>
-       <xt xml:lang="fin">hän ymmärsi jo seuraavana päivänä</xt>
-     </xg>
-   </mg>
-</e>
-<e>
-   <lg>
      <l pos="A;N">интыысь</l><orig>интыысь</orig>
    </lg>
    <mg><compg><comp ord="E1">инты</comp><comp ord="E2">elat. sanasta</comp></compg>
@@ -8032,19 +7952,6 @@
      </xg>
      <xg><x>интыысь улӥсьёс</x>
        <xt xml:lang="fin">paikkakunnan asukkaat, paikkakuntalaiset</xt>
-     </xg>
-   </mg>
-</e>
-<e>
-   <lg>
-     <l pos="N;V">исамес: исамес карон</l>
-   </lg>
-   <mg>
-     <tg xml:lang="fin">
-       <t>ivailu, pilkkaaminen, pilkanteko, nauraminen;</t>
-     </tg>
-     <xg><x>исамес карыны</x>
-       <xt xml:lang="fin">ivata, pilkata, nauraa</xt>
      </xg>
    </mg>
 </e>
@@ -8103,7 +8010,7 @@
        <re>toiseen t. entiseen verrattuna</re>
      </tg>
      <tg xml:lang="fin">
-       <t>, parempi // parantuminen, paraneminen;</t>
+       <t>parempi // parantuminen, paraneminen;</t>
      </tg>
      <xg><x>йӧн карыны</x>
        <xt xml:lang="fin">tehdä paremmaksi</xt><xre>vointi, terveys</xre>;
@@ -8148,24 +8055,6 @@
      <xg><x>йӧнзэ валаны</x>
        <xt xml:lang="fin">ymmärtää, mistä (tässä) on kysymys</xt>
      </xg>
-   </mg>
-</e>
-<e>
-   <lg>
-     <l pos="Prc">йӧнантэм</l><orig>йӧнантэм</orig>
-   </lg>
-   <mg ind="1th">
-     <tg xml:lang="fin">
-       <t>parantumaton;</t>
-     </tg>
-     <xg><x>йӧнантэм висён</x>
-       <xt xml:lang="fin">parantumaton tauti</xt>
-     </xg>
-   </mg>
-   <mg ind="2th"> <senseType>kuv.</senseType><defNative>тупатсконтэм</defNative>
-     <tg xml:lang="fin">
-       <t>parantumaton, auttamaton</t>
-     </tg>
    </mg>
 </e>
 <e>
