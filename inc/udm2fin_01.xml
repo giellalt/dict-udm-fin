@@ -7077,20 +7077,6 @@
 </e>
 <e>
    <lg>
-     <l pos="N">ӟучгумы</l>
-   </lg>
-   <mg><field>kasv.</field><FIX2/>
-     <tg xml:lang="fin">
-       <t>peltoukonnauris</t>
-       <re>Erysimum cheiranthoides</re>;
-     </tg>
-     <variants>
-       <l_syn type="&gt;">курытгумы<rom ind="0_1"/></l_syn>
-     </variants>
-   </mg>
-</e>
-<e>
-   <lg>
      <l pos="N">ӟыгыр</l><orig>ӟыгыр</orig>
    </lg>
    <mg>
