@@ -366,16 +366,6 @@ Possible errors following proofreading are, e. g., substitution of special fonts
 </e>
 <e>
    <lg>
-     <l pos="V">баллотироваться кариськыны</l>
-   </lg>
-   <mg>
-     <tg xml:lang="fin">
-       <t pos="V">asettua ehdokkaaksi, olla ehdokkaana</t>
-     </tg>
-   </mg>
-</e>
-<e>
-   <lg>
      <l pos="V">басылмыны</l><orig>басылмыны</orig>
      <variants>
        <l_syn>басылмон</l_syn>
@@ -1154,20 +1144,6 @@ Possible errors following proofreading are, e. g., substitution of special fonts
      <xg><x>шобретэн биниськыны</x>
        <xt xml:lang="fin">kääriytyä peitteeseen</xt>
      </xg>
-   </mg>
-</e>
-<e>
-   <lg>
-     <l pos="V">бинтовать карыны</l>
-     <variants>
-       <l_syn type="&gt;">бинтэн биньыны</l_syn>
-     </variants>
-   </lg>
-   <mg>
-     <tg xml:lang="fin">
-       <t pos="V">sitoa harsositeellä</t>
-       <t pos="V">kääriä harsositeellä</t>
-     </tg>
    </mg>
 </e>
 <e>
@@ -4252,16 +4228,6 @@ Possible errors following proofreading are, e. g., substitution of special fonts
 </e>
 <e>
    <lg>
-     <l pos="V">ватскемен шудыны</l>
-   </lg>
-   <mg>
-     <tg xml:lang="fin">
-       <t pos="V">olla piilosilla</t>
-     </tg>
-   </mg>
-</e>
-<e>
-   <lg>
      <l pos="V">ватскыны</l><orig>ватскыны</orig>
    </lg>
    <mg>
@@ -4437,16 +4403,6 @@ Possible errors following proofreading are, e. g., substitution of special fonts
 </e>
 <e>
    <lg>
-     <l pos="V">векъёс пуктылыны</l><orig>векъёс пуктылыны</orig>
-   </lg>
-   <mg>
-     <tg xml:lang="fin">
-       <t pos="V">pystyttää (t. panna) viittoja pitkin tietä</t>
-     </tg>
-   </mg>
-</e>
-<e>
-   <lg>
      <l pos="V">венчаськыны</l><orig>венчаськыны</orig>
      <variants>
        <l_syn>венчаськон</l_syn>
@@ -4456,19 +4412,6 @@ Possible errors following proofreading are, e. g., substitution of special fonts
      <variants>
        <l_syn type="&gt;">венчаться кариськон, венчаться кариськыны</l_syn>
      </variants>
-   </mg>
-</e>
-<e>
-   <lg>
-     <l pos="V">венчать карыны</l>
-     <stg>
-       <st Contlex="V_MONO">венчать кары</st>
-     </stg>
-   </lg> <phonet>венчать карыны</phonet>
-   <mg> <defNative/>
-     <tg xml:lang="fin">
-       <t pos="V">vihkiä</t>
-     </tg>
    </mg>
 </e>
 <e>
@@ -5064,16 +5007,6 @@ Possible errors following proofreading are, e. g., substitution of special fonts
      <xg><x>гайкаез винтыяны</x>
        <xt xml:lang="fin">kiertää (t. kiristää) mutteri kiinni</xt>
      </xg>
-   </mg>
-</e>
-<e>
-   <lg>
-     <l pos="V">виро сётыны</l>
-   </lg>
-   <mg>
-     <tg xml:lang="fin">
-       <t pos="V">uhrata, antaa uhriksi, toimittaa uhri</t>
-     </tg>
    </mg>
 </e>
 <e>
@@ -6820,26 +6753,6 @@ Possible errors following proofreading are, e. g., substitution of special fonts
 </e>
 <e>
    <lg>
-     <l pos="V">вукак луыны</l>
-   </lg>
-   <mg>
-     <tg xml:lang="fin">
-       <t pos="V">tuntua oksetusta (t. kuvotusta), oksettaa</t>
-     </tg>
-   </mg>
-</e>
-<e>
-   <lg>
-     <l pos="V">вукак потыны</l>
-   </lg>
-   <mg>
-     <tg xml:lang="fin">
-       <t pos="V">tuntua oksetusta (t. kuvotusta), oksettaa</t>
-     </tg>
-   </mg>
-</e>
-<e>
-   <lg>
      <l pos="V">вукекъяны</l><orig>вукекъяны</orig>
    </lg>
    <mg>
@@ -8128,19 +8041,6 @@ Possible errors following proofreading are, e. g., substitution of special fonts
      <xg><x>нюлэсэз вӧльыны</x>
        <xt xml:lang="fin">raivata metsä puhtaaksi</xt>
      </xg>
-   </mg>
-</e>
-<e>
-   <lg>
-     <l pos="V">вӧсь карыны</l>
-     <stg>
-       <st Contlex="V_MONO">вӧсь кары</st>
-     </stg>
-   </lg> <phonet>вӧсь карыны</phonet>
-   <mg> <defNative/>
-     <tg xml:lang="fin">
-       <t pos="V">aiheuttaa kipua</t>
-     </tg>
    </mg>
 </e>
 <e>
@@ -11860,16 +11760,6 @@ Possible errors following proofreading are, e. g., substitution of special fonts
 </e>
 <e>
    <lg>
-     <l pos="V">жӧлак: жӧлак усьыны</l>
-   </lg>
-   <mg>
-     <tg xml:lang="fin">
-       <t pos="V">menettää tajuntansa, mennä tajuttomaksi, pyörtyä</t>
-     </tg>
-   </mg>
-</e>
-<e>
-   <lg>
      <l pos="V">жӧломыны</l><orig>жӧломыны</orig>
    </lg>
    <mg ind="1th"><defNative>поромыны</defNative>
@@ -11960,35 +11850,11 @@ Possible errors following proofreading are, e. g., substitution of special fonts
 </e>
 <e>
    <lg>
-     <l pos="V">заочно: заочно дышетскыны</l>
-   </lg>
-   <mg>
-     <tg xml:lang="fin">
-       <t pos="V">opiskella</t>
-     </tg>
-     <tg xml:lang="fin">
-       <t pos="V">etäopiskelijana (t. kirjeopiskelijana), opiskella kirjekurssin välityksellä</t>
-       <re>esim. korkeakoulussa</re>
-     </tg>
-   </mg>
-</e>
-<e>
-   <lg>
      <l pos="V">запасаны</l><orig>запасаны</orig>
    </lg>
    <mg>
      <tg xml:lang="fin">
        <t pos="V">varata</t>
-     </tg>
-   </mg>
-</e>
-<e>
-   <lg>
-     <l pos="V">зар: зар бӧрдыны</l><orig>зар: зар бӧрдыны</orig>
-   </lg>
-   <mg>
-     <tg xml:lang="fin">
-       <t pos="V">itkeä hillittömästi</t>
      </tg>
    </mg>
 </e>
@@ -13102,19 +12968,6 @@ Possible errors following proofreading are, e. g., substitution of special fonts
        <t pos="V">sijoittautua</t>
        <t pos="V">asettua</t>
        <t pos="V">järjestyä, järjestäytyä</t>
-     </tg>
-   </mg>
-</e>
-<e>
-   <lg>
-     <l pos="V">интэм: интэм карыны</l>
-   </lg>
-   <mg><mwemg ind="1th"/><defNative>ултӥяны</defNative>
-     <tg xml:lang="fin">
-       <t pos="V">alentaa, halventaa</t>
-     </tg><mwemg ind="2th"/><defNative>вӧсь карыны</defNative>
-     <tg xml:lang="fin">
-       <t pos="V">loukata (t. solvata) kovin</t>
      </tg>
    </mg>
 </e>
@@ -15872,26 +15725,6 @@ Possible errors following proofreading are, e. g., substitution of special fonts
 </e>
 <e>
    <lg>
-     <l pos="V">кепыр вайыны</l>
-     <variants>
-       <l_syn type="&gt;">кепыраны</l_syn>
-     </variants>
-   </lg>
-   <mg>
-   </mg>
-</e>
-<e>
-   <lg>
-     <l pos="V">кепыр потыны</l>
-     <variants>
-       <l_syn type="&gt;">кепыраны</l_syn>
-     </variants>
-   </lg>
-   <mg>
-   </mg>
-</e>
-<e>
-   <lg>
      <l pos="V">кепыраны</l><orig>кепыраны</orig>
    </lg>
    <mg><defNative>возьдаськыны</defNative>
@@ -18353,16 +18186,6 @@ Possible errors following proofreading are, e. g., substitution of special fonts
 </e>
 <e>
    <lg>
-     <l pos="V">куаляк: куаляк луыны (</l>
-   </lg>
-   <mg><font face="SmolenskSGR"><i>я. </i></font>
-     <xg><x>потыны, усьыны)</x>
-       <xt xml:lang="fin">hätkähtää, säpsähtää, vavahtaa</xt>
-     </xg>
-   </mg>
-</e>
-<e>
-   <lg>
      <l pos="V">куанермыны</l><orig>куанермыны</orig>
    </lg>
    <mg>
@@ -20097,29 +19920,6 @@ Possible errors following proofreading are, e. g., substitution of special fonts
 </e>
 <e>
    <lg>
-     <l pos="V">кустэм: кустэм луыны</l>
-   </lg>
-   <mg>
-     <tg xml:lang="fin">
-       <t pos="V">reväyttää (t. revähdyttää) ristiselän lihakset</t>
-     </tg>
-   </mg>
-</e>
-<e>
-   <lg>
-     <l pos="V">кусӥнак: кусӥнак карыны</l>
-   </lg>
-   <mg>
-     <tg xml:lang="fin">
-       <t pos="V">taivuttaa kahtia</t>
-     </tg>
-     <xg><x>кусӥнак луыны</x>
-       <xt xml:lang="fin">taipua kahtia</xt>
-     </xg>
-   </mg>
-</e>
-<e>
-   <lg>
      <l pos="V">кутаны</l><orig>кутаны</orig>
    </lg>
    <mg>
@@ -20887,16 +20687,6 @@ Possible errors following proofreading are, e. g., substitution of special fonts
 </e>
 <e>
    <lg>
-     <l pos="V">кылйыл: кылйыл вераськыны</l>
-   </lg>
-   <mg>
-     <tg xml:lang="fin">
-       <t pos="V">sammaltaa; puhua kankeasti (t. kangertaen)</t>
-     </tg>
-   </mg>
-</e>
-<e>
-   <lg>
      <l pos="V">кылльыны</l><orig>кылльыны</orig>
    </lg>
    <mg ind="1th">
@@ -21250,16 +21040,6 @@ Possible errors following proofreading are, e. g., substitution of special fonts
 </e>
 <e>
    <lg>
-     <l pos="V">кыньыны: синэз кыньыны</l><orig>кыньыны: синэз к.</orig>
-   </lg>
-   <mg>
-     <tg xml:lang="fin">
-       <t pos="V">sulkea silmänsä, ummistaa silmänsä</t>
-     </tg>
-   </mg>
-</e>
-<e>
-   <lg>
      <l pos="V">кыньырскыны</l><orig>кыньырскыны</orig>
    </lg>
    <mg ind="1th"><defNative>синэз кыньыртыны</defNative>
@@ -21270,22 +21050,6 @@ Possible errors following proofreading are, e. g., substitution of special fonts
    <mg ind="2th"><defNative>синъёс с-сь</defNative>
      <tg xml:lang="fin">
        <t pos="V">siristyä</t>
-     </tg>
-   </mg>
-</e>
-<e>
-   <lg>
-     <l pos="V">кыньыртыны: синэз кыньыртыны</l><orig>кыньыртыны: синэз к.</orig>
-   </lg>
-   <mg><mwemg ind="1th"/>
-     <tg xml:lang="fin">
-       <t pos="V">siristää silmä(ä)nsä (t. silmiään)</t>
-     </tg><mwemg ind="2th"/><defNative>кырмыштыны</defNative>
-     <tg xml:lang="fin">
-       <t pos="V">räpäyttää silmäänsä</t>
-     </tg><font face="SmolenskSGR">(<i>кинлы ке</i>)</font>
-     <tg xml:lang="fin">
-       <t pos="V">iskeä (t. vinkata) silmää</t>
      </tg>
    </mg>
 </e>
@@ -22589,16 +22353,6 @@ Possible errors following proofreading are, e. g., substitution of special fonts
      <tg xml:lang="fin">
        <t pos="V">tulla pahanmakuiseksi</t>
      </tg>
-   </mg>
-</e>
-<e>
-   <lg>
-     <l pos="V">лабрак: лабрак кариськыны</l>
-   </lg>
-   <mg>
-     <variants>
-       <l_syn type="&gt;">лабырскыны<rom ind="0_1"/></l_syn>
-     </variants>
    </mg>
 </e>
 <e>
@@ -27301,16 +27055,6 @@ Possible errors following proofreading are, e. g., substitution of special fonts
 </e>
 <e>
    <lg>
-     <l pos="V">мыняк: мыняк потыны</l>
-   </lg>
-   <mg><note><i>mom.</i></note>
-     <tg xml:lang="fin">
-       <t pos="V">hymyillä</t>
-     </tg>
-   </mg>
-</e>
-<e>
-   <lg>
      <l pos="V">мыргетыны</l><orig>мыргетыны</orig>
    </lg>
    <mg ind="1th"><defNative>коӵыш с-сь</defNative>
@@ -28237,19 +27981,6 @@ Possible errors following proofreading are, e. g., substitution of special fonts
 </e>
 <e>
    <lg>
-     <l pos="V">нимъяра: нимъяра карыны</l>
-   </lg>
-   <mg><defNative>возьытэ уськытыны</defNative>
-     <tg xml:lang="fin">
-       <t pos="V">häpäistä, häväistä</t>
-     </tg><font face="SmolenskSGR">(<i>кыл вӧлдыны</i>)</font>
-     <tg xml:lang="fin">
-       <t pos="V">pilata jnk maine, saattaa huonoon huutoon (t. maineeseen)</t>
-     </tg>
-   </mg>
-</e>
-<e>
-   <lg>
      <l pos="V">нирскыны</l><orig>нирскыны</orig>
    </lg>
    <mg ind="1th">
@@ -29061,16 +28792,6 @@ Possible errors following proofreading are, e. g., substitution of special fonts
 </e>
 <e>
    <lg>
-     <l pos="V">ныгыт сылыны</l><orig>н. сылыны</orig>
-   </lg>
-   <mg>
-     <tg xml:lang="fin">
-       <t pos="V">seisoa vahvasti (t. vakaasti) jaloillaan</t>
-     </tg>
-   </mg>
-</e>
-<e>
-   <lg>
      <l pos="V">ныдъяны</l><orig>ныдъяны</orig>
    </lg>
    <mg>
@@ -29635,22 +29356,6 @@ Possible errors following proofreading are, e. g., substitution of special fonts
 </e>
 <e>
    <lg>
-     <l pos="V">нюртэт поныны</l><orig>н. поныны</orig>
-   </lg>
-   <mg>
-     <tg xml:lang="fin">
-       <t pos="V">panna paino jonkin</t>
-     </tg>
-     <tg xml:lang="fin">
-       <t pos="V">päälle</t>
-     </tg>
-     <variants>
-       <l_syn type="&gt;">зӥбет<rom ind="0_1"/></l_syn>
-     </variants>
-   </mg>
-</e>
-<e>
-   <lg>
      <l pos="V">нюртӥськыны</l><orig>нюртӥськыны</orig>
    </lg>
    <mg><val>intr.</val>
@@ -29907,19 +29612,6 @@ Possible errors following proofreading are, e. g., substitution of special fonts
      <xg><x>нёжъяса вераськыны</x>
        <xt xml:lang="fin">puhua sanoja venytellen</xt>
      </xg>
-   </mg>
-</e>
-<e>
-   <lg>
-     <l pos="V">нёркак: нёркак потыны</l>
-   </lg>
-   <mg>
-     <tg xml:lang="fin">
-       <t pos="V">hätkähtää, säpsähtää, sävähtää, vavahtaa</t>
-     </tg>
-     <variants>
-       <l_syn type="&gt;">куаляк</l_syn>
-     </variants>
    </mg>
 </e>
 <e>
@@ -32368,22 +32060,21 @@ Possible errors following proofreading are, e. g., substitution of special fonts
 </e>
 <e>
    <lg>
-     <l pos="V">пеперскыны: ымдуръёс пеперскизы</l><orig>пеперскыны: ымдуръёс пеперскизы</orig>
+     <l pos="V">пеперскыны</l>
    </lg>
    <mg>
-     <tg xml:lang="fin">
-       <t pos="V">huulet menivät törölleen, suu vetäytyi mutruun</t>
-     </tg>
+     <xg>
+       <x>ымдуръёс пеперскизы</x>
+     <xt xml:lang="fin">huulet menivät törölleen, suu vetäytyi mutruun</xt></xg>
    </mg>
 </e>
 <e>
    <lg>
-     <l pos="V">пепертыны: ымдурез пепертыны</l><orig>пепертыны: ымдурез пепертыны</orig>
+     <l pos="V">пепертыны</l>
    </lg>
    <mg>
-     <tg xml:lang="fin">
-       <t pos="V">työntää huulensa törölleen, mutristaa suutaan</t>
-     </tg>
+<xg><x>ымдурез пепертыны</x>
+     <xt xml:lang="fin">työntää huulensa törölleen, mutristaa suutaan</xt></xg>
    </mg>
 </e>
 <e>
@@ -40663,16 +40354,6 @@ Possible errors following proofreading are, e. g., substitution of special fonts
 </e>
 <e>
    <lg>
-     <l pos="V">сьӧрозь келяны</l><orig>с. келяны</orig>
-   </lg>
-   <mg>
-     <tg xml:lang="fin">
-       <t pos="V">saattaa portin taakse (asti)</t>
-     </tg>
-   </mg>
-</e>
-<e>
-   <lg>
      <l pos="V">сьӧсьяськыны</l><orig>сьӧсьяськыны</orig>
    </lg>
    <mg ind="1th"><defNative>пӧйшуръёс с-сь</defNative>
@@ -41229,7 +40910,17 @@ Possible errors following proofreading are, e. g., substitution of special fonts
 </e>
 <e>
    <lg>
-     <l pos="V">сюдыны-сектаны, сюдыны-утялтыны</l><orig>сюдыны-сектаны, сюдыны- утялтыны</orig>
+     <l pos="V">сюдыны-сектаны</l><orig>сюдыны-сектаны, сюдыны- утялтыны</orig>
+   </lg>
+   <mg>
+     <tg xml:lang="fin">
+       <t pos="V">ruokkia, syöttää (ja juottaa), tarjota kestitystä (t. ruokaa)</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="V">сюдыны-утялтыны</l><orig>сюдыны-сектаны, сюдыны- утялтыны</orig>
    </lg>
    <mg>
      <tg xml:lang="fin">
@@ -42690,20 +42381,6 @@ Possible errors following proofreading are, e. g., substitution of special fonts
 </e>
 <e>
    <lg>
-     <l pos="V">тодэ вайыны</l>
-     <stg>
-       <st Contlex="V_MONO">тодэ вайы</st>
-     </stg>
-   </lg> <phonet>тодэ вайыны</phonet>
-   <mg> <defNative/>
-     <tg xml:lang="fin">
-       <t pos="V">muistaa</t>
-       <t pos="V">kerrata</t>
-     </tg>
-   </mg>
-</e>
-<e>
-   <lg>
      <l pos="V">тодӥсьяськыны</l><orig>тодӥсьяськыны</orig>
    </lg>
    <mg>
@@ -42771,16 +42448,6 @@ Possible errors following proofreading are, e. g., substitution of special fonts
    <mg ind="2th"> <note><i>kuv. puhek., kark.</i></note><font face="SmolenskSGR">(<i>аракы юыны</i>)</font>
      <tg xml:lang="fin">
        <t pos="V">vetää päänsä täyteen, juoda itsensä känniin (t. humalaan)</t>
-     </tg>
-   </mg>
-</e>
-<e>
-   <lg>
-     <l pos="V">тренироваться: тренироваться карыны</l>
-   </lg>
-   <mg>
-     <tg xml:lang="fin">
-       <t pos="V">harjoitella, treenata</t>
      </tg>
    </mg>
 </e>
@@ -43580,16 +43247,6 @@ Possible errors following proofreading are, e. g., substitution of special fonts
      <tg xml:lang="fin">
        <t pos="V">padota</t>
      </tg>
-   </mg>
-</e>
-<e>
-   <lg>
-     <l pos="V">тыпыр: тыпыр карыны</l>
-   </lg>
-   <mg>
-     <variants>
-       <l_syn type="&gt;">тыпыртыны</l_syn>
-     </variants>
    </mg>
 </e>
 <e>
@@ -45525,21 +45182,6 @@ Possible errors following proofreading are, e. g., substitution of special fonts
      <xg><x>ми тыныд номыр ум каре</x>
        <xt xml:lang="fin">me emme tee sinulle mitään (pahaa)</xt>
      </xg>
-   </mg>
-</e>
-<e>
-   <lg>
-     <l pos="V">умме усьыны</l>
-     <stg>
-       <st Contlex="V_MONO">умме усьы</st>
-     </stg>
-   </lg> <phonet>умме усьыны</phonet>
-   <mg> <defNative/>
-     <tg xml:lang="fin">
-       <t pos="V">nukahtaa</t>
-       <t pos="V">vaipua uneen</t>
-       <t pos="V">saada unen päästä kiinni</t>
-     </tg>
    </mg>
 </e>
 <e>
@@ -52435,25 +52077,6 @@ Possible errors following proofreading are, e. g., substitution of special fonts
 </e>
 <e>
    <lg>
-     <l pos="V">шоры возьматыны</l><orig>ш. возьматыны</orig>
-   </lg>
-   <mg>
-     <tg xml:lang="fin">
-       <t pos="V">näyttää kadun suuntaan</t>
-     </tg>
-     <xg><x>шкаф шоры шуккиськыны</x>
-       <xt xml:lang="fin">törmätä kaappiin</xt>
-     </xg>
-     <xg><x>юбо шоры донгиськыны</x> <x>юбо шоры мырӟиськыны</x>
-       <xt xml:lang="fin">törmätä pylvääseen</xt>
-     </xg>◊
-     <xg><x>номыр шоры учкытэк</x>
-       <xt xml:lang="fin">kaikesta huolimatta</xt>
-     </xg>
-   </mg>
-</e>
-<e>
-   <lg>
      <l pos="V">шорыны</l><orig>шорыны</orig>
    </lg>
    <mg>
@@ -56651,31 +56274,6 @@ Possible errors following proofreading are, e. g., substitution of special fonts
 </e>
 <e>
    <lg>
-     <l pos="V">юзыр-кезьыр луыны</l>
-   </lg><font face="SmolenskSGR">(<i>дырекъяны, куалекъяны</i>)</font>
-   <mg>
-     <tg xml:lang="fin">
-       <t pos="V">viluttaa</t>
-     </tg><font face="SmolenskSGR">(<i>кышкаса</i>)</font>
-     <tg xml:lang="fin">
-       <t pos="V">vapisuttaa, värisyttää</t>
-     </tg><font face="SmolenskSGR">(<i>кынмыса</i>)</font>
-     <tg xml:lang="fin">
-       <t pos="V">selkäpiitä karmii</t>
-     </tg><font face="SmolenskSGR"><b>вылтыры</b> (<i>я. </i><b>мугоры) юзыр-кезьыр луэ </b></font><font face="SmolenskSGR">(<i>дырекъяса, куалекъяса</i>)</font>
-     <tg xml:lang="fin">
-       <t pos="V">minua viluttaa</t>
-     </tg><font face="SmolenskSGR">(<i>кышкаса</i>)</font>
-     <tg xml:lang="fin">
-       <t pos="V">vapisuttaa, värisyttää</t>
-     </tg><font face="SmolenskSGR">(<i>кынмыса</i>)</font>
-     <tg xml:lang="fin">
-       <t pos="V">selkäpiitä(ni) karmii</t>
-     </tg>
-   </mg>
-</e>
-<e>
-   <lg>
      <l pos="V">юзэктыны</l><orig>юзэктыны</orig>
    </lg>
    <mg>
@@ -57308,19 +56906,6 @@ Possible errors following proofreading are, e. g., substitution of special fonts
    <mg ind="2th"> <senseType>kuv.</senseType><defNative>нимысьтыз пусйыны</defNative>
      <tg xml:lang="fin">
        <t pos="V">erottaa (t. kuvata) värikkäästi (t. elävästi, eloisasti)</t>
-     </tg>
-   </mg>
-</e>
-<e>
-   <lg>
-     <l pos="V">ят карыны</l><orig>ят карыны</orig>
-   </lg>
-   <mg><mwemg ind="1th"/><defNative>мурт адямиен лыдъяны</defNative>
-     <tg xml:lang="fin">
-       <t pos="V">pitää vieraana (t. sivullisena)</t>
-     </tg><mwemg ind="2th"/><defNative>муртаны</defNative>
-     <tg xml:lang="fin">
-       <t pos="V">vierastaa</t>
      </tg>
    </mg>
 </e>
@@ -60442,23 +60027,6 @@ Possible errors following proofreading are, e. g., substitution of special fonts
 </e>
 <e>
    <lg>
-     <l pos="V">ӵаш карыны</l>
-     <stg>
-       <st Contlex="V_MONO">ӵаш кары</st>
-     </stg>
-   </lg> <phonet>ӵаш карыны</phonet>
-   <mg> <defNative/>
-     <tg xml:lang="fin">
-       <t pos="V">kohista</t>
-       <t pos="V">kahista</t>
-       <t pos="V">humista</t>
-       <t pos="V">meluta</t>
-       <t pos="V">hälistä</t>
-     </tg>
-   </mg>
-</e>
-<e>
-   <lg>
      <l pos="V">ӵашетыны</l><orig>ӵашетыны</orig>
    </lg>
    <mg ind="1th"><defNative>куашетыны</defNative>
@@ -62216,27 +61784,4 @@ Possible errors following proofreading are, e. g., substitution of special fonts
      </xg>
    </mg>
 </e>
-<e>
-   <lg>
-     <l pos="V">чалак: чалак луыны</l>
-   </lg>
-   <mg><mwemg ind="1th"/><defNative>шып луыны, кылӥськемысь дугдыны</defNative>
-     <tg xml:lang="fin">
-       <t>vaieta, hiljetä, hiljentyä</t>
-     </tg><mwemg ind="2th"/><defNative>басыланы</defNative>
-     <tg xml:lang="fin">
-       <t>tyyntyä, asettua, vaimeta, vaimentua</t>
-     </tg>
-   </mg>
-</e>
-<e>
-   <lg>
-     <l pos="V">исамес карыны</l>
-   </lg>
-   <mg>
-     <tg xml:lang="fin">
-       <t>ivata, pilkata, nauraa</t>
-     </tg>
-   </mg>
- </e>
 </r> 

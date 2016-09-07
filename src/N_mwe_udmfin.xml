@@ -1146,4 +1146,7 @@ Possible errors following proofreading are, e. g., substitution of special fonts
 <tg xml:lang="fin"><t>rukki</t></tg>
    </mg>
 </e>
+<e> <lg><l pos="N">ваньлыко предложение</l> </lg> <mg><field>kiel.</field> <tg xml:lang="fin"> <t>eksistentiaalilause</t> </tg> </mg> </e>
+<e> <lg><l pos="N">ваньлыко веран</l> </lg> <mg><field>kiel.</field> <tg xml:lang="fin"> <t>eksistentiaalilause</t> </tg> </mg> </e>
+<e> <lg><l pos="N">ваньлыко шуос</l> </lg> <mg><field>kiel.</field> <tg xml:lang="fin"> <t>eksistentiaalilause</t> </tg> </mg> </e>
 </r>

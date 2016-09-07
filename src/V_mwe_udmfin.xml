@@ -423,4 +423,491 @@
      </tg>
    </mg>
 </e>
+<e>
+   <lg>
+     <l pos="V">исамес карыны</l>
+   </lg>
+   <mg>
+     <tg xml:lang="fin">
+       <t>ivata, pilkata, nauraa</t>
+     </tg>
+   </mg>
+ </e>
+<e>
+   <lg>
+     <l pos="V">баллотироваться кариськыны</l>
+   </lg>
+   <mg>
+     <tg xml:lang="fin">
+       <t pos="V">asettua ehdokkaaksi, olla ehdokkaana</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="V">бинтовать карыны</l>
+     <variants>
+       <l_syn type="&gt;">бинтэн биньыны</l_syn>
+     </variants>
+   </lg>
+   <mg>
+     <tg xml:lang="fin">
+       <t pos="V">sitoa harsositeellä</t>
+       <t pos="V">kääriä harsositeellä</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="V">ватскемен шудыны</l>
+   </lg>
+   <mg>
+     <tg xml:lang="fin">
+       <t pos="V">olla piilosilla</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="V">векъёс пуктылыны</l><orig>векъёс пуктылыны</orig>
+   </lg>
+   <mg>
+     <tg xml:lang="fin">
+       <t pos="V">pystyttää (t. panna) viittoja pitkin tietä</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="V">венчать карыны</l>
+     <stg>
+       <st Contlex="V_MONO">венчать кары</st>
+     </stg>
+   </lg> <phonet>венчать карыны</phonet>
+   <mg> <defNative/>
+     <tg xml:lang="fin">
+       <t pos="V">vihkiä</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="V">виро сётыны</l>
+   </lg>
+   <mg>
+     <tg xml:lang="fin">
+       <t pos="V">uhrata, antaa uhriksi, toimittaa uhri</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="V">вукак луыны</l>
+   </lg>
+   <mg>
+     <tg xml:lang="fin">
+       <t pos="V">tuntua oksetusta (t. kuvotusta), oksettaa</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="V">вукак потыны</l>
+   </lg>
+   <mg>
+     <tg xml:lang="fin">
+       <t pos="V">tuntua oksetusta (t. kuvotusta), oksettaa</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="V">вӧсь карыны</l>
+     <stg>
+       <st Contlex="V_MONO">вӧсь кары</st>
+     </stg>
+   </lg> <phonet>вӧсь карыны</phonet>
+   <mg> <defNative/>
+     <tg xml:lang="fin">
+       <t pos="V">aiheuttaa kipua</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="V">жӧлак усьыны</l>
+   </lg>
+   <mg>
+     <tg xml:lang="fin">
+       <t pos="V">menettää tajuntansa, mennä tajuttomaksi, pyörtyä</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="V">заочно дышетскыны</l>
+   </lg>
+   <mg>
+     <tg xml:lang="fin">
+       <t pos="V">opiskella</t>
+     </tg>
+     <tg xml:lang="fin">
+       <t pos="V">etäopiskelijana (t. kirjeopiskelijana), opiskella kirjekurssin välityksellä</t>
+       <re>esim. korkeakoulussa</re>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="V">зар бӧрдыны</l><orig>зар: зар бӧрдыны</orig>
+   </lg>
+   <mg>
+     <tg xml:lang="fin">
+       <t pos="V">itkeä hillittömästi</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="V">интэм карыны</l>
+   </lg>
+   <mg><mwemg ind="1th"/><defNative>ултӥяны</defNative>
+     <tg xml:lang="fin">
+       <t pos="V">alentaa, halventaa</t>
+     </tg><mwemg ind="2th"/><defNative>вӧсь карыны</defNative>
+     <tg xml:lang="fin">
+       <t pos="V">loukata (t. solvata) kovin</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="V">кепыр вайыны</l>
+     <variants>
+       <l_syn type="&gt;">кепыраны</l_syn>
+     </variants>
+   </lg>
+   <mg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="V">кепыр потыны</l>
+     <variants>
+       <l_syn type="&gt;">кепыраны</l_syn>
+     </variants>
+   </lg>
+   <mg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="V">куаляк луыны</l>
+     </lg>
+   <mg>
+       <tg xml:lang="fin"><t>hätkähtää, säpsähtää, vavahtaa</t>
+       </tg>
+       </mg>
+       </e>
+<e>
+   <lg>
+     <l pos="V">куаляк потыны</l>
+     </lg>
+   <mg>
+       <tg xml:lang="fin"><t>hätkähtää, säpsähtää, vavahtaa</t>
+       </tg>
+       </mg>
+       </e>
+<e>
+   <lg>
+     <l pos="V">куаляк усьыны</l>
+   </lg>
+   <mg>
+       <tg xml:lang="fin"><t>hätkähtää, säpsähtää, vavahtaa</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="V">кустэм луыны</l>
+   </lg>
+   <mg>
+     <tg xml:lang="fin">
+       <t pos="V">reväyttää (t. revähdyttää) ristiselän lihakset</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="V">кусӥнак карыны</l>
+   </lg>
+   <mg>
+     <tg xml:lang="fin">
+       <t pos="V">taivuttaa kahtia</t>
+     </tg>
+     <xg><x>кусӥнак луыны</x>
+       <xt xml:lang="fin">taipua kahtia</xt>
+     </xg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="V">кылйыл вераськыны</l>
+   </lg>
+   <mg>
+     <tg xml:lang="fin">
+       <t pos="V">sammaltaa; puhua kankeasti (t. kangertaen)</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="V">синэз кыньыны</l><orig>кыньыны: синэз к.</orig>
+   </lg>
+   <mg>
+     <tg xml:lang="fin">
+       <t pos="V">sulkea silmänsä, ummistaa silmänsä</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="V">синэз кыньыртыны</l><orig>кыньыртыны: синэз к.</orig>
+   </lg>
+   <mg><mwemg ind="1th"/>
+     <tg xml:lang="fin">
+       <t pos="V">siristää silmä(ä)nsä (t. silmiään)</t>
+     </tg><mwemg ind="2th"/><defNative>кырмыштыны</defNative>
+     <tg xml:lang="fin">
+       <t pos="V">räpäyttää silmäänsä</t>
+     </tg><font face="SmolenskSGR">(<i>кинлы ке</i>)</font>
+     <tg xml:lang="fin">
+       <t pos="V">iskeä (t. vinkata) silmää</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="V">лабрак кариськыны</l>
+   </lg>
+   <mg>
+     <variants>
+       <l_syn type="&gt;">лабырскыны<rom ind="0_1"/></l_syn>
+     </variants>
+     <tg xml:lang="fin">
+       <t pos="V">kyyristyä, taipua, painua (alas)</t>
+     </tg><font face="SmolenskSGR">(<i>пуксем карыны</i>)</font>
+     <tg xml:lang="fin">
+       <t pos="V">kyykistyä</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="V">мыняк потыны</l>
+   </lg>
+   <mg><note><i>mom.</i></note>
+     <tg xml:lang="fin">
+       <t pos="V">hymyillä</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="V">нимъяра карыны</l>
+   </lg>
+   <mg><defNative>возьытэ уськытыны</defNative>
+     <tg xml:lang="fin">
+       <t pos="V">häpäistä, häväistä</t>
+     </tg><font face="SmolenskSGR">(<i>кыл вӧлдыны</i>)</font>
+     <tg xml:lang="fin">
+       <t pos="V">pilata jnk maine, saattaa huonoon huutoon (t. maineeseen)</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="V">ныгыт сылыны</l><orig>н. сылыны</orig>
+   </lg>
+   <mg>
+     <tg xml:lang="fin">
+       <t pos="V">seisoa vahvasti (t. vakaasti) jaloillaan</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="V">нюртэт поныны</l><orig>н. поныны</orig>
+   </lg>
+   <mg>
+     <tg xml:lang="fin">
+       <t pos="V">panna paino jonkin</t>
+     </tg>
+     <tg xml:lang="fin">
+       <t pos="V">päälle</t>
+     </tg>
+     <variants>
+       <l_syn type="&gt;">зӥбет<rom ind="0_1"/></l_syn>
+     </variants>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="V">нёркак потыны</l>
+   </lg>
+   <mg>
+     <tg xml:lang="fin">
+       <t pos="V">hätkähtää, säpsähtää, sävähtää, vavahtaa</t>
+     </tg>
+     <variants>
+       <l_syn type="&gt;">куаляк</l_syn>
+     </variants>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="V">сьӧрозь келяны</l><orig>с. келяны</orig>
+   </lg>
+   <mg>
+     <tg xml:lang="fin">
+       <t pos="V">saattaa portin taakse (asti)</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="V">тодэ вайыны</l>
+     <stg>
+       <st Contlex="V_MONO">тодэ вайы</st>
+     </stg>
+   </lg> <phonet>тодэ вайыны</phonet>
+   <mg> <defNative/>
+     <tg xml:lang="fin">
+       <t pos="V">muistaa</t>
+       <t pos="V">kerrata</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="V">тренироваться карыны</l>
+   </lg>
+   <mg>
+     <tg xml:lang="fin">
+       <t pos="V">harjoitella, treenata</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="V">тыпыр карыны</l>
+   </lg>
+   <mg>
+     <variants>
+       <l_syn type="&gt;">тыпыртыны</l_syn>
+     </variants>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="V">умме усьыны</l>
+     <stg>
+       <st Contlex="V_MONO">умме усьы</st>
+     </stg>
+   </lg> <phonet>умме усьыны</phonet>
+   <mg> <defNative/>
+     <tg xml:lang="fin">
+       <t pos="V">nukahtaa</t>
+       <t pos="V">vaipua uneen</t>
+       <t pos="V">saada unen päästä kiinni</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="V">шоры возьматыны</l><orig>ш. возьматыны</orig>
+   </lg>
+   <mg>
+     <tg xml:lang="fin">
+       <t pos="V">näyttää kadun suuntaan</t>
+     </tg>
+     <xg><x>шкаф шоры шуккиськыны</x>
+       <xt xml:lang="fin">törmätä kaappiin</xt>
+     </xg>
+     <xg><x>юбо шоры донгиськыны</x> <x>юбо шоры мырӟиськыны</x>
+       <xt xml:lang="fin">törmätä pylvääseen</xt>
+     </xg>◊
+     <xg><x>номыр шоры учкытэк</x>
+       <xt xml:lang="fin">kaikesta huolimatta</xt>
+     </xg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="V">юзыр-кезьыр луыны</l>
+   </lg><font face="SmolenskSGR">(<i>дырекъяны, куалекъяны</i>)</font>
+   <mg>
+     <tg xml:lang="fin">
+       <t pos="V">viluttaa</t>
+     </tg><font face="SmolenskSGR">(<i>кышкаса</i>)</font>
+     <tg xml:lang="fin">
+       <t pos="V">vapisuttaa, värisyttää</t>
+     </tg><font face="SmolenskSGR">(<i>кынмыса</i>)</font>
+     <tg xml:lang="fin">
+       <t pos="V">selkäpiitä karmii</t>
+     </tg><font face="SmolenskSGR"><b>вылтыры</b> (<i>я. </i><b>мугоры) юзыр-кезьыр луэ </b></font><font face="SmolenskSGR">(<i>дырекъяса, куалекъяса</i>)</font>
+     <tg xml:lang="fin">
+       <t pos="V">minua viluttaa</t>
+     </tg><font face="SmolenskSGR">(<i>кышкаса</i>)</font>
+     <tg xml:lang="fin">
+       <t pos="V">vapisuttaa, värisyttää</t>
+     </tg><font face="SmolenskSGR">(<i>кынмыса</i>)</font>
+     <tg xml:lang="fin">
+       <t pos="V">selkäpiitä(ni) karmii</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="V">ят карыны</l><orig>ят карыны</orig>
+   </lg>
+   <mg><mwemg ind="1th"/><defNative>мурт адямиен лыдъяны</defNative>
+     <tg xml:lang="fin">
+       <t pos="V">pitää vieraana (t. sivullisena)</t>
+     </tg><mwemg ind="2th"/><defNative>муртаны</defNative>
+     <tg xml:lang="fin">
+       <t pos="V">vierastaa</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="V">ӵаш карыны</l>
+     <stg>
+       <st Contlex="V_MONO">ӵаш кары</st>
+     </stg>
+   </lg> <phonet>ӵаш карыны</phonet>
+   <mg> <defNative/>
+     <tg xml:lang="fin">
+       <t pos="V">kohista</t>
+       <t pos="V">kahista</t>
+       <t pos="V">humista</t>
+       <t pos="V">meluta</t>
+       <t pos="V">hälistä</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="V">чалак луыны</l>
+   </lg>
+   <mg><mwemg ind="1th"/><defNative>шып луыны, кылӥськемысь дугдыны</defNative>
+     <tg xml:lang="fin">
+       <t>vaieta, hiljetä, hiljentyä</t>
+     </tg><mwemg ind="2th"/><defNative>басыланы</defNative>
+     <tg xml:lang="fin">
+       <t>tyyntyä, asettua, vaimeta, vaimentua</t>
+     </tg>
+   </mg>
+</e>
 </r>

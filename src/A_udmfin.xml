@@ -230,13 +230,10 @@ Possible errors following proofreading are, e. g., substitution of special fonts
 <e> <lg> <l pos="A">ванё-буро</l><orig>ванёʼ-буроʼ</orig> <variants> <l_syn>ванё</l_syn> </variants> </lg> <mg> <variants> <l_syn type="&gt;">ваньбуро</l_syn> </variants> </mg> </e>
 <e> <lg> <l pos="A">ваньбуро</l><orig>ваньбуро</orig> </lg> <mg> <tg xml:lang="fin"> <t>varakas, vauras</t> </tg> </mg> </e>
 <e> <lg><l pos="A">ваньлыко</l> </lg> <mg><field>kiel.</field> <tg xml:lang="fin"> <t>eksistentiaali-</t> </tg> </mg> </e>
-<e> <lg><l pos="A">ваньлыко предложение</l> </lg> <mg><field>kiel.</field> <tg xml:lang="fin"> <t>eksistentiaalilause</t> </tg> </mg> </e>
-<e> <lg><l pos="A">ваньлыко веран</l> </lg> <mg><field>kiel.</field> <tg xml:lang="fin"> <t>eksistentiaalilause</t> </tg> </mg> </e>
-<e> <lg><l pos="A">ваньлыко шуос</l> </lg> <mg><field>kiel.</field> <tg xml:lang="fin"> <t>eksistentiaalilause</t> </tg> </mg> </e>
 <e> <lg><l pos="A">вачрес</l><orig>вачрес</orig> <variants> <l_syn>вачырес</l_syn> </variants> </lg> <mg ind="1th"><defNative>наӵ-наӵ</defNative> <tg xml:lang="fin"> <t>tahmea, tahmainen</t> </tg> <xg><x>вачрес горд сюй</x> <xt xml:lang="fin">tahmea savi</xt> </xg> </mg> <mg ind="2th"> <range>murt.</range><font face="SmolenskSGR">(<i>кельшымон я. улоно кадь ӧвӧл</i>)</font> <tg xml:lang="fin"> <t>mitätön, epäkodikas, epäviihtyisä</t> </tg> </mg> </e>
 <e> <lg> <l pos="A">вачырес</l><orig>вачырес</orig> <variants> <l_syn>вачрес</l_syn> </variants> </lg> <mg ind="1th"><defNative>наӵ-наӵ</defNative> <tg xml:lang="fin"> <t>tahmea, tahmainen</t> </tg> <xg><x>вачырес горд сюй</x> <xt xml:lang="fin">tahmea savi</xt> </xg> </mg> <mg ind="2th"> <range>murt.</range><font face="SmolenskSGR">(<i>кельшымон я. улоно кадь ӧвӧл</i>)</font> <tg xml:lang="fin"> <t>mitätön, epäkodikas, epäviihtyisä</t> </tg> </mg> </e>
 <e> <lg> <l pos="A">вашкала</l><orig>вашкала</orig> </lg> <mg> <tg xml:lang="fin"> <t>muinainen, muinaisaikainen, (iki)vanha</t> </tg> <xg><x>вашкала дыръя</x> <xt xml:lang="fin">muinaisina aikoina</xt> </xg>◊ <font face="SmolenskSGR"><b>вашкалаос </b></font><note><i>mon.</i></note> <tg xml:lang="fin"> <t>esi-isät</t> </tg> </mg> </e>
-<e> <lg><l pos="A">вводной: ввоʼдной кыл</l> </lg> <mg><field>kiel.</field> <tg xml:lang="fin"> <t>parenteesisana, parenteettinen sana</t> </tg><font face="SmolenskSGR"><b>вводной предложение </b></font><field>kiel.</field> <tg xml:lang="fin"> <t>parenteettinen lause, selvittelylisäke</t> </tg> </mg> </e>
+<e> <lg><l pos="N">ввоʼдной кыл</l> </lg> <mg><field>kiel.</field> <tg xml:lang="fin"> <t>parenteesisana, parenteettinen sana</t> </tg><font face="SmolenskSGR"><b>вводной предложение </b></font><field>kiel.</field> <tg xml:lang="fin"> <t>parenteettinen lause, selvittelylisäke</t> </tg> </mg> </e>
 <e> <lg><l pos="A">везег</l><orig>везег</orig> </lg> <mg><range>murt.</range> <tg xml:lang="fin"> <t>(solakka)vartaloinen</t> </tg> </mg> </e>
 <e> <lg> <l pos="A">векчи</l><orig>векчи</orig> </lg> <mg ind="1th"> <tg xml:lang="fin"> <t>ohut</t> </tg> <xg><x>векчи куар</x> <xt xml:lang="fin">ohut lehti</xt> </xg> </mg> <mg ind="2th"><defNative>пичи</defNative> <tg xml:lang="fin"> <t>hieno, pikku</t> </tg> <xg><x>векчи коньдон</x> <xt xml:lang="fin">pikkuraha</xt> </xg> <xg><x>векчи пызь</x> <xt xml:lang="fin">hienot jauhot</xt> </xg> <xg><x>векчи чорыг</x> <xt xml:lang="fin">pikkukala</xt> </xg> </mg> <mg ind="3th"><defNative>восьтэт</defNative> <tg xml:lang="fin"> <t>laiha, hoikka</t> </tg> <xg><x>векчи мугор</x> <xt xml:lang="fin">laiha (t. hoikka) vartalo</xt> </xg> </mg> <mg ind="4th"><defNative>куара</defNative> <tg xml:lang="fin"> <t>korkea; vieno, hento</t> </tg> <xg><x>векчи куара</x> <xt xml:lang="fin">korkea (t. hieno, hento) ääni</xt> </xg> </mg> </e>
 <e> <lg><l pos="A">венгер</l><orig>венгер</orig> </lg> <mg> <tg xml:lang="fin"> <t>unkarilainen, unkarin</t> </tg> <xg><x>венгер кыл</x> <xt xml:lang="fin">unkari(n kieli)</xt> </xg><font face="SmolenskSGR"><b>венгер кышно</b></font><font face="SmolenskSGR">(<b>мурт</b>)</font> <tg xml:lang="fin"> <t>unkarilainen nainen</t> </tg> <xg><x>венгер ныл</x> <xt xml:lang="fin">unkarilainen tyttö</xt> </xg> </mg> </e>
@@ -809,7 +806,7 @@ Possible errors following proofreading are, e. g., substitution of special fonts
 </e>
 <e>
    <lg>
-     <l pos="A">чӧльыё-пӧлыё: чӧльыё-пӧлыё пӧзь</l>
+     <l pos="N">чӧльыё-пӧлыё пӧзь</l>
    </lg>
    <mg>
      <tg xml:lang="fin">
@@ -2673,11 +2670,21 @@ Possible errors following proofreading are, e. g., substitution of special fonts
 </e>
 <e>
    <lg>
-     <l pos="A">яган: кузь яган</l><orig>яган: кузь я.</orig>
+     <l pos="A">кузь яган</l><orig>яган: кузь я.</orig>
    </lg>
    <mg>
      <tg xml:lang="fin">
-       <t>(pitkän)huiskea, hontelo; hongankolistaja</t>
+       <t>(pitkän)huiskea, hontelo</t>
+     </tg><senseType>leik.</senseType>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="N">кузь яган</l><orig>яган: кузь я.</orig>
+   </lg>
+   <mg>
+     <tg xml:lang="fin">
+       <t>hongankolistaja</t>
      </tg><senseType>leik.</senseType>
    </mg>
 </e>
@@ -3283,7 +3290,7 @@ Possible errors following proofreading are, e. g., substitution of special fonts
 </e>
 <e>
    <lg>
-     <l pos="A">дагаё: дагаё вал</l>
+     <l pos="N">дагаё вал</l>
    </lg>
    <mg>
      <tg xml:lang="fin">
@@ -3370,7 +3377,7 @@ Possible errors following proofreading are, e. g., substitution of special fonts
 </e>
 <e>
    <lg>
-     <l pos="A">деепричастной: деепричастной оборот</l>
+     <l pos="N">деепричастной оборот</l>
    </lg>
    <mg><field>kiel.</field>
      <tg xml:lang="fin">
@@ -4423,7 +4430,7 @@ Possible errors following proofreading are, e. g., substitution of special fonts
 </e>
 <e>
    <lg>
-     <l pos="A">ӟар: ӟар кезьыт</l>
+     <l pos="N">ӟар кезьыт</l>
    </lg>
    <mg>
      <tg xml:lang="fin">
@@ -4692,7 +4699,7 @@ Possible errors following proofreading are, e. g., substitution of special fonts
 </e>
 <e>
    <lg>
-     <l pos="A">ӟырт кезьыт</l>
+     <l pos="N">ӟырт кезьыт</l>
      <variants>
        <l_syn>ӟырт-ӟырт кезьыт</l_syn>
      </variants><orig>ӟырт кезьыт</orig>
@@ -4705,7 +4712,7 @@ Possible errors following proofreading are, e. g., substitution of special fonts
 </e>
 <e>
    <lg>
-     <l pos="A">ӟырт-ӟырт кезьыт</l>
+     <l pos="N">ӟырт-ӟырт кезьыт</l>
      <variants>
        <l_syn>ӟырт кезьыт</l_syn>
      </variants><orig>ӟорт-ӟырт кезьыт</orig>
@@ -4737,7 +4744,7 @@ Possible errors following proofreading are, e. g., substitution of special fonts
 </e>
 <e>
    <lg>
-     <l pos="A">индей: индей калык</l>
+     <l pos="N">индей калык</l>
    </lg>
    <mg>
      <tg xml:lang="fin">
@@ -5503,7 +5510,7 @@ Possible errors following proofreading are, e. g., substitution of special fonts
 </e>
 <e>
    <lg>
-     <l pos="A">кожой: (кожой кук)</l><orig>кожой: (к. кук)</orig>
+     <l pos="A">кожой кук</l><orig>кожой: (к. кук)</orig>
    </lg>
    <mg>
      <tg xml:lang="fin">
@@ -6799,7 +6806,7 @@ Possible errors following proofreading are, e. g., substitution of special fonts
 </e>
 <e>
    <lg>
-     <l pos="A">литва: литва кыл</l>
+     <l pos="N">литва кыл</l>
    </lg>
    <mg>
      <tg xml:lang="fin">
@@ -7809,7 +7816,7 @@ Possible errors following proofreading are, e. g., substitution of special fonts
 </e>
 <e>
    <lg>
-     <l pos="A">мылкыдъем: капчи мылкыдъем</l><orig>мылкыдъем: капчи м.</orig>
+     <l pos="A">капчи мылкыдъем</l><orig>мылкыдъем: капчи м.</orig>
    </lg>
    <mg>
      <tg xml:lang="fin">
@@ -8982,7 +8989,7 @@ Possible errors following proofreading are, e. g., substitution of special fonts
 </e>
 <e>
    <lg>
-     <l pos="A">одӥглыко: одӥглыко каронкыл</l>
+     <l pos="N">одӥглыко каронкыл</l>
    </lg>
    <mg><field>kiel.</field>
      <tg xml:lang="fin">
@@ -8992,7 +8999,7 @@ Possible errors following proofreading are, e. g., substitution of special fonts
 </e>
 <e>
    <lg>
-     <l pos="A">однородной: предложенилэн однородной членъёсыз</l><orig>однороʼдной: предложеʼнилэн о. членъёсыз</orig>
+     <l pos="N">предложенилэн однородной членъёсыз</l><orig>однороʼдной: предложеʼнилэн о. членъёсыз</orig>
    </lg>
    <mg><field>kiel.</field>
      <tg xml:lang="fin">
@@ -9245,7 +9252,7 @@ Possible errors following proofreading are, e. g., substitution of special fonts
 </e>
 <e>
    <lg>
-     <l pos="A">памильной: памильной чай</l>
+     <l pos="N">памильной чай</l>
    </lg>
    <mg><note><i>kansanr.</i></note>
      <tg xml:lang="fin">
@@ -10039,7 +10046,7 @@ Possible errors following proofreading are, e. g., substitution of special fonts
 </e>
 <e>
    <lg>
-     <l pos="A">пуштросъем: мур пуштросъем</l><orig>пуштросъем: мур п.</orig>
+     <l pos="A">мур пуштросъем</l><orig>пуштросъем: мур п.</orig>
    </lg>
    <mg>
      <tg xml:lang="fin">
@@ -10551,14 +10558,12 @@ Possible errors following proofreading are, e. g., substitution of special fonts
 </e>
 <e>
    <lg>
-     <l pos="A">серб-хорват: серб-хорват кыл</l>
+     <l pos="N">серб-хорват кыл</l>
    </lg>
    <mg>
      <tg xml:lang="fin">
-       <t>serbokroatia(n</t>
-     </tg>
-     <tg xml:lang="fin">
-       <t>kieli)</t>
+       <t>serbokroatia</t>
+       <t>serbokroatian kieli</t>
      </tg>
    </mg>
 </e>
@@ -10577,7 +10582,7 @@ Possible errors following proofreading are, e. g., substitution of special fonts
 </e>
 <e>
    <lg>
-     <l pos="A">сизьымо: сизьымо галоша</l>
+     <l pos="N">сизьымо галоша</l>
    </lg>
    <mg>
      <tg xml:lang="fin">
@@ -10886,7 +10891,7 @@ Possible errors following proofreading are, e. g., substitution of special fonts
 </e>
 <e>
    <lg>
-     <l pos="A">скорой: скорой поезд</l>
+     <l pos="N">скорой поезд</l>
    </lg>
    <mg>
      <tg xml:lang="fin">
@@ -11041,7 +11046,7 @@ Possible errors following proofreading are, e. g., substitution of special fonts
 </e>
 <e>
    <lg>
-     <l pos="A">сослагательной: сослагательной наклонение</l>
+     <l pos="N">сослагательной наклонение</l>
    </lg>
    <mg> <field>kiel.</field>
      <tg xml:lang="fin">
@@ -11586,7 +11591,7 @@ Possible errors following proofreading are, e. g., substitution of special fonts
 </e>
 <e>
    <lg>
-     <l pos="A">сюсё: сюсё чечы</l>
+     <l pos="N">сюсё чечы</l>
    </lg>
    <mg>
      <tg xml:lang="fin">
@@ -11789,7 +11794,7 @@ Possible errors following proofreading are, e. g., substitution of special fonts
 </e>
 <e>
    <lg>
-     <l pos="A">тальккес: тальккес музъем</l>
+     <l pos="N">тальккес музъем</l>
    </lg>
    <mg>
      <tg xml:lang="fin">
@@ -11932,7 +11937,7 @@ Possible errors following proofreading are, e. g., substitution of special fonts
 </e>
 <e>
    <lg>
-     <l pos="A">тонгес: тонгес куара</l>
+     <l pos="N">тонгес куара</l>
    </lg>
    <mg><field>kiel.</field>
      <tg xml:lang="fin">
@@ -12582,7 +12587,7 @@ Possible errors following proofreading are, e. g., substitution of special fonts
 </e>
 <e>
    <lg>
-     <l pos="A">условной: условной наклонение</l>
+     <l pos="N">условной наклонение</l>
    </lg>
    <mg><field>kiel.</field>
      <tg xml:lang="fin">
@@ -12837,7 +12842,7 @@ Possible errors following proofreading are, e. g., substitution of special fonts
 </e>
 <e>
    <lg>
-     <l pos="A">целевой: целевой ссада</l>
+     <l pos="N">целевой ссада</l>
    </lg>
    <mg>
      <tg xml:lang="fin">
@@ -12968,7 +12973,17 @@ Possible errors following proofreading are, e. g., substitution of special fonts
 </e>
 <e>
    <lg>
-     <l pos="A">чагырпыр-горд, чагырпыръем-горд</l><orig>чагорпор-горд, чагорпыръеʼм- горд</orig>
+     <l pos="A">чагырпыр-горд</l><orig>чагорпор-горд, чагорпыръеʼм- горд</orig>
+   </lg>
+   <mg>
+     <tg xml:lang="fin">
+       <t>tulipunainen, purppuranpunainen</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="A">чагырпыръем-горд</l><orig>чагорпор-горд, чагорпыръеʼм- горд</orig>
    </lg>
    <mg>
      <tg xml:lang="fin">
@@ -13014,7 +13029,7 @@ Possible errors following proofreading are, e. g., substitution of special fonts
 </e>
 <e>
    <lg>
-     <l pos="A">чалак: чалак луыны</l>
+     <l pos="V">чалак луыны</l>
    </lg>
    <mg><mwemg ind="1th"/><defNative>шып луыны, кылӥськемысь дугдыны</defNative>
      <tg xml:lang="fin">
@@ -13543,7 +13558,7 @@ Possible errors following proofreading are, e. g., substitution of special fonts
 </e>
 <e>
    <lg>
-     <l pos="A">чӧльыё-пӧлыё: чӧльыё-пӧлыё пӧзь</l>
+     <l pos="N">чӧльыё-пӧлыё пӧзь</l>
    </lg>
    <mg>
      <tg xml:lang="fin">
@@ -15460,16 +15475,6 @@ Possible errors following proofreading are, e. g., substitution of special fonts
      <xg><x>юрттэм адями</x>
        <xt xml:lang="fin">koditon kulkuri</xt>
      </xg>
-   </mg>
-</e>
-<e>
-   <lg>
-     <l pos="A">яган: кузь яган</l><orig>яган: кузь я.</orig>
-   </lg>
-   <mg>
-     <tg xml:lang="fin">
-       <t>(pitkän)huiskea, hontelo; hongankolistaja</t>
-     </tg><senseType>leik.</senseType>
    </mg>
 </e>
 <e>
