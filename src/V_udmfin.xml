@@ -21036,6 +21036,9 @@ Possible errors following proofreading are, e. g., substitution of special fonts
      <variants>
        <l_syn type="&gt;">кырмышъяны</l_syn>
      </variants>
+     <tg xml:lang="fin">
+       <t pos="V" re="silmiään">räpytellä</t>
+     </tg>
    </mg>
 </e>
 <e>
@@ -21590,14 +21593,15 @@ Possible errors following proofreading are, e. g., substitution of special fonts
 <e>
    <lg>
      <l pos="V">кыстаны</l><orig>кыстаны</orig>
-     <variants>
-       <l_syn>кыстан</l_syn>
-     </variants>
    </lg>
    <mg>
      <variants>
-       <l_syn type="&gt;">кыстан-костан, кыстаны-костаны</l_syn>
-     </variants>
+       <l_syn type="&gt;">кыстаны-костаны</l_syn>
+     </variants><defNative>погылляны</defNative>
+     <tg xml:lang="fin">
+       <t pos="V">kierittää, vierittää, kieritellä, vieritellä</t>
+       <re>loassa, maassa</re>
+     </tg>
    </mg>
 </e>
 <e>
@@ -21630,7 +21634,8 @@ Possible errors following proofreading are, e. g., substitution of special fonts
        <t pos="V">lojua, vetelehtiä, ajelehtia</t>
      </tg>
      <xg><x>бумага выж вылын кыстаське</x>
-       <xt xml:lang="fin">paperi lojuu (t. ajelehtii) lattialla</xt>
+       <xt xml:lang="fin">paperi lojuu lattialla</xt>
+       <xt xml:lang="fin">paperi ajelehtii lattialla</xt>
      </xg>
    </mg>
    <mg ind="3th"> <range>puhek.</range><defNative>кылльыса улыны</defNative>
@@ -21638,7 +21643,8 @@ Possible errors following proofreading are, e. g., substitution of special fonts
        <t pos="V">lojua, loikoa, loikoilla, virua; rypeä</t>
      </tg>
      <xg><x>валесын кыстаськыны</x>
-       <xt xml:lang="fin">loikoilla (t. virua) vuoteessa</xt>
+       <xt xml:lang="fin">loikoilla vuoteessa</xt>
+       <xt xml:lang="fin">virua vuoteessa</xt>
      </xg>
      <xg><x>нӧдын кыстаськыны</x>
        <xt xml:lang="fin">rypeä liassa</xt>
@@ -21724,7 +21730,8 @@ Possible errors following proofreading are, e. g., substitution of special fonts
        <t pos="V">levittäytyä</t>
        <t pos="V">ulottua</t>
        <t pos="V">kestää</t>
-       <t pos="V">jatkua, pyrkiä</t>
+       <t pos="V">jatkua</t>
+       <t pos="V">pyrkiä</t>
        <t pos="V">yrittää</t>
        <t pos="V">tavoitella</t>
      </tg>

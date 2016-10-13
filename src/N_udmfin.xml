@@ -45189,12 +45189,12 @@ Possible errors following proofreading are, e. g., substitution of special fonts
    <lg>
      <l pos="N">кыстан</l><orig>кыстан</orig>
      <variants>
-       <l_syn>кыстаны</l_syn>
+       <l_syn>кыстан</l_syn>
      </variants>
    </lg>
    <mg>
      <variants>
-       <l_syn type="&gt;">кыстан-костан, кыстаны-костаны</l_syn>
+       <l_syn type="&gt;">кыстан-костан</l_syn>
      </variants>
    </mg>
 </e>
