@@ -13061,6 +13061,28 @@ Possible errors following proofreading are, e. g., substitution of special fonts
 </e>
 <e>
    <lg>
+     <l pos="A">чал</l><orig>чал</orig>
+     </lg>
+   <mg ind="1th">
+     <tg xml:lang="fin">
+       <t>hiljainen; tyyni;</t>
+       </tg>
+     <xg><x>котырак чал</x>
+       <xt xml:lang="fin">ympärillä on hiljaista</xt>
+       </xg>
+   </mg>
+   <mg>
+     <defNative>вераськисьтэм</defNative>
+     <tg xml:lang="fin">
+       <t>vaitelias, sanaton</t>
+     </tg>
+     <xg><x>чал мурт</x>
+       <xt xml:lang="fin">vaitelias ihminen</xt>
+     </xg>
+   </mg>
+</e>
+<e>
+   <lg>
      <l pos="A">чалэс</l><orig>чалэс</orig>
    </lg>
    <mg>

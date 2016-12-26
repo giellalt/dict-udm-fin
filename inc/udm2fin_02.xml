@@ -2,36 +2,6 @@
  <r xml:lang="udm">
 <e>
    <lg>
-     <l pos="A;Adv">чал</l><orig>чал</orig>
-   </lg>
-   <mg ind="1th">
-     <tg xml:lang="fin">
-       <t>hiljainen; tyyni;</t>
-     </tg>
-     <xg><x>котырак чал</x>
-       <xt xml:lang="fin">ympärillä on hiljaista</xt>
-     </xg>
-   </mg>
-   <mg ind="2th">
-     <tg xml:lang="fin">
-       <t>hiljaa;</t>
-     </tg><font face="SmolenskSGR">(<i>вераськытэк ои</i>)</font>
-     <tg xml:lang="fin">
-       <t>vaiti, ääneti //</t>
-     </tg><font face="SmolenskSGR">(<i>вераськисьтэм</i>)</font>
-     <tg xml:lang="fin">
-       <t>vaitelias, sanaton;</t>
-     </tg>
-     <xg><x>чал пукыны</x>
-       <xt xml:lang="fin">istua hiljaa;</xt>
-     </xg>
-     <xg><x>чал мурт</x>
-       <xt xml:lang="fin">vaitelias ihminen</xt>
-     </xg>
-   </mg>
-</e>
-<e>
-   <lg>
      <l pos="A;N;Adv">чалмыт</l><orig>чалмыт</orig>
    </lg>
    <mg ind="1th">
@@ -148,24 +118,6 @@
      <tg xml:lang="fin">
        <t>vinosilmäinen</t>
      </tg>
-   </mg>
-</e>
-<e>
-   <lg>
-     <l pos="N;Adv">чарк<rom ind="2"/></l>
-   </lg>
-   <mg ind="1th"><defNative>вуко колёсалэн бурдэз</defNative>
-     <tg xml:lang="fin">
-       <t>myllynrattaan siipi</t>
-     </tg>
-   </mg>
-   <mg ind="2th"><defNative>чылкак</defNative>
-     <tg xml:lang="fin">
-       <t>aivan, ihan, kokonaan;</t>
-     </tg>
-     <xg><x>чарк огнын кыльыны</x>
-       <xt xml:lang="fin">jäädä aivan yksin</xt>
-     </xg>
    </mg>
 </e>
 <e>
@@ -299,70 +251,6 @@
 </e>
 <e>
    <lg>
-     <l pos="N;A">черк</l><orig>черк</orig>
-   </lg>
-   <mg>
-     <tg xml:lang="fin">
-       <t>kirkko // kirkon, kirkollinen, kirkollis=;</t>
-     </tg>
-     <xg><x>тӧр черк</x>
-       <xt xml:lang="fin">tuomiokirkko, katedraali;</xt>
-     </xg>
-     <variants>
-       <l_syn type="vrt0">собор; черк гырлы</l_syn>
-     </variants>
-     <tg xml:lang="fin">
-       <t>kirkon kello;</t>
-     </tg>
-     <xg><x>черк тубатъёс</x>
-       <xt xml:lang="fin">kirkonportaat</xt>
-     </xg>◊
-     <xg><x>черке пыртон</x>
-       <xt xml:lang="fin">kastaminen, kaste; ristiminen;</xt>
-     </xg>
-     <xg><x>черке пыртыны</x>
-       <xt xml:lang="fin">kastaa; ristiä</xt>
-     </xg>
-   </mg>
-</e>
-<e>
-   <lg>
-     <l pos="N;A">черкес</l><orig>черкес</orig>
-   </lg>
-   <mg>
-     <tg xml:lang="fin">
-       <t>tšerkessi // tšerkessiläinen, tšerkessin;</t>
-     </tg>
-     <xg><x>черкес кыл</x>
-       <xt xml:lang="fin">tšerkessi(n kieli)</xt>
-     </xg>
-   </mg>
-</e>
-<e>
-   <lg><l>черодэз?</l><orig>черодэз?</orig>
-   </lg>
-   <mg>
-     <tg xml:lang="fin">
-       <t>kenen vuoro on nyt?</t>
-     </tg>
-   </mg>
-   <mg ind="2th"><defNative>бӧрсьысь сылон</defNative>
-     <tg xml:lang="fin">
-       <t>jono;</t>
-     </tg>
-     <xg><x>черодтэк пырыны</x>
-       <xt xml:lang="fin">mennä jonottamatta (t. jonon ohi);</xt>
-     </xg>
-     <xg><x>черодын сылыны</x>
-       <xt xml:lang="fin">seistä jonossa, jonottaa;</xt>
-     </xg>
-     <xg><x>черодэ султыны</x>
-       <xt xml:lang="fin">mennä jonottamaan (t. seisomaan jonoon)</xt>
-     </xg>
-   </mg>
-</e>
-<e>
-   <lg>
      <l pos="A;N">ческыт</l><orig>ческыт</orig>
    </lg>
    <mg ind="1th">
@@ -372,6 +260,11 @@
      <xg><x>ческыт шыд</x>
        <xt xml:lang="fin">hyvänmakuinen keitto</xt>
      </xg>
+     <xg>
+       <x>ческыт карыны</x>
+     <xt xml:lang="fin">tehdä maukkaa(mma)ksi (t. herkullise(mma)ksi</xt>
+     </xg>
+
    </mg>
    <mg ind="2th"><defNative>коньыт</defNative>
      <tg xml:lang="fin">
@@ -379,13 +272,12 @@
      </tg>
      <xg><x>ческыт чай</x>
        <xt xml:lang="fin">makea tee</xt>
-     </xg>• <font face="SmolenskSGR"><b>ческыт карыны </b></font><mwemg ind="1th"/>
-     <tg xml:lang="fin">
-       <t>tehdä maukkaa(mma)ksi (t. herkullise(mma)ksi</t>
-     </tg><mwemg ind="2th"/><defNative>коньыт карыны</defNative>
-     <tg xml:lang="fin">
-       <t>makeuttaa, tehdä makea(mma)ksi;</t>
-     </tg><font face="SmolenskSGR"><b>ческыт сиськыны </b></font><mwemg ind="1th"/><font face="SmolenskSGR">(<i>ческыт сиськыса улыны</i>)</font>
+     </xg>
+     <xg><x>ческыт карыны</x>
+     <defNative>коньыт карыны</defNative>
+     <xt xml:lang="fin">makeuttaa, tehdä makea(mma)ksi</xt>
+     </xg>
+     <font face="SmolenskSGR"><b>ческыт сиськыны </b></font><mwemg ind="1th"/><font face="SmolenskSGR">(<i>ческыт сиськыса улыны</i>)</font>
      <tg xml:lang="fin">
        <t>syödä maukasta ruokaa</t>
      </tg><mwemg ind="2th"/><defNative>сием потыса</defNative>
@@ -393,7 +285,7 @@
        <t>syödä halukkaasti</t>
      </tg>◊
      <xg><x>ческыт зын</x>
-       <xt xml:lang="fin">tuoksu, miellyttävä haju;</xt>
+     <xt xml:lang="fin">tuoksu, miellyttävä haju;</xt>
      </xg>
      <xg><x>ческыт ум</x><senseType>kuv.</senseType>
        <xt xml:lang="fin">makea uni;</xt>
@@ -423,72 +315,6 @@
      </variants>
    </mg>
 </e>
-<e>
-   <lg>
-     <l pos="N;A">чех</l><orig>чех</orig>
-   </lg>
-   <mg>
-     <tg xml:lang="fin">
-       <t>tšekki; tšekinmaalainen // tšekkiläinen,</t>
-     </tg><note><i>myös</i></note>
-     <tg xml:lang="fin">
-       <t>Tšekin;</t>
-     </tg>
-     <xg><x>чех кыл</x>
-       <xt xml:lang="fin">tšekin kieli, tšekki;</xt>
-     </xg>
-   </mg>
-</e>
-<e>
-   <lg>
-     <l pos="N;A">чечен</l><orig>чечен</orig>
-   </lg>
-   <mg>
-     <tg xml:lang="fin">
-       <t>tšetšeeni // tšetšeeniläinen, tšetšeenien;</t>
-     </tg>
-     <xg><x>чечен кыл</x>
-       <xt xml:lang="fin">tšetšeeni(n kieli)</xt>
-     </xg>
-   </mg>
-</e>
-<e>
-   <lg>
-     <l pos="N;A">чечы</l><orig>чечы</orig>
-   </lg>
-   <mg>
-     <tg xml:lang="fin">
-       <t>hunaja; mesi // metinen;</t>
-     </tg>
-     <xg><x>беризь чечы</x>
-       <xt xml:lang="fin">lehmushunaja;</xt>
-     </xg>
-     <xg><x>карасэн чечы</x>
-       <xt xml:lang="fin">kennohunaja, kakkuhunaja;</xt>
-     </xg>
-     <xg><x>кулэм чечы</x>
-       <xt xml:lang="fin">kiteytynyt (t. sakea, paksu) hunaja;</xt>
-     </xg>
-     <xg><x>чечы кыскыны</x> <x>чечы поттыны</x>
-       <xt xml:lang="fin">lingota hunajaa;</xt>
-     </xg>
-     <xg><x>чечыен нянь</x>
-       <xt xml:lang="fin">leipä hunajan kera, hunajaleipä, mesileipä;</xt>
-     </xg>
-     <xg><x>чечыен чай</x>
-       <xt xml:lang="fin">tee hunajan kera;</xt>
-     </xg>
-     <xg><x>чечыез гондыр но яратэ </x><genre>sp.</genre>
-       <xt xml:lang="fin">karhukin pitää hunajasta</xt>
-     </xg>◊
-     <xg><x>зорем чечы</x>
-       <xt xml:lang="fin">mesikasteesta saatu hunaja;</xt>
-     </xg>
-     <xg><x>чечы пуньы</x>
-       <xt xml:lang="fin">teelusikka</xt>
-     </xg>
-   </mg>
-     </e>
 <e>
    <lg>
      <l pos="A;N">чечым</l><orig>чечым</orig>
@@ -521,19 +347,6 @@
      </xg>◊
      <xg><x>чибори весь</x>
        <xt xml:lang="fin">kallis helminauha, kalliit (kaula)helmet</xt>
-     </xg>
-   </mg>
-</e>
-<e>
-   <lg>
-     <l pos="N;A">чиган</l><orig>чиган</orig>
-   </lg>
-   <mg>
-     <tg xml:lang="fin">
-       <t>romani, mustalainen // mustalais=;</t>
-     </tg>
-     <xg><x>чиган кыл</x>
-       <xt xml:lang="fin">romani, mustalaiskieli</xt>
      </xg>
    </mg>
 </e>
@@ -691,19 +504,6 @@
 </e>
 <e>
    <lg>
-     <l pos="N;A">чуваш</l><orig>чуваш</orig>
-   </lg>
-   <mg>
-     <tg xml:lang="fin">
-       <t>tšuvassi // tšuvassilainen, tšuvassin, tšuvassien;</t>
-     </tg>
-     <xg><x>чуваш кыл</x>
-       <xt xml:lang="fin">tšuvassi(n kieli)</xt>
-     </xg>
-   </mg>
-</e>
-<e>
-   <lg>
      <l pos="N;A">чуинчи</l><orig>чуинчи</orig>
    </lg>
    <mg>
@@ -733,19 +533,6 @@
        <t>valkoharjainen, liinaharjainen; liinakko, rautias, raudikko</t>
        <re>hevonen</re>
      </tg>
-   </mg>
-</e>
-<e>
-   <lg>
-     <l pos="N;A">чукча</l><orig>чакча</orig>
-   </lg>
-   <mg>
-     <tg xml:lang="fin">
-       <t>tšuktši;</t>
-     </tg>
-     <xg><x>чукча кыл</x>
-       <xt xml:lang="fin">tšuktši(n kieli)</xt>
-     </xg>
    </mg>
 </e>
 <e>
@@ -1095,82 +882,9 @@
 </e>
 <e>
    <lg>
-     <l pos="Po">ӵож<rom ind="1"/></l>
-   </lg>
-   <mg><note><i>osoittaa rajaa</i></note>
-     <tg xml:lang="fin">
-       <t>: myöten, asti, saakka;</t>
-     </tg>
-     <xg><x>кускын ӵож вуын</x>
-       <xt xml:lang="fin">vyötäröä myöten vedessä;</xt>
-     </xg>
-     <variants>
-       <l_syn type="&gt;">ӵожозь</l_syn>
-     </variants>
-   </mg>
-</e>
-<e>
-   <lg>
      <l pos="Po">ӵож<rom ind="2"/></l>
    </lg>
    <mg><font face="TimesNewRomanPS" type="&gt;"><b>ӵоже </b></font>
-   </mg>
-</e>
-<e>
-   <lg>
-     <l pos="Po">ӵоже</l><orig>ӵоже</orig>
-   </lg>
-   <mg><defNative>кыӵе ке вакыт ортчыку, ортчытозь</defNative>
-     <tg xml:lang="fin">
-       <t>jnk kuluessa (t. aikana, mittaan);</t>
-     </tg><font face="SmolenskSGR">(<i>кыӵе ке дыр куспын</i>)</font> <note><i>osoittaa missä ajassa jtak tapahtuu</i></note>
-     <tg xml:lang="fin">
-       <t>:</t>
-     </tg><note><i>kääntyy inessiivillä</i></note>
-     <tg xml:lang="fin">
-       <t>: =ssa / =ssä;</t>
-     </tg>
-     <xg><x>ар ӵоже</x>
-       <xt xml:lang="fin">vuoden kuluessa; vuodessa;</xt>
-     </xg>
-     <xg><x>кык нунал ӵоже</x>
-       <xt xml:lang="fin">kahden päivän kuluessa; kahdessa päivässä;</xt>
-     </xg>
-     <xg><x>ужме уй ӵоже быдэстӥ</x>
-       <xt xml:lang="fin">suoritin työni yössä</xt>
-     </xg>
-   </mg>
-</e>
-<e>
-   <lg>
-     <l pos="Po">ӵожелы</l><orig>ӵожелы</orig>
-   </lg>
-   <mg>
-     <tg xml:lang="fin">
-       <t>joksikin aikaa (t. ajaksi);</t>
-     </tg>
-     <xg><x>кема ӵожелы</x>
-       <xt xml:lang="fin">pitkäksi aikaa (t. ajaksi);</xt>
-     </xg>
-     <xg><x>пырак ӵожелы</x>
-       <xt xml:lang="fin">ainiaaksi, iäksi;</xt>
-     </xg>
-     <xg><x>кошкиз сизьым нунал ӵожелы</x>
-       <xt xml:lang="fin">hän lähti seitsemäksi päiväksi</xt>
-     </xg>
-   </mg>
-</e>
-<e>
-   <lg>
-     <l pos="Po">ӵожозь</l><orig>ӵожозь</orig>
-   </lg>
-   <mg><note><i>osoittaa rajaa</i></note>
-     <tg xml:lang="fin">
-       <t>: myöten, asti, saakka;</t>
-     </tg>
-     <xg><x>кус ӵожозь вуын</x>
-       <xt xml:lang="fin">vyötäröä myöten vedessä</xt>
-     </xg>
    </mg>
 </e>
 <e>
@@ -1565,20 +1279,6 @@
 </e>
 <e>
    <lg>
-     <l pos="N;A">швед</l><orig>швед</orig>
-   </lg>
-   <mg>
-     <tg xml:lang="fin">
-       <t>ruotsalainen //</t><note><i>myös </i></note>
-       <t>Ruotsin;</t>
-     </tg>
-     <xg><x>швед кыл</x>
-       <xt xml:lang="fin">ruotsi(n kieli)</xt>
-     </xg>
-   </mg>
-</e>
-<e>
-   <lg>
      <l pos="N;A">шебель</l><orig>шебель</orig>
    </lg>
    <mg>
@@ -1920,57 +1620,6 @@
      </xg>
      <xg><x>шоро-куспо улыны</x>
        <xt xml:lang="fin">elää kohtalaisen mukavasti</xt>
-     </xg>
-   </mg>
-</e>
-<e>
-   <lg>
-     <l pos="Po">шортӥ</l><orig>шортӥ</orig>
-   </lg>
-   <mg>
-     <tg xml:lang="fin">
-       <t>keskellä, keskeltä;</t>
-     </tg>
-     <xg><x>ульча шортӥ мыныны</x>
-       <xt xml:lang="fin">kulkea keskellä katua</xt>
-     </xg>
-   </mg>
-</e>
-<e>
-   <lg>
-     <l pos="Po">шорын</l><orig>шорын</orig>
-   </lg>
-   <mg>
-     <tg xml:lang="fin">
-       <t>keskellä;</t>
-     </tg>
-     <xg><x>гужем шорын</x>
-       <xt xml:lang="fin">keskellä kesää;</xt>
-     </xg>
-     <xg><x>урам шорын сылыны</x>
-       <xt xml:lang="fin">seisoa keskellä katua</xt>
-     </xg>◊
-     <xg><x>шунды шорын</x>
-       <xt xml:lang="fin">auringossa, auringonpaisteessa</xt>
-     </xg>
-   </mg>
-</e>
-<e>
-   <lg>
-     <l pos="Po">шорысь</l><orig>шорысь</orig>
-   </lg>
-   <mg>
-     <tg xml:lang="fin">
-       <t>keskeltä;</t>
-     </tg>
-     <xg><x>урам шорысь коръёсты октыны</x>
-       <xt xml:lang="fin">siirtää hirsiä keskeltä katua sivuun</xt>
-     </xg>◊
-     <xg><x>шунды шорысь юонэз вужере поныны</x>
-       <xt xml:lang="fin">panna juomia auringosta varjoon;</xt>
-     </xg>
-     <xg><x>шӧдтэк шорысь</x>
-       <xt xml:lang="fin">odottamatta, yhtäkkiä</xt>
      </xg>
    </mg>
 </e>
@@ -3029,33 +2678,6 @@
 </e>
 <e>
    <lg>
-     <l pos="N;A">эскимос</l><orig>эскимос</orig>
-   </lg>
-   <mg>
-     <tg xml:lang="fin">
-       <t>eskimo // eskimoiden;</t>
-     </tg>
-     <xg><x>эскимос кыл</x>
-       <xt xml:lang="fin">eskimokieli</xt>
-     </xg>
-   </mg>
-</e>
-<e>
-   <lg>
-     <l pos="N;A">эстон<rom ind="2"/></l>
-   </lg>
-   <mg>
-     <tg xml:lang="fin">
-       <t>virolainen, eestiläinen //</t><note><i>myös </i></note>
-       <t>Viron;</t>
-     </tg>
-     <xg><x>эстон кыл</x>
-       <xt xml:lang="fin">viro(n (t. eestin) kieli)</xt>
-     </xg>
-   </mg>
-</e>
-<e>
-   <lg>
      <l pos="Pcle;Conj">эсьма</l><orig>эсьма</orig>
      <variants>
        <l_syn>эсьмаса</l_syn>
@@ -3188,19 +2810,6 @@
      </tg>
      <xg><x>юзматӥсь юонъёс</x>
        <xt xml:lang="fin">virvoitusjuomat, virvokkeet</xt>
-     </xg>
-   </mg>
-</e>
-<e>
-   <lg>
-     <l pos="N;A">юкагир</l><orig>юкагир</orig>
-   </lg>
-   <mg>
-     <tg xml:lang="fin">
-       <t>jukagiiri // jukagiirilainen, jukagiirien;</t>
-     </tg>
-     <xg><x>юкагир кыл</x>
-       <xt xml:lang="fin">jukagiiri(n kieli)</xt>
      </xg>
    </mg>
 </e>
@@ -3571,19 +3180,6 @@
      </tg>
      <xg><x>яке ветлод ик-а отчы?</x>
        <xt xml:lang="fin">ehkä sinä kuitenkin käyt siellä?</xt>
-     </xg>
-   </mg>
-</e>
-<e>
-   <lg>
-     <l pos="N;A">якут</l><orig>якут</orig>
-   </lg>
-   <mg>
-     <tg xml:lang="fin">
-       <t>jakuutti // jakuutin, jakuuttien, Jakutian;</t>
-     </tg>
-     <xg><x>якут кыл</x>
-       <xt xml:lang="fin">jakuutin kieli, jakuutti</xt>
      </xg>
    </mg>
 </e>
@@ -4038,19 +3634,6 @@
 </e>
 <e>
    <lg>
-     <l pos="N;A">башкир</l><orig>башкир</orig>
-   </lg>
-   <mg>
-     <tg xml:lang="fin">
-       <t>baškiiri // baškiirilainen, Baškortostanin;</t>
-     </tg>
-     <xg><x>башкир кыл</x>
-       <xt xml:lang="fin">baškiiri(n kieli)</xt>
-     </xg>
-   </mg>
-</e>
-<e>
-   <lg>
      <l pos="A;Adv">бекрес</l><orig>бекрес</orig>
    </lg>
    <mg>
@@ -4067,20 +3650,6 @@
      <variants>
        <l_syn type="&gt;">бекрес</l_syn>
      </variants>
-   </mg>
-</e>
-<e>
-   <lg>
-     <l pos="N;A">белорус</l><orig>белорус</orig>
-   </lg>
-   <mg>
-     <tg xml:lang="fin">
-       <t>valkovenäläinen //</t><note><i>myös</i></note>
-       <t>Valkovenäjän;</t>
-     </tg>
-     <xg><x>белорус кыл</x>
-       <xt xml:lang="fin">valkovenäjä(n kieli)</xt>
-     </xg>
    </mg>
 </e>
 <e>
@@ -4530,22 +4099,6 @@
 </e>
 <e>
    <lg>
-     <l pos="N;A">болгар</l><orig>болгар</orig>
-   </lg>
-   <mg>
-     <tg xml:lang="fin">
-       <t>bulgarialainen, bulgaari //</t>
-     </tg>
-     <tg xml:lang="fin">
-       <t>bulgarialainen, Bulgarian;</t>
-     </tg>
-     <xg><x>болгар кыл</x>
-       <xt xml:lang="fin">bulgaari(n kieli)</xt>
-     </xg>
-   </mg>
-</e>
-<e>
-   <lg>
      <l pos="Prc">борӟем: борӟем вал</l>
    </lg>
    <mg>
@@ -4722,19 +4275,6 @@
 </e>
 <e>
    <lg>
-     <l pos="N;A">булгар</l><orig>булгар</orig>
-   </lg>
-   <mg><field>hist.</field>
-     <tg xml:lang="fin">
-       <t>:</t>
-     </tg>
-     <xg><x>булгар кыл</x>
-       <xt xml:lang="fin">bolgaari(n kieli);</xt>
-     </xg>
-   </mg>
-</e>
-<e>
-   <lg>
      <l pos="A;Adv">бур<rom ind="1"/></l>
    </lg>
    <mg><font face="SmolenskSGR">(<b>=ыз</b>)</font>
@@ -4786,19 +4326,6 @@
      <tg xml:lang="fin">
        <t>heleänpunainen pumpulikangas // heleänpunainen</t>
      </tg>
-   </mg>
-</e>
-<e>
-   <lg>
-     <l pos="N;A">бурят</l><orig>бурят</orig>
-   </lg>
-   <mg>
-     <tg xml:lang="fin">
-       <t>burjaatti // burjaattien, Burjatian;</t>
-     </tg>
-     <xg><x>бурят кыл</x>
-       <xt xml:lang="fin">burjaatin kieli, burjaatti</xt>
-     </xg>
    </mg>
 </e>
 <e>
@@ -5234,19 +4761,6 @@
 </e>
 <e>
    <lg>
-     <l pos="A;N">вепс</l><orig>вепс</orig>
-   </lg>
-   <mg>
-     <tg xml:lang="fin">
-       <t>vepsäläinen;</t>
-     </tg>
-     <xg><x>вепс кыл</x>
-       <xt xml:lang="fin">vepsä(n kieli)</xt>
-     </xg>
-   </mg>
-</e>
-<e>
-   <lg>
      <l pos="Prc;N;A">вераськем</l><orig>вераськем</orig>
    </lg>
    <mg ind="1th"><compg><comp ord="E1">вераськыны</comp><comp ord="E2" type="Der/Эм" drv="Prc;V»N"/></compg>
@@ -5476,20 +4990,6 @@
      <tg xml:lang="fin">
        <t>niskoittelija</t>
      </tg>
-   </mg>
-</e>
-<e>
-   <lg>
-     <l pos="A;N">водь</l><orig>водь</orig>
-   </lg>
-   <mg>
-     <tg xml:lang="fin">
-       <t>vatjalainen;</t>
-     </tg>
-     <xg><x>водь кыл</x>
-       <xt xml:lang="fin">vatja</xt>
-       <xt xml:lang="fin">vatjan kieli</xt>
-     </xg>
    </mg>
 </e>
 <e>
@@ -6271,37 +5771,6 @@
 </e>
 <e>
    <lg>
-     <l pos="N;A">грек</l><orig>грек</orig>
-   </lg>
-   <mg>
-     <tg xml:lang="fin">
-       <t>kreikkalainen //</t><note><i>myös</i></note>
-       <t>Kreikan;</t>
-     </tg>
-     <xg><x>грек кыл</x>
-       <xt xml:lang="fin">kreikan kieli, kreikka;</xt>
-     </xg>
-     <xg><x>грек культура</x>
-       <xt xml:lang="fin">kreikkalainen (t. Kreikan) kulttuuri</xt>
-     </xg>
-   </mg>
-</e>
-<e>
-   <lg>
-     <l pos="N;A">грузин</l><orig>грузин</orig>
-   </lg>
-   <mg>
-     <tg xml:lang="fin">
-       <t>georgialainen //</t><note><i>myös</i></note>
-       <t>Georgian;</t>
-     </tg>
-     <xg><x>грузин кыл</x>
-       <xt xml:lang="fin">georgia(n kieli)</xt>
-     </xg>
-   </mg>
-</e>
-<e>
-   <lg>
      <l pos="N;Adv">гужем</l><orig>гужем</orig>
    </lg>
    <mg>
@@ -6359,20 +5828,6 @@
      <tg xml:lang="fin">
        <t>aivan, ihan</t>
      </tg>
-   </mg>
-</e>
-<e>
-   <lg>
-     <l pos="N;A">датчан</l><orig>датчан</orig>
-   </lg>
-   <mg>
-     <tg xml:lang="fin">
-       <t>tanskalainen //</t><note><i>myös</i></note>
-       <t>Tanskan;</t>
-     </tg>
-     <xg><x>датчан кыл</x>
-       <xt xml:lang="fin">tanska(n kieli)</xt>
-     </xg>
    </mg>
 </e>
 <e>
@@ -6786,81 +6241,6 @@
 </e>
 <e>
    <lg>
-     <l pos="Po">дуре</l><orig>дуре</orig>
-   </lg>
-   <mg>
-     <tg xml:lang="fin">
-       <t>reunalle, syrjälle; rannalle;</t>
-     </tg>
-     <xg><x>нюлэс дуре</x>
-       <xt xml:lang="fin">metsän reunalle;</xt>
-     </xg>
-     <xg><x>шур дуре</x>
-       <xt xml:lang="fin">joen rannalle</xt>
-     </xg>
-   </mg>
-</e>
-<e>
-   <lg>
-     <l pos="Po">дуртӥ</l><orig>дуртӥ</orig>
-   </lg>
-   <mg>
-     <tg xml:lang="fin">
-       <t>reunaa (t. syrjää, rantaa) pitkin;</t>
-     </tg>
-     <xg><x>нюлэс дуртӥ</x>
-       <xt xml:lang="fin">metsän reunaa pitkin;</xt>
-     </xg>
-     <xg><x>шур дуртӥ</x>
-       <xt xml:lang="fin">joen rantaa pitkin</xt>
-     </xg>
-   </mg>
-</e>
-<e>
-   <lg>
-     <l pos="Po">дурысен</l><orig>дурысен</orig>
-   </lg>
-   <mg>
-     <tg xml:lang="fin">
-       <t>reunalta, syrjältä</t>
-       <re>alkaen</re>;
-     </tg>
-     <tg xml:lang="fin">
-       <t> rannalta</t>
-       <re>alkaen</re>;
-     </tg>
-     <tg xml:lang="fin">
-       <t> reunalla, reunassa, syrjällä; rannalla;</t>
-     </tg>
-     <xg><x>нюлэс дурысен</x>
-       <xt xml:lang="fin">metsän reunasta (t. reunassa);</xt>
-     </xg>
-     <xg><x>шур дурысен гурт дорозь быдэс иськем луоз</x>
-       <xt xml:lang="fin">joelta kylään asti on täysi kilometri, joen ja kylän väli on täysi kilometri;</xt>
-     </xg>
-     <xg><x>шур дурысен люкиськыны</x>
-       <xt xml:lang="fin">erota joen rannassa</xt>
-     </xg>
-   </mg>
-</e>
-<e>
-   <lg>
-     <l pos="Po">дурысь</l><orig>дурысь</orig>
-   </lg>
-   <mg>
-     <tg xml:lang="fin">
-       <t>reunalta, reunasta, syrjältä; rannalta;</t>
-     </tg>
-     <xg><x>нюлэс дурысь кошкыны</x>
-       <xt xml:lang="fin">lähteä metsän reunasta;</xt>
-     </xg>
-     <xg><x>шур дурысь тубыны</x>
-       <xt xml:lang="fin">tulla (ylös) joen rannasta</xt>
-     </xg>
-   </mg>
-</e>
-<e>
-   <lg>
      <l pos="A;Adv">дыг</l><orig>дыг</orig>
    </lg>
    <mg ind="1th"><defNative>дыртӥсьтэм</defNative>
@@ -6950,28 +6330,6 @@
      </xg>
      <xg><x>тон татын дыръя, та ужез быдэстоно</x>
        <xt xml:lang="fin">sillä aikaa kun sinä olet täällä, tämä työ on suoritettava (loppuun)</xt>
-     </xg>
-   </mg>
-</e>
-<e>
-   <lg>
-     <l pos="Po">дырысен</l><orig>дырысен</orig>
-   </lg>
-   <mg><note><i>postp:na</i></note>
-     <tg xml:lang="fin">
-       <t>jstak ajasta (t. ajoista) asti (alkaen, lähtien);</t>
-     </tg>
-     <xg><x>кемала дырысен</x>
-       <xt xml:lang="fin">ammoisista ajoista, kautta aikojen;</xt>
-     </xg>
-     <xg><x>мар дырысен?</x>
-       <xt xml:lang="fin">mistä asti (lähtien)?;</xt>
-     </xg>
-     <xg><x>пинал дырысен</x>
-       <xt xml:lang="fin">lapsuudesta (alkaen);</xt>
-     </xg>
-     <xg><x>со дырысен ӧм ни адӟиськылэ</x>
-       <xt xml:lang="fin">niistä ajoista emme olleet nähneet toisiamme</xt>
      </xg>
    </mg>
 </e>
@@ -8261,32 +7619,6 @@
 </e>
 <e>
    <lg>
-     <l pos="Po">йылозь</l><orig>йылозь</orig>
-   </lg>
-   <mg>
-     <tg xml:lang="fin">
-       <t>=lle asti, päälle asti;</t>
-     </tg>
-     <xg><x>гурезь йылозь</x>
-       <xt xml:lang="fin">vuoren huipulle asti</xt>
-     </xg>
-   </mg>
-</e>
-<e>
-   <lg>
-     <l pos="Po">йылтӥ</l><orig>йылтӥ</orig>
-   </lg>
-   <mg>
-     <tg xml:lang="fin">
-       <t>=lla / =llä, päällä, yläpuolella, yli(tse);</t>
-     </tg>
-     <xg><x>липет йылтӥ ветлыны</x>
-       <xt xml:lang="fin">kulkea katolla</xt>
-     </xg>
-   </mg>
-</e>
-<e>
-   <lg>
      <l pos="A;Adv">йылтэм-пумтэм</l><orig>йылтэм-памтэʼм</orig>
    </lg>
    <mg>
@@ -8299,86 +7631,6 @@
      <variants>
        <l_syn type="&gt;">пумтэм-йылтэм<rom ind="0_1"/></l_syn>
      </variants>
-   </mg>
-</e>
-<e>
-   <lg>
-     <l pos="Po">йылын</l><orig>йылын</orig>
-   </lg>
-   <mg>
-     <tg xml:lang="fin">
-       <t>=lla / =llä, päällä, päässä, yläpuolella;</t>
-     </tg>
-     <xg><x>гурезь йылын</x>
-       <xt xml:lang="fin">vuorella, mäellä, vuoren (t. mäen) huipulla;</xt>
-     </xg>
-     <xg><x>писпу йылын</x>
-       <xt xml:lang="fin">puussa;</xt>
-     </xg>
-     <xg><x>юбо йылын</x>
-       <xt xml:lang="fin">pylvään päässä</xt>
-     </xg>
-   </mg>
-</e>
-<e>
-   <lg>
-     <l pos="Po">йылысен</l><orig>йылысен</orig>
-   </lg>
-   <mg>
-     <tg xml:lang="fin">
-       <t>=lta / =ltä, päältä; =lla / =llä, päällä;</t>
-     </tg>
-     <xg><x>корка йылысен ваньмыз адске</x>
-       <xt xml:lang="fin">talon päältä näkyy kaikki</xt>
-     </xg>
-   </mg>
-</e>
-<e>
-   <lg>
-     <l pos="Po">йылысь</l><orig>йылысь</orig>
-   </lg>
-   <mg>
-     <tg xml:lang="fin">
-       <t>=lta / =ltä, päältä;</t>
-     </tg>
-     <xg><x>корка йылысь лымы усиз</x>
-       <xt xml:lang="fin">lumi putosi talon päältä (t. katolta)</xt>
-     </xg>
-   </mg>
-</e>
-<e>
-   <lg>
-     <l pos="Po">йылэ</l><orig>йылэ</orig>
-   </lg>
-   <mg>
-     <tg xml:lang="fin">
-       <t>=lle, päälle;</t>
-     </tg>
-     <xg><x>ми гурезь йылэ тубимы</x>
-       <xt xml:lang="fin">me nousimme vuorelle (t. mäelle);</xt>
-     </xg>
-     <xg><x>коӵыш юбо йылэ тубиз</x>
-       <xt xml:lang="fin">kissa kapusi pylvääseen</xt>
-     </xg>
-   </mg>
-</e>
-<e>
-   <lg>
-     <l pos="Po_Ins">йырин</l><orig>йырин</orig>
-   </lg>
-   <mg>
-     <tg xml:lang="fin">
-       <t>takia, tähden, vuoksi;</t>
-     </tg>
-     <xg><x>тонэн йырин со кошкиз</x>
-       <xt xml:lang="fin">hän lähti sinun takiasi (t. tähtesi)</xt>
-     </xg>◊
-     <xg><x>кинэн ке йырин ӧвӧл</x>
-       <xt xml:lang="fin">ei ole aikaa jollekulle;</xt>
-     </xg>
-     <xg><x>тонэн йырин ӧвӧл али</x>
-       <xt xml:lang="fin">nyt ei ole aikaa sinulle</xt>
-     </xg>
    </mg>
 </e>
 <e>
@@ -8420,19 +7672,6 @@
      <variants>
        <l_syn type="&gt;">ай<rom ind="1_2"/></l_syn>
      </variants>
-   </mg>
-</e>
-<e>
-   <lg>
-     <l pos="N;A">кабардин</l><orig>кабардин</orig>
-   </lg>
-   <mg>
-     <tg xml:lang="fin">
-       <t>kabardiini // kabardiinilainen, kabardiinien;</t>
-     </tg>
-     <xg><x>кабардин кыл</x>
-       <xt xml:lang="fin">kabardi(n kieli)</xt>
-     </xg>
    </mg>
 </e>
 <e>
@@ -8553,26 +7792,6 @@
 </e>
 <e>
    <lg>
-     <l pos="Po">калэ</l><orig>калэ</orig>
-   </lg>
-   <mg>
-     <tg xml:lang="fin">
-       <t>jhk</t>
-       <re>oloon, tilanteeseen</re>
-     </tg>
-     <tg xml:lang="fin">
-       <t> asti (t. saakka);</t>
-     </tg>
-     <xg><x>бӧрдон калэ вуттыны</x>
-       <xt xml:lang="fin">saattaa kyyneliin;</xt>
-     </xg>
-     <xg><x>кулон калэ вуыны</x>
-       <xt xml:lang="fin">joutua henkihieveriin</xt>
-     </xg>
-   </mg>
-</e>
-<e>
-   <lg>
      <l pos="A;Adv">каньыл</l><orig>каньыл</orig>
    </lg>
    <mg ind="1th"><defNative>капчи, лякыт</defNative>
@@ -8672,33 +7891,6 @@
      </xg>
      <xg><x>солэн туннэ мылкыдыз капчи</x>
        <xt xml:lang="fin">hän on tänään hyvällä tuulella</xt>
-     </xg>
-   </mg>
-</e>
-<e>
-   <lg>
-     <l pos="N;A">каракалпак</l><orig>каракалпак</orig>
-   </lg>
-   <mg>
-     <tg xml:lang="fin">
-       <t>karakalpakki // karakalpakkilainen, Karakalpakian;</t>
-     </tg>
-     <xg><x>каракалпак кыл</x>
-       <xt xml:lang="fin">karakalpakin kieli, karakalpakki</xt>
-     </xg>
-   </mg>
-</e>
-<e>
-   <lg>
-     <l pos="N;A">карел</l><orig>карел</orig>
-   </lg>
-   <mg>
-     <tg xml:lang="fin">
-       <t>karjalainen //</t><note><i>myös</i></note>
-       <t>Karjalan;</t>
-     </tg>
-     <xg><x>карел кыл</x>
-       <xt xml:lang="fin">karjala(n kieli)</xt>
      </xg>
    </mg>
 </e>
@@ -9068,19 +8260,6 @@
 </e>
 <e>
    <lg>
-     <l pos="N;A">киргиз</l><orig>киргиз</orig>
-   </lg>
-   <mg>
-     <tg xml:lang="fin">
-       <t>kirgiisi // kirgiisiläinen, Kirgisian;</t>
-     </tg>
-     <xg><x>киргиз кыл</x>
-       <xt xml:lang="fin">kirgiisi(n kieli)</xt>
-     </xg>
-   </mg>
-</e>
-<e>
-   <lg>
      <l pos="Prc;A">кисьмам</l><orig>кисьмам</orig>
    </lg>
    <mg ind="1th"><compg><comp ord="E1">кисьманы</comp><comp ord="E2" type="Der/Эм" drv="Prc;V»N"/></compg>
@@ -9372,166 +8551,6 @@
      <variants>
        <l_syn type="&gt;">котыре, котырозь, котыртӥ, котырын, котырысен, котырысь</l_syn>
      </variants>
-   </mg>
-</e>
-<e>
-   <lg>
-     <l pos="Po">котыре</l><orig>котыре</orig>
-   </lg>
-   <mg ind="1th"><defNative>доры, котыраз</defNative>
-     <tg xml:lang="fin">
-       <t>ympärille;</t>
-     </tg><font face="SmolenskSGR">(</font>ё<font face="SmolenskSGR"><i>роскы</i>)</font>
-     <tg xml:lang="fin">
-       <t>tienoille, ympäristöön;</t>
-     </tg>
-     <xg><x>ӝӧк котыре пуксьыны</x>
-       <xt xml:lang="fin">istuutua pöydän ympärille;</xt>
-     </xg>
-     <xg><x>кар котыре вуиськомы ни</x>
-       <xt xml:lang="fin">olemme saapumassa kaupungin tienoille</xt>
-     </xg>
-   </mg>
-   <mg ind="2th"><defNative>котырын – дырез вераку</defNative>
-     <tg xml:lang="fin">
-       <t>noin, tienoilla, tienoissa, paikkeilla, maissa;</t>
-     </tg>
-     <xg><x>вить час котыре</x>
-       <xt xml:lang="fin">noin kello viideltä, kello viiden tienoilla (t. maissa);</xt>
-     </xg>
-     <xg><x>обед котыре со вуоз</x>
-       <xt xml:lang="fin">hän tulee lounaan (t. puolipäivän) tienoilla (t. tienoissa)</xt>
-     </xg>
-   </mg>
-   <mg ind="3th"><defNative>борды</defNative> <note><i>käännetään illatiivilla</i></note>
-     <tg xml:lang="fin">
-       <t>:</t>
-     </tg>
-     <xg><x>эн йӧтскылы со котыре</x>
-       <xt xml:lang="fin">älä koske häneen</xt>
-     </xg>
-   </mg>
-</e>
-<e>
-   <lg>
-     <l pos="Po">котырозь</l><orig>котырозь</orig>
-   </lg>
-   <mg ind="1th"><defNative>дорозь</defNative>
-     <tg xml:lang="fin">
-       <t>ympärille (asti);</t>
-     </tg><font face="SmolenskSGR">(</font>ё<font face="SmolenskSGR"><i>роскозь</i>)</font>
-     <tg xml:lang="fin">
-       <t>tienoille (asti), paikkeille (asti), ympäristöön (asti);</t>
-     </tg>
-     <xg><x>корка котырозь вуыны</x>
-       <xt xml:lang="fin">tulla (t. päästä) talon ympärille (asti)</xt>
-     </xg>
-   </mg>
-   <mg ind="2th"><defNative>дырез вераку</defNative>
-     <tg xml:lang="fin">
-       <t>noin ...</t>
-     </tg><note><i>jhk aikaan</i></note>
-     <tg xml:lang="fin">
-       <t>(asti, saakka), jnk tienoille (t. tienoihin) (asti, saakka);</t>
-     </tg>
-     <xg><x>со обед котырозь отын улоз</x>
-       <xt xml:lang="fin">hän pysyy siellä lounaan tienoihin (asti)</xt>
-     </xg>
-   </mg>
-</e>
-<e>
-   <lg>
-     <l pos="Po">котыртӥ</l><orig>котыртӥ</orig>
-   </lg>
-   <mg>
-     <tg xml:lang="fin">
-       <t>ympäri;</t>
-     </tg>
-     <xg><x>Музъем Шунды котыртӥ берга</x>
-       <xt xml:lang="fin">maa pyörii auringon ympäri</xt>
-     </xg>
-   </mg>
-</e>
-<e>
-   <lg>
-     <l pos="Po">котырын</l><orig>котырын</orig>
-   </lg>
-   <mg ind="1th"><defNative>дорын, котыраз</defNative>
-     <tg xml:lang="fin">
-       <t>ympärillä;</t>
-     </tg><font face="SmolenskSGR">(</font>ё<font face="SmolenskSGR"><i>роскын</i>)</font>
-     <tg xml:lang="fin">
-       <t>tienoilla, ympäristössä, paikkeilla;</t>
-     </tg>
-     <xg><x>школа котырын писпуос будо</x>
-       <xt xml:lang="fin">koulun ympärillä kasvaa puita;</xt>
-     </xg>
-     <xg><x>кар котырын</x>
-       <xt xml:lang="fin">kaupungin ympäristössä (t. tienoilla)</xt>
-     </xg>
-   </mg>
-   <mg ind="2th"><defNative>дырез вераку</defNative>
-     <tg xml:lang="fin">
-       <t>noin, tienoilla, tienoissa, paikkeilla, maissa;</t>
-     </tg>
-     <xg><x>вить час котырын</x>
-       <xt xml:lang="fin">noin kello viideltä, kello viiden tienoilla (t. maissa)</xt>
-     </xg>
-   </mg>
-</e>
-<e>
-   <lg>
-     <l pos="Po">котырысен</l><orig>котырысен</orig>
-   </lg>
-   <mg><defNative>дорысен</defNative>
-     <tg xml:lang="fin">
-       <t>ympäriltä</t>
-       <re>alkaen</re>;
-     </tg>
-     <tg xml:lang="fin">
-       <t> ympärillä;</t>
-     </tg><font face="SmolenskSGR">(</font>ё<font face="SmolenskSGR"><i>роскысен</i>)</font>
-     <tg xml:lang="fin">
-       <t>tienoilta</t>
-       <re>alkaen</re>
-     </tg>
-     <tg xml:lang="fin">
-       <t>, ympäristöstä</t>
-       <re>alkaen</re>;
-     </tg>
-     <tg xml:lang="fin">
-       <t> tienoilla, ympäristössä;</t>
-     </tg>
-     <xg><x>гурт котырысен ик гурезьёс адско</x>
-       <xt xml:lang="fin">aivan kylän tienoilta näkee vuoria (t. mäkiä);</xt>
-     </xg>
-     <xg><x>ми гурт котырысен гинэ пумиськимы на</x>
-       <xt xml:lang="fin">me tapasimme vasta kylän tienoilla</xt>
-     </xg>
-   </mg>
-</e>
-<e>
-   <lg>
-     <l pos="Po">котырысь</l><orig>котырысь</orig>
-   </lg>
-   <mg ind="1th"><defNative>дорысь</defNative>
-     <tg xml:lang="fin">
-       <t>ympäriltä;</t>
-     </tg><font face="SmolenskSGR">(</font>ё<font face="SmolenskSGR"><i>роскысь</i>)</font>
-     <tg xml:lang="fin">
-       <t>tienoilta, ympäristöstä;</t>
-     </tg>
-     <xg><x>корка котырысь лымы шуназ ни</x>
-       <xt xml:lang="fin">talon ympäriltä lumi on jo sulanut</xt>
-     </xg>
-   </mg>
-   <mg ind="2th"><defNative>бордысь</defNative>
-     <tg xml:lang="fin">
-       <t>=lta / =ltä; =sta / =stä;</t>
-     </tg>
-     <xg><x>со котырысь зын потэ</x>
-       <xt xml:lang="fin">hän haisee pahalta, löyhkää</xt>
-     </xg>
    </mg>
 </e>
 <e>
@@ -10204,44 +9223,6 @@
 </e>
 <e>
    <lg>
-     <l pos="Po">кузя</l><orig>кузя</orig>
-   </lg>
-   <mg><defNative>валлин, вылтӥ</defNative>
-     <tg xml:lang="fin">
-       <t>pitkin, myöten;</t>
-     </tg>
-     <xg><x>сюрес кузя</x>
-       <xt xml:lang="fin">tietä pitkin</xt>
-     </xg>
-   </mg>
-   <mg ind="2th"><defNative>ӵошен</defNative> <note><i>ilmaisee kollektiivisuutta</i></note>
-     <tg xml:lang="fin">
-       <t>:</t>
-     </tg>
-     <xg><x>вить кузя</x>
-       <xt xml:lang="fin">viidestään, viisin;</xt>
-     </xg>
-     <xg><x>киное вить кузя мынӥськомы</x>
-       <xt xml:lang="fin">menemme elokuviin viisin;</xt>
-     </xg>
-     <xg><x>ми татын вить кузя</x>
-       <xt xml:lang="fin">meitä on täällä viisi;</xt>
-     </xg>
-     <xg><x>куинь кузя</x>
-       <xt xml:lang="fin">kolmisin, kolmestaan;</xt>
-     </xg>
-     <xg><x>кык кузя</x>
-       <xt xml:lang="fin">kaksin, kahdestaan, kahden (kesken)</xt>
-     </xg>
-   </mg>
-   <mg ind="3th">
-     <variants>
-       <l_syn type="&gt;">кузьда</l_syn>
-     </variants>
-   </mg>
-</e>
-<e>
-   <lg>
      <l pos="Det">куинетӥез</l><orig>куинеʼтӥеʼз</orig>
    </lg>
    <mg ind="1th">
@@ -10443,130 +9424,6 @@
      </tg>
      <xg><x>курмем штани</x>
        <xt xml:lang="fin">ryvettyneet housut</xt>
-     </xg>
-   </mg>
-</e>
-<e>
-   <lg>
-     <l pos="Po">куспетӥ</l><orig>куспетӥ</orig>
-   </lg>
-   <mg ind="1th">
-     <variants>
-       <l_syn type="&gt;">куспытӥ;</l_syn>
-     </variants>
-   </mg>
-   <mg ind="2th">
-     <tg xml:lang="fin">
-       <t>kesken;</t>
-     </tg>
-     <xg><x>куспетӥ карыны</x>
-       <xt xml:lang="fin">jättää kesken, keskeyttää</xt>
-     </xg>
-   </mg>
-</e>
-<e>
-   <lg>
-     <l pos="Po">куспозь</l><orig>куспозь</orig>
-   </lg>
-   <mg>
-     <tg xml:lang="fin">
-       <t>väliin (asti);</t>
-     </tg>
-     <xg><x>кенеръёс куспозь</x>
-       <xt xml:lang="fin">aitojen väliin asti</xt>
-     </xg>
-   </mg>
-</e>
-<e>
-   <lg>
-     <l pos="Po">куспы</l><orig>куспы</orig>
-   </lg>
-   <mg>
-     <tg xml:lang="fin">
-       <t>väliin, välille,</t>
-     </tg><note><i>kääntyy illatiivilla</i></note>
-     <tg xml:lang="fin">
-       <t>;</t>
-     </tg>
-     <xg><x>вераськон куспы пырыны</x>
-       <xt xml:lang="fin">puuttua (t. sekaantua) puheeseen</xt>
-     </xg>
-   </mg>
-</e>
-<e>
-   <lg>
-     <l pos="Po">куспын</l><orig>куспын</orig>
-   </lg>
-   <mg ind="1th"><defNative>вискын</defNative>
-     <tg xml:lang="fin">
-       <t>välissä, välillä;</t>
-     </tg><font face="SmolenskSGR">(<i>пӧлын</i>)</font>
-     <tg xml:lang="fin">
-       <t>keskellä;</t>
-     </tg>
-     <xg><x>кык нылъёс куспын пукыны</x>
-       <xt xml:lang="fin">istua kahden tytön välissä;</xt>
-     </xg>
-     <xg><x>асьме куспын</x>
-       <xt xml:lang="fin">keskenämme</xt>
-     </xg>
-   </mg>
-   <mg ind="2th"><defNative>кыӵе ке вакыт ортчыса</defNative>
-     <tg xml:lang="fin">
-       <t>=ssa / =ssä, sisällä</t>
-       <re>ajan yhteydessä</re>;
-     </tg>
-     <xg><x>вакчи дыр куспын</x>
-       <xt xml:lang="fin">lyhyessä ajassa;</xt>
-     </xg>
-     <xg><x>со куспын</x>
-       <xt xml:lang="fin">sillä välillä</xt>
-     </xg>
-   </mg>
-</e>
-<e>
-   <lg>
-     <l pos="Po">куспысен</l><orig>куспысен</orig>
-   </lg>
-   <mg>
-     <tg xml:lang="fin">
-       <t>välistä</t>
-       <re>alkaen</re>;
-     </tg>
-     <tg xml:lang="fin">
-       <t> välissä;</t>
-     </tg>
-     <xg><x>коркаос куспысен номыр уг адскы</x>
-       <xt xml:lang="fin">talojen välistä ei näy mitään</xt>
-     </xg>
-   </mg>
-</e>
-<e>
-   <lg>
-     <l pos="Po">куспысь</l><orig>куспысь</orig>
-   </lg>
-   <mg>
-     <tg xml:lang="fin">
-       <t>välistä, väliltä; välissä;</t>
-     </tg>
-     <xg><x>коркаос куспысь шедьтыны</x>
-       <xt xml:lang="fin">löytää talojen välistä;</xt>
-     </xg>
-     <xg><x>коркаос куспысь адӟыны</x>
-       <xt xml:lang="fin">nähdä talojen välissä</xt>
-     </xg>
-   </mg>
-</e>
-<e>
-   <lg>
-     <l pos="Po">куспытӥ</l><orig>куспытӥ</orig>
-   </lg>
-   <mg>
-     <tg xml:lang="fin">
-       <t>välissä, välitse, välistä;</t>
-     </tg>
-     <xg><x>коркаос куспытӥ мыныны</x>
-       <xt xml:lang="fin">mennä (t. kulkea) talojen välissä (t. välitse)</xt>
      </xg>
    </mg>
 </e>
@@ -11137,42 +9994,6 @@
 </e>
 <e>
    <lg>
-     <l pos="Po">ласянь</l><orig>ласянь</orig>
-   </lg>
-   <mg ind="1th">
-     <tg xml:lang="fin">
-       <t>=sta / =stä (päin), puolelta, suunnalta;</t>
-     </tg>
-     <xg><x>та ласянь кут</x>
-       <xt xml:lang="fin">ota kiinni tästä (t. tämän puolelta);</xt>
-     </xg>
-     <xg><x>тӧл шур ласянь пельтэ</x>
-       <xt xml:lang="fin">tuuli puhaltaa joen suunnalta</xt>
-     </xg>
-   </mg>
-   <mg ind="2th">
-     <tg xml:lang="fin">
-       <t>suhteessa, suhteissa; suhteen;</t>
-     </tg>
-     <xg><x>котыр ласянь</x>
-       <xt xml:lang="fin">kaikissa suhteissa;</xt>
-     </xg>
-     <xg><x>котькуд ласянь</x>
-       <xt xml:lang="fin">joka suhteessa;</xt>
-     </xg>
-     <xg><x>соиз ласянь татын умой</x>
-       <xt xml:lang="fin">siinä suhteessa täällä on hyvä</xt>
-     </xg>◊
-     <xg><x>одӥг ласянь ..., мукет ласянь ...</x>
-       <xt xml:lang="fin">toisaalta ..., toisaalta;</xt>
-     </xg>
-     <xg><x>одӥг ласянь со умой, нош мукет ласянь со урод</x>
-       <xt xml:lang="fin">toisaalta se on hyvä, mutta toisaalta se on huono</xt>
-     </xg>
-   </mg>
-</e>
-<e>
-   <lg>
      <l pos="A;Adv">лачмыт</l><orig>лачмыт</orig>
    </lg>
    <mg ind="1th"><defNative>гань-гань, шыпыт</defNative>
@@ -11374,19 +10195,6 @@
      <tg xml:lang="fin">
        <t>kaino, vaatimaton // kainosti, vaatimattomasti</t>
      </tg>
-   </mg>
-</e>
-<e>
-   <lg>
-     <l pos="N;A">лив</l><orig>лив</orig>
-   </lg>
-   <mg>
-     <tg xml:lang="fin">
-       <t>liiviläinen;</t>
-     </tg>
-     <xg><x>лив кыл</x>
-       <xt xml:lang="fin">liivi(n kieli)</xt>
-     </xg>
    </mg>
 </e>
 <e>
@@ -12560,36 +11368,6 @@
 </e>
 <e>
    <lg>
-     <l pos="N;A">мокша</l><orig>моʼкша</orig>
-   </lg>
-   <mg>
-     <tg xml:lang="fin">
-       <t>mokšalainen;</t>
-     </tg>
-     <xg><x>мокша калык</x>
-       <xt xml:lang="fin">mokšan kansa, mokša;</xt>
-     </xg>
-     <xg><x>мокша кыл</x>
-       <xt xml:lang="fin">mokša(n (t. mokšamordvan) kieli);</xt>
-     </xg>
-   </mg>
-</e>
-<e>
-   <lg>
-     <l pos="N;A">молдаван</l><orig>молдаван</orig>
-   </lg>
-   <mg>
-     <tg xml:lang="fin">
-       <t>moldovalainen //</t><note><i>myös</i></note>
-       <t>Moldovan;</t>
-     </tg>
-     <xg><x>молдаван кыл</x>
-       <xt xml:lang="fin">moldova(n kieli)</xt>
-     </xg>
-   </mg>
-</e>
-<e>
-   <lg>
      <l pos="Prc;A">монъяськись</l><orig>монъяськись</orig>
    </lg>
    <mg ind="1th"><compg><comp ord="E1" pos="V">монъяськыны</comp><comp ord="E2" type="Der/сь" drv="Prc"/></compg>
@@ -12648,19 +11426,6 @@
 </e>
 <e>
    <lg>
-     <l pos="N;A">мордва</l><orig>мордва</orig>
-   </lg>
-   <mg>
-     <tg xml:lang="fin">
-       <t>mordvalainen;</t>
-     </tg>
-     <xg><x>мордва кыл</x>
-       <xt xml:lang="fin">mordva(n kieli)</xt>
-     </xg>
-   </mg>
-</e>
-<e>
-   <lg>
      <l pos="A;N">мӧйы</l><orig>мӧйы</orig>
    </lg>
    <mg ind="1th"><defNative>арлыдо</defNative>
@@ -12678,19 +11443,6 @@
      <tg xml:lang="fin">
        <t>varttunut, täysikasvuinen, täysi-ikäinen</t>
      </tg>
-   </mg>
-</e>
-<e>
-   <lg>
-     <l pos="Po">музэн</l><orig>музэн</orig>
-   </lg>
-   <mg>
-     <tg xml:lang="fin">
-       <t>(niin) kuin, kuten, jollakin tavalla;</t>
-     </tg>
-     <xg><x>мон музэн</x>
-       <xt xml:lang="fin">minun tavallani, kuin (t. kuten) minä</xt>
-     </xg>
    </mg>
 </e>
 <e>
@@ -13072,32 +11824,6 @@
 </e>
 <e>
    <lg>
-     <l pos="Po">мышкозь</l><orig>мышкозь</orig>
-   </lg>
-   <mg>
-     <tg xml:lang="fin">
-       <t>takaosaan (asti);</t>
-     </tg>
-     <variants>
-       <l_syn type="&gt;">берозь<rom ind="0_1"/></l_syn>
-     </variants>
-   </mg>
-</e>
-<e>
-   <lg>
-     <l pos="Po">мышкы</l><orig>мышкы</orig>
-   </lg>
-   <mg>
-     <tg xml:lang="fin">
-       <t>taakse, taa;</t>
-     </tg>
-     <variants>
-       <l_syn type="&gt;">беры</l_syn>
-     </variants>
-   </mg>
-</e>
-<e>
-   <lg>
      <l pos="Po;Adv">мышкын</l><orig>мышкын</orig>
    </lg>
    <mg>
@@ -13106,46 +11832,6 @@
      </tg>
      <variants>
        <l_syn type="&gt;">берын</l_syn>
-     </variants>
-   </mg>
-</e>
-<e>
-   <lg>
-     <l pos="Po">мышкысен</l><orig>мышкысен</orig>
-   </lg>
-   <mg>
-     <tg xml:lang="fin">
-       <t>takaa</t>
-       <re>alkaen</re>;
-     </tg>
-     <variants>
-       <l_syn type="&gt;">берысен</l_syn>
-     </variants>
-   </mg>
-</e>
-<e>
-   <lg>
-     <l pos="Po">мышкысь</l><orig>мышкысь</orig>
-   </lg>
-   <mg>
-     <tg xml:lang="fin">
-       <t>takaa;</t>
-     </tg>
-     <variants>
-       <l_syn type="&gt;">берысь</l_syn>
-     </variants>
-   </mg>
-</e>
-<e>
-   <lg>
-     <l pos="Po">мышкытӥ</l><orig>мышкытӥ</orig>
-   </lg>
-   <mg>
-     <tg xml:lang="fin">
-       <t>taitse, takaa, takana;</t>
-     </tg>
-     <variants>
-       <l_syn type="&gt;">бертӥ</l_syn>
      </variants>
    </mg>
 </e>
@@ -13312,20 +11998,6 @@
      <variants>
        <l_syn type="&gt;">номырин</l_syn>
      </variants>
-   </mg>
-</e>
-<e>
-   <lg>
-     <l pos="N;A">немец</l><orig>неʼмец</orig>
-   </lg>
-   <mg>
-     <tg xml:lang="fin">
-       <t>saksalainen //</t><note><i>myös</i></note>
-       <t>saksan, Saksan;</t>
-     </tg>
-     <xg><x>немец кыл</x>
-       <xt xml:lang="fin">saksa(n kieli)</xt>
-     </xg>
    </mg>
 </e>
 <e>
@@ -13941,23 +12613,6 @@
      </xg>
      <xg><x>номырин отчы мынэмез уг поты</x>
        <xt xml:lang="fin">ei hän halua mennä sinne mistään hinnasta</xt>
-     </xg>
-   </mg>
-</e>
-<e>
-   <lg>
-     <l pos="N;A">норвег</l><orig>норвег</orig>
-   </lg>
-   <mg>
-     <tg xml:lang="fin">
-       <t>norjalainen //</t><note><i>myös</i></note>
-       <t>norjan, Norjan;</t>
-     </tg>
-     <xg><x>норвег кыл</x>
-       <xt xml:lang="fin">norja(n kieli);</xt>
-     </xg>
-     <xg><x>норвег кырӟан</x>
-       <xt xml:lang="fin">norjalainen laulu;</xt>
      </xg>
    </mg>
 </e>
@@ -15346,52 +14001,6 @@
 </e>
 <e>
    <lg>
-     <l pos="Po">пала</l><orig>пала</orig>
-   </lg>
-   <mg ind="1th">
-     <tg xml:lang="fin">
-       <t>puolelle, suuntaan, taholle,</t>
-     </tg><note><i>ill. t. all.</i></note>
-     <tg xml:lang="fin">
-       <t>+ päin;</t>
-     </tg>
-     <xg><x>бур пала</x>
-       <xt xml:lang="fin">oikealle (puolelle);</xt>
-     </xg>
-     <xg><x>гурт пала</x>
-       <xt xml:lang="fin">kylän suuntaan, kylään päin;</xt>
-     </xg>
-     <xg><x>паллян пала</x>
-       <xt xml:lang="fin">vasemmalle (puolelle);</xt>
-     </xg>
-     <xg><x>шур пала</x>
-       <xt xml:lang="fin">joen suuntaan, jokeen päin</xt>
-     </xg>
-   </mg>
-   <mg ind="2th"> <font face="SmolenskSGR">(</font>ё<font face="SmolenskSGR"><i>рос, котыр</i>)</font>
-     <tg xml:lang="fin">
-       <t>noin, suunnilleen, arviolta, lähes;</t>
-     </tg>
-     <xg><x>кык километр пала</x>
-       <xt xml:lang="fin">noin kaksi kilometriä</xt>
-     </xg>
-   </mg>
-</e>
-<e>
-   <lg>
-     <l pos="Po">паласен</l><orig>паласен</orig>
-   </lg>
-   <mg>
-     <tg xml:lang="fin">
-       <t>puolelta, suunnasta, taholta; puolella, suunnassa, taholla;</t>
-     </tg>
-     <xg><x>та паласен кутске(лэ)</x>
-       <xt xml:lang="fin">aloittakaa tältä puolelta</xt>
-     </xg>
-   </mg>
-</e>
-<e>
-   <lg>
      <l pos="Prc">паласькись<rom ind="1"/></l>
    </lg>
    <mg><inflect type="Der/сь" drv="Prc"/><font face="SmolenskSGR"><b>паласькыны<rom ind="1"/></b></font>
@@ -16752,33 +15361,6 @@
 </e>
 <e>
    <lg>
-     <l pos="A;N">румын</l><orig>румын</orig>
-   </lg>
-   <mg>
-     <tg xml:lang="fin">
-       <t>romanialainen //</t><note><i>myös</i></note>
-       <t>Romanian;</t>
-     </tg>
-     <xg><x>румын кыл</x>
-       <xt xml:lang="fin">romania(n kieli)</xt>
-     </xg>
-   </mg>
-</e>
-<e>
-   <lg>
-     <l pos="N;A">саам</l><orig>саам</orig>
-   </lg>
-   <mg>
-     <tg xml:lang="fin">
-       <t>saamelainen, lappalainen;</t>
-     </tg>
-     <xg><x>саам кыл</x>
-       <xt xml:lang="fin">saamen (t. lapin) kieli, saame, lappi</xt>
-     </xg>
-   </mg>
-</e>
-<e>
-   <lg>
      <l pos="A;Adv">сабыр</l><orig>сабыр</orig>
    </lg>
    <mg><defNative>лякыт</defNative>
@@ -17019,19 +15601,6 @@
 </e>
 <e>
    <lg>
-     <l pos="N;A">серб</l><orig>серб</orig>
-   </lg>
-   <mg>
-     <tg xml:lang="fin">
-       <t>serbi // serbialainen, Serbian;</t>
-     </tg>
-     <xg><x>серб кыл</x>
-       <xt xml:lang="fin">serbia(n kieli)</xt>
-     </xg>
-   </mg>
-</e>
-<e>
-   <lg>
      <l pos="Prc;A">синадӟонтэм</l><orig>синадӟонтэм</orig>
    </lg>
    <mg>
@@ -17114,32 +15683,6 @@
      <tg xml:lang="fin">
        <t>slaavi // slaavilainen</t>
      </tg>
-   </mg>
-</e>
-<e>
-   <lg>
-     <l pos="N;A">словак</l><orig>словак</orig>
-   </lg>
-   <mg>
-     <tg xml:lang="fin">
-       <t>slovakki // slovakialainen, slovakkien, Slovakian;</t>
-     </tg>
-     <xg><x>словак кыл</x>
-       <xt xml:lang="fin">slovakin kieli, slovakki</xt>
-     </xg>
-   </mg>
-</e>
-<e>
-   <lg>
-     <l pos="N;A">словен</l><orig>словен</orig>
-   </lg>
-   <mg>
-     <tg xml:lang="fin">
-       <t>sloveeni // slovenialainen, sloveenien, Slovenian;</t>
-     </tg>
-     <xg><x>словен кыл</x>
-       <xt xml:lang="fin">sloveeni(n kieli)</xt>
-     </xg>
    </mg>
 </e>
 <e>
@@ -18263,19 +16806,6 @@
 </e>
 <e>
    <lg>
-     <l pos="N;A">таджик</l><orig>таджик</orig>
-   </lg>
-   <mg>
-     <tg xml:lang="fin">
-       <t>tadžikki, tadžikki(lainen);</t>
-     </tg>
-     <xg><x>таджик кыл</x>
-       <xt xml:lang="fin">tadžikin kieli, tadžikki</xt>
-     </xg>
-   </mg>
-</e>
-<e>
-   <lg>
      <l pos="A;Adv">тамаша</l><orig>тамаша</orig>
    </lg>
    <mg>
@@ -18661,19 +17191,6 @@
 </e>
 <e>
    <lg>
-     <l pos="N;A">туркмен</l><orig>туркмен</orig>
-   </lg>
-   <mg>
-     <tg xml:lang="fin">
-       <t>turkmeeni, turkmenia(lainen);</t>
-     </tg>
-     <xg><x>туркмен кыл</x>
-       <xt xml:lang="fin">turkmeeni(n kieli)</xt>
-     </xg>
-   </mg>
-</e>
-<e>
-   <lg>
      <l pos="A;Adv">турлы</l><orig>турлы</orig>
    </lg>
    <mg>
@@ -18683,19 +17200,6 @@
      <variants>
        <l_syn type="vrt0">пӧртэм</l_syn>
      </variants>
-   </mg>
-</e>
-<e>
-   <lg>
-     <l pos="N;A">турок</l><orig>тарок</orig>
-   </lg>
-   <mg>
-     <tg xml:lang="fin">
-       <t>turkki(lainen);</t>
-     </tg>
-     <xg><x>турок кыл</x>
-       <xt xml:lang="fin">turkin kieli, turkki</xt>
-     </xg>
    </mg>
 </e>
 <e>
@@ -18925,37 +17429,6 @@
 </e>
 <e>
    <lg>
-     <l pos="N;A">удмурт</l><orig>удмурт</orig>
-   </lg>
-   <mg>
-     <tg xml:lang="fin">
-       <t>udmurtti(lainen);</t>
-     </tg>
-     <xg><x>удмурт кыл</x>
-       <xt xml:lang="fin">udmurtin kieli, udmurtti;</xt>
-     </xg>
-     <xg><x>удмурт кышно(мурт)</x>
-       <xt xml:lang="fin">udmurttilainen nainen;</xt>
-     </xg>
-     <xg><x>удмурт ныл</x>
-       <xt xml:lang="fin">udmurttilainen tyttö;</xt>
-     </xg>
-     <xg><x>удмурт пи</x>
-       <xt xml:lang="fin">udmurttilainen poika (t. mies);</xt>
-     </xg>
-     <xg><x>удмурт пиосмурт</x>
-       <xt xml:lang="fin">udmurttilainen mies;</xt>
-     </xg>
-     <xg><x>удмурт сямен</x>
-       <xt xml:lang="fin">udmurttien tavalla;</xt>
-     </xg>
-     <xg><x>удмурт сямен вераськыны</x>
-       <xt xml:lang="fin">puhua udmurttia</xt>
-     </xg>
-   </mg>
-</e>
-<e>
-   <lg>
      <l pos="Prc;A;N">ужась</l><orig>ужась</orig>
    </lg>
    <mg ind="1th"><compg><comp ord="E1" pos="V">ужаны</comp><comp ord="E2" type="Der/сь" drv="Prc"/></compg>
@@ -19009,19 +17482,6 @@
      <tg xml:lang="fin">
        <t> tyhjäntoimittaja, laiskuri, laiskottelija</t>
      </tg>
-   </mg>
-</e>
-<e>
-   <lg>
-     <l pos="N;A">узбек</l><orig>узбек</orig>
-   </lg>
-   <mg>
-     <tg xml:lang="fin">
-       <t>uzbekki;</t>
-     </tg>
-     <xg><x>узбек кыл</x>
-       <xt xml:lang="fin">uzbekin kieli, uzbekki</xt>
-     </xg>
    </mg>
 </e>
 <e>
@@ -19127,44 +17587,6 @@
      <tg xml:lang="fin">
        <t> myöhästyt toki!</t>
      </tg>
-   </mg>
-</e>
-<e>
-   <lg>
-     <l pos="A;N">украин</l><orig>украин</orig>
-     <variants>
-       <l_syn>украина</l_syn>
-     </variants>
-   </lg>
-   <mg>
-     <tg xml:lang="fin">
-       <t>ukrainalainen, ukrainan;</t>
-     </tg>
-     <xg><x>украин кыл</x>
-       <xt xml:lang="fin">ukraina(n kieli);</xt>
-     </xg>
-     <xg><x>украин кышно</x>
-       <xt xml:lang="fin">ukrainalainen nainen;</xt>
-     </xg>
-   </mg>
-</e>
-<e>
-   <lg>
-     <l pos="A;N">украина</l><orig>украиʼна</orig>
-     <variants>
-       <l_syn>украин</l_syn>
-     </variants>
-   </lg>
-   <mg>
-     <tg xml:lang="fin">
-       <t>ukrainalainen, ukrainan;</t>
-     </tg>
-     <xg><x>украина кыл</x>
-       <xt xml:lang="fin">ukraina(n kieli);</xt>
-     </xg>
-     <xg><x>украина кышно</x>
-       <xt xml:lang="fin">ukrainalainen nainen;</xt>
-     </xg>
    </mg>
 </e>
 <e>
@@ -19566,114 +17988,6 @@
 </e>
 <e>
    <lg>
-     <l pos="Po">урдсозь</l><orig>урдсозь</orig>
-   </lg>
-   <mg>
-     <tg xml:lang="fin">
-       <t>viereen (t. vierelle, sivuun) asti;</t>
-     </tg>
-     <xg><x>сюрес урдсозь</x>
-       <xt xml:lang="fin">tien viereen asti, tienpientareelle asti, tienvarteen asti</xt>
-     </xg>
-   </mg>
-</e>
-<e>
-   <lg>
-     <l pos="Po">урдсы</l><orig>урдсы</orig>
-   </lg>
-   <mg>
-     <tg xml:lang="fin">
-       <t>viereen, vierelle, sivuun;</t>
-     </tg>
-     <xg><x>гурт урдсы</x>
-       <xt xml:lang="fin">kylän viereen (t. sivuun);</xt>
-     </xg>
-     <xg><x>сюрес урдсы</x>
-       <xt xml:lang="fin">tien viereen (t. varrelle)</xt>
-     </xg>
-   </mg>
-</e>
-<e>
-   <lg>
-     <l pos="Po">урдсын</l><orig>урдсын</orig>
-   </lg>
-   <mg>
-     <tg xml:lang="fin">
-       <t>vieressä, vierellä, sivussa;</t>
-     </tg>
-     <xg><x>бусы урдсын</x>
-       <xt xml:lang="fin">pellon vieressä (t. sivussa);</xt>
-     </xg>
-     <xg><x>гурт урдсын</x>
-       <xt xml:lang="fin">kylän vieressä (t. sivussa);</xt>
-     </xg>
-     <xg><x>сюрес урдсын</x>
-       <xt xml:lang="fin">tien vieressä (t. varrella)</xt>
-     </xg>
-   </mg>
-</e>
-<e>
-   <lg>
-     <l pos="Po">урдсысен</l><orig>урдсысен</orig>
-   </lg>
-   <mg>
-     <tg xml:lang="fin">
-       <t>vierestä, viereltä, sivusta</t>
-       <re>alkaen</re>;
-     </tg>
-     <tg xml:lang="fin">
-       <t> vieressä, vierellä, sivussa;</t>
-     </tg>
-     <xg><x>бусы урдсысен турнаны кутскыны</x>
-       <xt xml:lang="fin">alkaa niittää pellon vierestä</xt>
-     </xg>
-   </mg>
-</e>
-<e>
-   <lg>
-     <l pos="Po">урдсысь</l><orig>урдсысь</orig>
-   </lg>
-   <mg>
-     <tg xml:lang="fin">
-       <t>vierestä, viereltä, sivusta;</t>
-     </tg>
-     <xg><x>корка урдсысь кошкыны</x>
-       <xt xml:lang="fin">lähteä pois talon vierestä</xt>
-     </xg>◊
-     <xg><x>гурт урдсысь бусы</x>
-       <xt xml:lang="fin">kylän vieressä (t. sivussa) oleva pelto</xt>
-     </xg>
-   </mg>
-</e>
-<e>
-   <lg>
-     <l pos="Po">урдсытӥ</l><orig>урдсытӥ</orig>
-   </lg>
-   <mg>
-     <tg xml:lang="fin">
-       <t>vieressä, vierellä, sivussa</t>
-       <re>liikeverbien yhteydessä</re>
-     </tg>
-     <tg xml:lang="fin">
-       <t>, vieritse, sivuitse;</t>
-     </tg>
-     <xg><x>сюрес урдсытӥ мыныны</x>
-       <xt xml:lang="fin">kulkea (t. mennä) tien vieressä (t. vieritse)</xt>
-     </xg>
-   </mg>
-</e>
-<e>
-   <lg>
-     <l pos="Po">урдсэтӥ</l><orig>урдсэтӥ</orig>
-   </lg>
-   <mg>
-     <variants>
-       <l_syn type="&gt;">урдсытӥ</l_syn>
-     </variants>
-   </mg>
-</e>
-<e>
-   <lg>
      <l pos="N;A">урдэс: (урдэс(к)ыз, урдсыз)</l><orig>урдэс: (урдэс(к)ыз, урдсыз)</orig>
    </lg>
    <mg ind="1th">
@@ -19930,97 +18244,6 @@
    </mg>
 </e>
 <e>
-   <lg>
-     <l pos="N;A">финн</l><orig>финн</orig>
-   </lg>
-   <mg>
-     <tg xml:lang="fin">
-       <t>suomalainen //</t><note><i>myös</i></note>
-       <t>suomen, Suomen;</t>
-     </tg>
-     <xg><x>финн кыл</x>
-       <xt xml:lang="fin">suomen kieli, suomi;</xt>
-     </xg>
-     <xg><x>финн кылын вераськись</x>
-       <xt xml:lang="fin">suomenkielinen, suomea puhuva;</xt>
-     </xg>
-     <xg><x>финн кылэ берыктыны</x>
-       <xt xml:lang="fin">suomentaa;</xt>
-     </xg>
-     <xg><x>финн кышно(мурт)</x>
-       <xt xml:lang="fin">suomalainen nainen;</xt>
-     </xg>
-     <xg><x>финн ныл</x>
-       <xt xml:lang="fin">suomalainen tyttö;</xt>
-     </xg>
-     <xg><x>финн пи</x>
-       <xt xml:lang="fin">suomalainen poika (t. mies);</xt>
-     </xg>
-     <xg><x>финн пиосмурт</x>
-       <xt xml:lang="fin">suomalainen mies</xt>
-     </xg>
-   </mg>
-</e>
-<e>
-   <lg>
-     <l pos="N;A">фольклор</l><orig>фольклор</orig>
-   </lg>
-   <mg ind="1th">
-     <tg xml:lang="fin">
-       <t>kansanperinne, kansanrunous, folklore // perinne=;</t>
-     </tg>
-     <xg><x>фольклор материалъёс</x>
-       <xt xml:lang="fin">perinneaineisto;</xt>
-     </xg>
-     <xg><x>фольклор бичанъя экспедици</x>
-       <xt xml:lang="fin">perinteen tallennusmatka;</xt>
-     </xg>
-     <variants>
-       <l_syn type="&gt;">кылос: (калык кылос)</l_syn>
-     </variants>
-   </mg>
-   <mg ind="2th">
-     <tg xml:lang="fin">
-       <t>kansanlaulu- ja tanssi=;</t>
-     </tg>
-     <xg><x>фольклор ансамбль</x>
-       <xt xml:lang="fin">kansanlaulu- ja tanssiyhtye</xt>
-     </xg>
-   </mg>
-</e>
-<e>
-   <lg>
-     <l pos="N;A">фразеологи</l><orig>фразеолоʼги</orig>
-   </lg>
-   <mg ind="1th"><field>kiel.</field><font face="SmolenskSGR">(<i>фразаос</i>)</font>
-     <tg xml:lang="fin">
-       <t>fraseologia, fraasit, sanonnat // fraasi=, fraseologinen;</t>
-     </tg>
-     <xg><x>фразеологи словарь</x>
-       <xt xml:lang="fin">fraasisanakirja</xt>
-     </xg>
-   </mg>
-   <mg ind="2th"><defNative>тодос</defNative>
-     <tg xml:lang="fin">
-       <t>fraseologia, fraasitutkimus</t>
-     </tg>
-   </mg>
-</e>
-<e>
-   <lg>
-     <l pos="N;A">француз</l><orig>француз</orig>
-   </lg>
-   <mg>
-     <tg xml:lang="fin">
-       <t>ranskalainen //</t><note><i>myös</i></note>
-       <t>ranskan, Ranskan;</t>
-     </tg>
-     <xg><x>француз кыл</x>
-       <xt xml:lang="fin">ranska(n kieli)</xt>
-     </xg>
-   </mg>
-</e>
-<e>
    <lg><l>пӧсь!</l><orig>пӧсь!</orig>
    </lg>
    <mg>
@@ -20029,33 +18252,6 @@
      </tg>
      <xg><x>фу, кыӵе зыныз кӧш</x>
        <xt xml:lang="fin">hyi, miten epämiellyttävän hajuinen</xt>
-     </xg>
-   </mg>
-</e>
-<e>
-   <lg>
-     <l pos="N;A">хакас</l><orig>хакас</orig>
-   </lg>
-   <mg>
-     <tg xml:lang="fin">
-       <t>hakassi(lainen) //</t><note><i>myös</i></note>
-       <t>hakassien;</t>
-     </tg>
-     <xg><x>хакас кыл</x>
-       <xt xml:lang="fin">hakassi(n kieli)</xt>
-     </xg>
-   </mg>
-</e>
-<e>
-   <lg>
-     <l pos="N;A">ханты</l><orig>хаʼнты</orig>
-   </lg>
-   <mg>
-     <tg xml:lang="fin">
-       <t>hanti, ostjakki // hantien, ostjakkien;</t>
-     </tg>
-     <xg><x>ханты кыл</x>
-       <xt xml:lang="fin">hantin (t. ostjakkien) kieli, hanti, ostjakki</xt>
      </xg>
    </mg>
 </e>
@@ -20072,32 +18268,6 @@
      </xg>◊
      <xg><x>хими карандаш</x>
        <xt xml:lang="fin">kosmoskynä</xt>
-     </xg>
-   </mg>
-</e>
-<e>
-   <lg>
-     <l pos="N;A">хорват</l><orig>хорват</orig>
-   </lg>
-   <mg>
-     <tg xml:lang="fin">
-       <t>kroaatti // kroatialainen, kroaattien, Kroatian;</t>
-     </tg>
-     <xg><x>хорват кыл</x>
-       <xt xml:lang="fin">kroaatin kieli, kroaatti</xt>
-     </xg>
-   </mg>
-</e>
-<e>
-   <lg>
-     <l pos="N;A">хрусталь</l><orig>хрусталь</orig>
-   </lg>
-   <mg>
-     <tg xml:lang="fin">
-       <t>kristalli // kristallinen;</t>
-     </tg>
-     <xg><x>хрусталь(лэсь) ваза</x>
-       <xt xml:lang="fin">kristallimaljakko</xt>
      </xg>
    </mg>
 </e>
@@ -20489,42 +18659,6 @@
 </e>
 <e>
    <lg>
-     <l pos="N;A">черкес</l><orig>черкес</orig>
-   </lg>
-   <mg>
-     <tg xml:lang="fin">
-       <t>tšerkessi // tšerkessiläinen, tšerkessin;</t>
-     </tg>
-     <xg><x>черкес кыл</x>
-       <xt xml:lang="fin">tšerkessi(n kieli)</xt>
-     </xg>
-   </mg>
-</e>
-<e>
-   <lg><l>черодэз?</l><orig>черодэз?</orig>
-   </lg>
-   <mg>
-     <tg xml:lang="fin">
-       <t>kenen vuoro on nyt?</t>
-     </tg>
-   </mg>
-   <mg ind="2th"><defNative>бӧрсьысь сылон</defNative>
-     <tg xml:lang="fin">
-       <t>jono;</t>
-     </tg>
-     <xg><x>черодтэк пырыны</x>
-       <xt xml:lang="fin">mennä jonottamatta (t. jonon ohi);</xt>
-     </xg>
-     <xg><x>черодын сылыны</x>
-       <xt xml:lang="fin">seistä jonossa, jonottaa;</xt>
-     </xg>
-     <xg><x>черодэ султыны</x>
-       <xt xml:lang="fin">mennä jonottamaan (t. seisomaan jonoon)</xt>
-     </xg>
-   </mg>
-</e>
-<e>
-   <lg>
      <l pos="A;N">ческыт</l><orig>ческыт</orig>
    </lg>
    <mg ind="1th">
@@ -20587,75 +18721,6 @@
 </e>
 <e>
    <lg>
-     <l pos="N;A">чех</l><orig>чех</orig>
-   </lg>
-   <mg>
-     <tg xml:lang="fin">
-       <t>tšekki; tšekinmaalainen // tšekkiläinen,</t>
-     </tg><note><i>myös</i></note>
-     <tg xml:lang="fin">
-       <t>Tšekin;</t>
-     </tg>
-     <xg><x>чех кыл</x>
-       <xt xml:lang="fin">tšekin kieli, tšekki;</xt>
-     </xg>
-   </mg>
-</e>
-<e>
-   <lg>
-     <l pos="N;A">чечен</l><orig>чечен</orig>
-   </lg>
-   <mg>
-     <tg xml:lang="fin">
-       <t>tšetšeeni // tšetšeeniläinen, tšetšeenien;</t>
-     </tg>
-     <xg><x>чечен кыл</x>
-       <xt xml:lang="fin">tšetšeeni(n kieli)</xt>
-     </xg>
-   </mg>
-</e>
-<e>
-   <lg>
-     <l pos="N;A">чечы</l><orig>чечы</orig>
-   </lg>
-   <mg>
-     <tg xml:lang="fin">
-       <t>hunaja; mesi // metinen;</t>
-     </tg>
-     <xg><x>беризь чечы</x>
-       <xt xml:lang="fin">lehmushunaja;</xt>
-     </xg>
-     <xg><x>карасэн чечы</x>
-       <xt xml:lang="fin">kennohunaja, kakkuhunaja;</xt>
-     </xg>
-     <xg><x>кулэм чечы</x>
-       <xt xml:lang="fin">kiteytynyt (t. sakea, paksu) hunaja;</xt>
-     </xg>
-     <xg><x>чечы зын</x>
-       <xt xml:lang="fin">metinen tuoksu;</xt>
-     </xg>
-     <xg><x>чечы кыскыны</x> <x>чечы поттыны</x>
-       <xt xml:lang="fin">lingota hunajaa;</xt>
-     </xg>
-     <xg><x>чечыен нянь</x>
-       <xt xml:lang="fin">leipä hunajan kera, hunajaleipä, mesileipä;</xt>
-     </xg>
-     <xg><x>чечыен чай</x>
-       <xt xml:lang="fin">tee hunajan kera;</xt>
-     </xg>
-     <xg><x>чечыез гондыр но яратэ </x><genre>sp.</genre>
-       <xt xml:lang="fin">karhukin pitää hunajasta</xt>
-     </xg>◊
-     <xg><x>зорем чечы</x>
-       <xt xml:lang="fin">mesikasteesta saatu hunaja;</xt>
-     </xg>
-     <xg><x>чечы пуньы</x>
-       <xt xml:lang="fin">teelusikka</xt>
-     </xg>
-   </mg>
-</e>
-<e>
-   <lg>
      <l pos="A;N">чечым</l><orig>чечым</orig>
    </lg>
    <mg><range>last.</range>
@@ -20686,19 +18751,6 @@
      </xg>◊
      <xg><x>чибори весь</x>
        <xt xml:lang="fin">kallis helminauha, kalliit (kaula)helmet</xt>
-     </xg>
-   </mg>
-</e>
-<e>
-   <lg>
-     <l pos="N;A">чиган</l><orig>чиган</orig>
-   </lg>
-   <mg>
-     <tg xml:lang="fin">
-       <t>romani, mustalainen // mustalais=;</t>
-     </tg>
-     <xg><x>чиган кыл</x>
-       <xt xml:lang="fin">romani, mustalaiskieli</xt>
      </xg>
    </mg>
 </e>
@@ -20884,19 +18936,6 @@
 </e>
 <e>
    <lg>
-     <l pos="N;A">чуваш</l><orig>чуваш</orig>
-   </lg>
-   <mg>
-     <tg xml:lang="fin">
-       <t>tšuvassi // tšuvassilainen, tšuvassin, tšuvassien;</t>
-     </tg>
-     <xg><x>чуваш кыл</x>
-       <xt xml:lang="fin">tšuvassi(n kieli)</xt>
-     </xg>
-   </mg>
-</e>
-<e>
-   <lg>
      <l pos="N;A">чуинчи</l><orig>чуинчи</orig>
    </lg>
    <mg>
@@ -20926,19 +18965,6 @@
        <t>valkoharjainen, liinaharjainen; liinakko, rautias, raudikko</t>
        <re>hevonen</re>
      </tg>
-   </mg>
-</e>
-<e>
-   <lg>
-     <l pos="N;A">чукча</l><orig>чакча</orig>
-   </lg>
-   <mg>
-     <tg xml:lang="fin">
-       <t>tšuktši;</t>
-     </tg>
-     <xg><x>чукча кыл</x>
-       <xt xml:lang="fin">tšuktši(n kieli)</xt>
-     </xg>
    </mg>
 </e>
 <e>
@@ -21767,20 +19793,6 @@
      <variants>
        <l_syn type="&gt;">укылтэм, шӧртчи<rom ind="0_1"/></l_syn>
      </variants>
-   </mg>
-</e>
-<e>
-   <lg>
-     <l pos="N;A">швед</l><orig>швед</orig>
-   </lg>
-   <mg>
-     <tg xml:lang="fin">
-       <t>ruotsalainen //</t><note><i>myös </i></note>
-       <t>Ruotsin;</t>
-     </tg>
-     <xg><x>швед кыл</x>
-       <xt xml:lang="fin">ruotsi(n kieli)</xt>
-     </xg>
    </mg>
 </e>
 <e>
@@ -23271,19 +21283,6 @@
 </e>
 <e>
    <lg>
-     <l pos="N;A">эскимос</l><orig>эскимос</orig>
-   </lg>
-   <mg>
-     <tg xml:lang="fin">
-       <t>eskimo // eskimoiden;</t>
-     </tg>
-     <xg><x>эскимос кыл</x>
-       <xt xml:lang="fin">eskimokieli</xt>
-     </xg>
-   </mg>
-</e>
-<e>
-   <lg>
      <l pos="Prc">эстӥсь</l><orig>эстӥсь</orig>
    </lg>
    <mg ind="1th"><compg><comp ord="E1" pos="V">эстыны</comp><comp ord="E2" type="Der/сь" drv="Prc"/></compg>
@@ -23291,20 +21290,6 @@
    <mg ind="2th"> <note><b>(</b></note><note><i>myös </i></note>
      <xg><x>гур эстӥсь)</x>
        <xt xml:lang="fin">lämmittäjä</xt>
-     </xg>
-   </mg>
-</e>
-<e>
-   <lg>
-     <l pos="N;A">эстон<rom ind="2"/></l>
-   </lg>
-   <mg>
-     <tg xml:lang="fin">
-       <t>virolainen, eestiläinen //</t><note><i>myös </i></note>
-       <t>Viron;</t>
-     </tg>
-     <xg><x>эстон кыл</x>
-       <xt xml:lang="fin">viro(n (t. eestin) kieli)</xt>
      </xg>
    </mg>
 </e>
@@ -23442,19 +21427,6 @@
      </tg>
      <xg><x>юзматӥсь юонъёс</x>
        <xt xml:lang="fin">virvoitusjuomat, virvokkeet</xt>
-     </xg>
-   </mg>
-</e>
-<e>
-   <lg>
-     <l pos="N;A">юкагир</l><orig>юкагир</orig>
-   </lg>
-   <mg>
-     <tg xml:lang="fin">
-       <t>jukagiiri // jukagiirilainen, jukagiirien;</t>
-     </tg>
-     <xg><x>юкагир кыл</x>
-       <xt xml:lang="fin">jukagiiri(n kieli)</xt>
      </xg>
    </mg>
 </e>
@@ -23825,19 +21797,6 @@
      </tg>
      <xg><x>яке ветлод ик-а отчы?</x>
        <xt xml:lang="fin">ehkä sinä kuitenkin käyt siellä?</xt>
-     </xg>
-   </mg>
-</e>
-<e>
-   <lg>
-     <l pos="N;A">якут</l><orig>якут</orig>
-   </lg>
-   <mg>
-     <tg xml:lang="fin">
-       <t>jakuutti // jakuutin, jakuuttien, Jakutian;</t>
-     </tg>
-     <xg><x>якут кыл</x>
-       <xt xml:lang="fin">jakuutin kieli, jakuutti</xt>
      </xg>
    </mg>
 </e>

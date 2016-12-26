@@ -28,6 +28,24 @@ Possible errors following proofreading are, e. g., substitution of special fonts
 
 <e>
    <lg>
+     <l pos="Adv">чал</l><orig>чал</orig>
+   </lg>
+   <mg ind="2th">
+     <tg xml:lang="fin">
+       <t>hiljaa;</t>
+     </tg>
+   </mg>
+   <mg><defNative>вераськытэк ои</defNative>
+     <tg xml:lang="fin">
+       <t>vaiti, ääneti //</t>
+     </tg>
+     <xg><x>чал пукыны</x>
+       <xt xml:lang="fin">istua hiljaa</xt>
+     </xg>
+   </mg>
+</e>
+<e>
+   <lg>
      <l pos="Adv">только</l><orig>тоʼлько</orig>
      </lg>
    <mg ind="2th"><defNative>алигес</defNative>
@@ -879,6 +897,19 @@ Possible errors following proofreading are, e. g., substitution of special fonts
      </tg>
      <xg><x>ужзэс чапрак быдтӥзы</x>
        <xt xml:lang="fin">oman työnsä he lopettivat yhtaikaa</xt>
+     </xg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Adv">чарк</l>
+     </lg>
+ <mg ind="2th"><defNative>чылкак</defNative>
+     <tg xml:lang="fin">
+       <t>aivan, ihan, kokonaan;</t>
+     </tg>
+     <xg><x>чарк огнын кыльыны</x>
+       <xt xml:lang="fin">jäädä aivan yksin</xt>
      </xg>
    </mg>
 </e>
