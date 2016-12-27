@@ -3190,25 +3190,6 @@
 </e>
 <e>
    <lg>
-     <l pos="A;N">эрзя</l><orig>эʼрзя</orig>
-   </lg>
-   <mg>
-     <tg xml:lang="fin">
-       <t>ersäläinen;</t>
-     </tg>
-     <xg><x>эрзя калык</x>
-       <xt xml:lang="fin">ersän kansa;</xt>
-     </xg>
-     <xg><x>эрзя кыл</x>
-       <xt xml:lang="fin">ersä(n (t. ersämordva(n)) kieli);</xt>
-     </xg><FIXME1/>
-     <xg><x>эрзяос</x>
-       <xt xml:lang="fin">ersäläiset, ersät</xt>
-     </xg>
-   </mg>
-</e>
-<e>
-   <lg>
      <l pos="N">эскадрон</l><orig>эскадрон</orig>
    </lg>
    <mg><field>sot.</field>
@@ -26602,94 +26583,6 @@
 </e>
 <e>
    <lg>
-     <l pos="A;N">эрзя</l><orig>эʼрзя</orig>
-   </lg>
-   <mg>
-     <tg xml:lang="fin">
-       <t>ersäläinen;</t>
-     </tg>
-     <xg><x>эрзя калык</x>
-       <xt xml:lang="fin">ersän kansa;</xt>
-     </xg>
-     <xg><x>эрзя кыл</x>
-       <xt xml:lang="fin">ersä(n (t. ersämordva(n)) kieli);</xt>
-     </xg><FIXME1/>
-     <xg><x>эрзяос</x>
-       <xt xml:lang="fin">ersäläiset, ersät</xt>
-     </xg>
-   </mg>
-</e>
-<e>
-   <lg>
-     <l pos="N">эскадрон</l><orig>эскадрон</orig>
-   </lg>
-   <mg><field>sot.</field>
-     <tg xml:lang="fin">
-       <t>eskadroona</t>
-     </tg><FIXME1/>
-     <xg><x>эскалатор</x><FIX2/>
-       <xt xml:lang="fin">liukuportaat;</xt>
-     </xg>
-     <xg><x>метро эскалатор</x>
-       <xt xml:lang="fin">metron liukuportaat</xt>
-     </xg>
-   </mg>
-</e>
-<e>
-   <lg>
-     <l pos="N">этикетка</l><orig>этикеʼтка</orig>
-   </lg>
-   <mg>
-     <tg xml:lang="fin">
-       <t>nimilappu, etiketti</t>
-     </tg><FIXME1/>
-     <xg><x>этимолог</x><FIX2/>
-       <xt xml:lang="fin">etymologi</xt>
-     </xg>
-   </mg>
-</e>
-<e>
-   <lg>
-     <l pos="N;A">этимологи</l><orig>этимолоʼги</orig>
-   </lg>
-   <mg ind="1th"><defNative>тодос</defNative>
-     <tg xml:lang="fin">
-       <t>etymologia //</t>
-     </tg>
-     <tg xml:lang="fin">
-       <t>etymologinen</t>
-     </tg>
-   </mg>
-   <mg ind="2th"><defNative>кыллэн кылдэмез</defNative>
-     <tg xml:lang="fin">
-       <t>etymologia, sanan alkuperä</t>
-     </tg><FIXME1/>
-     <xg><x>этимологической</x><FIX2/>
-       <xt xml:lang="fin">etymologinen</xt>
-     </xg>
-   </mg>
-</e>
-<e>
-   <lg>
-     <l pos="N">этнограф</l><orig>этноʼграф</orig>
-   </lg>
-   <mg>
-     <tg xml:lang="fin">
-       <t>kansatieteilijä, etnografi</t>
-     </tg><FIXME1/>
-     <xg><x>этнографи</x><FIX2/>
-       <xt xml:lang="fin">kansatiede, etnografia // kansatieteellinen, etnografinen</xt>
-     </xg><FIXME1/>
-     <xg><x>этнографической</x><FIX2/>
-       <xt xml:lang="fin">kansatieteellinen, etnografinen;</xt>
-     </xg>
-     <xg><x>этнографической музей</x>
-       <xt xml:lang="fin">etnografinen (t. kansatieteellinen) museo</xt>
-     </xg>
-   </mg>
-</e>
-<e>
-   <lg>
      <l pos="N">этнография</l><orig>этнограʼфия</orig>
    </lg>
    <mg>
@@ -26757,56 +26650,6 @@
      <tg xml:lang="fin">
        <t>tutustuttaminen, tutuksi tekeminen, esittely</t>
      </tg>
-   </mg>
-</e>
-<e>
-   <lg>
-     <l pos="N">юбер</l><orig>юбер</orig>
-   </lg>
-   <mg><field>el.</field>
-   <mg ind="1th"/><defNative>шырчик</defNative>
-     <tg xml:lang="fin">
-       <t>kottarainen</t>
-       <re>Sturnus</re>;
-     </tg>
-     <xg><x>юбер гырк</x>
-       <xt xml:lang="fin">kottaraispönttö</xt>
-     </xg>
-<xg><x>юбер уморто</x>
-       <xt xml:lang="fin">kottaraispönttö</xt>
-     </xg>
-   </mg>
-   <mg ind="2th"><defNative>дрозд</defNative>
-     <tg xml:lang="fin">
-       <t>rastas</t>
-       <re>Turdus</re>;
-     </tg><font face="SmolenskSGR">(<i>пурысьюбер, палэзьсиись</i>)</font>
-     <tg xml:lang="fin">
-       <t>räkättirastas</t>
-       <re>Turdus pilaris</re>
-     </tg>
-   </mg>
-   <mg ind="3th"> <range>murt.</range><defNative>ӝакы</defNative>
-     <tg xml:lang="fin">
-       <t>närhi</t>
-       <re>Garrulus glandarius</re>
-     </tg>
-   </mg>
-</e>
-<e>
-   <lg>
-     <l pos="N">ювелир</l><orig>ювелир</orig>
-   </lg>
-   <mg>
-     <tg xml:lang="fin">
-       <t>kultaseppä, jalokiviseppä</t>
-     </tg><FIXME1/>
-     <xg><x>ювелирной</x><FIX2/>
-       <xt xml:lang="fin">kultasepän=, jalokivi=, koru=;</xt>
-     </xg>
-     <xg><x>ювелирной магазин</x>
-       <xt xml:lang="fin">kultasepänliike, koruliike</xt>
-     </xg>
    </mg>
 </e>
 <e>
@@ -26885,38 +26728,6 @@
 </e>
 <e>
    <lg>
-     <l pos="N;A">юго-восток</l><orig>юго-восток</orig>
-   </lg>
-   <mg>
-     <tg xml:lang="fin">
-       <t>kaakko // kaakkois=, kaakon, kaakkoinen;</t>
-     </tg><FIXME1/>
-     <xg><x>юго-востокысь</x>
-       <xt xml:lang="fin">kaakkois=, kaakon, kaakkoinen;</xt>
-     </xg>
-     <xg><x>юго-востокысь тӧл</x>
-       <xt xml:lang="fin">kaakkoistuuli</xt>
-     </xg>
-   </mg>
-</e>
-<e>
-   <lg>
-     <l pos="N;A">юго-запад</l><orig>юго-заʼпад</orig>
-   </lg>
-   <mg>
-     <tg xml:lang="fin">
-       <t>lounas // lounais=, lounaan, lounainen;</t>
-     </tg><FIXME1/>
-     <xg><x>юго-западысь</x>
-       <xt xml:lang="fin">lounais=. lounaan, lounainen;</xt>
-     </xg>
-     <xg><x>юго-западысь тӧл</x>
-       <xt xml:lang="fin">lounaistuuli, lounainen tuuli</xt>
-     </xg>
-   </mg>
-</e>
-<e>
-   <lg>
      <l pos="A;Adv;N">югыт</l><orig>югыт</orig>
    </lg>
    <mg ind="1th">
@@ -26928,8 +26739,8 @@
      </tg>
      <xg><x>югыт уй</x>
        <xt xml:lang="fin">valoisa yö;</xt>
-     </xg><font face="SmolenskSGR"><b>комната</b></font> <FIXME1/>
-     <xg><x>югыт</x>
+     </xg>
+     <xg><x>комната югыт</x>
        <xt xml:lang="fin">huone on valoisa;</xt>
      </xg>
      <xg><x>лампалэн югытаз сылыны</x>
@@ -27017,10 +26828,17 @@
    <mg>
      <tg xml:lang="fin">
        <t>kaksipyöräiset kärryt</t>
-     </tg><FIXME1/>
-     <xg><x>юлтош</x><FIX2/>
-       <xt xml:lang="fin">kaveri, ystävä, toveri, kumppani; seuralainen;</xt>
-     </xg>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="N">юлтош</l>
+   </lg>
+   <mg>
+       <tg xml:lang="fin">
+	 <t>kaveri, ystävä, toveri, kumppani; seuralainen;</t>
+     </tg>
      <xg><x>сюрес (выл) юлтош</x>
        <xt xml:lang="fin">matkakumppani, matkatoveri, matkaseuralainen</xt>
      </xg>◊
@@ -27031,23 +26849,9 @@
 </e>
 <e>
    <lg>
-     <l pos="N">юнман</l><orig>юнман</orig>
+     <l pos="V">юнманы</l>
    </lg>
-   <mg ind="1th"><defNative>юн луон</defNative>
-     <tg xml:lang="fin">
-       <t>vahvistuminen, vahveneminen, lujittuminen; voimistuminen, yltyminen, kiristyminen</t>
-     </tg>
-   </mg>
-   <mg ind="2th"><defNative>чурытомон</defNative>
-     <tg xml:lang="fin">
-       <t>kovettuminen, koveneminen; kovemmaksi (t. kovaksi) tuleminen (t. tulo)</t>
-     </tg>
-   </mg>
-   <mg ind="3th"><defNative>тазалык с-сь</defNative>
-     <tg xml:lang="fin">
-       <t>parantuminen, kuntoutuminen, vahvistuminen</t>
-     </tg><font face="SmolenskSGR"><b>юнманы</b></font><FIX2/>
-   <mg ind="1th"/><defNative>юн луыны</defNative>
+   <mg ind="1th"><defNative>юн луыны</defNative>
      <tg xml:lang="fin">
        <t>vahvistua, vahveta, lujittua; voimistua, yltyä, kiristyä;</t>
      </tg>

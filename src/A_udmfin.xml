@@ -15683,4 +15683,40 @@ Possible errors following proofreading are, e. g., substitution of special fonts
      </xg>
    </mg>
 </e>
+<e>
+   <lg>
+     <l pos="A">этнографической</l>
+   </lg>
+   <mg>
+       <tg xml:lang="fin">
+	 <t>kansatieteellinen, etnografinen;</t>
+     </tg>
+     <xg><x>этнографической музей</x>
+       <xt xml:lang="fin">etnografinen (t. kansatieteellinen) museo</xt>
+     </xg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="A">этимологической</l>
+   </lg>
+   <mg>
+       <tg xml:lang="fin">
+	 <t>etymologinen</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="A">ювелирной</l>
+   </lg>
+   <mg>
+       <tg xml:lang="fin">
+	 <t>kultasepän=, jalokivi=, koru=;</t>
+     </tg>
+     <xg><x>ювелирной магазин</x>
+       <xt xml:lang="fin">kultasepänliike, koruliike</xt>
+     </xg>
+   </mg>
+</e>
 </r>

@@ -121281,17 +121281,20 @@ Possible errors following proofreading are, e. g., substitution of special fonts
 </e>
 <e>
    <lg>
-     <l pos="N">эрзя</l><orig>эрзя</orig>
+     <l pos="N">эрзя</l><orig>эʼрзя</orig>
    </lg>
    <mg>
      <tg xml:lang="fin">
        <t>ersäläinen</t>
      </tg>
      <xg><x>эрзя калык</x>
-       <xt xml:lang="fin">ersän kansa, ersä</xt>
+       <xt xml:lang="fin">ersän kansa</xt>
      </xg>
      <xg><x>эрзя кыл</x>
-       <xt xml:lang="fin">ersä(n kieli);</xt>
+       <xt xml:lang="fin">ersä(n kieli)</xt>
+     </xg>
+     <xg><x>эрзяос</x>
+       <xt xml:lang="fin">ersäläiset, ersät</xt>
      </xg>
    </mg>
 </e>
@@ -121696,6 +121699,180 @@ Possible errors following proofreading are, e. g., substitution of special fonts
        <xt xml:lang="fin">tšerkessi(n kieli)</xt>
      </xg>
    </mg>
+</e>
+<e>
+   <lg>
+     <l pos="N">эскадрон</l><orig>эскадрон</orig>
+   </lg>
+   <mg><field>sot.</field>
+     <tg xml:lang="fin">
+       <t>eskadroona</t>
+     </tg></mg>
+</e>
+<e>
+   <lg>
+     <l pos="N">эскалатор</l>
+   </lg>
+   <mg>
+       <tg xml:lang="fin">
+	 <t>liukuportaat</t>
+     </tg>
+     <xg><x>метро эскалатор</x>
+       <xt xml:lang="fin">metron liukuportaat</xt>
+     </xg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="N">этикетка</l><orig>этикеʼтка</orig>
+   </lg>
+   <mg>
+     <tg xml:lang="fin">
+       <t>nimilappu, etiketti</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="N">этимолог</l>
+   </lg>
+   <mg>
+       <tg xml:lang="fin">
+	 <t>etymologi</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="N">этнограф</l><orig>этноʼграф</orig>
+   </lg>
+   <mg>
+     <tg xml:lang="fin">
+       <t>kansatieteilijä, etnografi</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="N">этнографи</l>
+   </lg>
+   <mg>
+       <tg xml:lang="fin">
+	 <t>kansatiede, etnografia // kansatieteellinen, etnografinen</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="N">юбер</l><orig>юбер</orig>
+   </lg>
+   <mg><field>el.</field>
+   <mg ind="1th"/><defNative>шырчик</defNative>
+     <tg xml:lang="fin">
+       <t>kottarainen</t>
+       <re>Sturnus</re>;
+     </tg>
+     <xg><x>юбер гырк</x>
+       <xt xml:lang="fin">kottaraispönttö</xt>
+     </xg>
+     <xg><x>юбер уморто</x>
+       <xt xml:lang="fin">kottaraispönttö</xt>
+     </xg>
+   </mg>
+   <mg ind="2th"><defNative>дрозд</defNative>
+     <tg xml:lang="fin">
+       <t>rastas</t>
+       <re>Turdus</re>;
+     </tg><font face="SmolenskSGR">(<i>пурысьюбер, палэзьсиись</i>)</font>
+     <tg xml:lang="fin">
+       <t>räkättirastas</t>
+       <re>Turdus pilaris</re>
+     </tg>
+   </mg>
+   <mg ind="3th"> <range>murt.</range><defNative>ӝакы</defNative>
+     <tg xml:lang="fin">
+       <t>närhi</t>
+       <re>Garrulus glandarius</re>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="N">ювелир</l><orig>ювелир</orig>
+   </lg>
+   <mg>
+     <tg xml:lang="fin">
+       <t>kultaseppä, jalokiviseppä</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="N">этимологи</l><orig>этимолоʼги</orig>
+   </lg>
+   <mg ind="1th"><defNative>тодос</defNative>
+     <tg xml:lang="fin">
+       <t>etymologia //</t>
+     </tg>
+     <tg xml:lang="fin">
+       <t>etymologinen</t>
+     </tg>
+   </mg>
+   <mg ind="2th"><defNative>кыллэн кылдэмез</defNative>
+     <tg xml:lang="fin">
+       <t>etymologia, sanan alkuperä</t>
+     </tg></mg>
+</e>
+<e>
+   <lg>
+     <l pos="N">юго-восток</l><orig>юго-восток</orig>
+   </lg>
+   <mg>
+     <tg xml:lang="fin">
+       <t>kaakko // kaakkois=, kaakon, kaakkoinen;</t>
+     </tg><FIXME1/>
+     <xg><x>юго-востокысь</x>
+       <xt xml:lang="fin">kaakkois=, kaakon, kaakkoinen;</xt>
+     </xg>
+     <xg><x>юго-востокысь тӧл</x>
+       <xt xml:lang="fin">kaakkoistuuli</xt>
+     </xg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="N">юго-запад</l><orig>юго-заʼпад</orig>
+   </lg>
+   <mg>
+     <tg xml:lang="fin">
+       <t>lounas // lounais=, lounaan, lounainen;</t>
+     </tg>
+     <xg><x>юго-западысь</x>
+       <xt xml:lang="fin">lounais=. lounaan, lounainen;</xt>
+     </xg>
+     <xg><x>юго-западысь тӧл</x>
+       <xt xml:lang="fin">lounaistuuli, lounainen tuuli</xt>
+     </xg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="N">юнман</l><orig>юнман</orig>
+   </lg>
+   <mg ind="1th"><defNative>юн луон</defNative>
+     <tg xml:lang="fin">
+       <t>vahvistuminen, vahveneminen, lujittuminen; voimistuminen, yltyminen, kiristyminen</t>
+     </tg>
+   </mg>
+   <mg ind="2th"><defNative>чурытомон</defNative>
+     <tg xml:lang="fin">
+       <t>kovettuminen, koveneminen; kovemmaksi (t. kovaksi) tuleminen (t. tulo)</t>
+     </tg>
+   </mg>
+   <mg ind="3th"><defNative>тазалык с-сь</defNative>
+     <tg xml:lang="fin">
+       <t>parantuminen, kuntoutuminen, vahvistuminen</t>
+     </tg></mg>
 </e>
 
 </r> 
