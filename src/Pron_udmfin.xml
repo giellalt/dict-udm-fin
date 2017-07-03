@@ -28,7 +28,7 @@ Possible errors following proofreading are, e. g., substitution of special fonts
 
 <e>
    <lg>
-     <l pos="Pron">таин</l><orig>таин</orig>
+     <l pos="Pron">таин</l><stress>таин</stress>
    </lg>
    <mg ind="1th"><compg><comp ord="E1">та</comp><comp ord="E2">instr. pron:sta</comp></compg>
      <tg xml:lang="fin">
@@ -52,7 +52,7 @@ Possible errors following proofreading are, e. g., substitution of special fonts
 </e>
 <e>
    <lg>
-     <l pos="Pron">тӥлед</l><orig>тӥлед</orig>
+     <l pos="Pron">тӥлед</l><stress>тӥлед</stress>
    </lg>
    <mg>
      <variants>
@@ -62,7 +62,7 @@ Possible errors following proofreading are, e. g., substitution of special fonts
 </e>
 <e>
    <lg>
-     <l pos="Pron">тӥледыз</l><orig>тӥледыз</orig>
+     <l pos="Pron">тӥледыз</l><stress>тӥледыз</stress>
    </lg>
    <mg>
      <variants>
@@ -72,7 +72,7 @@ Possible errors following proofreading are, e. g., substitution of special fonts
 </e>
 <e>
    <lg>
-     <l pos="Pron">тӥледын</l><orig>тӥледын</orig>
+     <l pos="Pron">тӥледын</l><stress>тӥледын</stress>
      <variants>
        <l_syn>тӥленыды</l_syn>
      </variants>
@@ -88,7 +88,7 @@ Possible errors following proofreading are, e. g., substitution of special fonts
 </e>
 <e>
    <lg>
-     <l pos="Pron">тӥленыды</l><orig>тӥленыды</orig>
+     <l pos="Pron">тӥленыды</l><stress>тӥленыды</stress>
      <variants>
        <l_syn>тӥледын</l_syn>
      </variants>
@@ -104,7 +104,7 @@ Possible errors following proofreading are, e. g., substitution of special fonts
 </e>
 <e>
    <lg>
-     <l pos="Pron">тӥлесьтыд</l><orig>тӥлесьтыд</orig>
+     <l pos="Pron">тӥлесьтыд</l><stress>тӥлесьтыд</stress>
    </lg>
    <mg ind="1th"><compg><comp ord="E1">тӥ</comp><comp ord="E2">abl. pron:sta</comp></compg>
      <tg xml:lang="fin">
@@ -122,7 +122,7 @@ Possible errors following proofreading are, e. g., substitution of special fonts
 </e>
 <e>
    <lg>
-     <l pos="Pron">тӥляд</l><orig>тӥляд</orig>
+     <l pos="Pron">тӥляд</l><stress>тӥляд</stress>
    </lg>
    <mg ind="1th"><compg><comp ord="E1">тӥ</comp><comp ord="E2">gen. pron:sta</comp></compg>
      <tg xml:lang="fin">
@@ -140,7 +140,7 @@ Possible errors following proofreading are, e. g., substitution of special fonts
 </e>
 <e>
    <lg>
-     <l pos="Pron">огнады</l><orig>огнаʼдо</orig>
+     <l pos="Pron">огнады</l><stress>огнаʼдо</stress>
    </lg>
    <mg>
      <tg xml:lang="fin">
@@ -150,7 +150,7 @@ Possible errors following proofreading are, e. g., substitution of special fonts
 </e>
 <e>
    <lg>
-     <l pos="Pron">огназ</l><orig>огназ</orig>
+     <l pos="Pron">огназ</l><stress>огназ</stress>
    </lg>
    <mg>
      <tg xml:lang="fin">
@@ -160,7 +160,7 @@ Possible errors following proofreading are, e. g., substitution of special fonts
 </e>
 <e>
    <lg>
-     <l pos="Pron">огназы</l><orig>огнаʼзо</orig>
+     <l pos="Pron">огназы</l><stress>огнаʼзо</stress>
    </lg>
    <mg>
      <tg xml:lang="fin">
@@ -170,7 +170,7 @@ Possible errors following proofreading are, e. g., substitution of special fonts
 </e>
 <e>
    <lg>
-     <l pos="Pron">огнам</l><orig>огнам</orig>
+     <l pos="Pron">огнам</l><stress>огнам</stress>
    </lg>
    <mg>
      <tg xml:lang="fin">
@@ -180,7 +180,7 @@ Possible errors following proofreading are, e. g., substitution of special fonts
 </e>
 <e>
    <lg>
-     <l pos="Pron">огнамы</l><orig>огнаʼмо</orig>
+     <l pos="Pron">огнамы</l><stress>огнаʼмо</stress>
    </lg>
    <mg>
      <tg xml:lang="fin">
@@ -190,7 +190,7 @@ Possible errors following proofreading are, e. g., substitution of special fonts
 </e>
 <e>
    <lg>
-     <l pos="Pron">олокин</l><orig>олоʼкиʼн</orig>
+     <l pos="Pron">олокин</l><stress>олоʼкиʼн</stress>
    </lg>
    <mg><pos>pron. indef.</pos>
      <tg xml:lang="fin">
@@ -209,7 +209,7 @@ Possible errors following proofreading are, e. g., substitution of special fonts
 </e>
 <e>
    <lg>
-     <l pos="Pron">олокӧня</l><orig>олоʼкӧʼняʼ</orig>
+     <l pos="Pron">олокӧня</l><stress>олоʼкӧʼняʼ</stress>
    </lg>
    <mg>
      <tg xml:lang="fin">
@@ -225,7 +225,7 @@ Possible errors following proofreading are, e. g., substitution of special fonts
 </e>
 <e>
    <lg>
-     <l pos="Pron">олоку</l><orig>олоʼка</orig>
+     <l pos="Pron">олоку</l><stress>олоʼка</stress>
    </lg>
    <mg>
      <tg xml:lang="fin">
@@ -238,7 +238,7 @@ Possible errors following proofreading are, e. g., substitution of special fonts
 </e>
 <e>
    <lg>
-     <l pos="Pron">олокызьы</l><orig>олоʼкозьо</orig>
+     <l pos="Pron">олокызьы</l><stress>олоʼкозьо</stress>
    </lg>
    <mg>
      <tg xml:lang="fin">
@@ -251,7 +251,7 @@ Possible errors following proofreading are, e. g., substitution of special fonts
 </e>
 <e>
    <lg>
-     <l pos="Pron">олокыӵе</l><orig>олоʼкоӵеʼ</orig>
+     <l pos="Pron">олокыӵе</l><stress>олоʼкоӵеʼ</stress>
    </lg>
    <mg><pos>pron. indef.</pos>
      <tg xml:lang="fin">
@@ -270,7 +270,7 @@ Possible errors following proofreading are, e. g., substitution of special fonts
 </e>
 <e>
    <lg>
-     <l pos="Pron">олома</l><orig>олоʼмаʼ</orig>
+     <l pos="Pron">олома</l><stress>олоʼмаʼ</stress>
    </lg>
    <mg> <pos>pron. indef.</pos>
      <tg xml:lang="fin">
@@ -509,14 +509,14 @@ Possible errors following proofreading are, e. g., substitution of special fonts
    </mg>
 </e>
 <e> <lg><l pos="Pron">ваньды</l> </lg> <mg> <tg xml:lang="fin"> <t>te kaikki</t> </tg> </mg> </e>
-<e> <lg><l pos="Pron">ваньзы</l><orig>ваʼньзо</orig> </lg> <mg><note><i>pron.</i></note> <tg xml:lang="fin"> <t>he kaikki</t> <t>ne kaikki</t> </tg> </mg> </e>
+<e> <lg><l pos="Pron">ваньзы</l><stress>ваʼньзо</stress> </lg> <mg><note><i>pron.</i></note> <tg xml:lang="fin"> <t>he kaikki</t> <t>ne kaikki</t> </tg> </mg> </e>
 <e> <lg><l pos="Pron">ваньмы</l> </lg> <mg> <tg xml:lang="fin"> <t>me kaikki</t> </tg> </mg> </e>
-<e> <lg><l pos="Pron">ваньмыз</l><orig>ваʼньмоз</orig> </lg> <mg ind="1th"><note><i>pron.</i></note> <tg xml:lang="fin"> <t>kaikki;</t> </tg> <xg><x>ваньмыз умой</x> <xt xml:lang="fin">kaikki on hyvää;</xt> </xg> <xg><x>мон ваньзэ лэсьтӥ ни</x> <xt xml:lang="fin">minä tein jo kaiken;</xt> </xg> <xg><x>ваньмыз кошкизы ни</x> <xt xml:lang="fin">kaikki lähtivät jo pois</xt> </xg> </mg> <mg ind="2th"> <note><i>adv:na</i></note><font face="SmolenskSGR">(<i>ӵош</i>)</font> <tg xml:lang="fin"> <t>kaikkiaan, yhteensä</t> </tg> </mg> </e>
-<e> <lg><l pos="Pron">витьнады</l><orig>витьнаʼдо</orig> </lg> <mg ind="1th"><note><i>pron. indef.</i></note><font face="SmolenskSGR">(<i>витьты ик</i>)</font> <tg xml:lang="fin"> <t>te kaikki viisi, jokainen teistä viidestä</t> </tg> </mg> <mg ind="2th"><defNative>вить кузя</defNative> <tg xml:lang="fin"> <t>te viidestään</t> </tg> </mg> </e>
-<e> <lg><l pos="Pron">витьназы</l><orig>витьнаʼзо</orig> </lg> <mg ind="1th"><note><i>pron. indef.</i></note><font face="SmolenskSGR">(<i>витьсы ик</i>)</font> <tg xml:lang="fin"> <t>he kaikki viisi, jokainen heistä viidestä</t> </tg> </mg> <mg ind="2th"><defNative>вить кузя</defNative> <tg xml:lang="fin"> <t>he viidestään</t> </tg> </mg> </e>
-<e> <lg><l pos="Pron">витьнамы</l><orig>витьнаʼмо</orig> </lg> <mg ind="1th"><note><i>pron. indef.</i></note><font face="SmolenskSGR">(<i>витьмы ик</i>)</font> <tg xml:lang="fin"> <t>me kaikki viisi, jokainen meistä viidestä</t> </tg> </mg> <mg ind="2th"><defNative>вить кузя</defNative> <tg xml:lang="fin"> <t>me viidestään</t> </tg> </mg> </e>
+<e> <lg><l pos="Pron">ваньмыз</l><stress>ваʼньмоз</stress> </lg> <mg ind="1th"><note><i>pron.</i></note> <tg xml:lang="fin"> <t>kaikki;</t> </tg> <xg><x>ваньмыз умой</x> <xt xml:lang="fin">kaikki on hyvää;</xt> </xg> <xg><x>мон ваньзэ лэсьтӥ ни</x> <xt xml:lang="fin">minä tein jo kaiken;</xt> </xg> <xg><x>ваньмыз кошкизы ни</x> <xt xml:lang="fin">kaikki lähtivät jo pois</xt> </xg> </mg> <mg ind="2th"> <note><i>adv:na</i></note><font face="SmolenskSGR">(<i>ӵош</i>)</font> <tg xml:lang="fin"> <t>kaikkiaan, yhteensä</t> </tg> </mg> </e>
+<e> <lg><l pos="Pron">витьнады</l><stress>витьнаʼдо</stress> </lg> <mg ind="1th"><note><i>pron. indef.</i></note><font face="SmolenskSGR">(<i>витьты ик</i>)</font> <tg xml:lang="fin"> <t>te kaikki viisi, jokainen teistä viidestä</t> </tg> </mg> <mg ind="2th"><defNative>вить кузя</defNative> <tg xml:lang="fin"> <t>te viidestään</t> </tg> </mg> </e>
+<e> <lg><l pos="Pron">витьназы</l><stress>витьнаʼзо</stress> </lg> <mg ind="1th"><note><i>pron. indef.</i></note><font face="SmolenskSGR">(<i>витьсы ик</i>)</font> <tg xml:lang="fin"> <t>he kaikki viisi, jokainen heistä viidestä</t> </tg> </mg> <mg ind="2th"><defNative>вить кузя</defNative> <tg xml:lang="fin"> <t>he viidestään</t> </tg> </mg> </e>
+<e> <lg><l pos="Pron">витьнамы</l><stress>витьнаʼмо</stress> </lg> <mg ind="1th"><note><i>pron. indef.</i></note><font face="SmolenskSGR">(<i>витьмы ик</i>)</font> <tg xml:lang="fin"> <t>me kaikki viisi, jokainen meistä viidestä</t> </tg> </mg> <mg ind="2th"><defNative>вить кузя</defNative> <tg xml:lang="fin"> <t>me viidestään</t> </tg> </mg> </e>
 <e>
-   <lg><l pos="Pron">вочакмы, вочаксы, вочакты</l><orig>воʼчакмы, воʼчаксы, воʼчакты</orig>
+   <lg><l pos="Pron">вочакмы, вочаксы, вочакты</l><stress>воʼчакмы, воʼчаксы, воʼчакты</stress>
    </lg>
    <mg><range>puhek.</range>
      <variants>
@@ -526,7 +526,7 @@ Possible errors following proofreading are, e. g., substitution of special fonts
 </e>
 
 <e>
-   <lg><l pos="Pron">котькин</l><orig>коʼтькиʼн</orig>
+   <lg><l pos="Pron">котькин</l><stress>коʼтькиʼн</stress>
    </lg>
    <mg><note><i>pron. indef.</i></note>
      <tg xml:lang="fin">
@@ -539,7 +539,7 @@ Possible errors following proofreading are, e. g., substitution of special fonts
 </e>
 
 <e>
-   <lg><l pos="Pron">котькудӥз</l><orig>коʼтькудӥʼз</orig>
+   <lg><l pos="Pron">котькудӥз</l><stress>коʼтькудӥʼз</stress>
    </lg>
    <mg><note><i>pron. indef.</i></note>
      <tg xml:lang="fin">
@@ -570,7 +570,7 @@ Possible errors following proofreading are, e. g., substitution of special fonts
 </mg>
 </e>
 <e>
-   <lg><l pos="Pron" type="Indef">куиньнамы</l><orig>куиньнаʼмо</orig>
+   <lg><l pos="Pron" type="Indef">куиньнамы</l><stress>куиньнаʼмо</stress>
    </lg>
    <mg ind="1th"><defNative>куиньмы ик</defNative>
      <tg xml:lang="fin">

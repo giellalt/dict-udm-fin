@@ -155,7 +155,7 @@ Possible errors following proofreading are, e. g., substitution of special fonts
      <l pos="N" type="Prop">Беларусь</l>
      <stg>
        <st Contlex="PROP_">Беларусь</st>
-     </stg><orig>Беларусь</orig>
+     </stg><stress>Беларусь</stress>
    </lg>
    <mg>
      <tg xml:lang="fin">
@@ -1240,7 +1240,7 @@ Possible errors following proofreading are, e. g., substitution of special fonts
      <l pos="N" type="Prop">Австралия</l>
      <stg>
        <st Contlex="PROP_RUS_JA">Австралия</st>
-     </stg><orig>Австраʼлия</orig>
+     </stg><stress>Австраʼлия</stress>
    </lg>
    <mg>
      <tg xml:lang="fin">
@@ -1253,7 +1253,7 @@ Possible errors following proofreading are, e. g., substitution of special fonts
      <l pos="N" type="Prop">Аланд</l>
      <stg>
        <st Contlex="PROP_">Аланд</st>
-     </stg><orig>Аʼланд</orig>
+     </stg><stress>Аʼланд</stress>
    </lg>
    <mg>
      <tg xml:lang="fin">
@@ -1272,7 +1272,7 @@ Possible errors following proofreading are, e. g., substitution of special fonts
      <l pos="N" type="Prop">Англия</l>
      <stg>
        <st Contlex="PROP_RUS_JA">Англия</st>
-     </stg><orig>Аʼнглия</orig>
+     </stg><stress>Аʼнглия</stress>
    </lg>
    <mg>
      <tg xml:lang="fin">
@@ -1285,7 +1285,7 @@ Possible errors following proofreading are, e. g., substitution of special fonts
      <l pos="N" type="Prop">Антарктида</l>
      <stg>
        <st Contlex="PROP_">Антарктида</st>
-     </stg><orig>Антарктиʼда</orig>
+     </stg><stress>Антарктиʼда</stress>
    </lg>
    <mg>
      <tg xml:lang="fin">
@@ -1298,7 +1298,7 @@ Possible errors following proofreading are, e. g., substitution of special fonts
      <l pos="N" type="Prop">Арктика</l>
      <stg>
        <st Contlex="PROP_">Арктика</st>
-     </stg><orig>Аʼрктика</orig>
+     </stg><stress>Аʼрктика</stress>
    </lg>
    <mg>
      <tg xml:lang="fin">
@@ -1311,7 +1311,7 @@ Possible errors following proofreading are, e. g., substitution of special fonts
      <l pos="N" type="Prop">Болгария</l>
      <stg>
        <st Contlex="PROP_RUS_JA">Болгария</st>
-     </stg><orig>Болгаʼрия</orig>
+     </stg><stress>Болгаʼрия</stress>
    </lg>
    <mg>
      <tg xml:lang="fin">
@@ -1324,7 +1324,7 @@ Possible errors following proofreading are, e. g., substitution of special fonts
      <l pos="N" type="Prop">Великобритания</l>
      <stg>
        <st Contlex="PROP_RUS_JA">Великобритания</st>
-     </stg><orig>Великобритаʼния</orig>
+     </stg><stress>Великобритаʼния</stress>
    </lg>
    <mg>
      <tg xml:lang="fin">
@@ -1337,7 +1337,7 @@ Possible errors following proofreading are, e. g., substitution of special fonts
      <l pos="N" type="Prop">Голландия</l>
      <stg>
        <st Contlex="PROP_RUS_JA">Голландия</st>
-     </stg><orig>Голлаʼндия</orig>
+     </stg><stress>Голлаʼндия</stress>
    </lg>
    <mg>
      <tg xml:lang="fin">
@@ -1350,7 +1350,7 @@ Possible errors following proofreading are, e. g., substitution of special fonts
      <l pos="N" type="Prop">Греция</l>
      <stg>
        <st Contlex="PROP_RUS_JA">Греция</st>
-     </stg><orig>Греʼция</orig>
+     </stg><stress>Греʼция</stress>
    </lg>
    <mg>
      <tg xml:lang="fin">
@@ -1363,7 +1363,7 @@ Possible errors following proofreading are, e. g., substitution of special fonts
      <l pos="N" type="Prop">Дания</l>
      <stg>
        <st Contlex="PROP_RUS_JA">Дания</st>
-     </stg><orig>Даʼния</orig>
+     </stg><stress>Даʼния</stress>
    </lg>
    <mg>
      <tg xml:lang="fin">
@@ -1376,7 +1376,7 @@ Possible errors following proofreading are, e. g., substitution of special fonts
      <l pos="N" type="Prop">Евразия</l>
      <stg>
        <st Contlex="PROP_RUS_JA">Евразия</st>
-     </stg><orig>Евраʼзия</orig>
+     </stg><stress>Евраʼзия</stress>
    </lg>
    <mg>
      <tg xml:lang="fin">
@@ -1389,7 +1389,7 @@ Possible errors following proofreading are, e. g., substitution of special fonts
      <l pos="N" type="Prop">Испания</l>
      <stg>
        <st Contlex="PROP_RUS_JA">Испания</st>
-     </stg><orig>Испаʼния</orig>
+     </stg><stress>Испаʼния</stress>
    </lg>
    <mg>
      <tg xml:lang="fin">
@@ -1402,7 +1402,7 @@ Possible errors following proofreading are, e. g., substitution of special fonts
      <l pos="N" type="Prop">Кам</l>
      <stg>
        <st Contlex="PROP_">Кам</st>
-     </stg><orig>Кам</orig>
+     </stg><stress>Кам</stress>
    </lg>
    <mg>
      <tg xml:lang="fin">
@@ -1415,7 +1415,7 @@ Possible errors following proofreading are, e. g., substitution of special fonts
      <l pos="N" type="Prop">Лапландия</l>
      <stg>
        <st Contlex="PROP_RUS_JA">Лапландия</st>
-     </stg><orig>Лаплаʼндия</orig>
+     </stg><stress>Лаплаʼндия</stress>
    </lg>
    <mg>
      <tg xml:lang="fin">
@@ -1431,7 +1431,7 @@ Possible errors following proofreading are, e. g., substitution of special fonts
      <l pos="N" type="Prop">Москва</l>
      <stg>
        <st Contlex="PROP_">Москва</st>
-     </stg><orig>Москва</orig>
+     </stg><stress>Москва</stress>
    </lg>
    <mg>
      <tg xml:lang="fin">
@@ -1447,7 +1447,7 @@ Possible errors following proofreading are, e. g., substitution of special fonts
      </variants>
      <stg>
        <st Contlex="PROP_">Нидерланд</st>
-     </stg><orig>Нидерланд(ъёс)</orig>
+     </stg><stress>Нидерланд(ъёс)</stress>
    </lg>
    <mg>
      <tg xml:lang="fin">
@@ -1463,7 +1463,7 @@ Possible errors following proofreading are, e. g., substitution of special fonts
      </variants>
      <stg>
        <st Contlex="PROP_">Нидерландъёс</st>
-     </stg><orig>Нидерланд(ъёс)</orig>
+     </stg><stress>Нидерланд(ъёс)</stress>
    </lg>
    <mg>
      <tg xml:lang="fin">
@@ -1476,7 +1476,7 @@ Possible errors following proofreading are, e. g., substitution of special fonts
      <l pos="N" type="Prop">Норвегия</l>
      <stg>
        <st Contlex="PROP_RUS_JA">Норвегия</st>
-     </stg><orig>Норвеʼгия</orig>
+     </stg><stress>Норвеʼгия</stress>
    </lg>
    <mg>
      <tg xml:lang="fin">
@@ -1489,7 +1489,7 @@ Possible errors following proofreading are, e. g., substitution of special fonts
      <l pos="N" type="Prop">Огазеяськем Нациослэн Организацизы</l>
      <stg>
        <st Contlex="PROP_">Огазеяськем Нациослэн Организацизы</st>
-     </stg><orig>Огазеяськем Наʼциослэн Организаʼцизы, ОНО, ООН</orig>
+     </stg><stress>Огазеяськем Наʼциослэн Организаʼцизы, ОНО, ООН</stress>
    </lg>
    <mg>
      <tg xml:lang="fin">
@@ -1503,7 +1503,7 @@ Possible errors following proofreading are, e. g., substitution of special fonts
      <l pos="N" type="Prop">Петербург</l>
      <stg>
        <st Contlex="PROP_">Петербург</st>
-     </stg><orig>Петербург</orig>
+     </stg><stress>Петербург</stress>
    </lg>
    <mg>
      <tg xml:lang="fin">
@@ -1516,7 +1516,7 @@ Possible errors following proofreading are, e. g., substitution of special fonts
      <l pos="N" type="Prop">Петрозаводск</l>
      <stg>
        <st Contlex="PROP_">Петрозаводск</st>
-     </stg><orig>Петрозаводск</orig>
+     </stg><stress>Петрозаводск</stress>
    </lg>
    <mg>
      <tg xml:lang="fin">
@@ -1529,7 +1529,7 @@ Possible errors following proofreading are, e. g., substitution of special fonts
      <l pos="N" type="Prop">Польша</l>
      <stg>
        <st Contlex="PROP_">Польша</st>
-     </stg><orig>Поʼльша</orig>
+     </stg><stress>Поʼльша</stress>
    </lg>
    <mg>
      <tg xml:lang="fin">
@@ -1542,7 +1542,7 @@ Possible errors following proofreading are, e. g., substitution of special fonts
      <l pos="N" type="Prop">Прибалтика</l>
      <stg>
        <st Contlex="PROP_">Прибалтика</st>
-     </stg><orig>Прибаʼлтика</orig>
+     </stg><stress>Прибаʼлтика</stress>
    </lg>
    <mg>
      <tg xml:lang="fin">
@@ -1555,7 +1555,7 @@ Possible errors following proofreading are, e. g., substitution of special fonts
      <l pos="N" type="Prop">Рим</l>
      <stg>
        <st Contlex="PROP_">Рим</st>
-     </stg><orig>Рим</orig>
+     </stg><stress>Рим</stress>
    </lg>
    <mg>
      <tg xml:lang="fin">
@@ -1568,7 +1568,7 @@ Possible errors following proofreading are, e. g., substitution of special fonts
      <l pos="N" type="Prop">Румония</l>
      <stg>
        <st Contlex="PROP_RUS_JA">Румония</st>
-     </stg><orig>Румония</orig>
+     </stg><stress>Румония</stress>
    </lg>
    <mg>
      <tg xml:lang="fin">
@@ -1581,7 +1581,7 @@ Possible errors following proofreading are, e. g., substitution of special fonts
      <l pos="N" type="Prop">Сибирь</l>
      <stg>
        <st Contlex="PROP_">Сибирь</st>
-     </stg><orig>Сибирь</orig>
+     </stg><stress>Сибирь</stress>
    </lg>
    <mg>
      <tg xml:lang="fin">
@@ -1594,7 +1594,7 @@ Possible errors following proofreading are, e. g., substitution of special fonts
      <l pos="N" type="Prop">Стокгольм</l>
      <stg>
        <st Contlex="PROP_">Стокгольм</st>
-     </stg><orig>Стокгольм</orig>
+     </stg><stress>Стокгольм</stress>
    </lg>
    <mg>
      <tg xml:lang="fin">
@@ -1607,7 +1607,7 @@ Possible errors following proofreading are, e. g., substitution of special fonts
      <l pos="N" type="Prop">Франция</l>
      <stg>
        <st Contlex="PROP_RUS_JA">Франция</st>
-     </stg><orig>Фраʼнция</orig>
+     </stg><stress>Фраʼнция</stress>
    </lg>
    <mg>
      <tg xml:lang="fin">
@@ -1620,7 +1620,7 @@ Possible errors following proofreading are, e. g., substitution of special fonts
      <l pos="N" type="Prop">Хорватия</l>
      <stg>
        <st Contlex="PROP_RUS_JA">Хорватия</st>
-     </stg><orig>Хорваʼтия</orig>
+     </stg><stress>Хорваʼтия</stress>
    </lg>
    <mg>
      <tg xml:lang="fin">
@@ -1633,7 +1633,7 @@ Possible errors following proofreading are, e. g., substitution of special fonts
      <l pos="N" type="Prop">Швеция</l>
      <stg>
        <st Contlex="PROP_RUS_JA">Швеция</st>
-     </stg><orig>Швеʼция</orig>
+     </stg><stress>Швеʼция</stress>
    </lg>
    <mg>
      <tg xml:lang="fin">
@@ -1646,7 +1646,7 @@ Possible errors following proofreading are, e. g., substitution of special fonts
      <l pos="N" type="Prop">Великтэм</l>
      <stg>
        <st Contlex="PROP_">Великтэм</st>
-     </stg><orig>Великтэм</orig>
+     </stg><stress>Великтэм</stress>
    </lg>
    <mg>
      <tg xml:lang="fin">
@@ -1662,7 +1662,7 @@ Possible errors following proofreading are, e. g., substitution of special fonts
      <l pos="N" type="Prop">Вӧйдыр</l>
      <stg>
        <st Contlex="PROP_">Вӧйдыр</st>
-     </stg><orig>Вӧйдыр</orig>
+     </stg><stress>Вӧйдыр</stress>
    </lg>
    <mg>
      <tg xml:lang="fin">
@@ -1675,7 +1675,7 @@ Possible errors following proofreading are, e. g., substitution of special fonts
      <l pos="N" type="Prop">Вукиськась</l>
      <stg>
        <st Contlex="PROP_">Вукиськась</st>
-     </stg><orig>Вукиськась</orig>
+     </stg><stress>Вукиськась</stress>
      <variants>
        <l_syn>Вукисьтась</l_syn>
      </variants>
@@ -1691,7 +1691,7 @@ Possible errors following proofreading are, e. g., substitution of special fonts
      <l pos="N" type="Prop">Вукисьтась</l>
      <stg>
        <st Contlex="PROP_">Вукисьтась</st>
-     </stg><orig>Вукисьтась</orig>
+     </stg><stress>Вукисьтась</stress>
      <variants>
        <l_syn>Вукиськась</l_syn>
      </variants>
@@ -1707,7 +1707,7 @@ Possible errors following proofreading are, e. g., substitution of special fonts
      <l pos="N" type="Prop">Масленча</l>
      <stg>
        <st Contlex="PROP_">Масленча</st>
-     </stg><orig>Масленча</orig>
+     </stg><stress>Масленча</stress>
    </lg>
    <mg>
      <tg xml:lang="fin">
@@ -1723,7 +1723,7 @@ Possible errors following proofreading are, e. g., substitution of special fonts
      <l pos="N" type="Prop">Мукылдысин</l>
      <stg>
        <st Contlex="PROP_">Мукылдысин</st>
-     </stg><orig>Мукылдысин</orig>
+     </stg><stress>Мукылдысин</stress>
    </lg>
    <mg><field>myt.</field>
      <tg xml:lang="fin">
@@ -1736,7 +1736,7 @@ Possible errors following proofreading are, e. g., substitution of special fonts
      <l pos="N" type="Prop">Пукро</l>
      <stg>
        <st Contlex="PROP_">Пукро</st>
-     </stg><orig>Пукро</orig>
+     </stg><stress>Пукро</stress>
      <variants>
        <l_syn>Пукрол</l_syn>
      </variants>
@@ -1758,7 +1758,7 @@ Possible errors following proofreading are, e. g., substitution of special fonts
      <l pos="N" type="Prop">Пукрол</l>
      <stg>
        <st Contlex="PROP_">Пукрол</st>
-     </stg><orig>Пукрол</orig>
+     </stg><stress>Пукрол</stress>
      <variants>
        <l_syn>Пукро</l_syn>
      </variants>
@@ -1780,7 +1780,7 @@ Possible errors following proofreading are, e. g., substitution of special fonts
      <l pos="N" type="Prop">Пучыарня</l>
      <stg>
        <st Contlex="PROP_">Пучыарня</st>
-     </stg><orig>Пучыарня</orig>
+     </stg><stress>Пучыарня</stress>
    </lg>
    <mg><field>usk.</field>
      <tg xml:lang="fin">
@@ -1793,7 +1793,7 @@ Possible errors following proofreading are, e. g., substitution of special fonts
      <l pos="N" type="Prop">Ымусьтон</l>
      <stg>
        <st Contlex="PROP_">Ымусьтон</st>
-     </stg><orig>Ымусьтон</orig>
+     </stg><stress>Ымусьтон</stress>
    </lg>
    <mg><field>usk.</field>
      <tg xml:lang="fin">
@@ -1809,7 +1809,7 @@ Possible errors following proofreading are, e. g., substitution of special fonts
      <l pos="N" type="Prop">Акашка</l>
      <stg>
        <st Contlex="PROP_">Акашка</st>
-     </stg><orig>Акашка</orig>
+     </stg><stress>Акашка</stress>
    </lg>
    <mg> <field>kirk.</field> <defNative>Быдӟым нунал</defNative>
      <tg xml:lang="fin">
@@ -1830,7 +1830,7 @@ Possible errors following proofreading are, e. g., substitution of special fonts
 </e>
 <e>
    <lg>
-     <l pos="N">ООН</l><orig>ООН</orig>
+     <l pos="N">ООН</l><stress>ООН</stress>
    </lg>
    <mg>
      <tg xml:lang="fin">
@@ -1843,7 +1843,7 @@ Possible errors following proofreading are, e. g., substitution of special fonts
 </e>
 <e>
    <lg>
-     <l pos="N">Швейцария</l><orig>Швейцаʼрия</orig>
+     <l pos="N">Швейцария</l><stress>Швейцаʼрия</stress>
    </lg>
    <mg>
      <tg xml:lang="fin">
@@ -1853,7 +1853,7 @@ Possible errors following proofreading are, e. g., substitution of special fonts
 </e>
 <e>
    <lg>
-     <l pos="N">Шотландия</l><orig>Шотлаʼндия</orig>
+     <l pos="N">Шотландия</l><stress>Шотлаʼндия</stress>
    </lg>
    <mg>
      <tg xml:lang="fin">

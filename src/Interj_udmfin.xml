@@ -62,7 +62,7 @@ Possible errors following proofreading are, e. g., substitution of special fonts
 <e> <lg><l pos="Interj">возем<rom ind="2"/></l> <range>murt.</range></lg> <mg><defNative>ӟеч лу</defNative> <tg xml:lang="fin"> <t>näkemiin!</t> </tg> </mg> </e>
 <e>
    <lg>
-     <l pos="Interj">чале</l><orig>чаʼле</orig>
+     <l pos="Interj">чале</l><stress>чаʼле</stress>
      <variants>
        <l_syn>чалелэ</l_syn>
      </variants>
@@ -79,7 +79,7 @@ Possible errors following proofreading are, e. g., substitution of special fonts
 </e>
 <e>
    <lg>
-     <l pos="Interj">чалелэ</l><orig>чаʼлелэ</orig>
+     <l pos="Interj">чалелэ</l><stress>чаʼлелэ</stress>
      <variants>
        <l_syn>чале</l_syn>
      </variants>
@@ -96,7 +96,7 @@ Possible errors following proofreading are, e. g., substitution of special fonts
 </e>
 <e>
    <lg>
-     <l pos="Interj">чиге-чиге</l><orig>чиге-чиге</orig>
+     <l pos="Interj">чиге-чиге</l><stress>чиге-чиге</stress>
    </lg>
    <mg><note><i>huudahdus</i></note>
      <tg xml:lang="fin">
@@ -128,7 +128,7 @@ Possible errors following proofreading are, e. g., substitution of special fonts
 </e>
 <e>
    <lg>
-     <l pos="Interj">ыш-ыш</l><orig>ыш-ыш</orig>
+     <l pos="Interj">ыш-ыш</l><stress>ыш-ыш</stress>
      <variants>
        <l_syn>ыш-ыш-ыш</l_syn>
      </variants>
@@ -151,7 +151,7 @@ Possible errors following proofreading are, e. g., substitution of special fonts
 </e>
 <e>
    <lg>
-     <l pos="Interj">ыш-ыш-ыш</l><orig>ыш-ыш-ыш</orig>
+     <l pos="Interj">ыш-ыш-ыш</l><stress>ыш-ыш-ыш</stress>
      <variants>
        <l_syn>ыш-ыш</l_syn>
      </variants>
@@ -174,7 +174,7 @@ Possible errors following proofreading are, e. g., substitution of special fonts
 </e>
 <e>
    <lg>
-     <l pos="Interj">э</l><orig>э</orig>
+     <l pos="Interj">э</l><stress>э</stress>
    </lg>
    <mg><note><i>ilmaisee ihmettelyä, ihastusta, sääliä tms.</i></note>
      <tg xml:lang="fin">
@@ -199,7 +199,7 @@ Possible errors following proofreading are, e. g., substitution of special fonts
 </e>
 <e>
    <lg>
-     <l pos="Interj">эй</l><orig>эй</orig>
+     <l pos="Interj">эй</l><stress>эй</stress>
    </lg>
    <mg>
      <tg xml:lang="fin">
@@ -212,7 +212,7 @@ Possible errors following proofreading are, e. g., substitution of special fonts
 </e>
 <e>
    <lg>
-     <l pos="Interj">эк</l><orig>эк</orig>
+     <l pos="Interj">эк</l><stress>эк</stress>
    </lg>
    <mg><note><i>ilmaisee ihmettelyä, ihastusta, sääliä, moitetta, pahoittelua, kivun tunnetta tms.</i></note>
      <tg xml:lang="fin">
@@ -228,7 +228,7 @@ Possible errors following proofreading are, e. g., substitution of special fonts
 </e>
 <e>
    <lg>
-     <l pos="Interj">эк-ек-ек</l><orig>эк-ек-ек</orig>
+     <l pos="Interj">эк-ек-ек</l><stress>эк-ек-ек</stress>
    </lg>
    <mg><note><i>ilmaisee pahoittelua, mielipahaa, moitetta: </i></note>
      <tg xml:lang="fin">
@@ -241,7 +241,7 @@ Possible errors following proofreading are, e. g., substitution of special fonts
 </e>
 <e>
    <lg>
-     <l pos="Interj">э-э</l><orig>э-э</orig>
+     <l pos="Interj">э-э</l><stress>э-э</stress>
    </lg>
    <mg><note><i>ilmaisee ihmettelyä, ihastusta, sääliä, moitetta, pahoittelua tms.</i></note>
      <tg xml:lang="fin">
@@ -254,7 +254,7 @@ Possible errors following proofreading are, e. g., substitution of special fonts
 </e>
 <e>
    <lg>
-     <l pos="Interj">бле-бле</l><orig>бле-бле</orig>
+     <l pos="Interj">бле-бле</l><stress>бле-бле</stress>
    </lg>
    <mg><note><i>huudahdus, jolla kutsutaan lampaita</i></note>
      <tg xml:lang="fin">
@@ -267,7 +267,7 @@ Possible errors following proofreading are, e. g., substitution of special fonts
 </e>
 <e>
    <lg>
-     <l pos="Interj">быле-быле</l><orig>быле-быле</orig>
+     <l pos="Interj">быле-быле</l><stress>быле-быле</stress>
    </lg>
    <mg><note><i>huudahdus, jolla kutsutaan lampaita</i></note>
      <tg xml:lang="fin">
@@ -290,14 +290,14 @@ Possible errors following proofreading are, e. g., substitution of special fonts
 </e>
 <e>
    <lg>
-     <l pos="Interj">дӥго-дӥго</l><orig>дӥго-дӥго</orig>
+     <l pos="Interj">дӥго-дӥго</l><stress>дӥго-дӥго</stress>
    </lg>
    <mg><note><i>kutsuhuuto hanhille</i></note>
    </mg>
 </e>
 <e>
    <lg>
-     <l pos="Interj">кыш</l><orig>кыш</orig>
+     <l pos="Interj">кыш</l><stress>кыш</stress>
    </lg>
    <mg>
      <tg xml:lang="fin">
@@ -308,7 +308,7 @@ Possible errors following proofreading are, e. g., substitution of special fonts
 </e>
 <e>
    <lg>
-     <l pos="Interj">ме</l><orig>ме</orig>
+     <l pos="Interj">ме</l><stress>ме</stress>
    </lg>
    <mg>
      <tg xml:lang="fin">
@@ -337,7 +337,7 @@ Possible errors following proofreading are, e. g., substitution of special fonts
 </e>
 <e>
    <lg>
-     <l pos="Interj">ой</l><orig>ой</orig>
+     <l pos="Interj">ой</l><stress>ой</stress>
    </lg>
    <mg>
      <tg xml:lang="fin">
@@ -353,7 +353,7 @@ Possible errors following proofreading are, e. g., substitution of special fonts
 </e>
 <e>
    <lg>
-     <l pos="Interj">ойдолэ</l><orig>оʼйдолэ</orig>
+     <l pos="Interj">ойдолэ</l><stress>оʼйдолэ</stress>
    </lg>
    <mg><note><i>käytetään vain useita ihmisiä kehotettaessa</i></note>
      <tg xml:lang="fin">
@@ -390,7 +390,7 @@ Possible errors following proofreading are, e. g., substitution of special fonts
 </e>
 <e>
    <lg>
-     <l pos="Interj">олӥ-и</l><orig>олӥ-и</orig>
+     <l pos="Interj">олӥ-и</l><stress>олӥ-и</stress>
      <variants>
        <l_syn>олӥ-олӥ</l_syn>
      </variants>
@@ -406,7 +406,7 @@ Possible errors following proofreading are, e. g., substitution of special fonts
 </e>
 <e>
    <lg>
-     <l pos="Interj">олӥ-олӥ</l><orig>оʼлӥ-олӥʼ</orig>
+     <l pos="Interj">олӥ-олӥ</l><stress>оʼлӥ-олӥʼ</stress>
      <variants>
        <l_syn>олӥ-и</l_syn>
      </variants>
@@ -422,7 +422,7 @@ Possible errors following proofreading are, e. g., substitution of special fonts
 </e>
 <e>
    <lg>
-     <l pos="Interj">олле</l><orig>оʼлле</orig>
+     <l pos="Interj">олле</l><stress>оʼлле</stress>
    </lg>
    <mg><range>puhek.</range>
      <variants>
@@ -432,7 +432,7 @@ Possible errors following proofreading are, e. g., substitution of special fonts
 </e>
 <e>
    <lg>
-     <l pos="Interj">олошай</l><orig>олошай</orig>
+     <l pos="Interj">олошай</l><stress>олошай</stress>
    </lg>
    <mg><note><i>ark.</i></note>
      <tg xml:lang="fin">
@@ -445,7 +445,7 @@ Possible errors following proofreading are, e. g., substitution of special fonts
 </e>
 <e>
    <lg>
-     <l pos="Interj">осто</l><orig>оʼсто</orig>
+     <l pos="Interj">осто</l><stress>оʼсто</stress>
      <variants>
        <l_syn>остэ</l_syn>
      </variants>
@@ -475,7 +475,7 @@ Possible errors following proofreading are, e. g., substitution of special fonts
 </e>
 <e>
    <lg>
-     <l pos="Interj">остэ</l><orig>оʼстэ</orig>
+     <l pos="Interj">остэ</l><stress>оʼстэ</stress>
      <variants>
        <l_syn>осто</l_syn>
      </variants>
@@ -505,7 +505,7 @@ Possible errors following proofreading are, e. g., substitution of special fonts
 </e>
 <e>
    <lg>
-     <l pos="Interj">ӧб-ӧб</l><orig>ӧб-ӧб</orig>
+     <l pos="Interj">ӧб-ӧб</l><stress>ӧб-ӧб</stress>
      <variants>
        <l_syn>ӧб-ӧб-ӧб</l_syn>
      </variants>
@@ -521,7 +521,7 @@ Possible errors following proofreading are, e. g., substitution of special fonts
 </e>
 <e>
    <lg>
-     <l pos="Interj">ӧб-ӧб-ӧб</l><orig>ӧб-ӧб-ӧб</orig>
+     <l pos="Interj">ӧб-ӧб-ӧб</l><stress>ӧб-ӧб-ӧб</stress>
      <variants>
        <l_syn>ӧб-ӧб</l_syn>
      </variants>
@@ -537,7 +537,7 @@ Possible errors following proofreading are, e. g., substitution of special fonts
 </e>
 <e>
    <lg>
-     <l pos="Interj">ӧч</l><orig>ӧч</orig>
+     <l pos="Interj">ӧч</l><stress>ӧч</stress>
    </lg>
    <mg><note><i>käytetään inhoa ilmaisemaan</i></note>
      <tg xml:lang="fin">
@@ -553,7 +553,7 @@ Possible errors following proofreading are, e. g., substitution of special fonts
 </e>
 <e>
    <lg>
-     <l pos="Interj">ӧч-ӧч-ӧч</l><orig>ӧч-ӧч-ӧч</orig>
+     <l pos="Interj">ӧч-ӧч-ӧч</l><stress>ӧч-ӧч-ӧч</stress>
    </lg>
    <mg>
      <variants>
@@ -583,7 +583,7 @@ Possible errors following proofreading are, e. g., substitution of special fonts
 </e>
 <e>
    <lg>
-     <l pos="Interj">пырс</l><orig>пырс</orig>
+     <l pos="Interj">пырс</l><stress>пырс</stress>
    </lg>
    <mg><note><i>deskr. puhek.</i></note>
      <tg xml:lang="fin">
@@ -599,7 +599,7 @@ Possible errors following proofreading are, e. g., substitution of special fonts
 </e>
 <e>
    <lg>
-     <l pos="Interj">сап</l><orig>сап</orig>
+     <l pos="Interj">сап</l><stress>сап</stress>
    </lg>
    <mg ind="1th"><note><i>käytetään nopeaa kahmaisua, tarttumista kuvattaessa</i></note>
      <tg xml:lang="fin">
@@ -620,7 +620,7 @@ Possible errors following proofreading are, e. g., substitution of special fonts
 </e>
 <e>
    <lg>
-     <l pos="Interj">сач</l><orig>сач</orig>
+     <l pos="Interj">сач</l><stress>сач</stress>
    </lg>
    <mg>
      <tg xml:lang="fin">
@@ -633,7 +633,7 @@ Possible errors following proofreading are, e. g., substitution of special fonts
 </e>
 <e>
    <lg>
-     <l pos="Interj">сачак</l><orig>саʼчаʼк</orig>
+     <l pos="Interj">сачак</l><stress>саʼчаʼк</stress>
    </lg>
    <mg>
      <variants>
@@ -643,7 +643,7 @@ Possible errors following proofreading are, e. g., substitution of special fonts
 </e>
 <e>
    <lg>
-     <l pos="Interj">стоп</l><orig>стоп</orig>
+     <l pos="Interj">стоп</l><stress>стоп</stress>
    </lg>
    <mg>
      <tg xml:lang="fin">
@@ -653,7 +653,7 @@ Possible errors following proofreading are, e. g., substitution of special fonts
 </e>
 <e>
    <lg>
-     <l pos="Interj">сябась</l><orig>сябась</orig>
+     <l pos="Interj">сябась</l><stress>сябась</stress>
    </lg>
    <mg>
      <tg xml:lang="fin">
@@ -670,7 +670,7 @@ Possible errors following proofreading are, e. g., substitution of special fonts
 </e>
 <e>
    <lg>
-     <l pos="Interj">тау</l><orig>таʼу</orig>
+     <l pos="Interj">тау</l><stress>таʼу</stress>
    </lg>
    <mg>
      <tg xml:lang="fin">
@@ -689,7 +689,7 @@ Possible errors following proofreading are, e. g., substitution of special fonts
 </e>
 <e>
    <lg>
-     <l pos="Interj">тауна</l><orig>таʼунаʼ</orig>
+     <l pos="Interj">тауна</l><stress>таʼунаʼ</stress>
    </lg>
    <mg>
      <tg xml:lang="fin">
@@ -713,7 +713,7 @@ Possible errors following proofreading are, e. g., substitution of special fonts
 </e>
 <e>
    <lg>
-     <l pos="Interj">ура</l><orig>ура</orig>
+     <l pos="Interj">ура</l><stress>ура</stress>
    </lg>
    <mg>
      <tg xml:lang="fin">
@@ -727,7 +727,7 @@ Possible errors following proofreading are, e. g., substitution of special fonts
 </e>
 <e>
    <lg>
-     <l pos="Interj">чале</l><orig>чаʼле</orig>
+     <l pos="Interj">чале</l><stress>чаʼле</stress>
      <variants>
        <l_syn>чалелэ</l_syn>
      </variants>
@@ -744,7 +744,7 @@ Possible errors following proofreading are, e. g., substitution of special fonts
 </e>
 <e>
    <lg>
-     <l pos="Interj">чалелэ</l><orig>чаʼлелэ</orig>
+     <l pos="Interj">чалелэ</l><stress>чаʼлелэ</stress>
      <variants>
        <l_syn>чале</l_syn>
      </variants>
@@ -761,7 +761,7 @@ Possible errors following proofreading are, e. g., substitution of special fonts
 </e>
 <e>
    <lg>
-     <l pos="Interj">чиге-чиге</l><orig>чиге-чиге</orig>
+     <l pos="Interj">чиге-чиге</l><stress>чиге-чиге</stress>
    </lg>
    <mg><note><i>huudahdus</i></note>
      <tg xml:lang="fin">
@@ -793,7 +793,7 @@ Possible errors following proofreading are, e. g., substitution of special fonts
 </e>
 <e>
    <lg>
-     <l pos="Interj">ыш-ыш</l><orig>ыш-ыш</orig>
+     <l pos="Interj">ыш-ыш</l><stress>ыш-ыш</stress>
      <variants>
        <l_syn>ыш-ыш-ыш</l_syn>
      </variants>
@@ -816,7 +816,7 @@ Possible errors following proofreading are, e. g., substitution of special fonts
 </e>
 <e>
    <lg>
-     <l pos="Interj">ыш-ыш-ыш</l><orig>ыш-ыш-ыш</orig>
+     <l pos="Interj">ыш-ыш-ыш</l><stress>ыш-ыш-ыш</stress>
      <variants>
        <l_syn>ыш-ыш</l_syn>
      </variants>
@@ -839,7 +839,7 @@ Possible errors following proofreading are, e. g., substitution of special fonts
 </e>
 <e>
    <lg>
-     <l pos="Interj">э</l><orig>э</orig>
+     <l pos="Interj">э</l><stress>э</stress>
    </lg>
    <mg><note><i>ilmaisee ihmettelyä, ihastusta, sääliä tms.</i></note>
      <tg xml:lang="fin">
@@ -864,7 +864,7 @@ Possible errors following proofreading are, e. g., substitution of special fonts
 </e>
 <e>
    <lg>
-     <l pos="Interj">эй</l><orig>эй</orig>
+     <l pos="Interj">эй</l><stress>эй</stress>
    </lg>
    <mg>
      <tg xml:lang="fin">
@@ -877,7 +877,7 @@ Possible errors following proofreading are, e. g., substitution of special fonts
 </e>
 <e>
    <lg>
-     <l pos="Interj">эк</l><orig>эк</orig>
+     <l pos="Interj">эк</l><stress>эк</stress>
    </lg>
    <mg><note><i>ilmaisee ihmettelyä, ihastusta, sääliä, moitetta, pahoittelua, kivun tunnetta tms.</i></note>
      <tg xml:lang="fin">
@@ -893,7 +893,7 @@ Possible errors following proofreading are, e. g., substitution of special fonts
 </e>
 <e>
    <lg>
-     <l pos="Interj">эк-ек-ек</l><orig>эк-ек-ек</orig>
+     <l pos="Interj">эк-ек-ек</l><stress>эк-ек-ек</stress>
    </lg>
    <mg><note><i>ilmaisee pahoittelua, mielipahaa, moitetta: </i></note>
      <tg xml:lang="fin">
@@ -906,7 +906,7 @@ Possible errors following proofreading are, e. g., substitution of special fonts
 </e>
 <e>
    <lg>
-     <l pos="Interj">э-э</l><orig>э-э</orig>
+     <l pos="Interj">э-э</l><stress>э-э</stress>
    </lg>
    <mg><note><i>ilmaisee ihmettelyä, ihastusta, sääliä, moitetta, pahoittelua tms.</i></note>
      <tg xml:lang="fin">

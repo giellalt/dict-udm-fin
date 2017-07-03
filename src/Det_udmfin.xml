@@ -27,7 +27,7 @@ Possible errors following proofreading are, e. g., substitution of special fonts
    </lics>
 <e>
    <lg>
-     <l pos="Det">сюэтӥ</l><orig>сюэʼтӥʼ</orig>
+     <l pos="Det">сюэтӥ</l><stress>сюэʼтӥʼ</stress>
    </lg>
    <mg>
      <tg xml:lang="fin">
@@ -37,7 +37,7 @@ Possible errors following proofreading are, e. g., substitution of special fonts
 </e>
 <e>
    <lg>
-     <l pos="Det">та</l><orig>та</orig>
+     <l pos="Det">та</l><stress>та</stress>
    </lg>
    <mg><note><i>pron. demonstr.</i></note>
      <tg xml:lang="fin">
@@ -77,7 +77,7 @@ Possible errors following proofreading are, e. g., substitution of special fonts
    </mg>
 </e>
 <e>
-   <lg><l pos="Det">витетӥ</l><orig>витеʼтӥʼ</orig>
+   <lg><l pos="Det">витетӥ</l><stress>витеʼтӥʼ</stress>
    </lg>
    <mg ind="1th">
      <tg xml:lang="fin">
@@ -86,7 +86,7 @@ Possible errors following proofreading are, e. g., substitution of special fonts
 </mg>
 </e>
 <e>
-   <lg><l pos="Det">дасэтӥ</l><orig>дасэʼтӥʼ</orig>
+   <lg><l pos="Det">дасэтӥ</l><stress>дасэʼтӥʼ</stress>
    </lg>
    <mg>
      <tg xml:lang="fin">
@@ -95,7 +95,7 @@ Possible errors following proofreading are, e. g., substitution of special fonts
 </mg>
 </e>
 <e>
-   <lg><l pos="Det">куатетӥ</l><orig>куатеʼтӥʼ</orig>
+   <lg><l pos="Det">куатетӥ</l><stress>куатеʼтӥʼ</stress>
    </lg>
    <mg ind="1th">
      <tg xml:lang="fin">
@@ -104,7 +104,7 @@ Possible errors following proofreading are, e. g., substitution of special fonts
 </mg>
 </e>
 <e>
-   <lg><l pos="Det">куинетӥ</l><orig>куинеʼтӥʼ</orig>
+   <lg><l pos="Det">куинетӥ</l><stress>куинеʼтӥʼ</stress>
    </lg>
    <mg ind="1th">
      <tg xml:lang="fin">
@@ -113,7 +113,7 @@ Possible errors following proofreading are, e. g., substitution of special fonts
 </mg>
 </e>
 <e>
-   <lg><l pos="Det;Adv">кызетӥ</l><orig>кызеʼтӥʼ</orig>
+   <lg><l pos="Det;Adv">кызетӥ</l><stress>кызеʼтӥʼ</stress>
    </lg>
    <mg ind="1th">
      <tg xml:lang="fin">
@@ -122,7 +122,7 @@ Possible errors following proofreading are, e. g., substitution of special fonts
 </mg>
 </e>
 <e>
-   <lg><l pos="Det">кыкетӥ</l><orig>кыкеʼтӥʼ</orig>
+   <lg><l pos="Det">кыкетӥ</l><stress>кыкеʼтӥʼ</stress>
    </lg>
    <mg ind="1th">
      <tg xml:lang="fin">
@@ -131,7 +131,7 @@ Possible errors following proofreading are, e. g., substitution of special fonts
 </mg>
 </e>
 <e>
-   <lg><l pos="Det;A">нырысетӥ</l><orig>нырысеʼтӥʼ</orig>
+   <lg><l pos="Det;A">нырысетӥ</l><stress>нырысеʼтӥʼ</stress>
    </lg>
    <mg ind="1th">
      <tg xml:lang="fin">
@@ -157,7 +157,7 @@ Possible errors following proofreading are, e. g., substitution of special fonts
 </e>
 
 <e>
-   <lg><l pos="Det">ньылетӥ</l><orig>ньылеʼтӥʼ</orig>
+   <lg><l pos="Det">ньылетӥ</l><stress>ньылеʼтӥʼ</stress>
    </lg>
    <mg ind="1th">
      <tg xml:lang="fin">
@@ -166,7 +166,7 @@ Possible errors following proofreading are, e. g., substitution of special fonts
 </mg>
 </e>
 <e>
-   <lg><l pos="Det">одӥгетӥ</l><orig>одӥгеʼтӥʼ</orig>
+   <lg><l pos="Det">одӥгетӥ</l><stress>одӥгеʼтӥʼ</stress>
    </lg>
    <mg ind="1th">
      <tg xml:lang="fin">
@@ -201,7 +201,7 @@ Possible errors following proofreading are, e. g., substitution of special fonts
 </e>
 
 <e>
-   <lg><l pos="Pron">котькуд</l><orig>коʼтькад</orig>
+   <lg><l pos="Pron">котькуд</l><stress>коʼтькад</stress>
    </lg>
    <mg><note><i>pron. indef.</i></note><note>(<i>määritteenä</i>)</note>
      <tg xml:lang="fin">

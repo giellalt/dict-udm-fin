@@ -28,7 +28,7 @@ Possible errors following proofreading are, e. g., substitution of special fonts
 
 <e>
    <lg>
-     <l pos="Num">вить</l><orig>вить</orig>
+     <l pos="Num">вить</l><stress>вить</stress>
    </lg>
    <mg>
      <tg xml:lang="fin">
@@ -42,7 +42,7 @@ Possible errors following proofreading are, e. g., substitution of special fonts
 
 <e>
    <lg>
-     <l pos="Num">куамын</l><orig>куамын</orig>
+     <l pos="Num">куамын</l><stress>куамын</stress>
    </lg>
    <mg>
      <tg xml:lang="fin">
@@ -55,7 +55,7 @@ Possible errors following proofreading are, e. g., substitution of special fonts
 </e>
 <e>
    <lg>
-     <l pos="Num">куиньмос</l><orig>куиньмос</orig>
+     <l pos="Num">куиньмос</l><stress>куиньмос</stress>
    </lg>
    <mg>
      <tg xml:lang="fin">
@@ -65,7 +65,7 @@ Possible errors following proofreading are, e. g., substitution of special fonts
 </e>
 <e>
    <lg>
-     <l pos="Num">витьмос</l><orig>витьмос</orig>
+     <l pos="Num">витьмос</l><stress>витьмос</stress>
    </lg>
    <mg>
      <tg xml:lang="fin">
@@ -79,7 +79,7 @@ Possible errors following proofreading are, e. g., substitution of special fonts
 
 <e>
    <lg>
-     <l pos="Num">витьтон</l><orig>витьтон</orig>
+     <l pos="Num">витьтон</l><stress>витьтон</stress>
    </lg>
    <mg>
      <tg xml:lang="fin">
@@ -90,7 +90,7 @@ Possible errors following proofreading are, e. g., substitution of special fonts
 
 <e>
    <lg>
-     <l pos="Num">дас</l><orig>дас</orig>
+     <l pos="Num">дас</l><stress>дас</stress>
    </lg>
    <mg>
      <tg xml:lang="fin">
@@ -116,7 +116,7 @@ Possible errors following proofreading are, e. g., substitution of special fonts
 
 <e>
    <lg>
-     <l pos="Num">дасмос</l><orig>дасмос</orig>
+     <l pos="Num">дасмос</l><stress>дасмос</stress>
    </lg>
    <mg>
      <tg xml:lang="fin">
@@ -130,7 +130,7 @@ Possible errors following proofreading are, e. g., substitution of special fonts
 
 <e>
    <lg>
-     <l pos="Num">дасо</l><orig>дасо</orig>
+     <l pos="Num">дасо</l><stress>дасо</stress>
    </lg>
    <mg ind="1th"><defNative>дас</defNative>
      <tg xml:lang="fin">
@@ -159,7 +159,7 @@ Possible errors following proofreading are, e. g., substitution of special fonts
 
 <e>
    <lg>
-     <l pos="Num">куать</l><orig>куать</orig>
+     <l pos="Num">куать</l><stress>куать</stress>
    </lg>
    <mg>
      <tg xml:lang="fin">
@@ -173,7 +173,7 @@ Possible errors following proofreading are, e. g., substitution of special fonts
 
 <e>
    <lg>
-     <l pos="Num">куатьмос</l><orig>куатьмос</orig>
+     <l pos="Num">куатьмос</l><stress>куатьмос</stress>
    </lg>
    <mg>
      <tg xml:lang="fin">
@@ -187,7 +187,7 @@ Possible errors following proofreading are, e. g., substitution of special fonts
 
 <e>
    <lg>
-     <l pos="Num">куатьтон</l><orig>куатьтон</orig>
+     <l pos="Num">куатьтон</l><stress>куатьтон</stress>
    </lg>
    <mg>
      <tg xml:lang="fin">
@@ -198,7 +198,7 @@ Possible errors following proofreading are, e. g., substitution of special fonts
 
 <e>
    <lg>
-     <l pos="Num">куинь</l><orig>куинь</orig>
+     <l pos="Num">куинь</l><stress>куинь</stress>
    </lg>
    <mg>
      <tg xml:lang="fin">
@@ -240,7 +240,7 @@ Possible errors following proofreading are, e. g., substitution of special fonts
 
 <e>
    <lg>
-     <l pos="Num">кыкмос</l><orig>кыкмос</orig>
+     <l pos="Num">кыкмос</l><stress>кыкмос</stress>
    </lg>
    <mg>
      <tg xml:lang="fin">
@@ -254,7 +254,7 @@ Possible errors following proofreading are, e. g., substitution of special fonts
 
 <e>
    <lg>
-     <l pos="Num">миллиард</l><orig>миллиард</orig>
+     <l pos="Num">миллиард</l><stress>миллиард</stress>
    </lg>
    <mg>
      <tg xml:lang="fin">
@@ -265,7 +265,7 @@ Possible errors following proofreading are, e. g., substitution of special fonts
 
 <e>
    <lg>
-     <l pos="Num">миллион</l><orig>миллион</orig>
+     <l pos="Num">миллион</l><stress>миллион</stress>
    </lg>
    <mg>
      <tg xml:lang="fin">
@@ -276,7 +276,7 @@ Possible errors following proofreading are, e. g., substitution of special fonts
 
 <e>
    <lg>
-     <l pos="Num">ноль</l><orig>ноль</orig>
+     <l pos="Num">ноль</l><stress>ноль</stress>
    </lg>
    <mg>
      <tg xml:lang="fin">
@@ -287,7 +287,7 @@ Possible errors following proofreading are, e. g., substitution of special fonts
 
 <e>
    <lg>
-     <l pos="Num">ньыль</l><orig>ньыль</orig>
+     <l pos="Num">ньыль</l><stress>ньыль</stress>
    </lg>
    <mg>
      <tg xml:lang="fin">
@@ -310,7 +310,7 @@ Possible errors following proofreading are, e. g., substitution of special fonts
 
 <e>
    <lg>
-     <l pos="Num">ньыльдон</l><orig>ньыльдон</orig>
+     <l pos="Num">ньыльдон</l><stress>ньыльдон</stress>
    </lg>
    <mg>
      <tg xml:lang="fin">
@@ -321,7 +321,7 @@ Possible errors following proofreading are, e. g., substitution of special fonts
 
 <e>
    <lg>
-     <l pos="Num">ньыльмос</l><orig>ньыльмос</orig>
+     <l pos="Num">ньыльмос</l><stress>ньыльмос</stress>
    </lg>
    <mg>
      <tg xml:lang="fin">
@@ -335,7 +335,7 @@ Possible errors following proofreading are, e. g., substitution of special fonts
 
 <e>
    <lg>
-     <l pos="Num">сизьым</l><orig>сизьым</orig>
+     <l pos="Num">сизьым</l><stress>сизьым</stress>
    </lg>
    <mg>
      <tg xml:lang="fin">
@@ -349,7 +349,7 @@ Possible errors following proofreading are, e. g., substitution of special fonts
 
 <e>
    <lg>
-     <l pos="Num">сизьыммос</l><orig>сизьыммос</orig>
+     <l pos="Num">сизьыммос</l><stress>сизьыммос</stress>
    </lg>
    <mg>
      <tg xml:lang="fin">
@@ -360,7 +360,7 @@ Possible errors following proofreading are, e. g., substitution of special fonts
 
 <e>
    <lg>
-     <l pos="Num">сюрс</l><orig>сюрс</orig>
+     <l pos="Num">сюрс</l><stress>сюрс</stress>
    </lg>
    <mg>
      <tg xml:lang="fin">
@@ -374,7 +374,7 @@ Possible errors following proofreading are, e. g., substitution of special fonts
 
 <e>
    <lg>
-     <l pos="Num">сюрсмос</l><orig>сюрсмос</orig>
+     <l pos="Num">сюрсмос</l><stress>сюрсмос</stress>
    </lg>
    <mg>
      <tg xml:lang="fin">
@@ -385,7 +385,7 @@ Possible errors following proofreading are, e. g., substitution of special fonts
 
 <e>
    <lg>
-     <l pos="Num">тямыс</l><orig>тямыс</orig>
+     <l pos="Num">тямыс</l><stress>тямыс</stress>
    </lg>
    <mg>
      <tg xml:lang="fin">
@@ -396,7 +396,7 @@ Possible errors following proofreading are, e. g., substitution of special fonts
 
 <e>
    <lg>
-     <l pos="Num">тямыстон</l><orig>тямыстон</orig>
+     <l pos="Num">тямыстон</l><stress>тямыстон</stress>
    </lg>
    <mg>
      <tg xml:lang="fin">
@@ -407,7 +407,7 @@ Possible errors following proofreading are, e. g., substitution of special fonts
 
 <e>
    <lg>
-     <l pos="Num">укмыс</l><orig>укмыс</orig>
+     <l pos="Num">укмыс</l><stress>укмыс</stress>
    </lg>
    <mg>
      <tg xml:lang="fin">
@@ -418,7 +418,7 @@ Possible errors following proofreading are, e. g., substitution of special fonts
 
 <e>
    <lg>
-     <l pos="Num">укмыстон</l><orig>укмыстон</orig>
+     <l pos="Num">укмыстон</l><stress>укмыстон</stress>
    </lg>
    <mg>
      <tg xml:lang="fin">

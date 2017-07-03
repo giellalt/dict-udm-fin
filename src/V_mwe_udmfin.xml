@@ -469,7 +469,7 @@
 </e>
 <e>
    <lg>
-     <l pos="V">векъёс пуктылыны</l><orig>векъёс пуктылыны</orig>
+     <l pos="V">векъёс пуктылыны</l><stress>векъёс пуктылыны</stress>
    </lg>
    <mg>
      <tg xml:lang="fin">
@@ -559,7 +559,7 @@
 </e>
 <e>
    <lg>
-     <l pos="V">зар бӧрдыны</l><orig>зар: зар бӧрдыны</orig>
+     <l pos="V">зар бӧрдыны</l><stress>зар: зар бӧрдыны</stress>
    </lg>
    <mg>
      <tg xml:lang="fin">
@@ -662,7 +662,7 @@
 </e>
 <e>
    <lg>
-     <l pos="V">синэз кыньыны</l><orig>кыньыны: синэз к.</orig>
+     <l pos="V">синэз кыньыны</l><stress>кыньыны: синэз к.</stress>
    </lg>
    <mg>
      <tg xml:lang="fin">
@@ -672,7 +672,7 @@
 </e>
 <e>
    <lg>
-     <l pos="V">синэз кыньыртыны</l><orig>кыньыртыны: синэз к.</orig>
+     <l pos="V">синэз кыньыртыны</l><stress>кыньыртыны: синэз к.</stress>
    </lg>
    <mg><mwemg ind="1th"/>
      <tg xml:lang="fin">
@@ -727,7 +727,7 @@
 </e>
 <e>
    <lg>
-     <l pos="V">ныгыт сылыны</l><orig>н. сылыны</orig>
+     <l pos="V">ныгыт сылыны</l><stress>н. сылыны</stress>
    </lg>
    <mg>
      <tg xml:lang="fin">
@@ -737,7 +737,7 @@
 </e>
 <e>
    <lg>
-     <l pos="V">нюртэт поныны</l><orig>н. поныны</orig>
+     <l pos="V">нюртэт поныны</l><stress>н. поныны</stress>
    </lg>
    <mg>
      <tg xml:lang="fin">
@@ -766,7 +766,7 @@
 </e>
 <e>
    <lg>
-     <l pos="V">сьӧрозь келяны</l><orig>с. келяны</orig>
+     <l pos="V">сьӧрозь келяны</l><stress>с. келяны</stress>
    </lg>
    <mg>
      <tg xml:lang="fin">
@@ -825,7 +825,7 @@
 </e>
 <e>
    <lg>
-     <l pos="V">шоры возьматыны</l><orig>ш. возьматыны</orig>
+     <l pos="V">шоры возьматыны</l><stress>ш. возьматыны</stress>
    </lg>
    <mg>
      <tg xml:lang="fin">
@@ -869,7 +869,7 @@
 </e>
 <e>
    <lg>
-     <l pos="V">ят карыны</l><orig>ят карыны</orig>
+     <l pos="V">ят карыны</l><stress>ят карыны</stress>
    </lg>
    <mg><mwemg ind="1th"/><defNative>мурт адямиен лыдъяны</defNative>
      <tg xml:lang="fin">

@@ -28,7 +28,7 @@ Possible errors following proofreading are, e. g., substitution of special fonts
 
 <e>
    <lg>
-     <l pos="Po">сямен</l><orig>сямен</orig>
+     <l pos="Po">сямен</l><stress>сямен</stress>
    </lg>
    <mg ind="1th"><defNative>кыӵе ке амалэн</defNative>
      <tg xml:lang="fin">
@@ -78,7 +78,7 @@ Possible errors following proofreading are, e. g., substitution of special fonts
    </e>
 <e>
    <lg>
-     <l pos="Po">сяна</l><orig>сяна</orig>
+     <l pos="Po">сяна</l><stress>сяна</stress>
    </lg>
    <mg>
      <tg xml:lang="fin">
@@ -94,7 +94,7 @@ Possible errors following proofreading are, e. g., substitution of special fonts
 </e>
 <e>
    <lg>
-     <l pos="Po">сярысь</l><orig>сярысь</orig>
+     <l pos="Po">сярысь</l><stress>сярысь</stress>
    </lg>
    <mg ind="1th"><pos ind="Po"/>
      <tg xml:lang="fin">
@@ -125,7 +125,7 @@ Possible errors following proofreading are, e. g., substitution of special fonts
 </e>
 <e>
    <lg>
-     <l pos="Po">бертӥ</l><orig>бертӥ</orig>
+     <l pos="Po">бертӥ</l><stress>бертӥ</stress>
    </lg>
    <mg>
      <tg xml:lang="fin">
@@ -140,46 +140,46 @@ Possible errors following proofreading are, e. g., substitution of special fonts
    </mg>
 </e>
 
-<e> <lg> <l pos="Po">берозь</l><orig>берозь</orig> </lg> <mg ind="1th"><defNative>инты с-сь</defNative> <tg xml:lang="fin"> <t>takaosaan (asti)</t> </tg> </mg> <mg ind="2th"><defNative>дыр с-сь</defNative> <tg xml:lang="fin"> <t>jnk jälkeiseen aikaan asti;</t> </tg> <xg><x>лымшор берозь</x> <xt xml:lang="fin">keskipäivän jälkeiseen aikaan asti</xt> </xg> </mg> </e>
-<e> <lg> <l pos="Po">беры</l><orig>беры</orig> </lg> <mg> <tg xml:lang="fin"> <t>taa(kse);</t> </tg> <xg><x>корка беры</x> <xt xml:lang="fin">talon taa(kse)</xt> </xg> </mg> </e>
-<e> <lg> <l pos="Po">берысен</l><orig>берысен</orig> </lg> <mg> <tg xml:lang="fin"> <t>takaa</t> <re>alkaen</re>; </tg> <tg xml:lang="fin"> <t> takana;</t> </tg> <xg><x>бакча берысен ик нюлэс кутске</x> <xt xml:lang="fin">aivan kasvimaan takaa alkaa metsä</xt> </xg> </mg> </e>
-<e> <lg> <l pos="Po">берысь</l><orig>берысь</orig> </lg> <mg> <tg xml:lang="fin"> <t>takaa;</t> </tg> <xg><x>корка берысь</x> <xt xml:lang="fin">talon takaa</xt> </xg> </mg> </e>
-<e> <lg> <l pos="Po">бордтӥ</l><orig>бордтӥ</orig> </lg> <mg> <variants> <l_syn type="&gt;">бордытӥ</l_syn> </variants> </mg> </e>
-<e> <lg> <l pos="Po">борды</l><orig>борды</orig> </lg> <mg> <tg xml:lang="fin"> <t>vasten,</t> </tg><note><i>kääntyy illatiivilla</i></note> <tg xml:lang="fin"> <t>;</t> </tg><font face="SmolenskSGR"><b>борддор борды пыкиськыны</b> (<i>я. </i><b>чӧлскыны</b>)</font> <tg xml:lang="fin"> <t>nojautua seinää vasten;</t> </tg> <xg><x>кенер борды пу тырыны</x> <xt xml:lang="fin">laittaa polttopuut aitaa vasten;</xt> </xg> <xg><x>юбо борды думыны</x> <xt xml:lang="fin">köyttää pylvääseen</xt> </xg> </mg> </e>
-<e> <lg> <l pos="Po">бордын</l><orig>бордын</orig> </lg> <mg> <tg xml:lang="fin"> <t>=ssa / =ssä</t> <re>kiinni</re>; </tg> <tg xml:lang="fin"> <t> luona; kanssa;</t> </tg> <xg><x>атае бордын ужасько</x> <xt xml:lang="fin">työskentelen isäni kanssa</xt> </xg>◊ <xg><x>доклад бордын ужасько</x> <xt xml:lang="fin">olen kirjoittamassa esitelmää</xt> </xg> </mg> </e>
-<e> <lg> <l pos="Po">бордысен</l><orig>бордысен</orig> </lg> <mg> <tg xml:lang="fin"> <t>=sta / =stä</t> <re>kiinni alkaen</re>; </tg> <tg xml:lang="fin"> <t> =ssa / =ssä</t> <re>kiinni</re>; </tg> <xg><x>ойдо, тон бордысен кутском</x> <xt xml:lang="fin">no, aloitetaanpa sinusta</xt> </xg> </mg> </e>
-<e> <lg> <l pos="Po">бордысь</l><orig>бордысь</orig> </lg> <mg> <tg xml:lang="fin"> <t>=sta / =stä</t> <re>kiinni</re>; </tg> <xg><x>ваньмыз тон бордысь потэ</x> <xt xml:lang="fin">kaikki johtuu sinusta</xt> </xg> </mg> </e>
-<e> <lg> <l pos="Po">бордытӥ</l><orig>бордытӥ</orig> </lg> <mg> <tg xml:lang="fin"> <t>vieressä, ääressä, vieritse</t> <re>kiinni</re> </tg> <tg xml:lang="fin"> <t>, vierestä, äärestä</t> <re>kiinni</re>; </tg> <xg><x>борддор бордытӥ ик эн ветлы</x> <xt xml:lang="fin">älä kulje aivan seinän vieressä</xt> </xg> </mg> </e>
-<e> <lg> <l pos="Po">бӧрсьы</l><orig>бӧрсьы</orig> </lg> <mg> <tg xml:lang="fin"> <t>perään;</t> </tg> <xg><x>мон тон бӧрсьы ик кошки</x> <xt xml:lang="fin">minä lähdin aivan sinun perääsi;</xt> </xg> <xg><x>нунал бӧрсьы нунал</x> <xt xml:lang="fin">päivä päivän perään</xt> </xg> </mg> </e>
-<e> <lg> <l pos="Po">бӧрсьын</l><orig>бӧрсьын</orig> </lg> <mg> <tg xml:lang="fin"> <t>perässä;</t> </tg> <xg><x>мумиз бӧрсьын мыныны</x> <xt xml:lang="fin">kulkea äitinsä perässä</xt> </xg> </mg> </e>
-<e> <lg><l pos="Po">бӧрсьысь</l><orig>бӧрсьысь</orig> </lg> <mg> <tg xml:lang="fin"> <t>järjestään, peräkkäin, perätysten, perä perää // jnk perässä (t. takana) oleva;</t> </tg> <xg> <x>бӧрсьысь бӧрсе</x> <x>бӧрсьысь бӧрсьы</x> <xt xml:lang="fin">järjestään, peräkkäin, perä perää;</xt> </xg> <xg><x>тон бӧрсьысь адями</x> <xt xml:lang="fin">sinun perässäsi (t. takanasi) oleva ihminen</xt> </xg> </mg> </e>
-<e> <lg> <l pos="Po">бӧрсьытӥ</l><orig>бӧрсьытӥ</orig> </lg> <mg> <tg xml:lang="fin"> <t>perässä;</t> </tg> <xg><x>со бӧрсьытӥ мон весь октыса-калтыса уг ветлы</x> <xt xml:lang="fin">en siivoa koko ajan hänen perässään</xt> </xg> </mg> </e>
-<e> <lg> <l pos="Po">быдӟа</l><orig>быдӟа</orig> </lg> <mg> <tg xml:lang="fin"> <t>(=)kokoinen, (=)mittainen;</t> </tg> <xg><x>вал быдӟа</x> <xt xml:lang="fin">hevosenkokoinen</xt> </xg> </mg> </e>
-<e> <lg><l pos="Po">вадесозь, вадестӥ, вадесы</l><orig>вадесозь, вадестӥ, вадесы</orig> </lg> <mg><font face="SmolenskSGR">(<b>вадесэ</b>)</font><font face="SmolenskSGR"><b>, вадесын, вадесысен, вадесысь</b></font> <variants> <l_syn type="&gt;">вадьсозь, вадьсытӥ, вадьсы, вадьсын, вадьсысен, вадьсысь</l_syn> </variants> </mg> </e>
-<e> <lg> <l pos="Po">вадьсозь</l><orig>вадьсозь</orig> </lg> <mg> <tg xml:lang="fin"> <t>kohdalle (asti);</t> </tg> <xg><x>корка вадьсозь</x> <xt xml:lang="fin">talon kohdalle (asti)</xt> </xg> </mg> </e>
-<e> <lg> <l pos="Po">вадьсы</l><orig>вадьсы</orig> </lg> <mg> <tg xml:lang="fin"> <t>kohdalle; kohdalla;</t> </tg> <xg><x>нюлэс вадьсы пилемъёс люкаськизы</x> <xt xml:lang="fin">pilvet kerääntyivät metsän kohdalle;</xt> </xg> <xg><x>автобус корка вадьсы дугдӥз</x> <xt xml:lang="fin">bussi pysähtyi talon kohdalla</xt> </xg> </mg> </e>
-<e> <lg> <l pos="Po">вадьсын</l><orig>вадьсын</orig> </lg> <mg> <tg xml:lang="fin"> <t>kohdalla; vastapäätä; yläpuolella; tienoissa;</t> </tg> <xg><x>коркамы школа вадьсын сылэ</x> <xt xml:lang="fin">talomme on koulua vastapäätä;</xt> </xg> <xg><x>нуназе вадьсын ми ужамысь дугдӥмы</x> <xt xml:lang="fin">me lakkasimme työskentelemästä puolipäivän tienoissa;</xt> </xg> <xg><x>шунды чолкак йыр вадьсын</x> <xt xml:lang="fin">aurinko on aivan pään yläpuolella</xt> </xg> </mg> </e>
-<e> <lg> <l pos="Po">вадьсысен</l><orig>вадьсысен</orig> </lg> <mg> <tg xml:lang="fin"> <t>kohdasta, kohdalta</t> <re>alkaen</re>; </tg> <tg xml:lang="fin"> <t> kohdassa, kohdalla;</t> </tg> <xg><x>кутскы та вадьсысен</x> <xt xml:lang="fin">ala (t. aloita) tältä kohdalta;</xt> </xg> <xg><x>та вадьсысен туж умой адске</x> <xt xml:lang="fin">tästä kohdasta näkyy oikein hyvin;</xt> </xg> <xg><x>ми магазин вадьсысен пумиськимы</x> <xt xml:lang="fin">me tapasimme kaupan kohdalla</xt> </xg> </mg> </e>
-<e> <lg> <l pos="Po">вадьсысь</l><orig>вадьсысь</orig> </lg> <mg> <tg xml:lang="fin"> <t>kohdalta;</t> </tg> <xg><x>гостиница вадьсысь</x> <xt xml:lang="fin">hotellin kohdalta</xt> </xg> </mg> </e>
-<e> <lg> <l pos="Po">вадьсытӥ</l><orig>вадьсытӥ</orig> </lg> <mg> <tg xml:lang="fin"> <t>kohdalla, ohi(tse), kohdalta; yläpuolella, yläpuolelta;</t> </tg> <xg><x>машина корка вадьсытӥ ортчиз</x> <xt xml:lang="fin">auto kulki talon ohi(tse);</xt> </xg> <xg><x>самолёт корка вадьсытӥ лобе</x> <xt xml:lang="fin">lentokone lentää talon kohdalla (t. yläpuolella)</xt> </xg> </mg> </e>
-<e> <lg> <l pos="Po">валысен</l><orig>валысен</orig> </lg> <mg> <variants> <l_syn type="&gt;">валысь</l_syn> </variants> </mg> </e>
-<e> <lg> <l pos="Po">валысь</l><orig>валысь</orig> </lg> <mg ind="1th"><defNative>маке сэрен, муген</defNative> <tg xml:lang="fin"> <t>jstak syystä;</t> </tg> <xg><x>ма валысь соос керетыны кутскизы?</x> <xt xml:lang="fin">mistä syystä he alkoivat riidellä?;</xt> </xg> <xg><x>ужамтэ валысь жади</x> <xt xml:lang="fin">väsyin, koska en ollut työskennellyt (pitkään)</xt> </xg> </mg> <mg ind="2th"><defNative>маке карем бере ик</defNative> <tg xml:lang="fin"> <t>heti jnk jälkeen;</t> </tg> <xg><x>пырем валысь коркан шуныт потэ</x> <xt xml:lang="fin">heti sisään tultua tuvassa tuntuu lämpimältä</xt> </xg> </mg> </e>
-<e> <lg> <l pos="Po">вискозь</l><orig>вискозь</orig> </lg> <mg> <tg xml:lang="fin"> <t>väliin (asti);</t> </tg> <xg><x>кенеръёс вискозь</x> <xt xml:lang="fin">aitojen väliin (asti)</xt> </xg> </mg> </e>
-<e> <lg> <l pos="Po">вискы</l><orig>вискы</orig> </lg> <mg> <tg xml:lang="fin"> <t>väliin, välille;</t> </tg> <xg><x>кык нылъёс вискы пуксьыны</x> <xt xml:lang="fin">istuutua kahden tytön väliin</xt> </xg> </mg> </e>
-<e> <lg> <l pos="Po">вискысен</l><orig>вискысен</orig> </lg> <mg> <tg xml:lang="fin"> <t>välistä; välissä;</t> </tg> <xg><x>кутскы копаны улмопуос вискысен</x> <xt xml:lang="fin">ala kaivaa omenapuiden välistä;</xt> </xg> <xg><x>гурезьёс вискысен номыр но уг адскы</x> <xt xml:lang="fin">vuorten välistä ei näe mitään</xt> </xg> </mg> </e>
+<e> <lg> <l pos="Po">берозь</l><stress>берозь</stress> </lg> <mg ind="1th"><defNative>инты с-сь</defNative> <tg xml:lang="fin"> <t>takaosaan (asti)</t> </tg> </mg> <mg ind="2th"><defNative>дыр с-сь</defNative> <tg xml:lang="fin"> <t>jnk jälkeiseen aikaan asti;</t> </tg> <xg><x>лымшор берозь</x> <xt xml:lang="fin">keskipäivän jälkeiseen aikaan asti</xt> </xg> </mg> </e>
+<e> <lg> <l pos="Po">беры</l><stress>беры</stress> </lg> <mg> <tg xml:lang="fin"> <t>taa(kse);</t> </tg> <xg><x>корка беры</x> <xt xml:lang="fin">talon taa(kse)</xt> </xg> </mg> </e>
+<e> <lg> <l pos="Po">берысен</l><stress>берысен</stress> </lg> <mg> <tg xml:lang="fin"> <t>takaa</t> <re>alkaen</re>; </tg> <tg xml:lang="fin"> <t> takana;</t> </tg> <xg><x>бакча берысен ик нюлэс кутске</x> <xt xml:lang="fin">aivan kasvimaan takaa alkaa metsä</xt> </xg> </mg> </e>
+<e> <lg> <l pos="Po">берысь</l><stress>берысь</stress> </lg> <mg> <tg xml:lang="fin"> <t>takaa;</t> </tg> <xg><x>корка берысь</x> <xt xml:lang="fin">talon takaa</xt> </xg> </mg> </e>
+<e> <lg> <l pos="Po">бордтӥ</l><stress>бордтӥ</stress> </lg> <mg> <variants> <l_syn type="&gt;">бордытӥ</l_syn> </variants> </mg> </e>
+<e> <lg> <l pos="Po">борды</l><stress>борды</stress> </lg> <mg> <tg xml:lang="fin"> <t>vasten,</t> </tg><note><i>kääntyy illatiivilla</i></note> <tg xml:lang="fin"> <t>;</t> </tg><font face="SmolenskSGR"><b>борддор борды пыкиськыны</b> (<i>я. </i><b>чӧлскыны</b>)</font> <tg xml:lang="fin"> <t>nojautua seinää vasten;</t> </tg> <xg><x>кенер борды пу тырыны</x> <xt xml:lang="fin">laittaa polttopuut aitaa vasten;</xt> </xg> <xg><x>юбо борды думыны</x> <xt xml:lang="fin">köyttää pylvääseen</xt> </xg> </mg> </e>
+<e> <lg> <l pos="Po">бордын</l><stress>бордын</stress> </lg> <mg> <tg xml:lang="fin"> <t>=ssa / =ssä</t> <re>kiinni</re>; </tg> <tg xml:lang="fin"> <t> luona; kanssa;</t> </tg> <xg><x>атае бордын ужасько</x> <xt xml:lang="fin">työskentelen isäni kanssa</xt> </xg>◊ <xg><x>доклад бордын ужасько</x> <xt xml:lang="fin">olen kirjoittamassa esitelmää</xt> </xg> </mg> </e>
+<e> <lg> <l pos="Po">бордысен</l><stress>бордысен</stress> </lg> <mg> <tg xml:lang="fin"> <t>=sta / =stä</t> <re>kiinni alkaen</re>; </tg> <tg xml:lang="fin"> <t> =ssa / =ssä</t> <re>kiinni</re>; </tg> <xg><x>ойдо, тон бордысен кутском</x> <xt xml:lang="fin">no, aloitetaanpa sinusta</xt> </xg> </mg> </e>
+<e> <lg> <l pos="Po">бордысь</l><stress>бордысь</stress> </lg> <mg> <tg xml:lang="fin"> <t>=sta / =stä</t> <re>kiinni</re>; </tg> <xg><x>ваньмыз тон бордысь потэ</x> <xt xml:lang="fin">kaikki johtuu sinusta</xt> </xg> </mg> </e>
+<e> <lg> <l pos="Po">бордытӥ</l><stress>бордытӥ</stress> </lg> <mg> <tg xml:lang="fin"> <t>vieressä, ääressä, vieritse</t> <re>kiinni</re> </tg> <tg xml:lang="fin"> <t>, vierestä, äärestä</t> <re>kiinni</re>; </tg> <xg><x>борддор бордытӥ ик эн ветлы</x> <xt xml:lang="fin">älä kulje aivan seinän vieressä</xt> </xg> </mg> </e>
+<e> <lg> <l pos="Po">бӧрсьы</l><stress>бӧрсьы</stress> </lg> <mg> <tg xml:lang="fin"> <t>perään;</t> </tg> <xg><x>мон тон бӧрсьы ик кошки</x> <xt xml:lang="fin">minä lähdin aivan sinun perääsi;</xt> </xg> <xg><x>нунал бӧрсьы нунал</x> <xt xml:lang="fin">päivä päivän perään</xt> </xg> </mg> </e>
+<e> <lg> <l pos="Po">бӧрсьын</l><stress>бӧрсьын</stress> </lg> <mg> <tg xml:lang="fin"> <t>perässä;</t> </tg> <xg><x>мумиз бӧрсьын мыныны</x> <xt xml:lang="fin">kulkea äitinsä perässä</xt> </xg> </mg> </e>
+<e> <lg><l pos="Po">бӧрсьысь</l><stress>бӧрсьысь</stress> </lg> <mg> <tg xml:lang="fin"> <t>järjestään, peräkkäin, perätysten, perä perää // jnk perässä (t. takana) oleva;</t> </tg> <xg> <x>бӧрсьысь бӧрсе</x> <x>бӧрсьысь бӧрсьы</x> <xt xml:lang="fin">järjestään, peräkkäin, perä perää;</xt> </xg> <xg><x>тон бӧрсьысь адями</x> <xt xml:lang="fin">sinun perässäsi (t. takanasi) oleva ihminen</xt> </xg> </mg> </e>
+<e> <lg> <l pos="Po">бӧрсьытӥ</l><stress>бӧрсьытӥ</stress> </lg> <mg> <tg xml:lang="fin"> <t>perässä;</t> </tg> <xg><x>со бӧрсьытӥ мон весь октыса-калтыса уг ветлы</x> <xt xml:lang="fin">en siivoa koko ajan hänen perässään</xt> </xg> </mg> </e>
+<e> <lg> <l pos="Po">быдӟа</l><stress>быдӟа</stress> </lg> <mg> <tg xml:lang="fin"> <t>(=)kokoinen, (=)mittainen;</t> </tg> <xg><x>вал быдӟа</x> <xt xml:lang="fin">hevosenkokoinen</xt> </xg> </mg> </e>
+<e> <lg><l pos="Po">вадесозь, вадестӥ, вадесы</l><stress>вадесозь, вадестӥ, вадесы</stress> </lg> <mg><font face="SmolenskSGR">(<b>вадесэ</b>)</font><font face="SmolenskSGR"><b>, вадесын, вадесысен, вадесысь</b></font> <variants> <l_syn type="&gt;">вадьсозь, вадьсытӥ, вадьсы, вадьсын, вадьсысен, вадьсысь</l_syn> </variants> </mg> </e>
+<e> <lg> <l pos="Po">вадьсозь</l><stress>вадьсозь</stress> </lg> <mg> <tg xml:lang="fin"> <t>kohdalle (asti);</t> </tg> <xg><x>корка вадьсозь</x> <xt xml:lang="fin">talon kohdalle (asti)</xt> </xg> </mg> </e>
+<e> <lg> <l pos="Po">вадьсы</l><stress>вадьсы</stress> </lg> <mg> <tg xml:lang="fin"> <t>kohdalle; kohdalla;</t> </tg> <xg><x>нюлэс вадьсы пилемъёс люкаськизы</x> <xt xml:lang="fin">pilvet kerääntyivät metsän kohdalle;</xt> </xg> <xg><x>автобус корка вадьсы дугдӥз</x> <xt xml:lang="fin">bussi pysähtyi talon kohdalla</xt> </xg> </mg> </e>
+<e> <lg> <l pos="Po">вадьсын</l><stress>вадьсын</stress> </lg> <mg> <tg xml:lang="fin"> <t>kohdalla; vastapäätä; yläpuolella; tienoissa;</t> </tg> <xg><x>коркамы школа вадьсын сылэ</x> <xt xml:lang="fin">talomme on koulua vastapäätä;</xt> </xg> <xg><x>нуназе вадьсын ми ужамысь дугдӥмы</x> <xt xml:lang="fin">me lakkasimme työskentelemästä puolipäivän tienoissa;</xt> </xg> <xg><x>шунды чолкак йыр вадьсын</x> <xt xml:lang="fin">aurinko on aivan pään yläpuolella</xt> </xg> </mg> </e>
+<e> <lg> <l pos="Po">вадьсысен</l><stress>вадьсысен</stress> </lg> <mg> <tg xml:lang="fin"> <t>kohdasta, kohdalta</t> <re>alkaen</re>; </tg> <tg xml:lang="fin"> <t> kohdassa, kohdalla;</t> </tg> <xg><x>кутскы та вадьсысен</x> <xt xml:lang="fin">ala (t. aloita) tältä kohdalta;</xt> </xg> <xg><x>та вадьсысен туж умой адске</x> <xt xml:lang="fin">tästä kohdasta näkyy oikein hyvin;</xt> </xg> <xg><x>ми магазин вадьсысен пумиськимы</x> <xt xml:lang="fin">me tapasimme kaupan kohdalla</xt> </xg> </mg> </e>
+<e> <lg> <l pos="Po">вадьсысь</l><stress>вадьсысь</stress> </lg> <mg> <tg xml:lang="fin"> <t>kohdalta;</t> </tg> <xg><x>гостиница вадьсысь</x> <xt xml:lang="fin">hotellin kohdalta</xt> </xg> </mg> </e>
+<e> <lg> <l pos="Po">вадьсытӥ</l><stress>вадьсытӥ</stress> </lg> <mg> <tg xml:lang="fin"> <t>kohdalla, ohi(tse), kohdalta; yläpuolella, yläpuolelta;</t> </tg> <xg><x>машина корка вадьсытӥ ортчиз</x> <xt xml:lang="fin">auto kulki talon ohi(tse);</xt> </xg> <xg><x>самолёт корка вадьсытӥ лобе</x> <xt xml:lang="fin">lentokone lentää talon kohdalla (t. yläpuolella)</xt> </xg> </mg> </e>
+<e> <lg> <l pos="Po">валысен</l><stress>валысен</stress> </lg> <mg> <variants> <l_syn type="&gt;">валысь</l_syn> </variants> </mg> </e>
+<e> <lg> <l pos="Po">валысь</l><stress>валысь</stress> </lg> <mg ind="1th"><defNative>маке сэрен, муген</defNative> <tg xml:lang="fin"> <t>jstak syystä;</t> </tg> <xg><x>ма валысь соос керетыны кутскизы?</x> <xt xml:lang="fin">mistä syystä he alkoivat riidellä?;</xt> </xg> <xg><x>ужамтэ валысь жади</x> <xt xml:lang="fin">väsyin, koska en ollut työskennellyt (pitkään)</xt> </xg> </mg> <mg ind="2th"><defNative>маке карем бере ик</defNative> <tg xml:lang="fin"> <t>heti jnk jälkeen;</t> </tg> <xg><x>пырем валысь коркан шуныт потэ</x> <xt xml:lang="fin">heti sisään tultua tuvassa tuntuu lämpimältä</xt> </xg> </mg> </e>
+<e> <lg> <l pos="Po">вискозь</l><stress>вискозь</stress> </lg> <mg> <tg xml:lang="fin"> <t>väliin (asti);</t> </tg> <xg><x>кенеръёс вискозь</x> <xt xml:lang="fin">aitojen väliin (asti)</xt> </xg> </mg> </e>
+<e> <lg> <l pos="Po">вискы</l><stress>вискы</stress> </lg> <mg> <tg xml:lang="fin"> <t>väliin, välille;</t> </tg> <xg><x>кык нылъёс вискы пуксьыны</x> <xt xml:lang="fin">istuutua kahden tytön väliin</xt> </xg> </mg> </e>
+<e> <lg> <l pos="Po">вискысен</l><stress>вискысен</stress> </lg> <mg> <tg xml:lang="fin"> <t>välistä; välissä;</t> </tg> <xg><x>кутскы копаны улмопуос вискысен</x> <xt xml:lang="fin">ala kaivaa omenapuiden välistä;</xt> </xg> <xg><x>гурезьёс вискысен номыр но уг адскы</x> <xt xml:lang="fin">vuorten välistä ei näe mitään</xt> </xg> </mg> </e>
 <e> <lg> <l pos="Po">вискысь</l> </lg> <mg> <tg xml:lang="fin"> <t>välistä, väliltä; välissä;</t> </tg> <xg><x>та тетрадез книгаос вискысь шедьтӥ</x> <xt xml:lang="fin">löysin tämä vihkon kirjojen välistä</xt> </xg> </mg> </e>
-<e> <lg> <l pos="Po">вискытӥ</l><orig>вискытӥ</orig> </lg> <mg> <tg xml:lang="fin"> <t>välissä, välitse, välistä;</t> </tg> <xg><x>писпулэн куаръёсыз вискытӥ шунды пиштэ</x> <xt xml:lang="fin">aurinko paistaa puun lehtien välistä (t. välitse);</xt> </xg> <xg><x>коркаос вискытӥ ветлыны</x> <xt xml:lang="fin">kävellä talojen välissä</xt> </xg> </mg> </e>
-<e> <lg> <l pos="Po">вӧзозь</l><orig>вӧзозь</orig> </lg> <mg> <tg xml:lang="fin"> <t>viereen (asti)</t> <t>vierelle (asti)</t> </tg> <xg><x>корка вӧзозь мыныны</x> <xt xml:lang="fin">mennä talon viereen (asti)</xt> </xg> </mg> </e>
-<e> <lg> <l pos="Po">вӧзтӥ</l><orig>вӧзтӥ</orig> </lg> <mg> <tg xml:lang="fin"> <t>ohi(tse), vieressä, vieritse;</t> </tg> <xg><x>корка вӧзтӥ кошкыны</x> <xt xml:lang="fin">kulkea talon ohi(tse)</xt> <xt xml:lang="fin">kulkea talon vieritse</xt> </xg> </mg> </e>
-<e> <lg> <l pos="Po">вӧзы</l><orig>вӧзы</orig> </lg> <mg> <tg xml:lang="fin"> <t>viereen;</t> </tg> <xg><x>атай вӧзы пуксьыны</x> <xt xml:lang="fin">istuutua isän viereen</xt> </xg> </mg> </e>
+<e> <lg> <l pos="Po">вискытӥ</l><stress>вискытӥ</stress> </lg> <mg> <tg xml:lang="fin"> <t>välissä, välitse, välistä;</t> </tg> <xg><x>писпулэн куаръёсыз вискытӥ шунды пиштэ</x> <xt xml:lang="fin">aurinko paistaa puun lehtien välistä (t. välitse);</xt> </xg> <xg><x>коркаос вискытӥ ветлыны</x> <xt xml:lang="fin">kävellä talojen välissä</xt> </xg> </mg> </e>
+<e> <lg> <l pos="Po">вӧзозь</l><stress>вӧзозь</stress> </lg> <mg> <tg xml:lang="fin"> <t>viereen (asti)</t> <t>vierelle (asti)</t> </tg> <xg><x>корка вӧзозь мыныны</x> <xt xml:lang="fin">mennä talon viereen (asti)</xt> </xg> </mg> </e>
+<e> <lg> <l pos="Po">вӧзтӥ</l><stress>вӧзтӥ</stress> </lg> <mg> <tg xml:lang="fin"> <t>ohi(tse), vieressä, vieritse;</t> </tg> <xg><x>корка вӧзтӥ кошкыны</x> <xt xml:lang="fin">kulkea talon ohi(tse)</xt> <xt xml:lang="fin">kulkea talon vieritse</xt> </xg> </mg> </e>
+<e> <lg> <l pos="Po">вӧзы</l><stress>вӧзы</stress> </lg> <mg> <tg xml:lang="fin"> <t>viereen;</t> </tg> <xg><x>атай вӧзы пуксьыны</x> <xt xml:lang="fin">istuutua isän viereen</xt> </xg> </mg> </e>
 <e> <lg> <l pos="Po">вӧзын</l> </lg> <mg> <tg xml:lang="fin"> <t>vieressä;</t> </tg> <xg><x>анай вӧзын сылыны</x> <xt xml:lang="fin">seisoa äidin vieressä</xt> </xg> </mg> </e>
 <e> <lg> <l pos="Po">вӧзысен</l> </lg> <mg> <tg xml:lang="fin"> <t>vierestä</t> <re>alkaen</re> </tg> <tg xml:lang="fin"> <t>vieressä</t> </tg> <xg><x>писпу вӧзысен номыр но уг адӟиськы</x> <xt xml:lang="fin">puun vierestä (katsoen) ei näy mitään</xt> </xg> </mg> </e>
-<e> <lg> <l pos="Po">вӧзысь</l><orig>вӧзысь</orig> </lg> <mg> <tg xml:lang="fin"> <t>vierestä;</t> </tg> <xg><x>тон вӧзысь кошкыны</x> <xt xml:lang="fin">lähteä pois sinun vierestäsi</xt> </xg> </mg> </e>
-<e> <lg> <l pos="Po">вылозь</l><orig>вылозь</orig> </lg> <mg> <tg xml:lang="fin"> <t>=lle (asti), päälle (asti);</t> </tg> <xg><x>сюрес вылозь келяны</x> <xt xml:lang="fin">saattaa tielle (asti)</xt> </xg> </mg> </e>
+<e> <lg> <l pos="Po">вӧзысь</l><stress>вӧзысь</stress> </lg> <mg> <tg xml:lang="fin"> <t>vierestä;</t> </tg> <xg><x>тон вӧзысь кошкыны</x> <xt xml:lang="fin">lähteä pois sinun vierestäsi</xt> </xg> </mg> </e>
+<e> <lg> <l pos="Po">вылозь</l><stress>вылозь</stress> </lg> <mg> <tg xml:lang="fin"> <t>=lle (asti), päälle (asti);</t> </tg> <xg><x>сюрес вылозь келяны</x> <xt xml:lang="fin">saattaa tielle (asti)</xt> </xg> </mg> </e>
 <e> <lg> <l pos="Po">вылысен</l> </lg> <mg ind="2th"> <tg xml:lang="fin"> <t>=lta / =ltä, päältä; =lla / =llä, päällä;</t> </tg> <xg><x>пукон вылысен но мыным адӟиське</x> <xt xml:lang="fin">tuoliltakin minulle näkyy;</xt> </xg> <xg><x>сюрес вылысен пумиськимы</x> <xt xml:lang="fin">me tapasimme tiellä</xt> </xg> </mg> </e>
 <e>
    <lg>
-     <l pos="Po">понна</l><orig>понна</orig>
+     <l pos="Po">понна</l><stress>понна</stress>
    </lg>
    <mg ind="1th"><pos ind="Po"/><defNative>кинлы ке, марлы ке</defNative>
      <tg xml:lang="fin">
@@ -231,7 +231,7 @@ Possible errors following proofreading are, e. g., substitution of special fonts
 </e>
 <e>
    <lg>
-     <l pos="Po">урдсозь</l><orig>урдсозь</orig>
+     <l pos="Po">урдсозь</l><stress>урдсозь</stress>
    </lg>
    <mg>
      <tg xml:lang="fin">
@@ -244,7 +244,7 @@ Possible errors following proofreading are, e. g., substitution of special fonts
 </e>
 <e>
    <lg>
-     <l pos="Po">урдсы</l><orig>урдсы</orig>
+     <l pos="Po">урдсы</l><stress>урдсы</stress>
    </lg>
    <mg>
      <tg xml:lang="fin">
@@ -260,7 +260,7 @@ Possible errors following proofreading are, e. g., substitution of special fonts
 </e>
 <e>
    <lg>
-     <l pos="Po">урдсын</l><orig>урдсын</orig>
+     <l pos="Po">урдсын</l><stress>урдсын</stress>
    </lg>
    <mg>
      <tg xml:lang="fin">
@@ -279,7 +279,7 @@ Possible errors following proofreading are, e. g., substitution of special fonts
 </e>
 <e>
    <lg>
-     <l pos="Po">урдсысен</l><orig>урдсысен</orig>
+     <l pos="Po">урдсысен</l><stress>урдсысен</stress>
    </lg>
    <mg>
      <tg xml:lang="fin">
@@ -296,7 +296,7 @@ Possible errors following proofreading are, e. g., substitution of special fonts
 </e>
 <e>
    <lg>
-     <l pos="Po">урдсысь</l><orig>урдсысь</orig>
+     <l pos="Po">урдсысь</l><stress>урдсысь</stress>
    </lg>
    <mg>
      <tg xml:lang="fin">
@@ -312,7 +312,7 @@ Possible errors following proofreading are, e. g., substitution of special fonts
 </e>
 <e>
    <lg>
-     <l pos="Po">урдсытӥ</l><orig>урдсытӥ</orig>
+     <l pos="Po">урдсытӥ</l><stress>урдсытӥ</stress>
    </lg>
    <mg>
      <tg xml:lang="fin">
@@ -329,7 +329,7 @@ Possible errors following proofreading are, e. g., substitution of special fonts
 </e>
 <e>
    <lg>
-     <l pos="Po">урдсэтӥ</l><orig>урдсэтӥ</orig>
+     <l pos="Po">урдсэтӥ</l><stress>урдсэтӥ</stress>
    </lg>
    <mg>
      <variants>
@@ -355,7 +355,7 @@ Possible errors following proofreading are, e. g., substitution of special fonts
 </e>
 <e>
    <lg>
-     <l pos="Po">ӵоже</l><orig>ӵоже</orig>
+     <l pos="Po">ӵоже</l><stress>ӵоже</stress>
    </lg>
    <mg><defNative>кыӵе ке вакыт ортчыку, ортчытозь</defNative>
      <tg xml:lang="fin">
@@ -380,7 +380,7 @@ Possible errors following proofreading are, e. g., substitution of special fonts
 </e>
 <e>
    <lg>
-     <l pos="Po">ӵожелы</l><orig>ӵожелы</orig>
+     <l pos="Po">ӵожелы</l><stress>ӵожелы</stress>
    </lg>
    <mg>
      <tg xml:lang="fin">
@@ -399,7 +399,7 @@ Possible errors following proofreading are, e. g., substitution of special fonts
 </e>
 <e>
    <lg>
-     <l pos="Po">ӵожозь</l><orig>ӵожозь</orig>
+     <l pos="Po">ӵожозь</l><stress>ӵожозь</stress>
    </lg>
    <mg><note><i>osoittaa rajaa</i></note>
      <tg xml:lang="fin">
@@ -412,7 +412,7 @@ Possible errors following proofreading are, e. g., substitution of special fonts
 </e>
 <e>
    <lg>
-     <l pos="Po">шортӥ</l><orig>шортӥ</orig>
+     <l pos="Po">шортӥ</l><stress>шортӥ</stress>
    </lg>
    <mg>
      <tg xml:lang="fin">
@@ -425,7 +425,7 @@ Possible errors following proofreading are, e. g., substitution of special fonts
 </e>
 <e>
    <lg>
-     <l pos="Po">шорын</l><orig>шорын</orig>
+     <l pos="Po">шорын</l><stress>шорын</stress>
    </lg>
    <mg>
      <tg xml:lang="fin">
@@ -444,7 +444,7 @@ Possible errors following proofreading are, e. g., substitution of special fonts
 </e>
 <e>
    <lg>
-     <l pos="Po">шорысь</l><orig>шорысь</orig>
+     <l pos="Po">шорысь</l><stress>шорысь</stress>
    </lg>
    <mg>
      <tg xml:lang="fin">
@@ -463,7 +463,7 @@ Possible errors following proofreading are, e. g., substitution of special fonts
 </e>
 <e>
    <lg>
-     <l pos="Po">дуре</l><orig>дуре</orig>
+     <l pos="Po">дуре</l><stress>дуре</stress>
    </lg>
    <mg>
      <tg xml:lang="fin">
@@ -479,7 +479,7 @@ Possible errors following proofreading are, e. g., substitution of special fonts
 </e>
 <e>
    <lg>
-     <l pos="Po">дуртӥ</l><orig>дуртӥ</orig>
+     <l pos="Po">дуртӥ</l><stress>дуртӥ</stress>
    </lg>
    <mg>
      <tg xml:lang="fin">
@@ -495,7 +495,7 @@ Possible errors following proofreading are, e. g., substitution of special fonts
 </e>
 <e>
    <lg>
-     <l pos="Po">дурысен</l><orig>дурысен</orig>
+     <l pos="Po">дурысен</l><stress>дурысен</stress>
    </lg>
    <mg>
      <tg xml:lang="fin">
@@ -522,7 +522,7 @@ Possible errors following proofreading are, e. g., substitution of special fonts
 </e>
 <e>
    <lg>
-     <l pos="Po">дурысь</l><orig>дурысь</orig>
+     <l pos="Po">дурысь</l><stress>дурысь</stress>
    </lg>
    <mg>
      <tg xml:lang="fin">
@@ -538,7 +538,7 @@ Possible errors following proofreading are, e. g., substitution of special fonts
 </e>
 <e>
    <lg>
-     <l pos="Po">дырысен</l><orig>дырысен</orig>
+     <l pos="Po">дырысен</l><stress>дырысен</stress>
    </lg>
    <mg><note><i>postp:na</i></note>
      <tg xml:lang="fin">
@@ -560,7 +560,7 @@ Possible errors following proofreading are, e. g., substitution of special fonts
 </e>
 <e>
    <lg>
-     <l pos="Po">йылозь</l><orig>йылозь</orig>
+     <l pos="Po">йылозь</l><stress>йылозь</stress>
    </lg>
    <mg>
      <tg xml:lang="fin">
@@ -573,7 +573,7 @@ Possible errors following proofreading are, e. g., substitution of special fonts
 </e>
 <e>
    <lg>
-     <l pos="Po">йылтӥ</l><orig>йылтӥ</orig>
+     <l pos="Po">йылтӥ</l><stress>йылтӥ</stress>
    </lg>
    <mg>
      <tg xml:lang="fin">
@@ -586,7 +586,7 @@ Possible errors following proofreading are, e. g., substitution of special fonts
 </e>
 <e>
    <lg>
-     <l pos="Po">йылын</l><orig>йылын</orig>
+     <l pos="Po">йылын</l><stress>йылын</stress>
    </lg>
    <mg>
      <tg xml:lang="fin">
@@ -605,7 +605,7 @@ Possible errors following proofreading are, e. g., substitution of special fonts
 </e>
 <e>
    <lg>
-     <l pos="Po">йылысен</l><orig>йылысен</orig>
+     <l pos="Po">йылысен</l><stress>йылысен</stress>
    </lg>
    <mg>
      <tg xml:lang="fin">
@@ -618,7 +618,7 @@ Possible errors following proofreading are, e. g., substitution of special fonts
 </e>
 <e>
    <lg>
-     <l pos="Po">йылысь</l><orig>йылысь</orig>
+     <l pos="Po">йылысь</l><stress>йылысь</stress>
    </lg>
    <mg>
      <tg xml:lang="fin">
@@ -631,7 +631,7 @@ Possible errors following proofreading are, e. g., substitution of special fonts
 </e>
 <e>
    <lg>
-     <l pos="Po">йылэ</l><orig>йылэ</orig>
+     <l pos="Po">йылэ</l><stress>йылэ</stress>
    </lg>
    <mg>
      <tg xml:lang="fin">
@@ -647,7 +647,7 @@ Possible errors following proofreading are, e. g., substitution of special fonts
 </e>
 <e>
    <lg>
-     <l pos="Po">йырин</l><orig>йырин</orig>
+     <l pos="Po">йырин</l><stress>йырин</stress>
    </lg>
    <mg>
      <tg xml:lang="fin">
@@ -666,7 +666,7 @@ Possible errors following proofreading are, e. g., substitution of special fonts
 </e>
 <e>
    <lg>
-     <l pos="Po">калэ</l><orig>калэ</orig>
+     <l pos="Po">калэ</l><stress>калэ</stress>
    </lg>
    <mg>
      <tg xml:lang="fin">
@@ -686,7 +686,7 @@ Possible errors following proofreading are, e. g., substitution of special fonts
 </e>
 <e>
    <lg>
-     <l pos="Po">котыре</l><orig>котыре</orig>
+     <l pos="Po">котыре</l><stress>котыре</stress>
    </lg>
    <mg ind="1th"><defNative>доры, котыраз</defNative>
      <tg xml:lang="fin">
@@ -724,7 +724,7 @@ Possible errors following proofreading are, e. g., substitution of special fonts
 </e>
 <e>
    <lg>
-     <l pos="Po">котырозь</l><orig>котырозь</orig>
+     <l pos="Po">котырозь</l><stress>котырозь</stress>
    </lg>
    <mg ind="1th"><defNative>дорозь</defNative>
      <tg xml:lang="fin">
@@ -751,7 +751,7 @@ Possible errors following proofreading are, e. g., substitution of special fonts
 </e>
 <e>
    <lg>
-     <l pos="Po">котыртӥ</l><orig>котыртӥ</orig>
+     <l pos="Po">котыртӥ</l><stress>котыртӥ</stress>
    </lg>
    <mg>
      <tg xml:lang="fin">
@@ -764,7 +764,7 @@ Possible errors following proofreading are, e. g., substitution of special fonts
 </e>
 <e>
    <lg>
-     <l pos="Po">котырын</l><orig>котырын</orig>
+     <l pos="Po">котырын</l><stress>котырын</stress>
    </lg>
    <mg ind="1th"><defNative>дорын, котыраз</defNative>
      <tg xml:lang="fin">
@@ -791,7 +791,7 @@ Possible errors following proofreading are, e. g., substitution of special fonts
 </e>
 <e>
    <lg>
-     <l pos="Po">котырысен</l><orig>котырысен</orig>
+     <l pos="Po">котырысен</l><stress>котырысен</stress>
    </lg>
    <mg><defNative>дорысен</defNative>
      <tg xml:lang="fin">
@@ -822,7 +822,7 @@ Possible errors following proofreading are, e. g., substitution of special fonts
 </e>
 <e>
    <lg>
-     <l pos="Po">котырысь</l><orig>котырысь</orig>
+     <l pos="Po">котырысь</l><stress>котырысь</stress>
    </lg>
    <mg ind="1th"><defNative>дорысь</defNative>
      <tg xml:lang="fin">
@@ -846,7 +846,7 @@ Possible errors following proofreading are, e. g., substitution of special fonts
 </e>
 <e>
    <lg>
-     <l pos="Po">кузя</l><orig>кузя</orig>
+     <l pos="Po">кузя</l><stress>кузя</stress>
    </lg>
    <mg><defNative>валлин, вылтӥ</defNative>
      <tg xml:lang="fin">
@@ -884,7 +884,7 @@ Possible errors following proofreading are, e. g., substitution of special fonts
 </e>
 <e>
    <lg>
-     <l pos="Po">куспетӥ</l><orig>куспетӥ</orig>
+     <l pos="Po">куспетӥ</l><stress>куспетӥ</stress>
    </lg>
    <mg ind="1th">
      <variants>
@@ -902,7 +902,7 @@ Possible errors following proofreading are, e. g., substitution of special fonts
 </e>
 <e>
    <lg>
-     <l pos="Po">куспозь</l><orig>куспозь</orig>
+     <l pos="Po">куспозь</l><stress>куспозь</stress>
    </lg>
    <mg>
      <tg xml:lang="fin">
@@ -915,7 +915,7 @@ Possible errors following proofreading are, e. g., substitution of special fonts
 </e>
 <e>
    <lg>
-     <l pos="Po">куспы</l><orig>куспы</orig>
+     <l pos="Po">куспы</l><stress>куспы</stress>
    </lg>
    <mg>
      <tg xml:lang="fin">
@@ -931,7 +931,7 @@ Possible errors following proofreading are, e. g., substitution of special fonts
 </e>
 <e>
    <lg>
-     <l pos="Po">куспын</l><orig>куспын</orig>
+     <l pos="Po">куспын</l><stress>куспын</stress>
    </lg>
    <mg ind="1th"><defNative>вискын</defNative>
      <tg xml:lang="fin">
@@ -962,7 +962,7 @@ Possible errors following proofreading are, e. g., substitution of special fonts
 </e>
 <e>
    <lg>
-     <l pos="Po">куспысен</l><orig>куспысен</orig>
+     <l pos="Po">куспысен</l><stress>куспысен</stress>
    </lg>
    <mg>
      <tg xml:lang="fin">
@@ -979,7 +979,7 @@ Possible errors following proofreading are, e. g., substitution of special fonts
 </e>
 <e>
    <lg>
-     <l pos="Po">куспысь</l><orig>куспысь</orig>
+     <l pos="Po">куспысь</l><stress>куспысь</stress>
    </lg>
    <mg>
      <tg xml:lang="fin">
@@ -995,7 +995,7 @@ Possible errors following proofreading are, e. g., substitution of special fonts
 </e>
 <e>
    <lg>
-     <l pos="Po">куспытӥ</l><orig>куспытӥ</orig>
+     <l pos="Po">куспытӥ</l><stress>куспытӥ</stress>
    </lg>
    <mg>
      <tg xml:lang="fin">
@@ -1008,7 +1008,7 @@ Possible errors following proofreading are, e. g., substitution of special fonts
 </e>
 <e>
    <lg>
-     <l pos="Po">ласянь</l><orig>ласянь</orig>
+     <l pos="Po">ласянь</l><stress>ласянь</stress>
    </lg>
    <mg ind="1th">
      <tg xml:lang="fin">
@@ -1044,7 +1044,7 @@ Possible errors following proofreading are, e. g., substitution of special fonts
 </e>
 <e>
    <lg>
-     <l pos="Po">музэн</l><orig>музэн</orig>
+     <l pos="Po">музэн</l><stress>музэн</stress>
    </lg>
    <mg>
      <tg xml:lang="fin">
@@ -1057,7 +1057,7 @@ Possible errors following proofreading are, e. g., substitution of special fonts
 </e>
 <e>
    <lg>
-     <l pos="Po">мышкозь</l><orig>мышкозь</orig>
+     <l pos="Po">мышкозь</l><stress>мышкозь</stress>
    </lg>
    <mg>
      <tg xml:lang="fin">
@@ -1070,7 +1070,7 @@ Possible errors following proofreading are, e. g., substitution of special fonts
 </e>
 <e>
    <lg>
-     <l pos="Po">мышкы</l><orig>мышкы</orig>
+     <l pos="Po">мышкы</l><stress>мышкы</stress>
    </lg>
    <mg>
      <tg xml:lang="fin">
@@ -1083,7 +1083,7 @@ Possible errors following proofreading are, e. g., substitution of special fonts
 </e>
 <e>
    <lg>
-     <l pos="Po">мышкысен</l><orig>мышкысен</orig>
+     <l pos="Po">мышкысен</l><stress>мышкысен</stress>
    </lg>
    <mg>
      <tg xml:lang="fin">
@@ -1097,7 +1097,7 @@ Possible errors following proofreading are, e. g., substitution of special fonts
 </e>
 <e>
    <lg>
-     <l pos="Po">мышкысь</l><orig>мышкысь</orig>
+     <l pos="Po">мышкысь</l><stress>мышкысь</stress>
    </lg>
    <mg>
      <tg xml:lang="fin">
@@ -1110,7 +1110,7 @@ Possible errors following proofreading are, e. g., substitution of special fonts
 </e>
 <e>
    <lg>
-     <l pos="Po">мышкытӥ</l><orig>мышкытӥ</orig>
+     <l pos="Po">мышкытӥ</l><stress>мышкытӥ</stress>
    </lg>
    <mg>
      <tg xml:lang="fin">
@@ -1123,7 +1123,7 @@ Possible errors following proofreading are, e. g., substitution of special fonts
 </e>
 <e>
    <lg>
-     <l pos="Po">пала</l><orig>пала</orig>
+     <l pos="Po">пала</l><stress>пала</stress>
    </lg>
    <mg ind="1th">
      <tg xml:lang="fin">
@@ -1156,7 +1156,7 @@ Possible errors following proofreading are, e. g., substitution of special fonts
 </e>
 <e>
    <lg>
-     <l pos="Po">паласен</l><orig>паласен</orig>
+     <l pos="Po">паласен</l><stress>паласен</stress>
    </lg>
    <mg>
      <tg xml:lang="fin">

@@ -28,7 +28,7 @@ Possible errors following proofreading are, e. g., substitution of special fonts
 
 <e>
    <lg>
-     <l pos="CS">сямен</l><orig>сямен</orig>
+     <l pos="CS">сямен</l><stress>сямен</stress>
      </lg>
    <mg ind="2th"> <note><i>komp.konj:na</i></note><font face="SmolenskSGR">(<i>музэн, кадь</i>)</font>
      <tg xml:lang="fin">
@@ -60,7 +60,7 @@ Possible errors following proofreading are, e. g., substitution of special fonts
 </e>
 <e>
    <lg>
-     <l pos="CS">понна</l><orig>понна</orig>
+     <l pos="CS">понна</l><stress>понна</stress>
    </lg>
    <mg ind="5th"> <note><i>konj:na</i></note>
      <tg xml:lang="fin">

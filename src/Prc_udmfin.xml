@@ -28,7 +28,7 @@ Possible errors following proofreading are, e. g., substitution of special fonts
 
 <e>
    <lg>
-     <l pos="Prc">чакласькись</l><orig>чакласькись</orig>
+     <l pos="Prc">чакласькись</l><stress>чакласькись</stress>
 <compg><comp ord="E1" pos="V">чакласькыны</comp><comp ord="E2" type="Der/сь" drv="Prc"/></compg>
    </lg>
    <mg ind="2th"><defNative>эскериськись, ваньзэ эскерись-адӟись</defNative>
@@ -47,7 +47,7 @@ Possible errors following proofreading are, e. g., substitution of special fonts
 </e>
 <e>
    <lg>
-     <l pos="Prc">тӧласькись</l><orig>тӧласькись</orig>
+     <l pos="Prc">тӧласькись</l><stress>тӧласькись</stress>
 
    <compg><comp ord="E1" pos="V">тӧласькыны</comp><comp ord="E2" type="Der/сь" drv="Prc"/></compg>
    </lg>
@@ -59,7 +59,7 @@ Possible errors following proofreading are, e. g., substitution of special fonts
 </e>
 <e>
    <lg>
-     <l pos="Prc">бездӥсь</l><orig>бездӥсь</orig>
+     <l pos="Prc">бездӥсь</l><stress>бездӥсь</stress>
    <compg><comp ord="E1" pos="V">бездыны</comp><comp ord="E2" type="Der/сь" drv="Prc"/></compg>
    </lg>
    <mg ind="2th"><tg xml:lang="fin">
@@ -67,12 +67,12 @@ Possible errors following proofreading are, e. g., substitution of special fonts
      </tg>
    </mg>
 </e>
-<e> <lg> <l pos="Prc">вуоно</l><orig>вуоно</orig> </lg> <mg ind="1th"><compg><comp ord="E1" pos="V">вуыны</comp><comp ord="E2" type="Der/Оно" drv="Prc"/></compg> </mg> <mg ind="2th"><tg xml:lang="fin"> <t>ensi, tuleva, vastainen;</t> </tg> <xg><x>вуоно арын</x> <xt xml:lang="fin">ensi vuonna;</xt> </xg> <xg><x>вуоно толэзе</x> <xt xml:lang="fin">ensi kuussa</xt> </xg>◊ <font face="SmolenskSGR"><b>вуоно дыр </b></font><field>kiel.</field> <tg xml:lang="fin"> <t>futuuri</t> </tg> </mg> </e>
+<e> <lg> <l pos="Prc">вуоно</l><stress>вуоно</stress> </lg> <mg ind="1th"><compg><comp ord="E1" pos="V">вуыны</comp><comp ord="E2" type="Der/Оно" drv="Prc"/></compg> </mg> <mg ind="2th"><tg xml:lang="fin"> <t>ensi, tuleva, vastainen;</t> </tg> <xg><x>вуоно арын</x> <xt xml:lang="fin">ensi vuonna;</xt> </xg> <xg><x>вуоно толэзе</x> <xt xml:lang="fin">ensi kuussa</xt> </xg>◊ <font face="SmolenskSGR"><b>вуоно дыр </b></font><field>kiel.</field> <tg xml:lang="fin"> <t>futuuri</t> </tg> </mg> </e>
 <e> <lg> <l pos="Prc">вылымтэ</l> <compg><comp ord="E1" pos="V">вылыны</comp><comp ord="E2" type="Der/Эмтэ" drv="Prc"/></compg> </lg> <mg ind="2th"><tg xml:lang="fin"> <t>olematon, uskomaton;</t> </tg> <xg><x>вылымтэ учыр</x> <xt xml:lang="fin">olematon asia (t. tapahtuma)</xt> </xg> </mg> <mg ind="3th"> <compg><comp ord="E1">вылыны</comp><comp ord="E2">II preteritin kieltomuoto v:stä</comp></compg> <tg xml:lang="fin"> <t>(osoittautui, että) ei ollut (t. ole), ei ollut (t. ole) ilmeisesti (t. näköjään);</t> </tg> <xg><x>клубын туннэ нокин вылымтэ</x> <xt xml:lang="fin">(osoittautui, että) tänään kerhossa ei ollut ketään</xt> </xg> </mg> </e>
-<e> <lg> <l pos="Prc">гажано</l><orig>гажано</orig> </lg> <mg ind="1th"><defNative>дуно, сӥё-дано</defNative> <tg xml:lang="fin"> <t>arvoisa, kunnioitettava, kunnioitettu; kallis;</t> </tg> <xg><x>гажано эшъёс!</x> <xt xml:lang="fin">arvoisat ystävät (t. toverit)!;</xt> </xg> <xg><x>гажано эше</x> <xt xml:lang="fin">kallis ystäväni</xt> </xg> </mg> <mg ind="2th"><defNative>яратоно</defNative> <tg xml:lang="fin"> <t>lemmitty, mielitietty, rakastettu, rakas</t> </tg> </mg> </e>
+<e> <lg> <l pos="Prc">гажано</l><stress>гажано</stress> </lg> <mg ind="1th"><defNative>дуно, сӥё-дано</defNative> <tg xml:lang="fin"> <t>arvoisa, kunnioitettava, kunnioitettu; kallis;</t> </tg> <xg><x>гажано эшъёс!</x> <xt xml:lang="fin">arvoisat ystävät (t. toverit)!;</xt> </xg> <xg><x>гажано эше</x> <xt xml:lang="fin">kallis ystäväni</xt> </xg> </mg> <mg ind="2th"><defNative>яратоно</defNative> <tg xml:lang="fin"> <t>lemmitty, mielitietty, rakastettu, rakas</t> </tg> </mg> </e>
 <e>
    <lg>
-     <l pos="Prc">чакмем</l><orig>чакмем</orig>
+     <l pos="Prc">чакмем</l><stress>чакмем</stress>
    </lg>
    <mg ind="1th"><compg><comp ord="E1" pos="V">чакмыны</comp><comp ord="E2" type="Der/Эм" drv="Prc"/></compg>
    </mg>
@@ -89,7 +89,7 @@ Possible errors following proofreading are, e. g., substitution of special fonts
 </e>
 <e>
    <lg>
-     <l pos="Prc">чальккетэм</l><orig>чальккетэм</orig>
+     <l pos="Prc">чальккетэм</l><stress>чальккетэм</stress>
    </lg>
    <mg ind="1th"><compg><comp ord="E1">чальккетыны</comp><comp ord="E2" type="Der/Эм" drv="Prc;V»N"/></compg>
    </mg>
@@ -102,7 +102,7 @@ Possible errors following proofreading are, e. g., substitution of special fonts
 </e>
 <e>
    <lg>
-     <l pos="Prc">чапыльтэм</l><orig>чапыльтэм</orig>
+     <l pos="Prc">чапыльтэм</l><stress>чапыльтэм</stress>
    </lg>
    <mg ind="1th"><compg><comp ord="E1" pos="V">чапыльтыны</comp><comp ord="E2" type="Der/Эм" drv="Prc"/></compg>
    </mg>
@@ -114,21 +114,21 @@ Possible errors following proofreading are, e. g., substitution of special fonts
 </e>
 <e>
    <lg>
-     <l pos="Prc">чатырскем</l><orig>чатырскем</orig>
+     <l pos="Prc">чатырскем</l><stress>чатырскем</stress>
    </lg>
    <mg><compg><comp ord="E1">чатырскыны</comp><comp ord="E2" type="Der/Эм" drv="Prc;V»N"/></compg>
    </mg>
 </e>
 <e>
    <lg>
-     <l pos="Prc">чеберам</l><orig>чеберам</orig>
+     <l pos="Prc">чеберам</l><stress>чеберам</stress>
    </lg>
    <mg><compg><comp ord="E1">чебераны</comp><comp ord="E2" type="Der/Эм" drv="Prc;V»N"/></compg>
    </mg>
 </e>
 <e>
    <lg>
-     <l pos="Prc">чеберъяськись</l><orig>чеберъяськись</orig>
+     <l pos="Prc">чеберъяськись</l><stress>чеберъяськись</stress>
    </lg>
    <mg ind="1th"><compg><comp ord="E1" pos="V">чеберъяськыны</comp><comp ord="E2" type="Der/сь" drv="Prc"/></compg>
    </mg>
@@ -145,7 +145,7 @@ Possible errors following proofreading are, e. g., substitution of special fonts
 </e>
 <e>
    <lg>
-     <l pos="Prc">ченгешем</l><orig>ченгешем</orig>
+     <l pos="Prc">ченгешем</l><stress>ченгешем</stress>
    </lg>
    <mg ind="1th"><compg><comp ord="E1" pos="V">ченгешыны</comp><comp ord="E2" type="Der/Эм" drv="Prc"/></compg>
    </mg>
@@ -165,7 +165,7 @@ Possible errors following proofreading are, e. g., substitution of special fonts
 </e>
 <e>
    <lg>
-     <l pos="Prc">ченгешись</l><orig>ченгешись</orig>
+     <l pos="Prc">ченгешись</l><stress>ченгешись</stress>
    </lg>
    <mg ind="1th"><compg><comp ord="E1" pos="V">ченгешыны</comp><comp ord="E2" type="Der/сь" drv="Prc"/></compg>
    </mg>
@@ -177,7 +177,7 @@ Possible errors following proofreading are, e. g., substitution of special fonts
 </e>
 <e>
    <lg>
-     <l pos="Prc">чепыльтэм</l><orig>чепыльтэм</orig>
+     <l pos="Prc">чепыльтэм</l><stress>чепыльтэм</stress>
    </lg>
    <mg ind="1th"><compg><comp ord="E1">чепыльтыны</comp><comp ord="E2" type="Der/Эм" drv="Prc;V»N"/></compg>
    </mg>
@@ -189,14 +189,14 @@ Possible errors following proofreading are, e. g., substitution of special fonts
 </e>
 <e>
    <lg>
-     <l pos="Prc">чередем</l><orig>чередем</orig>
+     <l pos="Prc">чередем</l><stress>чередем</stress>
    </lg>
    <mg><compg><comp ord="E1">чередьыны</comp><comp ord="E2" type="Der/Эм" drv="Prc;V»N"/></compg>
    </mg>
 </e>
 <e>
    <lg>
-     <l pos="Prc">черектэм</l><orig>черектэм</orig>
+     <l pos="Prc">черектэм</l><stress>черектэм</stress>
    </lg>
    <mg ind="1th"><compg><comp ord="E1" pos="V">черектыны</comp><comp ord="E2" type="Der/Эм" drv="Prc"/></compg>
    </mg>
@@ -220,7 +220,7 @@ Possible errors following proofreading are, e. g., substitution of special fonts
 </e>
 <e>
    <lg>
-     <l pos="Prc">черекъям</l><orig>черекъям</orig>
+     <l pos="Prc">черекъям</l><stress>черекъям</stress>
    </lg>
    <mg ind="1th"><compg><comp ord="E1" pos="V">черекъяны</comp><comp ord="E2" type="Der/Эм" drv="Prc"/></compg>
    </mg>
@@ -241,7 +241,7 @@ Possible errors following proofreading are, e. g., substitution of special fonts
 </e>
 <e>
    <lg>
-     <l pos="Prc">черлам</l><orig>черлам</orig>
+     <l pos="Prc">черлам</l><stress>черлам</stress>
    </lg>
    <mg ind="1th"><compg><comp ord="E1" pos="V">черланы</comp><comp ord="E2" type="Der/Эм" drv="Prc"/></compg>
    </mg>
@@ -262,7 +262,7 @@ Possible errors following proofreading are, e. g., substitution of special fonts
 </e>
 <e>
    <lg>
-     <l pos="Prc">черсӥсь</l><orig>черсӥсь</orig>
+     <l pos="Prc">черсӥсь</l><stress>черсӥсь</stress>
    </lg>
    <mg ind="1th"><compg><comp ord="E1" pos="V">черсыны</comp><comp ord="E2" type="Der/сь" drv="Prc"/></compg>
    </mg>
@@ -274,7 +274,7 @@ Possible errors following proofreading are, e. g., substitution of special fonts
 </e>
 <e>
    <lg>
-     <l pos="Prc">черсэм</l><orig>черсэм</orig>
+     <l pos="Prc">черсэм</l><stress>черсэм</stress>
    </lg>
    <mg ind="1th"><compg><comp ord="E1" pos="V">черсыны</comp><comp ord="E2" type="Der/Эм" drv="Prc"/></compg>
    </mg>
@@ -291,7 +291,7 @@ Possible errors following proofreading are, e. g., substitution of special fonts
 </e>
 <e>
    <lg>
-     <l pos="Prc">чигем</l><orig>чигем</orig>
+     <l pos="Prc">чигем</l><stress>чигем</stress>
    </lg>
    <mg><inflect type="Der/Эм" drv="Prc;V»N"/><font face="SmolenskSGR"><b>чигыны; чигем мылкыд </b></font><senseType>kuv.</senseType>
      <tg xml:lang="fin">
@@ -301,7 +301,7 @@ Possible errors following proofreading are, e. g., substitution of special fonts
 </e>
 <e>
    <lg>
-     <l pos="Prc">чигнатэм</l><orig>чигнатэм</orig>
+     <l pos="Prc">чигнатэм</l><stress>чигнатэм</stress>
    </lg>
    <mg ind="1th"><compg><comp ord="E1" pos="V">чигнатыны</comp><comp ord="E2" type="Der/Эм" drv="Prc"/></compg>
    </mg>
@@ -318,7 +318,7 @@ Possible errors following proofreading are, e. g., substitution of special fonts
 </e>
 <e>
    <lg>
-     <l pos="Prc">чигтэм</l><orig>чигтэм</orig>
+     <l pos="Prc">чигтэм</l><stress>чигтэм</stress>
    </lg>
    <mg><inflect type="Der/Эм" drv="Prc;V»N"/><font face="SmolenskSGR"><b>чигтыны; пыд чигтэм </b></font><mwemg ind="1th"/>
      <tg xml:lang="fin">
@@ -331,14 +331,14 @@ Possible errors following proofreading are, e. g., substitution of special fonts
 </e>
 <e>
    <lg>
-     <l pos="Prc">чидам</l><orig>чидам</orig>
+     <l pos="Prc">чидам</l><stress>чидам</stress>
    </lg>
    <mg><compg><comp ord="E1">чиданы</comp><comp ord="E2" type="Der/Эм" drv="Prc;V»N"/></compg>
    </mg>
 </e>
 <e>
    <lg>
-     <l pos="Prc">чиедмем</l><orig>чиедмем</orig>
+     <l pos="Prc">чиедмем</l><stress>чиедмем</stress>
    </lg>
    <mg ind="1th"><compg><comp ord="E1" pos="V">чиедмыны</comp><comp ord="E2" type="Der/Эм" drv="Prc"/></compg>
    </mg>
@@ -350,7 +350,7 @@ Possible errors following proofreading are, e. g., substitution of special fonts
 </e>
 <e>
    <lg>
-     <l pos="Prc">чиетэм</l><orig>чиетэм</orig>
+     <l pos="Prc">чиетэм</l><stress>чиетэм</stress>
    </lg>
    <mg ind="1th"><compg><comp ord="E1" pos="V">чиетыны</comp><comp ord="E2" type="Der/Эм" drv="Prc"/></compg>
    </mg>
@@ -362,7 +362,7 @@ Possible errors following proofreading are, e. g., substitution of special fonts
 </e>
 <e>
    <lg>
-     <l pos="Prc">чиккетӥсь</l><orig>чиккетӥсь</orig>
+     <l pos="Prc">чиккетӥсь</l><stress>чиккетӥсь</stress>
    </lg>
    <mg ind="1th"><compg><comp ord="E1" pos="V">чиккетыны</comp><comp ord="E2" type="Der/сь" drv="Prc"/></compg>
    </mg>
@@ -375,7 +375,7 @@ Possible errors following proofreading are, e. g., substitution of special fonts
 </e>
 <e>
    <lg>
-     <l pos="Prc">чиккетэм</l><orig>чиккетэм</orig>
+     <l pos="Prc">чиккетэм</l><stress>чиккетэм</stress>
    </lg>
    <mg ind="1th"><compg><comp ord="E1" pos="V">чиккетыны</comp><comp ord="E2" type="Der/Эм" drv="Prc"/></compg>
    </mg>
@@ -392,7 +392,7 @@ Possible errors following proofreading are, e. g., substitution of special fonts
 </e>
 <e>
    <lg>
-     <l pos="Prc">чикыртэм</l><orig>чикыртэм</orig>
+     <l pos="Prc">чикыртэм</l><stress>чикыртэм</stress>
    </lg>
    <mg ind="1th"><compg><comp ord="E1" pos="V">чикыртыны</comp><comp ord="E2" type="Der/Эм" drv="V»N"/></compg>
    </mg>
@@ -411,7 +411,7 @@ Possible errors following proofreading are, e. g., substitution of special fonts
 </e>
 <e>
    <lg>
-     <l pos="Prc">чилектэм</l><orig>чилектэм</orig>
+     <l pos="Prc">чилектэм</l><stress>чилектэм</stress>
    </lg>
    <mg ind="1th"><compg><comp ord="E1" pos="V">чилектыны</comp><comp ord="E2" type="Der/Эм" drv="Prc"/></compg>
    </mg>
@@ -428,7 +428,7 @@ Possible errors following proofreading are, e. g., substitution of special fonts
 </e>
 <e>
    <lg>
-     <l pos="Prc">чилекъям</l><orig>чилекъям</orig>
+     <l pos="Prc">чилекъям</l><stress>чилекъям</stress>
    </lg>
    <mg ind="1th"><compg><comp ord="E1" pos="V">чилекъяны</comp><comp ord="E2" type="Der/Эм" drv="Prc"/></compg>
    </mg>
@@ -448,7 +448,7 @@ Possible errors following proofreading are, e. g., substitution of special fonts
 </e>
 <e>
    <lg>
-     <l pos="Prc">чилекъям-ворекъям</l><orig>чилекъям-ворекъям</orig>
+     <l pos="Prc">чилекъям-ворекъям</l><stress>чилекъям-ворекъям</stress>
    </lg>
    <mg ind="1th"><compg><comp ord="E1" pos="V">чилекъяны-ворекъяны</comp><comp ord="E2" type="Der/Эм" drv="Prc"/></compg>
    </mg>
@@ -470,7 +470,7 @@ Possible errors following proofreading are, e. g., substitution of special fonts
 </e>
 <e>
    <lg>
-     <l pos="Prc">чильпам</l><orig>чильпам</orig>
+     <l pos="Prc">чильпам</l><stress>чильпам</stress>
    </lg>
    <mg ind="1th"><compg><comp ord="E1" pos="V">чильпаны</comp><comp ord="E2" type="Der/Эм" drv="Prc"/></compg>
    </mg>
@@ -493,7 +493,7 @@ Possible errors following proofreading are, e. g., substitution of special fonts
 </e>
 <e>
    <lg>
-     <l pos="Prc">чильпаськем</l><orig>чильпаськем</orig>
+     <l pos="Prc">чильпаськем</l><stress>чильпаськем</stress>
    </lg>
    <mg ind="1th"><compg><comp ord="E1" pos="V">чильпаськыны</comp><comp ord="E2" type="Der/Эм" drv="V»N"/></compg>
    </mg>
@@ -535,7 +535,7 @@ Possible errors following proofreading are, e. g., substitution of special fonts
 </e>
 <e>
    <lg>
-     <l pos="Prc">чингетэм</l><orig>чингетэм</orig>
+     <l pos="Prc">чингетэм</l><stress>чингетэм</stress>
    </lg>
    <mg ind="1th"><compg><comp ord="E1" pos="V">чингетыны</comp><comp ord="E2" type="Der/Эм" drv="Prc"/></compg>
    </mg>
@@ -547,7 +547,7 @@ Possible errors following proofreading are, e. g., substitution of special fonts
 </e>
 <e>
    <lg>
-     <l pos="Prc">чипсэм</l><orig>чипсэм</orig>
+     <l pos="Prc">чипсэм</l><stress>чипсэм</stress>
    </lg>
    <mg ind="1th"><compg><comp ord="E1">чипсыны</comp><comp ord="E2" type="Der/Эм" drv="Prc;V»N"/></compg>
    </mg>
@@ -559,7 +559,7 @@ Possible errors following proofreading are, e. g., substitution of special fonts
 </e>
 <e>
    <lg>
-     <l pos="Prc">чиргетӥсь</l><orig>чиргетӥсь</orig>
+     <l pos="Prc">чиргетӥсь</l><stress>чиргетӥсь</stress>
    </lg>
    <mg ind="1th"><inflect type="Der/сь" drv="Prc"/>
      <xg><x>чиргетыны: чиргетӥсь тылобурдоос</x>
@@ -579,7 +579,7 @@ Possible errors following proofreading are, e. g., substitution of special fonts
 </e>
 <e>
    <lg>
-     <l pos="Prc">чиргетэм</l><orig>чиргетэм</orig>
+     <l pos="Prc">чиргетэм</l><stress>чиргетэм</stress>
    </lg>
    <mg ind="1th"><compg><comp ord="E1" pos="V">чиргетыны</comp><comp ord="E2" type="Der/Эм" drv="V»N"/></compg>
    </mg>
@@ -598,7 +598,7 @@ Possible errors following proofreading are, e. g., substitution of special fonts
 </e>
 <e>
    <lg>
-     <l pos="Prc">чирдэм</l><orig>чирдэм</orig>
+     <l pos="Prc">чирдэм</l><stress>чирдэм</stress>
    </lg>
    <mg ind="1th"><compg><comp ord="E1" pos="V">чирдыны</comp><comp ord="E2" type="Der/Эм" drv="Prc"/></compg>
    </mg>
@@ -627,7 +627,7 @@ Possible errors following proofreading are, e. g., substitution of special fonts
 </e>
 <e>
    <lg>
-     <l pos="Prc">чузъяськем</l><orig>чузъяськем</orig>
+     <l pos="Prc">чузъяськем</l><stress>чузъяськем</stress>
    </lg>
    <mg ind="1th"><note><i>partis. teonn. v:stä</i></note><font face="SmolenskSGR"><b>чузъяськыны</b></font>
    </mg>
@@ -639,7 +639,7 @@ Possible errors following proofreading are, e. g., substitution of special fonts
 </e>
 <e>
    <lg>
-     <l pos="Prc">чукам</l><orig>чукам</orig>
+     <l pos="Prc">чукам</l><stress>чукам</stress>
    </lg>
    <mg ind="1th"><compg><comp ord="E1" pos="V">чуканы</comp><comp ord="E2" type="Der/Эм" drv="Prc"/></compg>
    </mg>
@@ -661,14 +661,14 @@ Possible errors following proofreading are, e. g., substitution of special fonts
 </e>
 <e>
    <lg>
-     <l pos="Prc">чумолёям</l><orig>чумолёям</orig>
+     <l pos="Prc">чумолёям</l><stress>чумолёям</stress>
    </lg>
    <mg><compg><comp ord="E1">чумолёяны</comp><comp ord="E2" type="Der/Эм" drv="Prc;V»N"/></compg>
    </mg>
 </e>
 <e>
    <lg>
-     <l pos="Prc">чургетэм</l><orig>чургетэм</orig>
+     <l pos="Prc">чургетэм</l><stress>чургетэм</stress>
    </lg>
    <mg ind="1th"><compg><comp ord="E1" pos="V">чургетыны</comp><comp ord="E2" type="Der/Эм" drv="Prc"/></compg>
    </mg>
@@ -681,7 +681,7 @@ Possible errors following proofreading are, e. g., substitution of special fonts
 </e>
 <e>
    <lg>
-     <l pos="Prc">чурытаськем</l><orig>чурытаськем</orig>
+     <l pos="Prc">чурытаськем</l><stress>чурытаськем</stress>
    </lg>
    <mg ind="1th"><compg><comp ord="E1" pos="V">чурытаськыны</comp><comp ord="E2" type="Der/Эм" drv="Prc"/></compg>
    </mg>
@@ -693,7 +693,7 @@ Possible errors following proofreading are, e. g., substitution of special fonts
 </e>
 <e>
    <lg>
-     <l pos="Prc">чусомем</l><orig>чусомем</orig>
+     <l pos="Prc">чусомем</l><stress>чусомем</stress>
    </lg>
    <mg ind="1th"><compg><comp ord="E1" pos="V">чусомыны</comp><comp ord="E2" type="Der/Эм" drv="Prc"/></compg>
    </mg>
@@ -721,7 +721,7 @@ Possible errors following proofreading are, e. g., substitution of special fonts
 </e>
 <e>
    <lg>
-     <l pos="Prc">чутэм</l><orig>чутэм</orig>
+     <l pos="Prc">чутэм</l><stress>чутэм</stress>
    </lg>
    <mg ind="1th"><compg><comp ord="E1" pos="V">чутыны</comp><comp ord="E2" type="Der/Эм" drv="Prc"/></compg>
    </mg>
@@ -733,7 +733,7 @@ Possible errors following proofreading are, e. g., substitution of special fonts
 </e>
 <e>
    <lg>
-     <l pos="Prc">ӵабтӥсь</l><orig>ӵабтӥсь</orig>
+     <l pos="Prc">ӵабтӥсь</l><stress>ӵабтӥсь</stress>
    </lg>
    <mg ind="1th"><compg><comp ord="E1" pos="V">ӵабтыны</comp><comp ord="E2" type="Der/сь" drv="Prc"/></compg>
    </mg>
@@ -745,7 +745,7 @@ Possible errors following proofreading are, e. g., substitution of special fonts
 </e>
 <e>
    <lg>
-     <l pos="Prc">ӵабтэм</l><orig>ӵабтэм</orig>
+     <l pos="Prc">ӵабтэм</l><stress>ӵабтэм</stress>
    </lg>
    <mg ind="1th"><compg><comp ord="E1" pos="V">ӵабтыны</comp><comp ord="E2" type="Der/Эм" drv="Prc"/></compg>
    </mg>
@@ -770,7 +770,7 @@ Possible errors following proofreading are, e. g., substitution of special fonts
 </e>
 <e>
    <lg>
-     <l pos="Prc">ӵабъям</l><orig>ӵабъям</orig>
+     <l pos="Prc">ӵабъям</l><stress>ӵабъям</stress>
    </lg>
    <mg><inflect type="Der/Эм" drv="Prc;V»N"/>
      <xg><x>ӵабъяны; ӵабъям ки</x>
@@ -786,7 +786,7 @@ Possible errors following proofreading are, e. g., substitution of special fonts
 </e>
 <e>
    <lg>
-     <l pos="Prc">ӵажгетэм</l><orig>ӵажгетэм</orig>
+     <l pos="Prc">ӵажгетэм</l><stress>ӵажгетэм</stress>
    </lg>
    <mg ind="1th"><compg><comp ord="E1" pos="V">ӵажгетыны</comp><comp ord="E2" type="Der/Эм" drv="Prc"/></compg>
    </mg>
@@ -803,7 +803,7 @@ Possible errors following proofreading are, e. g., substitution of special fonts
 </e>
 <e>
    <lg>
-     <l pos="Prc">ӵашетэм</l><orig>ӵашетэм</orig>
+     <l pos="Prc">ӵашетэм</l><stress>ӵашетэм</stress>
    </lg>
    <mg ind="1th"><compg><comp ord="E1">ӵашетыны</comp><comp ord="E2" type="Der/Эм" drv="Prc;V»N"/></compg>
    </mg>
@@ -825,7 +825,7 @@ Possible errors following proofreading are, e. g., substitution of special fonts
 </e>
 <e>
    <lg>
-     <l pos="Prc">ӵашъем</l><orig>ӵашъем</orig>
+     <l pos="Prc">ӵашъем</l><stress>ӵашъем</stress>
    </lg>
    <mg ind="1th"><compg><comp ord="E1">ӵашйыны</comp><comp ord="E2" type="Der/Эм" drv="Prc;V»N"/></compg>
    </mg>
@@ -840,7 +840,7 @@ Possible errors following proofreading are, e. g., substitution of special fonts
 </e>
 <e>
    <lg>
-     <l pos="Prc">ӵектэм</l><orig>ӵектэм</orig>
+     <l pos="Prc">ӵектэм</l><stress>ӵектэм</stress>
    </lg>
    <mg ind="1th"><inflect type="Der/Эм" drv="Prc;V»N"/>
      <xg><x>ӵектыны; ӵектэм мурт</x>
@@ -855,7 +855,7 @@ Possible errors following proofreading are, e. g., substitution of special fonts
 </e>
 <e>
    <lg>
-     <l pos="Prc">ӵуштыртэм</l><orig>ӵуштыртэм</orig>
+     <l pos="Prc">ӵуштыртэм</l><stress>ӵуштыртэм</stress>
    </lg>
    <mg ind="1th"><compg><comp ord="E1" pos="V">ӵуштыртыны</comp><comp ord="E2" type="Der/Эм" drv="Prc"/></compg>
    </mg>
@@ -895,7 +895,7 @@ Possible errors following proofreading are, e. g., substitution of special fonts
 </e>
 <e>
    <lg>
-     <l pos="Prc">ӵышкем</l><orig>ӵышкем</orig>
+     <l pos="Prc">ӵышкем</l><stress>ӵышкем</stress>
    </lg>
    <mg ind="1th"><compg><comp ord="E1">ӵышкыны</comp><comp ord="E2" type="Der/Эм" drv="Prc;V»N"/></compg>
    </mg>
@@ -908,7 +908,7 @@ Possible errors following proofreading are, e. g., substitution of special fonts
 </e>
 <e>
    <lg>
-     <l pos="Prc">ӵыштыртэм</l><orig>ӵыштыртэм</orig>
+     <l pos="Prc">ӵыштыртэм</l><stress>ӵыштыртэм</stress>
    </lg>
    <mg ind="1th"><compg><comp ord="E1" pos="V">ӵыштыртыны</comp><comp ord="E2" type="Der/Эм" drv="Prc"/></compg>
    </mg>
@@ -923,7 +923,7 @@ Possible errors following proofreading are, e. g., substitution of special fonts
 </e>
 <e>
    <lg>
-     <l pos="Prc">шалтыртэм</l><orig>шалтыртэм</orig>
+     <l pos="Prc">шалтыртэм</l><stress>шалтыртэм</stress>
    </lg>
    <mg ind="1th"><compg><comp ord="E1" pos="V">шалтыртыны</comp><comp ord="E2" type="Der/Эм" drv="Prc"/></compg>
    </mg>
@@ -938,7 +938,7 @@ Possible errors following proofreading are, e. g., substitution of special fonts
 </e>
 <e>
    <lg>
-     <l pos="Prc">шальккетэм</l><orig>шальккетэм</orig>
+     <l pos="Prc">шальккетэм</l><stress>шальккетэм</stress>
    </lg>
    <mg ind="1th"><compg><comp ord="E1" pos="V">шальккетыны</comp><comp ord="E2" type="Der/Эм" drv="Prc"/></compg>
    </mg>
@@ -953,7 +953,7 @@ Possible errors following proofreading are, e. g., substitution of special fonts
 </e>
 <e>
    <lg>
-     <l pos="Prc">шальтыртэм</l><orig>шальтыртэм</orig>
+     <l pos="Prc">шальтыртэм</l><stress>шальтыртэм</stress>
    </lg>
    <mg ind="1th"><compg><comp ord="E1" pos="V">шальтыртыны</comp><comp ord="E2" type="Der/Эм" drv="Prc"/></compg>
    </mg>
@@ -968,7 +968,7 @@ Possible errors following proofreading are, e. g., substitution of special fonts
 </e>
 <e>
    <lg>
-     <l pos="Prc">шарккетэм</l><orig>шарккетэм</orig>
+     <l pos="Prc">шарккетэм</l><stress>шарккетэм</stress>
    </lg>
    <mg ind="1th"><compg><comp ord="E1" pos="V">шарккетыны</comp><comp ord="E2" type="Der/Эм" drv="Prc"/></compg>
    </mg>
@@ -983,7 +983,7 @@ Possible errors following proofreading are, e. g., substitution of special fonts
 </e>
 <e>
    <lg>
-     <l pos="Prc">шаугетэм</l><orig>шаугетэм</orig>
+     <l pos="Prc">шаугетэм</l><stress>шаугетэм</stress>
    </lg>
    <mg ind="1th"><compg><comp ord="E1" pos="V">шаугетыны</comp><comp ord="E2" type="Der/Эм" drv="Prc"/></compg>
    </mg>
@@ -995,7 +995,7 @@ Possible errors following proofreading are, e. g., substitution of special fonts
 </e>
 <e>
    <lg>
-     <l pos="Prc">шачыртэм</l><orig>шачыртэм</orig>
+     <l pos="Prc">шачыртэм</l><stress>шачыртэм</stress>
    </lg>
    <mg ind="1th"><compg><comp ord="E1" pos="V">шачыртыны</comp><comp ord="E2" type="Der/Эм" drv="Prc"/></compg>
    </mg>
@@ -1017,7 +1017,7 @@ Possible errors following proofreading are, e. g., substitution of special fonts
 </e>
 <e>
    <lg>
-     <l pos="Prc">шекертэм</l><orig>шекертэм</orig>
+     <l pos="Prc">шекертэм</l><stress>шекертэм</stress>
    </lg>
    <mg ind="1th"><compg><comp ord="E1" pos="V">шекертыны</comp><comp ord="E2" type="Der/Эм" drv="Prc"/></compg>
    </mg>
@@ -1029,7 +1029,7 @@ Possible errors following proofreading are, e. g., substitution of special fonts
 </e>
 <e>
    <lg>
-     <l pos="Prc">шертӥсь</l><orig>шертӥсь</orig>
+     <l pos="Prc">шертӥсь</l><stress>шертӥсь</stress>
    </lg>
    <mg ind="1th"><compg><comp ord="E1" pos="V">шертыны</comp><comp ord="E2" type="Der/сь" drv="Prc"/></compg>
    </mg>
@@ -1041,7 +1041,7 @@ Possible errors following proofreading are, e. g., substitution of special fonts
 </e>
 <e>
    <lg>
-     <l pos="Prc">шиетэм</l><orig>шиетэм</orig>
+     <l pos="Prc">шиетэм</l><stress>шиетэм</stress>
    </lg>
    <mg ind="1th"><compg><comp ord="E1" pos="V">шиетыны</comp><comp ord="E2" type="Der/Эм" drv="Prc"/></compg>
    </mg>
@@ -1056,7 +1056,7 @@ Possible errors following proofreading are, e. g., substitution of special fonts
 </e>
 <e>
    <lg>
-     <l pos="Prc">шильыртэм</l><orig>шильыртэм</orig>
+     <l pos="Prc">шильыртэм</l><stress>шильыртэм</stress>
    </lg>
    <mg ind="1th"><compg><comp ord="E1" pos="V">шильыртыны</comp><comp ord="E2" type="Der/Эм" drv="Prc"/></compg>
    </mg>
@@ -1071,7 +1071,7 @@ Possible errors following proofreading are, e. g., substitution of special fonts
 </e>
 <e>
    <lg>
-     <l pos="Prc">шлачкетэм</l><orig>шлачкетэм</orig>
+     <l pos="Prc">шлачкетэм</l><stress>шлачкетэм</stress>
    </lg>
    <mg ind="1th"><compg><comp ord="E1" pos="V">шлачкетыны</comp><comp ord="E2" type="Der/Эм" drv="Prc"/></compg>
    </mg>
@@ -1088,7 +1088,7 @@ Possible errors following proofreading are, e. g., substitution of special fonts
 </e>
 <e>
    <lg>
-     <l pos="Prc">шудӥсь</l><orig>шудӥсь</orig>
+     <l pos="Prc">шудӥсь</l><stress>шудӥсь</stress>
    </lg>
    <mg ind="1th"><compg><comp ord="E1" pos="V">шудыны</comp><comp ord="E2" type="Der/сь" drv="Prc"/></compg>
    </mg>
@@ -1129,7 +1129,7 @@ Possible errors following proofreading are, e. g., substitution of special fonts
 </e>
 <e>
    <lg>
-     <l pos="Prc">шуккем</l><orig>шуккем</orig>
+     <l pos="Prc">шуккем</l><stress>шуккем</stress>
    </lg>
    <mg ind="1th"><compg><comp ord="E1">шуккыны</comp><comp ord="E2" type="Der/Эм" drv="Prc;V»N"/></compg>
    </mg>
@@ -1170,7 +1170,7 @@ Possible errors following proofreading are, e. g., substitution of special fonts
 </e>
 <e>
    <lg>
-     <l pos="Prc">шуккиськем</l><orig>шуккиськем</orig>
+     <l pos="Prc">шуккиськем</l><stress>шуккиськем</stress>
    </lg>
    <mg ind="1th"><compg><comp ord="E1">шуккиськыны</comp><comp ord="E2" type="Der/Эм" drv="Prc;V»N"/></compg>
    </mg>
@@ -1192,7 +1192,7 @@ Possible errors following proofreading are, e. g., substitution of special fonts
 </e>
 <e>
    <lg>
-     <l pos="Prc">шулам</l><orig>шулам</orig>
+     <l pos="Prc">шулам</l><stress>шулам</stress>
    </lg>
    <mg ind="1th"><compg><comp ord="E1">шуланы</comp><comp ord="E2" type="Der/Эм" drv="Prc;V»N"/></compg>
    </mg>
@@ -1216,7 +1216,7 @@ Possible errors following proofreading are, e. g., substitution of special fonts
 </e>
 <e>
    <lg>
-     <l pos="Prc">шулась</l><orig>шулась</orig>
+     <l pos="Prc">шулась</l><stress>шулась</stress>
    </lg>
    <mg ind="1th"><compg><comp ord="E1" pos="V">шуланы</comp><comp ord="E2" type="Der/сь" drv="Prc"/></compg>
    </mg>
@@ -1228,7 +1228,7 @@ Possible errors following proofreading are, e. g., substitution of special fonts
 </e>
 <e>
    <lg>
-     <l pos="Prc">шульыртэм</l><orig>шульыртэм</orig>
+     <l pos="Prc">шульыртэм</l><stress>шульыртэм</stress>
    </lg>
    <mg ind="1th"><compg><comp ord="E1" pos="V">шульыртыны</comp><comp ord="E2" type="Der/Эм" drv="Prc"/></compg>
    </mg>
@@ -1245,7 +1245,7 @@ Possible errors following proofreading are, e. g., substitution of special fonts
 </e>
 <e>
    <lg>
-     <l pos="Prc">шуметэм</l><orig>шуметэм</orig>
+     <l pos="Prc">шуметэм</l><stress>шуметэм</stress>
    </lg>
    <mg ind="1th"><compg><comp ord="E1">шуметыны</comp><comp ord="E2" type="Der/Эм" drv="Prc;V»N"/></compg>
    </mg>
@@ -1275,7 +1275,7 @@ Possible errors following proofreading are, e. g., substitution of special fonts
 </e>
 <e>
    <lg>
-     <l pos="Prc">шургетэм</l><orig>шургетэм</orig>
+     <l pos="Prc">шургетэм</l><stress>шургетэм</stress>
    </lg>
    <mg ind="1th"><compg><comp ord="E1" pos="V">шургетыны</comp><comp ord="E2" type="Der/Эм" drv="Prc"/></compg>
    </mg>
@@ -1293,7 +1293,7 @@ Possible errors following proofreading are, e. g., substitution of special fonts
 </e>
 <e>
    <lg>
-     <l pos="Prc">ыбем</l><orig>ыбем</orig>
+     <l pos="Prc">ыбем</l><stress>ыбем</stress>
    </lg>
    <mg ind="1th"><compg><comp ord="E1" pos="V">ыбыны</comp><comp ord="E2" type="Der/Эм" drv="Prc"/></compg>
    </mg>
@@ -1317,7 +1317,7 @@ Possible errors following proofreading are, e. g., substitution of special fonts
 </e>
 <e>
    <lg>
-     <l pos="Prc">ыбылӥськем</l><orig>ыбылӥськем</orig>
+     <l pos="Prc">ыбылӥськем</l><stress>ыбылӥськем</stress>
    </lg>
    <mg ind="1th"><compg><comp ord="E1" pos="V">ыбылӥськыны</comp><comp ord="E2" type="Der/Эм" drv="Prc"/></compg>
    </mg>
@@ -1339,7 +1339,7 @@ Possible errors following proofreading are, e. g., substitution of special fonts
 </e>
 <e>
    <lg>
-     <l pos="Prc">ыбылӥськись</l><orig>ыбылӥськись</orig>
+     <l pos="Prc">ыбылӥськись</l><stress>ыбылӥськись</stress>
    </lg>
    <mg ind="1th"><compg><comp ord="E1" pos="V">ыбылӥськыны</comp><comp ord="E2" type="Der/сь" drv="Prc"/></compg>
    </mg>
@@ -1364,7 +1364,7 @@ Possible errors following proofreading are, e. g., substitution of special fonts
 </e>
 <e>
    <lg>
-     <l pos="Prc">ыргетэм</l><orig>ыргетэм</orig>
+     <l pos="Prc">ыргетэм</l><stress>ыргетэм</stress>
    </lg>
    <mg ind="1th"><compg><comp ord="E1" pos="V">ыргетыны</comp><comp ord="E2" type="Der/Эм" drv="Prc"/></compg>
    </mg>
@@ -1376,7 +1376,7 @@ Possible errors following proofreading are, e. g., substitution of special fonts
 </e>
 <e>
    <lg>
-     <l pos="Prc">эмъясь</l><orig>эмъясь</orig>
+     <l pos="Prc">эмъясь</l><stress>эмъясь</stress>
    </lg>
    <mg ind="1th"><compg><comp ord="E1" pos="V">эмъяны</comp><comp ord="E2" type="Der/сь" drv="Prc"/></compg>
    </mg>
@@ -1393,7 +1393,7 @@ Possible errors following proofreading are, e. g., substitution of special fonts
 </e>
 <e>
    <lg>
-     <l pos="Prc">эмъяськись</l><orig>эмъяськись</orig>
+     <l pos="Prc">эмъяськись</l><stress>эмъяськись</stress>
    </lg>
    <mg ind="1th"><compg><comp ord="E1" pos="V">эмъяськыны</comp><comp ord="E2" type="Der/сь" drv="Prc"/></compg>
    </mg>
@@ -1413,7 +1413,7 @@ Possible errors following proofreading are, e. g., substitution of special fonts
 </e>
 <e>
    <lg>
-     <l pos="Prc">эрекчаськем</l><orig>эрекчаськем</orig>
+     <l pos="Prc">эрекчаськем</l><stress>эрекчаськем</stress>
    </lg>
    <mg ind="1th"><compg><comp ord="E1" pos="V">эрекчаськыны</comp><comp ord="E2" type="Der/Эм" drv="Prc"/></compg>
    </mg>
@@ -1425,7 +1425,7 @@ Possible errors following proofreading are, e. g., substitution of special fonts
 </e>
 <e>
    <lg>
-     <l pos="Prc">эрекчаськись</l><orig>эрекчаськись</orig>
+     <l pos="Prc">эрекчаськись</l><stress>эрекчаськись</stress>
    </lg>
    <mg ind="1th"><compg><comp ord="E1" pos="V">эрекчаськыны</comp><comp ord="E2" type="Der/сь" drv="Prc"/></compg>
    </mg>
@@ -1440,7 +1440,7 @@ Possible errors following proofreading are, e. g., substitution of special fonts
 </e>
 <e>
    <lg>
-     <l pos="Prc">эркеяськись</l><orig>эркеяськись</orig>
+     <l pos="Prc">эркеяськись</l><stress>эркеяськись</stress>
    </lg>
    <mg ind="1th"><compg><comp ord="E1" pos="V">эркеяськыны</comp><comp ord="E2" type="Der/сь" drv="Prc"/></compg>
    </mg>
@@ -1452,7 +1452,7 @@ Possible errors following proofreading are, e. g., substitution of special fonts
 </e>
 <e>
    <lg>
-     <l pos="Prc">эскерись</l><orig>эскерись</orig>
+     <l pos="Prc">эскерись</l><stress>эскерись</stress>
    </lg>
    <mg ind="1th"><compg><comp ord="E1" pos="V">эскерыны</comp><comp ord="E2" type="Der/сь" drv="Prc"/></compg>
    </mg>
@@ -1504,7 +1504,7 @@ Possible errors following proofreading are, e. g., substitution of special fonts
 </e>
 <e>
    <lg>
-     <l pos="Prc">юам</l><orig>юам</orig>
+     <l pos="Prc">юам</l><stress>юам</stress>
    </lg>
    <mg ind="1th"><compg><comp ord="E1" pos="V">юаны</comp><comp ord="E2" type="Der/Эм" drv="Prc"/></compg>
    </mg>
@@ -1519,7 +1519,7 @@ Possible errors following proofreading are, e. g., substitution of special fonts
 </e>
 <e>
    <lg>
-     <l pos="Prc">юам-верам</l><orig>юам-верам</orig>
+     <l pos="Prc">юам-верам</l><stress>юам-верам</stress>
    </lg>
    <mg ind="1th"><compg><comp ord="E1" pos="V">юаны- вераны</comp><comp ord="E2" type="Der/Эм" drv="Prc"/></compg>
    </mg>
@@ -1531,7 +1531,7 @@ Possible errors following proofreading are, e. g., substitution of special fonts
 </e>
 <e>
    <lg>
-     <l pos="Prc">югдытӥсь</l><orig>югдытӥсь</orig>
+     <l pos="Prc">югдытӥсь</l><stress>югдытӥсь</stress>
    </lg>
    <mg ind="1th"><compg><comp ord="E1" pos="V">югдытыны</comp><comp ord="E2" type="Der/сь" drv="Prc"/></compg>
    </mg>
@@ -1548,7 +1548,7 @@ Possible errors following proofreading are, e. g., substitution of special fonts
 </e>
 <e>
    <lg>
-     <l pos="Prc">юись</l><orig>юись</orig>
+     <l pos="Prc">юись</l><stress>юись</stress>
    </lg>
    <mg ind="1th"><compg><comp ord="E1" pos="V">юыны</comp><comp ord="E2" type="Der/сь" drv="Prc"/></compg>
    </mg>
@@ -1571,7 +1571,7 @@ Possible errors following proofreading are, e. g., substitution of special fonts
 </e>
 <e>
    <lg>
-     <l pos="Prc">юргетэм</l><orig>юргетэм</orig>
+     <l pos="Prc">юргетэм</l><stress>юргетэм</stress>
    </lg>
    <mg ind="1th"><compg><comp ord="E1" pos="V">юргетыны</comp><comp ord="E2" type="Der/Эм" drv="Prc"/></compg>
    </mg>
@@ -1583,7 +1583,7 @@ Possible errors following proofreading are, e. g., substitution of special fonts
 </e>
 <e>
    <lg>
-     <l pos="Prc">юрттӥсь</l><orig>юрттӥсь</orig>
+     <l pos="Prc">юрттӥсь</l><stress>юрттӥсь</stress>
    </lg>
    <mg ind="1th"><compg><comp ord="E1" pos="V">юрттыны</comp><comp ord="E2" type="Der/сь" drv="Prc"/></compg>
    </mg>
@@ -1626,7 +1626,7 @@ Possible errors following proofreading are, e. g., substitution of special fonts
 </e>
 <e>
    <lg>
-     <l pos="Prc">юрттӥськись</l><orig>юрттӥськись</orig>
+     <l pos="Prc">юрттӥськись</l><stress>юрттӥськись</stress>
    </lg>
    <mg ind="1th"><compg><comp ord="E1" pos="V">юрттӥськыны</comp><comp ord="E2" type="Der/сь" drv="Prc"/></compg>
    </mg>
@@ -1638,7 +1638,7 @@ Possible errors following proofreading are, e. g., substitution of special fonts
 </e>
 <e>
    <lg>
-     <l pos="Prc">юэм</l><orig>юэм</orig>
+     <l pos="Prc">юэм</l><stress>юэм</stress>
    </lg>
    <mg ind="1th"><compg><comp ord="E1" pos="V">юыны</comp><comp ord="E2" type="Der/Эм" drv="Prc"/></compg>
    </mg>
@@ -1658,7 +1658,7 @@ Possible errors following proofreading are, e. g., substitution of special fonts
 </e>
 <e>
    <lg>
-     <l pos="Prc">яратэм</l><orig>яратэм</orig>
+     <l pos="Prc">яратэм</l><stress>яратэм</stress>
    </lg>
    <mg ind="1th"><compg><comp ord="E1">яратыны</comp><comp ord="E2" type="Der/Эм" drv="Prc;V»N"/></compg>
    </mg>
@@ -1670,7 +1670,7 @@ Possible errors following proofreading are, e. g., substitution of special fonts
 </e>
 <e>
    <lg>
-     <l pos="Prc">басьтӥсь</l><orig>басьтӥсь</orig>
+     <l pos="Prc">басьтӥсь</l><stress>басьтӥсь</stress>
    </lg>
    <mg ind="1th"><compg><comp ord="E1" pos="V">басьтыны</comp><comp ord="E2" type="Der/сь" drv="Prc"/></compg>
    </mg>
@@ -1697,7 +1697,7 @@ Possible errors following proofreading are, e. g., substitution of special fonts
 </e>
 <e>
    <lg>
-     <l pos="Prc">басьяськись</l><orig>басьяськись</orig>
+     <l pos="Prc">басьяськись</l><stress>басьяськись</stress>
    </lg>
    <mg ind="1th"><compg><comp ord="E1" pos="V">басьяськыны</comp><comp ord="E2" type="Der/сь" drv="Prc"/></compg>
    </mg>
@@ -1709,7 +1709,7 @@ Possible errors following proofreading are, e. g., substitution of special fonts
 </e>
 <e>
    <lg>
-     <l pos="Prc">бералскем</l><orig>бералскем</orig>
+     <l pos="Prc">бералскем</l><stress>бералскем</stress>
    </lg>
    <mg ind="1th"><compg><comp ord="E1" pos="V">бералскыны</comp><comp ord="E2" type="Der/Эм" drv="Prc"/></compg>
    </mg>
@@ -1721,7 +1721,7 @@ Possible errors following proofreading are, e. g., substitution of special fonts
 </e>
 <e>
    <lg>
-     <l pos="Prc">бертэм</l><orig>бертэм</orig>
+     <l pos="Prc">бертэм</l><stress>бертэм</stress>
    </lg>
    <mg ind="1th"><compg><comp ord="E1" pos="V">бертыны</comp><comp ord="E2" type="Der/Эм" drv="Prc"/></compg>
    </mg>
@@ -1743,7 +1743,7 @@ Possible errors following proofreading are, e. g., substitution of special fonts
 </e>
 <e>
    <lg>
-     <l pos="Prc">берыктӥсь</l><orig>берыктӥсь</orig>
+     <l pos="Prc">берыктӥсь</l><stress>берыктӥсь</stress>
    </lg>
    <mg ind="1th"><compg><comp ord="E1" pos="V">берыктыны</comp><comp ord="E2" type="Der/сь" drv="Prc"/></compg>
    </mg>
@@ -1755,7 +1755,7 @@ Possible errors following proofreading are, e. g., substitution of special fonts
 </e>
 <e>
    <lg>
-     <l pos="Prc">бӧрдӥсь</l><orig>бӧрдӥсь</orig>
+     <l pos="Prc">бӧрдӥсь</l><stress>бӧрдӥсь</stress>
    </lg>
    <mg><inflect type="Der/сь" drv="Prc"/><stem>бӧрдыны</stem>
    </mg>
@@ -1767,7 +1767,7 @@ Possible errors following proofreading are, e. g., substitution of special fonts
 </e>
 <e>
    <lg>
-     <l pos="Prc">бӧрдэм</l><orig>бӧрдэм</orig>
+     <l pos="Prc">бӧрдэм</l><stress>бӧрдэм</stress>
    </lg>
    <mg ind="1th"><compg><comp ord="E1" pos="V">бӧрдыны</comp><comp ord="E2" type="Der/Эм" drv="Prc"/></compg>
    </mg>
@@ -1779,7 +1779,7 @@ Possible errors following proofreading are, e. g., substitution of special fonts
 </e>
 <e>
    <lg>
-     <l pos="Prc">бугыръяськись</l><orig>бугыръяськись</orig>
+     <l pos="Prc">бугыръяськись</l><stress>бугыръяськись</stress>
    </lg>
    <mg ind="1th"><compg><comp ord="E1" pos="V">бугыръяськыны</comp><comp ord="E2" type="Der/сь" drv="Prc"/></compg>
    </mg>
@@ -1791,7 +1791,7 @@ Possible errors following proofreading are, e. g., substitution of special fonts
 </e>
 <e>
    <lg>
-     <l pos="Prc">бульккетэм</l><orig>бульккетэм</orig>
+     <l pos="Prc">бульккетэм</l><stress>бульккетэм</stress>
    </lg>
    <mg ind="1th"><compg><comp ord="E1" pos="V">бульккетыны</comp><comp ord="E2" type="Der/Эм" drv="Prc"/></compg>
    </mg>
@@ -1806,7 +1806,7 @@ Possible errors following proofreading are, e. g., substitution of special fonts
 </e>
 <e>
    <lg>
-     <l pos="Prc">бультыртэм</l><orig>бультыртэм</orig>
+     <l pos="Prc">бультыртэм</l><stress>бультыртэм</stress>
    </lg>
    <mg ind="1th"><compg><comp ord="E1" pos="V">бультыртыны</comp><comp ord="E2" type="Der/Эм" drv="Prc"/></compg>
    </mg>
@@ -1818,7 +1818,7 @@ Possible errors following proofreading are, e. g., substitution of special fonts
 </e>
 <e>
    <lg>
-     <l pos="Prc">буясь</l><orig>буясь</orig>
+     <l pos="Prc">буясь</l><stress>буясь</stress>
    </lg>
    <mg ind="1th"><compg><comp ord="E1" pos="V">буяны</comp><comp ord="E2" type="Der/сь" drv="Prc"/></compg>
    </mg>
@@ -1830,7 +1830,7 @@ Possible errors following proofreading are, e. g., substitution of special fonts
 </e>
 <e>
    <lg>
-     <l pos="Prc">бызем</l><orig>бызем</orig>
+     <l pos="Prc">бызем</l><stress>бызем</stress>
    </lg>
    <mg ind="1th"><compg><comp ord="E1" pos="V">бызьыны;</comp><comp ord="E2" type="Der/Эм" drv="Prc"/></compg>
      <xg><x> бызем ныл</x>
@@ -1859,7 +1859,7 @@ Possible errors following proofreading are, e. g., substitution of special fonts
 </e>
 <e>
    <lg>
-     <l pos="Prc">бырдам</l><orig>бырдам</orig>
+     <l pos="Prc">бырдам</l><stress>бырдам</stress>
    </lg>
    <mg ind="1th"><compg><comp ord="E1" pos="V">бырданы</comp><comp ord="E2" type="Der/Эм" drv="Prc"/></compg>
    </mg>
@@ -1871,7 +1871,7 @@ Possible errors following proofreading are, e. g., substitution of special fonts
 </e>
 <e>
    <lg>
-     <l pos="Prc">бырем</l><orig>бырем</orig>
+     <l pos="Prc">бырем</l><stress>бырем</stress>
    </lg>
    <mg ind="1th"><compg><comp ord="E1" pos="V">бырыны</comp><comp ord="E2" type="Der/Эм" drv="Prc"/></compg>
    </mg>
@@ -1893,7 +1893,7 @@ Possible errors following proofreading are, e. g., substitution of special fonts
 </e>
 <e>
    <lg>
-     <l pos="Prc">бырйись</l><orig>бырйись</orig>
+     <l pos="Prc">бырйись</l><stress>бырйись</stress>
    </lg>
    <mg ind="1th"><compg><comp ord="E1" pos="V">бырйыны</comp><comp ord="E2" type="Der/сь" drv="Prc"/></compg>
    </mg>
@@ -1922,7 +1922,7 @@ Possible errors following proofreading are, e. g., substitution of special fonts
 </e>
 <e>
    <lg>
-     <l pos="Prc">вазись</l><orig>вазись</orig>
+     <l pos="Prc">вазись</l><stress>вазись</stress>
    </lg>
    <mg ind="1th"><compg><comp ord="E1" pos="V">вазьыны</comp><comp ord="E2" type="Der/сь" drv="Prc"/></compg>
    </mg>
@@ -1942,7 +1942,7 @@ Possible errors following proofreading are, e. g., substitution of special fonts
 </e>
 <e>
    <lg>
-     <l pos="Prc">валам</l><orig>валам</orig>
+     <l pos="Prc">валам</l><stress>валам</stress>
    </lg>
    <mg ind="1th"><compg><comp ord="E1" pos="V">валаны</comp><comp ord="E2" type="Der/Эм" drv="Prc"/></compg>
    </mg>
@@ -1962,7 +1962,7 @@ Possible errors following proofreading are, e. g., substitution of special fonts
 </e>
 <e>
    <lg>
-     <l pos="Prc">валтӥсь</l><orig>валтӥсь</orig>
+     <l pos="Prc">валтӥсь</l><stress>валтӥсь</stress>
    </lg>
    <mg ind="1th"><compg><comp ord="E1" pos="V">валтыны</comp><comp ord="E2" type="Der/сь" drv="Prc"/></compg>
    </mg>
@@ -1996,7 +1996,7 @@ Possible errors following proofreading are, e. g., substitution of special fonts
 </e>
 <e>
    <lg>
-     <l pos="Prc">валэктӥсь</l><orig>валэктӥсь</orig>
+     <l pos="Prc">валэктӥсь</l><stress>валэктӥсь</stress>
    </lg>
    <mg ind="1th"><compg><comp ord="E1" pos="V">валэктыны</comp><comp ord="E2" type="Der/сь" drv="Prc"/></compg>
    </mg>
@@ -2008,7 +2008,7 @@ Possible errors following proofreading are, e. g., substitution of special fonts
 </e>
 <e>
    <lg>
-     <l pos="Prc">валэктэм</l><orig>валэктэм</orig>
+     <l pos="Prc">валэктэм</l><stress>валэктэм</stress>
    </lg>
    <mg ind="1th"><compg><comp ord="E1" pos="V">валэктыны</comp><comp ord="E2" type="Der/Эм" drv="Prc"/></compg>
    </mg>
@@ -2020,7 +2020,7 @@ Possible errors following proofreading are, e. g., substitution of special fonts
 </e>
 <e>
    <lg>
-     <l pos="Prc">вамыштэм</l><orig>вамыштэм</orig>
+     <l pos="Prc">вамыштэм</l><stress>вамыштэм</stress>
    </lg>
    <mg ind="1th"><compg><comp ord="E1" pos="V">вамыштыны</comp><comp ord="E2" type="Der/Эм" drv="Prc"/></compg>
    </mg>
@@ -2037,7 +2037,7 @@ Possible errors following proofreading are, e. g., substitution of special fonts
 </e>
 <e>
    <lg>
-     <l pos="Prc">веднаськем</l><orig>веднаськем</orig>
+     <l pos="Prc">веднаськем</l><stress>веднаськем</stress>
    </lg>
    <mg ind="1th"><compg><comp ord="E1" pos="V">веднаськыны</comp><comp ord="E2" type="Der/Эм" drv="Prc"/></compg>
    </mg>
@@ -2050,7 +2050,7 @@ Possible errors following proofreading are, e. g., substitution of special fonts
 </e>
 <e>
    <lg>
-     <l pos="Prc">верам</l><orig>верам</orig>
+     <l pos="Prc">верам</l><stress>верам</stress>
    </lg>
    <mg ind="1th"><compg><comp ord="E1" pos="V">вераны</comp><comp ord="E2" type="Der/Эм" drv="Prc"/></compg>
    </mg>
@@ -2074,7 +2074,7 @@ Possible errors following proofreading are, e. g., substitution of special fonts
 </e>
 <e>
    <lg>
-     <l pos="Prc">верась</l><orig>верась</orig>
+     <l pos="Prc">верась</l><stress>верась</stress>
    </lg>
    <mg ind="1th"><compg><comp ord="E1" pos="V">вераны</comp><comp ord="E2" type="Der/сь" drv="Prc"/></compg>
    </mg>
@@ -2094,7 +2094,7 @@ Possible errors following proofreading are, e. g., substitution of special fonts
 </e>
 <e>
    <lg>
-     <l pos="Prc">ветлӥсь</l><orig>ветлӥсь</orig>
+     <l pos="Prc">ветлӥсь</l><stress>ветлӥсь</stress>
    </lg>
    <mg ind="1th"><compg><comp ord="E1" pos="V">ветлыны</comp><comp ord="E2" type="Der/сь" drv="Prc"/></compg>
    </mg>
@@ -2120,7 +2120,7 @@ Possible errors following proofreading are, e. g., substitution of special fonts
 </e>
 <e>
    <lg>
-     <l pos="Prc">ветлэм</l><orig>ветлэм</orig>
+     <l pos="Prc">ветлэм</l><stress>ветлэм</stress>
    </lg>
    <mg ind="1th"><compg><comp ord="E1" pos="V">ветлыны</comp><comp ord="E2" type="Der/Эм" drv="Prc"/></compg>
    </mg>
@@ -2151,7 +2151,7 @@ Possible errors following proofreading are, e. g., substitution of special fonts
 </e>
 <e>
    <lg>
-     <l pos="Prc">визнась</l><orig>визнась</orig>
+     <l pos="Prc">визнась</l><stress>визнась</stress>
    </lg>
    <mg ind="1th"><compg><comp ord="E1" pos="V">визнаны</comp><comp ord="E2" type="Der/сь" drv="Prc"/></compg>
    </mg>
@@ -2163,7 +2163,7 @@ Possible errors following proofreading are, e. g., substitution of special fonts
 </e>
 <e>
    <lg>
-     <l pos="Prc">виись</l><orig>виись</orig>
+     <l pos="Prc">виись</l><stress>виись</stress>
    </lg>
    <mg ind="1th"><compg><comp ord="E1" pos="V">виыны</comp><comp ord="E2" type="Der/сь" drv="Prc"/></compg>
    </mg>
@@ -2175,7 +2175,7 @@ Possible errors following proofreading are, e. g., substitution of special fonts
 </e>
 <e>
    <lg>
-     <l pos="Prc">висем</l><orig>висем</orig>
+     <l pos="Prc">висем</l><stress>висем</stress>
    </lg>
    <mg ind="1th"><compg><comp ord="E1" pos="V">висьыны</comp><comp ord="E2" type="Der/Эм" drv="Prc"/></compg>
    </mg>
@@ -2187,7 +2187,7 @@ Possible errors following proofreading are, e. g., substitution of special fonts
 </e>
 <e>
    <lg>
-     <l pos="Prc">вогъяськись</l><orig>вогъяськись</orig>
+     <l pos="Prc">вогъяськись</l><stress>вогъяськись</stress>
    </lg>
    <mg ind="1th"> <compg><comp ord="E1" pos="V">вогъяськыны</comp><comp ord="E2" type="Der/сь" drv="Prc"/></compg>
    </mg>
@@ -2208,7 +2208,7 @@ Possible errors following proofreading are, e. g., substitution of special fonts
 </e>
 <e>
    <lg>
-     <l pos="Prc">вожвылъяськись</l><orig>вожвылъяськись</orig>
+     <l pos="Prc">вожвылъяськись</l><stress>вожвылъяськись</stress>
    </lg>
    <mg ind="1th"><compg><comp ord="E1" pos="V">вожвылъяськыны</comp><comp ord="E2" type="Der/сь" drv="Prc"/></compg>
    </mg>
@@ -2243,7 +2243,7 @@ Possible errors following proofreading are, e. g., substitution of special fonts
 </e>
 <e>
    <lg>
-     <l pos="Prc">возьмась</l><orig>возьмась</orig>
+     <l pos="Prc">возьмась</l><stress>возьмась</stress>
    </lg>
    <mg ind="1th"><compg><comp ord="E1" pos="V">возьманы</comp><comp ord="E2" type="Der/сь" drv="Prc"/></compg>
    </mg>
@@ -2274,7 +2274,7 @@ Possible errors following proofreading are, e. g., substitution of special fonts
 </e>
 <e>
    <lg>
-     <l pos="Prc">возьмаськись</l><orig>возьмаськись</orig>
+     <l pos="Prc">возьмаськись</l><stress>возьмаськись</stress>
    </lg>
    <mg ind="1th"><compg><comp ord="E1" pos="V">возьмаськыны</comp><comp ord="E2" type="Der/сь" drv="Prc"/></compg>
    </mg>
@@ -2286,7 +2286,7 @@ Possible errors following proofreading are, e. g., substitution of special fonts
 </e>
 <e>
    <lg>
-     <l pos="Prc">возьматӥсь</l><orig>возьматӥсь</orig>
+     <l pos="Prc">возьматӥсь</l><stress>возьматӥсь</stress>
    </lg>
    <mg ind="1th"><compg><comp ord="E1" pos="V">возьматыны</comp><comp ord="E2" type="Der/сь" drv="Prc"/></compg>
    </mg>
@@ -2308,7 +2308,7 @@ Possible errors following proofreading are, e. g., substitution of special fonts
 </e>
 <e>
    <lg>
-     <l pos="Prc">вормись</l><orig>вормись</orig>
+     <l pos="Prc">вормись</l><stress>вормись</stress>
    </lg>
    <mg ind="1th"><compg><comp ord="E1" pos="V">вормыны</comp><comp ord="E2" type="Der/сь" drv="Prc"/></compg>
    </mg>
@@ -2320,7 +2320,7 @@ Possible errors following proofreading are, e. g., substitution of special fonts
 </e>
 <e>
    <lg>
-     <l pos="Prc">воштӥсь</l><orig>воштӥсь</orig>
+     <l pos="Prc">воштӥсь</l><stress>воштӥсь</stress>
    </lg>
    <mg ind="1th"><compg><comp ord="E1" pos="V">воштыны</comp><comp ord="E2" type="Der/сь" drv="Prc"/></compg>
    </mg>
@@ -2343,7 +2343,7 @@ Possible errors following proofreading are, e. g., substitution of special fonts
 </e>
 <e>
    <lg>
-     <l pos="Prc">вӧлдӥсь</l><orig>вӧлдӥсь</orig>
+     <l pos="Prc">вӧлдӥсь</l><stress>вӧлдӥсь</stress>
    </lg>
    <mg ind="1th"><compg><comp ord="E1" pos="V">вӧлдыны</comp><comp ord="E2" type="Der/сь" drv="Prc"/></compg>
    </mg>
@@ -2358,7 +2358,7 @@ Possible errors following proofreading are, e. g., substitution of special fonts
 </e>
 <e>
    <lg>
-     <l pos="Prc">вӧсясь</l><orig>вӧсясь</orig>
+     <l pos="Prc">вӧсясь</l><stress>вӧсясь</stress>
    </lg>
    <mg ind="1th"><compg><comp ord="E1" pos="V">вӧсяны</comp><comp ord="E2" type="Der/сь" drv="Prc"/></compg>
    </mg>
@@ -2370,7 +2370,7 @@ Possible errors following proofreading are, e. g., substitution of special fonts
 </e>
 <e>
    <lg>
-     <l pos="Prc">вузаськись</l><orig>вузаськись</orig>
+     <l pos="Prc">вузаськись</l><stress>вузаськись</stress>
    </lg>
    <mg ind="1th"><compg><comp ord="E1" pos="V">вузаськыны</comp><comp ord="E2" type="Der/сь" drv="Prc"/></compg>
    </mg>
@@ -2382,7 +2382,7 @@ Possible errors following proofreading are, e. g., substitution of special fonts
 </e>
 <e>
    <lg>
-     <l pos="Prc">вузкарись</l><orig>вузкарись</orig>
+     <l pos="Prc">вузкарись</l><stress>вузкарись</stress>
    </lg>
    <mg ind="1th"><compg><comp ord="E1" pos="V">вуз/карыны</comp><comp ord="E2" type="Der/сь" drv="Prc"/></compg>
    </mg>
@@ -2394,7 +2394,7 @@ Possible errors following proofreading are, e. g., substitution of special fonts
 </e>
 <e>
    <lg>
-     <l pos="Prc">вузэм</l><orig>вузэм</orig>
+     <l pos="Prc">вузэм</l><stress>вузэм</stress>
    </lg>
    <mg ind="1th"><compg><comp ord="E1" pos="V">вузыны</comp><comp ord="E2" type="Der/Эм" drv="Prc"/></compg>
    </mg>
@@ -2412,7 +2412,7 @@ Possible errors following proofreading are, e. g., substitution of special fonts
 </e>
 <e>
    <lg>
-     <l pos="Prc">вурись</l><orig>вурись</orig>
+     <l pos="Prc">вурись</l><stress>вурись</stress>
    </lg>
    <mg><inflect type="Der/сь" drv="Prc"/>
      <xg><x>вурыны; дӥсь вурись</x>
@@ -2425,7 +2425,7 @@ Possible errors following proofreading are, e. g., substitution of special fonts
 </e>
 <e>
    <lg>
-     <l pos="Prc">вуӵыртэм</l><orig>вуӵыртэм</orig>
+     <l pos="Prc">вуӵыртэм</l><stress>вуӵыртэм</stress>
    </lg>
    <mg ind="1th"><compg><comp ord="E1" pos="V">вуӵыртыны</comp><comp ord="E2" type="Der/Эм" drv="Prc"/></compg>
    </mg>
@@ -2442,7 +2442,7 @@ Possible errors following proofreading are, e. g., substitution of special fonts
 </e>
 <e>
    <lg>
-     <l pos="Prc">вуэм</l><orig>вуэм</orig>
+     <l pos="Prc">вуэм</l><stress>вуэм</stress>
    </lg>
    <mg ind="1th"><compg><comp ord="E1" pos="V">вуыны</comp><comp ord="E2" type="Der/Эм" drv="Prc"/></compg>
    </mg>
@@ -2470,7 +2470,7 @@ Possible errors following proofreading are, e. g., substitution of special fonts
 </e>
 <e>
    <lg>
-     <l pos="Prc">гогыясь</l><orig>гогыясь</orig>
+     <l pos="Prc">гогыясь</l><stress>гогыясь</stress>
    </lg>
    <mg ind="1th"><compg><comp ord="E1" pos="V">гогыяны</comp><comp ord="E2" type="Der/сь" drv="Prc"/></compg>
    </mg>
@@ -2482,7 +2482,7 @@ Possible errors following proofreading are, e. g., substitution of special fonts
 </e>
 <e>
    <lg>
-     <l pos="Prc">гожъям</l><orig>гожъям</orig>
+     <l pos="Prc">гожъям</l><stress>гожъям</stress>
    </lg>
    <mg ind="1th"><compg><comp ord="E1" pos="V">гожъяны</comp><comp ord="E2" type="Der/Эм" drv="Prc"/></compg>
    </mg>
@@ -2494,7 +2494,7 @@ Possible errors following proofreading are, e. g., substitution of special fonts
 </e>
 <e>
    <lg>
-     <l pos="Prc">гожъяськись</l><orig>гожъяськись</orig>
+     <l pos="Prc">гожъяськись</l><stress>гожъяськись</stress>
    </lg>
    <mg ind="1th"><compg><comp ord="E1" pos="V">гожъяськыны</comp><comp ord="E2" type="Der/сь" drv="Prc"/></compg>
    </mg>
@@ -2506,7 +2506,7 @@ Possible errors following proofreading are, e. g., substitution of special fonts
 </e>
 <e>
    <lg>
-     <l pos="Prc">гольтыръяськись</l><orig>гольтыръяськись</orig>
+     <l pos="Prc">гольтыръяськись</l><stress>гольтыръяськись</stress>
    </lg>
    <mg ind="1th"><compg><comp ord="E1" pos="V">гольтыръяськыны</comp><comp ord="E2" type="Der/сь" drv="Prc"/></compg>
    </mg>
@@ -2523,7 +2523,7 @@ Possible errors following proofreading are, e. g., substitution of special fonts
 </e>
 <e>
    <lg>
-     <l pos="Prc">гочатӥсь</l><orig>гочатӥсь</orig>
+     <l pos="Prc">гочатӥсь</l><stress>гочатӥсь</stress>
    </lg>
    <mg ind="1th"><compg><comp ord="E1" pos="V">гочатыны</comp><comp ord="E2" type="Der/сь" drv="Prc"/></compg>
    </mg>
@@ -2535,7 +2535,7 @@ Possible errors following proofreading are, e. g., substitution of special fonts
 </e>
 <e>
    <lg>
-     <l pos="Prc">гӧртэм</l><orig>гӧртэм</orig>
+     <l pos="Prc">гӧртэм</l><stress>гӧртэм</stress>
    </lg>
    <mg ind="1th"><compg><comp ord="E1" pos="V">гӧртыны</comp><comp ord="E2" type="Der/Эм" drv="Prc"/></compg>
    </mg>
@@ -2547,7 +2547,7 @@ Possible errors following proofreading are, e. g., substitution of special fonts
 </e>
 <e>
    <lg>
-     <l pos="Prc">гудӟем</l><orig>гудӟем</orig>
+     <l pos="Prc">гудӟем</l><stress>гудӟем</stress>
    </lg>
    <mg ind="1th"><compg><comp ord="E1" pos="V">гудӟыны</comp><comp ord="E2" type="Der/Эм" drv="Prc"/></compg>
    </mg>
@@ -2564,7 +2564,7 @@ Possible errors following proofreading are, e. g., substitution of special fonts
 </e>
 <e>
    <lg>
-     <l pos="Prc">гудыръям</l><orig>гудыръям</orig>
+     <l pos="Prc">гудыръям</l><stress>гудыръям</stress>
    </lg>
    <mg ind="1th"><compg><comp ord="E1" pos="V">гудыръяны</comp><comp ord="E2" type="Der/Эм" drv="Prc"/></compg>
    </mg>
@@ -2579,7 +2579,7 @@ Possible errors following proofreading are, e. g., substitution of special fonts
 </e>
 <e>
    <lg>
-     <l pos="Prc">гужгетэм</l><orig>гужгетэм</orig>
+     <l pos="Prc">гужгетэм</l><stress>гужгетэм</stress>
    </lg>
    <mg ind="1th"><compg><comp ord="E1" pos="V">гужгетыны</comp><comp ord="E2" type="Der/Эм" drv="Prc"/></compg>
    </mg>
@@ -2591,7 +2591,7 @@ Possible errors following proofreading are, e. g., substitution of special fonts
 </e>
 <e>
    <lg>
-     <l pos="Prc">гуретэм</l><orig>гуретэм</orig>
+     <l pos="Prc">гуретэм</l><stress>гуретэм</stress>
    </lg>
    <mg ind="1th"><compg><comp ord="E1">гуретыны</comp><comp ord="E2" type="Der/Эм" drv="Prc;V»N"/></compg>
    </mg>
@@ -2608,7 +2608,7 @@ Possible errors following proofreading are, e. g., substitution of special fonts
 </e>
 <e>
    <lg>
-     <l pos="Prc">гурӟем</l><orig>гурӟем</orig>
+     <l pos="Prc">гурӟем</l><stress>гурӟем</stress>
    </lg>
    <mg ind="1th"><compg><comp ord="E1">гурӟыны</comp><comp ord="E2" type="Der/Эм" drv="Prc;V»N"/></compg>
    </mg>
@@ -2626,7 +2626,7 @@ Possible errors following proofreading are, e. g., substitution of special fonts
 </e>
 <e>
    <lg>
-     <l pos="Prc">гыам</l><orig>гыам</orig>
+     <l pos="Prc">гыам</l><stress>гыам</stress>
    </lg>
    <mg ind="1th"><compg><comp ord="E1" pos="V">гыаны</comp><comp ord="E2" type="Der/Эм" drv="Prc"/></compg>
    </mg>
@@ -2641,7 +2641,7 @@ Possible errors following proofreading are, e. g., substitution of special fonts
 </e>
 <e>
    <lg>
-     <l pos="Prc">гырись</l><orig>гырись</orig>
+     <l pos="Prc">гырись</l><stress>гырись</stress>
    </lg>
    <mg ind="1th"><compg><comp ord="E1" pos="V">гырыны</comp><comp ord="E2" type="Der/сь" drv="Prc"/></compg>
    </mg>
@@ -2653,7 +2653,7 @@ Possible errors following proofreading are, e. g., substitution of special fonts
 </e>
 <e>
    <lg>
-     <l pos="Prc">дамбыртэм</l><orig>дамбыртэм</orig>
+     <l pos="Prc">дамбыртэм</l><stress>дамбыртэм</stress>
    </lg>
    <mg ind="1th"><compg><comp ord="E1" pos="V">дамбыртыны</comp><comp ord="E2" type="Der/Эм" drv="Prc"/></compg>
    </mg>
@@ -2668,7 +2668,7 @@ Possible errors following proofreading are, e. g., substitution of special fonts
 </e>
 <e>
    <lg>
-     <l pos="Prc">дурбасьтӥсь</l><orig>дурбасьтӥсь</orig>
+     <l pos="Prc">дурбасьтӥсь</l><stress>дурбасьтӥсь</stress>
    </lg>
    <mg ind="1th"><compg><comp ord="E1" pos="V">дурбасьтыны</comp><comp ord="E2" type="Der/сь" drv="Prc"/></compg>
    </mg>
@@ -2680,7 +2680,7 @@ Possible errors following proofreading are, e. g., substitution of special fonts
 </e>
 <e>
    <lg>
-     <l pos="Prc">дурем</l><orig>дурем</orig>
+     <l pos="Prc">дурем</l><stress>дурем</stress>
    </lg>
    <mg ind="1th"><compg><comp ord="E1" pos="V">дурыны</comp><comp ord="E2" type="Der/Эм" drv="Prc"/></compg>
    </mg>
@@ -2697,7 +2697,7 @@ Possible errors following proofreading are, e. g., substitution of special fonts
 </e>
 <e>
    <lg>
-     <l pos="Prc">дурись</l><orig>дурись</orig>
+     <l pos="Prc">дурись</l><stress>дурись</stress>
    </lg>
    <mg ind="1th"><compg><comp ord="E1" pos="V">дурыны 2</comp><comp ord="E2" type="Der/сь" drv="Prc"/></compg>
      <variants>
@@ -2707,7 +2707,7 @@ Possible errors following proofreading are, e. g., substitution of special fonts
 </e>
 <e>
    <lg>
-     <l pos="Prc">дуриськись</l><orig>дуриськись</orig>
+     <l pos="Prc">дуриськись</l><stress>дуриськись</stress>
    </lg>
    <mg ind="1th"><compg><comp ord="E1" pos="V">дуриськыны</comp><comp ord="E2" type="Der/сь" drv="Prc"/></compg>
    </mg>
@@ -2727,7 +2727,7 @@ Possible errors following proofreading are, e. g., substitution of special fonts
 </e>
 <e>
    <lg>
-     <l pos="Prc">дыбыртэм</l><orig>дыбыртэм</orig>
+     <l pos="Prc">дыбыртэм</l><stress>дыбыртэм</stress>
    </lg>
    <mg ind="1th"><compg><comp ord="E1" pos="V">дыбыртыны</comp><comp ord="E2" type="Der/Эм" drv="Prc"/></compg>
    </mg>
@@ -2742,7 +2742,7 @@ Possible errors following proofreading are, e. g., substitution of special fonts
 </e>
 <e>
    <lg>
-     <l pos="Prc">дышем</l><orig>дышем</orig>
+     <l pos="Prc">дышем</l><stress>дышем</stress>
    </lg>
    <mg ind="1th"><compg><comp ord="E1">дышыны</comp><comp ord="E2" type="Der/Эм" drv="Prc;V»N"/></compg>
    </mg>
@@ -2754,7 +2754,7 @@ Possible errors following proofreading are, e. g., substitution of special fonts
 </e>
 <e>
    <lg>
-     <l pos="Prc">дышетӥсь</l><orig>дышетӥсь</orig>
+     <l pos="Prc">дышетӥсь</l><stress>дышетӥсь</stress>
    </lg>
    <mg ind="1th"><compg><comp ord="E1" pos="V">дышетыны</comp><comp ord="E2" type="Der/сь" drv="Prc"/></compg>
    </mg>
@@ -2769,7 +2769,7 @@ Possible errors following proofreading are, e. g., substitution of special fonts
 </e>
 <e>
    <lg>
-     <l pos="Prc">дышетскем</l><orig>дышетскем</orig>
+     <l pos="Prc">дышетскем</l><stress>дышетскем</stress>
    </lg>
    <mg ind="1th"><inflect type="Der/Эм" drv="Prc;V»N"/>
      <xg><x>дышетскыны; дышетскем мурт</x>
@@ -2790,7 +2790,7 @@ Possible errors following proofreading are, e. g., substitution of special fonts
 </e>
 <e>
    <lg>
-     <l pos="Prc">дэмлась</l><orig>дэмлась</orig>
+     <l pos="Prc">дэмлась</l><stress>дэмлась</stress>
    </lg>
    <mg ind="1th"><compg><comp ord="E1" pos="V">дэмланы</comp><comp ord="E2" type="Der/сь" drv="Prc"/></compg>
    </mg>
@@ -2807,7 +2807,7 @@ Possible errors following proofreading are, e. g., substitution of special fonts
 </e>
 <e>
    <lg>
-     <l pos="Prc">ёртӥсь</l><orig>ёртӥсь</orig>
+     <l pos="Prc">ёртӥсь</l><stress>ёртӥсь</stress>
    </lg>
    <mg ind="1th"><compg><comp ord="E1" pos="V">ёртыны</comp><comp ord="E2" type="Der/сь" drv="Prc"/></compg>
    </mg>
@@ -2819,7 +2819,7 @@ Possible errors following proofreading are, e. g., substitution of special fonts
 </e>
 <e>
    <lg>
-     <l pos="Prc">жальккетэм</l><orig>жальккетэм</orig>
+     <l pos="Prc">жальккетэм</l><stress>жальккетэм</stress>
    </lg>
    <mg ind="1th"><compg><comp ord="E1" pos="V">жальккетыны</comp><comp ord="E2" type="Der/Эм" drv="Prc"/></compg>
    </mg>
@@ -2832,7 +2832,7 @@ Possible errors following proofreading are, e. g., substitution of special fonts
 </e>
 <e>
    <lg>
-     <l pos="Prc">жальтыртэм</l><orig>жальтыртэм</orig>
+     <l pos="Prc">жальтыртэм</l><stress>жальтыртэм</stress>
    </lg>
    <mg ind="1th"><compg><comp ord="E1" pos="V">жальтыртыны</comp><comp ord="E2" type="Der/Эм" drv="Prc"/></compg>
    </mg>
@@ -2849,7 +2849,7 @@ Possible errors following proofreading are, e. g., substitution of special fonts
 </e>
 <e>
    <lg>
-     <l pos="Prc">жальыртэм</l><orig>жальыртэм</orig>
+     <l pos="Prc">жальыртэм</l><stress>жальыртэм</stress>
    </lg>
    <mg ind="1th"><compg><comp ord="E1" pos="V">жальыртыны</comp><comp ord="E2" type="Der/Эм" drv="Prc"/></compg>
    </mg>
@@ -2861,7 +2861,7 @@ Possible errors following proofreading are, e. g., substitution of special fonts
 </e>
 <e>
    <lg>
-     <l pos="Prc">жиетэм</l><orig>жиетэм</orig>
+     <l pos="Prc">жиетэм</l><stress>жиетэм</stress>
    </lg>
    <mg ind="1th"><compg><comp ord="E1" pos="V">жиетыны</comp><comp ord="E2" type="Der/Эм" drv="Prc"/></compg>
    </mg>
@@ -2873,7 +2873,7 @@ Possible errors following proofreading are, e. g., substitution of special fonts
 </e>
 <e>
    <lg>
-     <l pos="Prc">жильккетэм</l><orig>жильккетэм</orig>
+     <l pos="Prc">жильккетэм</l><stress>жильккетэм</stress>
    </lg>
    <mg ind="1th"><compg><comp ord="E1" pos="V">жильккетыны</comp><comp ord="E2" type="Der/Эм" drv="Prc"/></compg>
    </mg>
@@ -2888,7 +2888,7 @@ Possible errors following proofreading are, e. g., substitution of special fonts
 </e>
 <e>
    <lg>
-     <l pos="Prc">жильтыртэм</l><orig>жильтыртэм</orig>
+     <l pos="Prc">жильтыртэм</l><stress>жильтыртэм</stress>
    </lg>
    <mg ind="1th"><compg><comp ord="E1" pos="V">жильтыртыны</comp><comp ord="E2" type="Der/Эм" drv="Prc"/></compg>
    </mg>
@@ -2908,7 +2908,7 @@ Possible errors following proofreading are, e. g., substitution of special fonts
 </e>
 <e>
    <lg>
-     <l pos="Prc">жильыртэм</l><orig>жильыртэм</orig>
+     <l pos="Prc">жильыртэм</l><stress>жильыртэм</stress>
    </lg>
    <mg ind="1th"><compg><comp ord="E1" pos="V">жильыртыны</comp><comp ord="E2" type="Der/Эм" drv="Prc"/></compg>
    </mg>
@@ -2920,7 +2920,7 @@ Possible errors following proofreading are, e. g., substitution of special fonts
 </e>
 <e>
    <lg>
-     <l pos="Prc">жингыртэм</l><orig>жингыртэм</orig>
+     <l pos="Prc">жингыртэм</l><stress>жингыртэм</stress>
    </lg>
    <mg ind="1th"><compg><comp ord="E1" pos="V">жингыртыны</comp><comp ord="E2" type="Der/Эм" drv="Prc"/></compg>
    </mg>
@@ -2947,7 +2947,7 @@ Possible errors following proofreading are, e. g., substitution of special fonts
 </e>
 <e>
    <lg>
-     <l pos="Prc">жомбыльтэм</l><orig>жомбыльтэм</orig>
+     <l pos="Prc">жомбыльтэм</l><stress>жомбыльтэм</stress>
    </lg>
    <mg ind="1th"><compg><comp ord="E1" pos="V">жомбыльтыны</comp><comp ord="E2" type="Der/Эм" drv="Prc"/></compg>
    </mg>
@@ -2962,7 +2962,7 @@ Possible errors following proofreading are, e. g., substitution of special fonts
 </e>
 <e>
    <lg>
-     <l pos="Prc">жонгетэм</l><orig>жонгетэм</orig>
+     <l pos="Prc">жонгетэм</l><stress>жонгетэм</stress>
    </lg>
    <mg ind="1th"><compg><comp ord="E1" pos="V">жонгетыны</comp><comp ord="E2" type="Der/Эм" drv="Prc"/></compg>
    </mg>
@@ -2982,7 +2982,7 @@ Possible errors following proofreading are, e. g., substitution of special fonts
 </e>
 <e>
    <lg>
-     <l pos="Prc">жугем</l><orig>жугем</orig>
+     <l pos="Prc">жугем</l><stress>жугем</stress>
    </lg>
    <mg ind="1th"><compg><comp ord="E1" pos="V">жугыны</comp><comp ord="E2" type="Der/Эм" drv="Prc"/></compg>
    </mg>
@@ -3009,7 +3009,7 @@ Possible errors following proofreading are, e. g., substitution of special fonts
 </e>
 <e>
    <lg>
-     <l pos="Prc">жугиськем</l><orig>жугиськем</orig>
+     <l pos="Prc">жугиськем</l><stress>жугиськем</stress>
    </lg>
    <mg ind="1th"><compg><comp ord="E1">жугиськыны</comp><comp ord="E2" type="Der/Эм" drv="Prc;V»N"/></compg>
    </mg>
@@ -3026,7 +3026,7 @@ Possible errors following proofreading are, e. g., substitution of special fonts
 </e>
 <e>
    <lg>
-     <l pos="Prc">жугиськись</l><orig>жугиськись</orig>
+     <l pos="Prc">жугиськись</l><stress>жугиськись</stress>
    </lg>
    <mg ind="1th"><compg><comp ord="E1" pos="V">жугиськыны</comp><comp ord="E2" type="Der/сь" drv="Prc"/></compg>
    </mg>
@@ -3046,7 +3046,7 @@ Possible errors following proofreading are, e. g., substitution of special fonts
 </e>
 <e>
    <lg>
-     <l pos="Prc">жуэтэм</l><orig>жуэтэм</orig>
+     <l pos="Prc">жуэтэм</l><stress>жуэтэм</stress>
    </lg>
    <mg ind="1th"><compg><comp ord="E1" pos="V">жуэтыны</comp><comp ord="E2" type="Der/Эм" drv="Prc"/></compg>
    </mg>
@@ -3058,7 +3058,7 @@ Possible errors following proofreading are, e. g., substitution of special fonts
 </e>
 <e>
    <lg>
-     <l pos="Prc">ӝоктэм</l><orig>ӝоктэм</orig>
+     <l pos="Prc">ӝоктэм</l><stress>ӝоктэм</stress>
    </lg>
    <mg ind="1th"><compg><comp ord="E1" pos="V">ӝоктыны</comp><comp ord="E2" type="Der/Эм" drv="Prc"/></compg>
    </mg>
@@ -3086,7 +3086,7 @@ Possible errors following proofreading are, e. g., substitution of special fonts
 </e>
 <e>
    <lg>
-     <l pos="Prc">ӝубъем</l><orig>ӝубъем</orig>
+     <l pos="Prc">ӝубъем</l><stress>ӝубъем</stress>
    </lg>
    <mg ind="1th"><compg><comp ord="E1">ӝубйыны</comp><comp ord="E2" type="Der/Эм" drv="Prc;V»N"/></compg>
    </mg>
@@ -3098,7 +3098,7 @@ Possible errors following proofreading are, e. g., substitution of special fonts
 </e>
 <e>
    <lg>
-     <l pos="Prc">ӝужъем</l><orig>ӝужъем</orig>
+     <l pos="Prc">ӝужъем</l><stress>ӝужъем</stress>
    </lg>
    <mg ind="1th"><compg><comp ord="E1" pos="V">ӝужйыны;</comp><comp ord="E2" type="Der/Эм" drv="Prc"/></compg>
      <xg><x>ӝужъем нянь</x>
@@ -3114,7 +3114,7 @@ Possible errors following proofreading are, e. g., substitution of special fonts
 </e>
 <e>
    <lg>
-     <l pos="Prc">ӝутӥсь-дэмлась</l><orig>ӝутӥсь-дэмлась</orig>
+     <l pos="Prc">ӝутӥсь-дэмлась</l><stress>ӝутӥсь-дэмлась</stress>
    </lg>
    <mg ind="1th"><compg><comp ord="E1" pos="V">ӝутыны-дэмланы</comp><comp ord="E2" type="Der/сь" drv="Prc"/></compg>
    </mg>
@@ -3126,7 +3126,7 @@ Possible errors following proofreading are, e. g., substitution of special fonts
 </e>
 <e>
    <lg>
-     <l pos="Prc">ӝутӥсь-лэзись</l><orig>ӝутӥсь-лэзись</orig>
+     <l pos="Prc">ӝутӥсь-лэзись</l><stress>ӝутӥсь-лэзись</stress>
    </lg>
    <mg ind="1th"><compg><comp ord="E1" pos="V">ӝутыны-лэзьыны</comp><comp ord="E2" type="Der/сь" drv="Prc"/></compg>
    </mg>
@@ -3138,7 +3138,7 @@ Possible errors following proofreading are, e. g., substitution of special fonts
 </e>
 <e>
    <lg>
-     <l pos="Prc">ӝуштэм</l><orig>ӝуштэм</orig>
+     <l pos="Prc">ӝуштэм</l><stress>ӝуштэм</stress>
    </lg>
    <mg ind="1th"><compg><comp ord="E1" pos="V">ӝуштыны;</comp><comp ord="E2" type="Der/Эм" drv="Prc"/></compg>
      <xg><x> ӝуштэм куара</x>
@@ -3163,7 +3163,7 @@ Possible errors following proofreading are, e. g., substitution of special fonts
 </e>
 <e>
    <lg>
-     <l pos="Prc">ӝыжомем</l><orig>ӝыжомем</orig>
+     <l pos="Prc">ӝыжомем</l><stress>ӝыжомем</stress>
    </lg>
    <mg ind="1th"><compg><comp ord="E1">ӝыжомыны</comp><comp ord="E2" type="Der/Эм" drv="Prc;V»N"/></compg>
    </mg>
@@ -3182,7 +3182,7 @@ Possible errors following proofreading are, e. g., substitution of special fonts
 </e>
 <e>
    <lg>
-     <l pos="Prc">зӥбем</l><orig>зӥбем</orig>
+     <l pos="Prc">зӥбем</l><stress>зӥбем</stress>
    </lg>
    <mg ind="1th"><compg><comp ord="E1" pos="V">зӥбыны</comp><comp ord="E2" type="Der/Эм" drv="Prc"/></compg>
      <xg><x> зӥбем калык</x>
@@ -3207,7 +3207,7 @@ Possible errors following proofreading are, e. g., substitution of special fonts
 </e>
 <e>
    <lg>
-     <l pos="Prc">зӥбись</l><orig>зӥбись</orig>
+     <l pos="Prc">зӥбись</l><stress>зӥбись</stress>
    </lg>
    <mg ind="1th"><compg><comp ord="E1" pos="V">зӥбыны</comp><comp ord="E2" type="Der/сь" drv="Prc"/></compg>
    </mg>
@@ -3224,7 +3224,7 @@ Possible errors following proofreading are, e. g., substitution of special fonts
 </e>
 <e>
    <lg>
-     <l pos="Prc">зӥбиськем</l><orig>зӥбиськем</orig>
+     <l pos="Prc">зӥбиськем</l><stress>зӥбиськем</stress>
    </lg>
    <mg><inflect type="Der/Эм" drv="Prc;V»N"/>
      <xg><x>зӥбиськыны; зӥбиськем мылкыд</x>
@@ -3234,7 +3234,7 @@ Possible errors following proofreading are, e. g., substitution of special fonts
 </e>
 <e>
    <lg>
-     <l pos="Prc">зугыртэм</l><orig>зугыртэм</orig>
+     <l pos="Prc">зугыртэм</l><stress>зугыртэм</stress>
    </lg>
    <mg ind="1th"><compg><comp ord="E1" pos="V">зугыртыны</comp><comp ord="E2" type="Der/Эм" drv="Prc"/></compg>
    </mg>
@@ -3246,7 +3246,7 @@ Possible errors following proofreading are, e. g., substitution of special fonts
 </e>
 <e>
    <lg>
-     <l pos="Prc">зулем</l><orig>зулем</orig>
+     <l pos="Prc">зулем</l><stress>зулем</stress>
    </lg>
    <mg ind="1th"><compg><comp ord="E1" pos="V">зульыны</comp><comp ord="E2" type="Der/Эм" drv="Prc"/></compg>
    </mg>
@@ -3263,7 +3263,7 @@ Possible errors following proofreading are, e. g., substitution of special fonts
 </e>
 <e>
    <lg>
-     <l pos="Prc">зулись</l><orig>зулись</orig>
+     <l pos="Prc">зулись</l><stress>зулись</stress>
    </lg>
    <mg ind="1th"><compg><comp ord="E1" pos="V">зульыны</comp><comp ord="E2" type="Der/сь" drv="Prc"/></compg>
    </mg>
@@ -3280,7 +3280,7 @@ Possible errors following proofreading are, e. g., substitution of special fonts
 </e>
 <e>
    <lg>
-     <l pos="Prc">ӟазыртэм</l><orig>ӟазыртэм</orig>
+     <l pos="Prc">ӟазыртэм</l><stress>ӟазыртэм</stress>
    </lg>
    <mg ind="1th"><compg><comp ord="E1" pos="V">ӟазыртыны</comp><comp ord="E2" type="Der/Эм" drv="Prc"/></compg>
    </mg>
@@ -3297,7 +3297,7 @@ Possible errors following proofreading are, e. g., substitution of special fonts
 </e>
 <e>
    <lg>
-     <l pos="Prc">ӟечбуръяськем</l><orig>ӟечбуръяськем</orig>
+     <l pos="Prc">ӟечбуръяськем</l><stress>ӟечбуръяськем</stress>
    </lg>
    <mg ind="1th"><compg><comp ord="E1" pos="V">ӟечбуръяськыны</comp><comp ord="E2" type="Der/Эм" drv="Prc"/></compg>
    </mg>
@@ -3309,7 +3309,7 @@ Possible errors following proofreading are, e. g., substitution of special fonts
 </e>
 <e>
    <lg>
-     <l pos="Prc">ӟечъяськись</l><orig>ӟечъяськись</orig>
+     <l pos="Prc">ӟечъяськись</l><stress>ӟечъяськись</stress>
    </lg>
    <mg ind="1th"><compg><comp ord="E1" pos="V">ӟечъяськыны</comp><comp ord="E2" type="Der/сь" drv="Prc"/></compg>
    </mg>
@@ -3329,7 +3329,7 @@ Possible errors following proofreading are, e. g., substitution of special fonts
 </e>
 <e>
    <lg>
-     <l pos="Prc">ӟильыртэм</l><orig>ӟильыртэм</orig>
+     <l pos="Prc">ӟильыртэм</l><stress>ӟильыртэм</stress>
    </lg>
    <mg ind="1th"><compg><comp ord="E1" pos="V">ӟильыртыны</comp><comp ord="E2" type="Der/Эм" drv="Prc"/></compg>
    </mg>
@@ -3346,7 +3346,7 @@ Possible errors following proofreading are, e. g., substitution of special fonts
 </e>
 <e>
    <lg>
-     <l pos="Prc">ӟукыртӥсь</l><orig>ӟукыртӥсь</orig>
+     <l pos="Prc">ӟукыртӥсь</l><stress>ӟукыртӥсь</stress>
    </lg>
    <mg ind="1th"><inflect type="Der/сь" drv="Prc"/>
      <xg><x>ӟукыртыны; ӟукыртӥсь уробо</x>
@@ -3361,7 +3361,7 @@ Possible errors following proofreading are, e. g., substitution of special fonts
 </e>
 <e>
    <lg>
-     <l pos="Prc">ӟукыртэм</l><orig>ӟукыртэм</orig>
+     <l pos="Prc">ӟукыртэм</l><stress>ӟукыртэм</stress>
    </lg>
    <mg ind="1th"><compg><comp ord="E1" pos="V">ӟукыртыны</comp><comp ord="E2" type="Der/Эм" drv="Prc"/></compg>
    </mg>
@@ -3378,7 +3378,7 @@ Possible errors following proofreading are, e. g., substitution of special fonts
 </e>
 <e>
    <lg>
-     <l pos="Prc">ӟурем</l><orig>ӟурем</orig>
+     <l pos="Prc">ӟурем</l><stress>ӟурем</stress>
    </lg>
    <mg ind="1th"><compg><comp ord="E1" pos="V">ӟурыны</comp><comp ord="E2" type="Der/Эм" drv="V»N"/></compg>
    </mg>
@@ -3395,7 +3395,7 @@ Possible errors following proofreading are, e. g., substitution of special fonts
 </e>
 <e>
    <lg>
-     <l pos="Prc">ӟурись</l><orig>ӟурись</orig>
+     <l pos="Prc">ӟурись</l><stress>ӟурись</stress>
    </lg>
    <mg ind="1th"><compg><comp ord="E1" pos="V">ӟурыны</comp><comp ord="E2" type="Der/сь" drv="Prc"/></compg>
    </mg>
@@ -3407,7 +3407,7 @@ Possible errors following proofreading are, e. g., substitution of special fonts
 </e>
 <e>
    <lg>
-     <l pos="Prc">ивортӥсь</l><orig>ивортӥсь</orig>
+     <l pos="Prc">ивортӥсь</l><stress>ивортӥсь</stress>
    </lg>
    <mg ind="1th"><compg><comp ord="E1" pos="V">ивортыны</comp><comp ord="E2" type="Der/сь" drv="Prc"/></compg>
    </mg>
@@ -3419,7 +3419,7 @@ Possible errors following proofreading are, e. g., substitution of special fonts
 </e>
 <e>
    <lg>
-     <l pos="Prc">изем</l><orig>изем</orig>
+     <l pos="Prc">изем</l><stress>изем</stress>
    </lg>
    <mg><inflect type="Der/Эм" drv="Prc;V»N"/>
      <xg><x>изьыны; изем потыны</x>
@@ -3441,7 +3441,7 @@ Possible errors following proofreading are, e. g., substitution of special fonts
 </e>
 <e>
    <lg>
-     <l pos="Prc">изэм</l><orig>изэм</orig>
+     <l pos="Prc">изэм</l><stress>изэм</stress>
    </lg>
    <mg ind="1th"><compg><comp ord="E1" pos="V">изыны</comp><comp ord="E2" type="Der/Эм" drv="Prc"/></compg>
      <xg><x>; зӧк изэм пызь</x>
@@ -3467,7 +3467,7 @@ Possible errors following proofreading are, e. g., substitution of special fonts
 </e>
 <e>
    <lg>
-     <l pos="Prc">инъясь</l><orig>инъясь</orig>
+     <l pos="Prc">инъясь</l><stress>инъясь</stress>
    </lg>
    <mg ind="1th"><compg><comp ord="E1" pos="V">инъяны</comp><comp ord="E2" type="Der/сь" drv="Prc"/></compg>
    </mg>
@@ -3484,7 +3484,7 @@ Possible errors following proofreading are, e. g., substitution of special fonts
 </e>
 <e>
    <lg>
-     <l pos="Prc">ишкем</l><orig>ишкем</orig>
+     <l pos="Prc">ишкем</l><stress>ишкем</stress>
    </lg>
    <mg ind="1th"><compg><comp ord="E1" pos="V">ишкыны</comp><comp ord="E2" type="Der/Эм" drv="Prc"/></compg>
    </mg>
@@ -3510,7 +3510,7 @@ Possible errors following proofreading are, e. g., substitution of special fonts
 </e>
 <e>
    <lg>
-     <l pos="Prc">йыгам</l><orig>йыгам</orig>
+     <l pos="Prc">йыгам</l><stress>йыгам</stress>
    </lg>
    <mg ind="1th"><compg><comp ord="E1" pos="V">йыганы</comp><comp ord="E2" type="Der/Эм" drv="Prc"/></compg>
    </mg>
@@ -3522,7 +3522,7 @@ Possible errors following proofreading are, e. g., substitution of special fonts
 </e>
 <e>
    <lg>
-     <l pos="Prc">йыггетэм</l><orig>йыггетэм</orig>
+     <l pos="Prc">йыггетэм</l><stress>йыггетэм</stress>
    </lg>
    <mg ind="1th"><compg><comp ord="E1" pos="V">йыггетыны</comp><comp ord="E2" type="Der/Эм" drv="Prc"/></compg>
    </mg>
@@ -3547,7 +3547,7 @@ Possible errors following proofreading are, e. g., substitution of special fonts
 </e>
 <e>
    <lg>
-     <l pos="Prc">йылэтэм</l><orig>йылэтэм</orig>
+     <l pos="Prc">йылэтэм</l><stress>йылэтэм</stress>
    </lg>
    <mg ind="1th"><compg><comp ord="E1" pos="V">йылэтыны</comp><comp ord="E2" type="Der/Эм" drv="Prc"/></compg>
    </mg>
@@ -3564,7 +3564,7 @@ Possible errors following proofreading are, e. g., substitution of special fonts
 </e>
 <e>
    <lg>
-     <l pos="Prc">йырйись</l><orig>йырйись</orig>
+     <l pos="Prc">йырйись</l><stress>йырйись</stress>
    </lg>
    <mg ind="1th"><compg><comp ord="E1" pos="V">йырйыны</comp><comp ord="E2" type="Der/сь" drv="Prc"/></compg>
    </mg>
@@ -3576,7 +3576,7 @@ Possible errors following proofreading are, e. g., substitution of special fonts
 </e>
 <e>
    <lg>
-     <l pos="Prc">йыртэмась</l><orig>йыртэмась</orig>
+     <l pos="Prc">йыртэмась</l><stress>йыртэмась</stress>
    </lg>
    <mg ind="1th"><compg><comp ord="E1" pos="V">йыртэманы</comp><comp ord="E2" type="Der/сь" drv="Prc"/></compg>
    </mg>
@@ -3588,7 +3588,7 @@ Possible errors following proofreading are, e. g., substitution of special fonts
 </e>
 <e>
    <lg>
-     <l pos="Prc">йыръяськись</l><orig>йыръяськись</orig>
+     <l pos="Prc">йыръяськись</l><stress>йыръяськись</stress>
    </lg>
    <mg ind="1th"><compg><comp ord="E1" pos="V">йыръяськыны</comp><comp ord="E2" type="Der/сь" drv="Prc"/></compg>
    </mg>
@@ -3600,7 +3600,7 @@ Possible errors following proofreading are, e. g., substitution of special fonts
 </e>
 <e>
    <lg>
-     <l pos="Prc">келись</l><orig>келись</orig>
+     <l pos="Prc">келись</l><stress>келись</stress>
    </lg>
    <mg ind="1th"><compg><comp ord="E1" pos="V">кельыны</comp><comp ord="E2" type="Der/сь" drv="Prc"/></compg>
    </mg>
@@ -3612,7 +3612,7 @@ Possible errors following proofreading are, e. g., substitution of special fonts
 </e>
 <e>
    <lg>
-     <l pos="Prc">келясь</l><orig>келясь</orig>
+     <l pos="Prc">келясь</l><stress>келясь</stress>
    </lg>
    <mg ind="1th"><compg><comp ord="E1" pos="V">келяны</comp><comp ord="E2" type="Der/сь" drv="Prc"/></compg>
    </mg>
@@ -3627,7 +3627,7 @@ Possible errors following proofreading are, e. g., substitution of special fonts
 </e>
 <e>
    <lg>
-     <l pos="Prc">керттӥськись</l><orig>керттӥськись</orig>
+     <l pos="Prc">керттӥськись</l><stress>керттӥськись</stress>
    </lg>
    <mg ind="1th"><compg><comp ord="E1" pos="V">керттӥськыны</comp><comp ord="E2" type="Der/сь" drv="Prc"/></compg>
    </mg>
@@ -3666,7 +3666,7 @@ Possible errors following proofreading are, e. g., substitution of special fonts
 </e>
 <e>
    <lg>
-     <l pos="Prc">кивалтӥсь</l><orig>кивалтӥсь</orig>
+     <l pos="Prc">кивалтӥсь</l><stress>кивалтӥсь</stress>
    </lg>
    <mg ind="1th"><compg><comp ord="E1" pos="V">кивалтыны</comp><comp ord="E2" type="Der/сь" drv="Prc"/></compg>
    </mg>
@@ -3678,7 +3678,7 @@ Possible errors following proofreading are, e. g., substitution of special fonts
 </e>
 <e>
    <lg>
-     <l pos="Prc">кивалтэм</l><orig>кивалтэм</orig>
+     <l pos="Prc">кивалтэм</l><stress>кивалтэм</stress>
    </lg>
    <mg ind="1th"><compg><comp ord="E1" pos="V">кивалтыны</comp><comp ord="E2" type="Der/Эм" drv="Prc"/></compg>
    </mg>
@@ -3693,7 +3693,7 @@ Possible errors following proofreading are, e. g., substitution of special fonts
 </e>
 <e>
    <lg>
-     <l pos="Prc">кисьтэм</l><orig>кисьтэм</orig>
+     <l pos="Prc">кисьтэм</l><stress>кисьтэм</stress>
    </lg>
    <mg><compg><comp ord="E1" pos="V">кисьтыны</comp><comp ord="E2" type="Der/Эм" drv="Prc"/></compg>◊
      <xg><x>кисьтэм йӧл</x>
@@ -3703,7 +3703,7 @@ Possible errors following proofreading are, e. g., substitution of special fonts
 </e>
 <e>
    <lg>
-     <l pos="Prc">кичӧлтӥсь</l><orig>кичӧлтӥсь</orig>
+     <l pos="Prc">кичӧлтӥсь</l><stress>кичӧлтӥсь</stress>
    </lg>
    <mg ind="1th"><compg><comp ord="E1" pos="V">кичӧлтыны</comp><comp ord="E2" type="Der/сь" drv="Prc"/></compg>
    </mg>
@@ -3720,7 +3720,7 @@ Possible errors following proofreading are, e. g., substitution of special fonts
 </e>
 <e>
    <lg>
-     <l pos="Prc">клоккетэм</l><orig>клоккетэм</orig>
+     <l pos="Prc">клоккетэм</l><stress>клоккетэм</stress>
    </lg>
    <mg ind="1th"><compg><comp ord="E1" pos="V">клоккетыны</comp><comp ord="E2" type="Der/Эм" drv="Prc"/></compg>
    </mg>
@@ -3733,7 +3733,7 @@ Possible errors following proofreading are, e. g., substitution of special fonts
 </e>
 <e>
    <lg>
-     <l pos="Prc">кольккетэм</l><orig>кольккетэм</orig>
+     <l pos="Prc">кольккетэм</l><stress>кольккетэм</stress>
    </lg>
    <mg ind="1th"><compg><comp ord="E1" pos="V">кольккетыны</comp><comp ord="E2" type="Der/Эм" drv="Prc"/></compg>
    </mg>
@@ -3745,7 +3745,7 @@ Possible errors following proofreading are, e. g., substitution of special fonts
 </e>
 <e>
    <lg>
-     <l pos="Prc">кольтыртэм</l><orig>кольтыртэм</orig>
+     <l pos="Prc">кольтыртэм</l><stress>кольтыртэм</stress>
    </lg>
    <mg ind="1th"><compg><comp ord="E1" pos="V">кольтыртыны</comp><comp ord="E2" type="Der/Эм" drv="V»N"/></compg>
    </mg>
@@ -3762,7 +3762,7 @@ Possible errors following proofreading are, e. g., substitution of special fonts
 </e>
 <e>
    <lg>
-     <l pos="Prc">копаськись</l><orig>копаськись</orig>
+     <l pos="Prc">копаськись</l><stress>копаськись</stress>
    </lg>
    <mg ind="1th"><compg><comp ord="E1" pos="V">копаськыны</comp><comp ord="E2" type="Der/сь" drv="Prc"/></compg>
    </mg>
@@ -3777,7 +3777,7 @@ Possible errors following proofreading are, e. g., substitution of special fonts
 </e>
 <e>
    <lg>
-     <l pos="Prc">косэм</l><orig>косэм</orig>
+     <l pos="Prc">косэм</l><stress>косэм</stress>
    </lg>
    <mg ind="1th"><compg><comp ord="E1">косыны</comp><comp ord="E2" type="Der/Эм" drv="Prc;V»N"/></compg>
    </mg>
@@ -3794,7 +3794,7 @@ Possible errors following proofreading are, e. g., substitution of special fonts
 </e>
 <e>
    <lg>
-     <l pos="Prc">коткам</l><orig>коткам</orig>
+     <l pos="Prc">коткам</l><stress>коткам</stress>
    </lg>
    <mg ind="1th"><compg><comp ord="E1" pos="V">котканы</comp><comp ord="E2" type="Der/Эм" drv="Prc"/></compg>
    </mg>
@@ -3807,7 +3807,7 @@ Possible errors following proofreading are, e. g., substitution of special fonts
 </e>
 <e>
    <lg>
-     <l pos="Prc">котыртэм</l><orig>котыртэм</orig>
+     <l pos="Prc">котыртэм</l><stress>котыртэм</stress>
    </lg>
    <mg ind="1th"><compg><comp ord="E1">котыртыны</comp><comp ord="E2" type="Der/Эм" drv="Prc;V»N"/></compg>
    </mg>
@@ -3819,7 +3819,7 @@ Possible errors following proofreading are, e. g., substitution of special fonts
 </e>
 <e>
    <lg>
-     <l pos="Prc">куажгетэм</l><orig>куажгетэм</orig>
+     <l pos="Prc">куажгетэм</l><stress>куажгетэм</stress>
    </lg>
    <mg ind="1th"><compg><comp ord="E1" pos="V">куажгетыны</comp><comp ord="E2" type="Der/Эм" drv="Prc"/></compg>
    </mg>
@@ -3832,7 +3832,7 @@ Possible errors following proofreading are, e. g., substitution of special fonts
 </e>
 <e>
    <lg>
-     <l pos="Prc">куажыртэм</l><orig>куажыртэм</orig>
+     <l pos="Prc">куажыртэм</l><stress>куажыртэм</stress>
    </lg>
    <mg ind="1th"><compg><comp ord="E1" pos="V">куажыртыны</comp><comp ord="E2" type="Der/Эм" drv="Prc"/></compg>
    </mg>
@@ -3844,7 +3844,7 @@ Possible errors following proofreading are, e. g., substitution of special fonts
 </e>
 <e>
    <lg>
-     <l pos="Prc">куаккетэм</l><orig>куаккетэм</orig>
+     <l pos="Prc">куаккетэм</l><stress>куаккетэм</stress>
    </lg>
    <mg ind="1th"><compg><comp ord="E1" pos="V">куаккетыны</comp><comp ord="E2" type="Der/Эм" drv="Prc"/></compg>
    </mg>
@@ -3865,7 +3865,7 @@ Possible errors following proofreading are, e. g., substitution of special fonts
 </e>
 <e>
    <lg>
-     <l pos="Prc">куальтыртэм</l><orig>куальтыртэм</orig>
+     <l pos="Prc">куальтыртэм</l><stress>куальтыртэм</stress>
    </lg>
    <mg ind="1th"><compg><comp ord="E1" pos="V">куальтыртыны</comp><comp ord="E2" type="Der/Эм" drv="Prc"/></compg>
    </mg>
@@ -3882,7 +3882,7 @@ Possible errors following proofreading are, e. g., substitution of special fonts
 </e>
 <e>
    <lg>
-     <l pos="Prc">куаньгетэм</l><orig>куаньгетэм</orig>
+     <l pos="Prc">куаньгетэм</l><stress>куаньгетэм</stress>
    </lg>
    <mg ind="1th"><compg><comp ord="E1" pos="V">куаньгетыны</comp><comp ord="E2" type="Der/Эм" drv="Prc"/></compg>
    </mg>
@@ -3895,7 +3895,7 @@ Possible errors following proofreading are, e. g., substitution of special fonts
 </e>
 <e>
    <lg>
-     <l pos="Prc">куашетэм</l><orig>куашетэм</orig>
+     <l pos="Prc">куашетэм</l><stress>куашетэм</stress>
    </lg>
    <mg ind="1th"><compg><comp ord="E1" pos="V">куашетыны</comp><comp ord="E2" type="Der/Эм" drv="Prc"/></compg>
    </mg>
@@ -3922,7 +3922,7 @@ Possible errors following proofreading are, e. g., substitution of special fonts
 </e>
 <e>
    <lg>
-     <l pos="Prc">куаштыртэм</l><orig>куаштыртэм</orig>
+     <l pos="Prc">куаштыртэм</l><stress>куаштыртэм</stress>
    </lg>
    <mg ind="1th"><compg><comp ord="E1" pos="V">куашкатыны</comp><comp ord="E2" type="Der/Эм" drv="Prc"/></compg>
    </mg>
@@ -3955,7 +3955,7 @@ Possible errors following proofreading are, e. g., substitution of special fonts
 </e>
 <e>
    <lg>
-     <l pos="Prc">кулэм</l><orig>кулэм</orig>
+     <l pos="Prc">кулэм</l><stress>кулэм</stress>
    </lg>
    <mg ind="1th"><note><i>partis. ja teonn v:stä</i></note>
      <xg><x>кулыны; кулэм мурт</x>
@@ -3970,7 +3970,7 @@ Possible errors following proofreading are, e. g., substitution of special fonts
 </e>
 <e>
    <lg>
-     <l pos="Prc">кутӥськем</l><orig>кутӥськем</orig>
+     <l pos="Prc">кутӥськем</l><stress>кутӥськем</stress>
    </lg>
    <mg ind="1th"><compg><comp ord="E1">кутӥськыны</comp><comp ord="E2" type="Der/Эм" drv="Prc;V»N"/></compg>
    </mg>
@@ -3985,7 +3985,7 @@ Possible errors following proofreading are, e. g., substitution of special fonts
 </e>
 <e>
    <lg>
-     <l pos="Prc">кутсаськись</l><orig>кутсаськись</orig>
+     <l pos="Prc">кутсаськись</l><stress>кутсаськись</stress>
    </lg>
    <mg ind="1th"><compg><comp ord="E1" pos="V">кутсаськыны</comp><comp ord="E2" type="Der/сь" drv="Prc"/></compg>
    </mg>
@@ -3997,7 +3997,7 @@ Possible errors following proofreading are, e. g., substitution of special fonts
 </e>
 <e>
    <lg>
-     <l pos="Prc">кыжыртэм</l><orig>кыжыртэм</orig>
+     <l pos="Prc">кыжыртэм</l><stress>кыжыртэм</stress>
    </lg>
    <mg ind="1th"><compg><comp ord="E1" pos="V">кыжыртыны</comp><comp ord="E2" type="Der/Эм" drv="Prc"/></compg>
    </mg>
@@ -4009,7 +4009,7 @@ Possible errors following proofreading are, e. g., substitution of special fonts
 </e>
 <e>
    <lg>
-     <l pos="Prc">кылдэм</l><orig>кылдэм</orig>
+     <l pos="Prc">кылдэм</l><stress>кылдэм</stress>
    </lg>
    <mg><compg><comp ord="E1">кылдыны</comp><comp ord="E2" type="Der/Эм" drv="Prc;V»N"/></compg>◊
      <xg><x>кылдэмез сыӵе</x>
@@ -4026,7 +4026,7 @@ Possible errors following proofreading are, e. g., substitution of special fonts
 </e>
 <e>
    <lg>
-     <l pos="Prc">кылзӥсь</l><orig>кылзӥсь</orig>
+     <l pos="Prc">кылзӥсь</l><stress>кылзӥсь</stress>
    </lg>
    <mg ind="1th"><compg><comp ord="E1" pos="V">кылзыны</comp><comp ord="E2" type="Der/сь" drv="Prc"/></compg>
    </mg>
@@ -4044,7 +4044,7 @@ Possible errors following proofreading are, e. g., substitution of special fonts
 </e>
 <e>
    <lg>
-     <l pos="Prc">кылэм-адӟем</l><orig>кылэм-адӟем</orig>
+     <l pos="Prc">кылэм-адӟем</l><stress>кылэм-адӟем</stress>
    </lg>
    <mg><inflect type="Der/Эм" drv="Prc;V»N"/>
      <xg><x>кылыны-адӟыны; кылэм-адӟем карыны</x>
@@ -4057,7 +4057,7 @@ Possible errors following proofreading are, e. g., substitution of special fonts
 </e>
 <e>
    <lg>
-     <l pos="Prc">кырӟась</l><orig>кырӟась</orig>
+     <l pos="Prc">кырӟась</l><stress>кырӟась</stress>
    </lg>
    <mg ind="1th"><compg><comp ord="E1" pos="V">кырӟаны</comp><comp ord="E2" type="Der/сь" drv="Prc"/></compg>
    </mg>
@@ -4069,7 +4069,7 @@ Possible errors following proofreading are, e. g., substitution of special fonts
 </e>
 <e>
    <lg>
-     <l pos="Prc">кырыжам</l><orig>кырыжам</orig>
+     <l pos="Prc">кырыжам</l><stress>кырыжам</stress>
    </lg>
    <mg ind="1th"><compg><comp ord="E1">кырыжаны</comp><comp ord="E2" type="Der/Эм" drv="Prc;V»N"/></compg>
    </mg>
@@ -4084,7 +4084,7 @@ Possible errors following proofreading are, e. g., substitution of special fonts
 </e>
 <e>
    <lg>
-     <l pos="Prc">кыскись</l><orig>кыскись</orig>
+     <l pos="Prc">кыскись</l><stress>кыскись</stress>
    </lg>
    <mg><inflect type="Der/сь" drv="Prc"/>
      <xg><x>кыскыны; скал кыскись</x>
@@ -4097,7 +4097,7 @@ Possible errors following proofreading are, e. g., substitution of special fonts
 </e>
 <e>
    <lg>
-     <l pos="Prc">кыӵыртэм</l><orig>кыӵыртэм</orig>
+     <l pos="Prc">кыӵыртэм</l><stress>кыӵыртэм</stress>
    </lg>
    <mg ind="1th"><compg><comp ord="E1" pos="V">кыӵыртыны</comp><comp ord="E2" type="Der/Эм" drv="Prc"/></compg>
    </mg>
@@ -4110,7 +4110,7 @@ Possible errors following proofreading are, e. g., substitution of special fonts
 </e>
 <e>
    <lg>
-     <l pos="Prc">кышкась</l><orig>кышкась</orig>
+     <l pos="Prc">кышкась</l><stress>кышкась</stress>
    </lg>
    <mg ind="1th"><compg><comp ord="E1" pos="V">кышканы</comp><comp ord="E2" type="Der/сь" drv="Prc"/></compg>
    </mg>
@@ -4125,7 +4125,7 @@ Possible errors following proofreading are, e. g., substitution of special fonts
 </e>
 <e>
    <lg>
-     <l pos="Prc">кыштыртэм</l><orig>кыштыртэм</orig>
+     <l pos="Prc">кыштыртэм</l><stress>кыштыртэм</stress>
    </lg>
    <mg ind="1th"><compg><comp ord="E1" pos="V">кыштыртыны</comp><comp ord="E2" type="Der/Эм" drv="Prc"/></compg>
    </mg>
@@ -4145,7 +4145,7 @@ Possible errors following proofreading are, e. g., substitution of special fonts
 </e>
 <e>
    <lg>
-     <l pos="Prc">лакыртэм</l><orig>лакыртэм</orig>
+     <l pos="Prc">лакыртэм</l><stress>лакыртэм</stress>
    </lg>
    <mg ind="1th"><compg><comp ord="E1" pos="V">лакыртыны</comp><comp ord="E2" type="Der/Эм" drv="Prc"/></compg>
    </mg>
@@ -4160,7 +4160,7 @@ Possible errors following proofreading are, e. g., substitution of special fonts
 </e>
 <e>
    <lg>
-     <l pos="Prc">лангыртэм</l><orig>лангыртэм</orig>
+     <l pos="Prc">лангыртэм</l><stress>лангыртэм</stress>
    </lg>
    <mg ind="1th"><compg><comp ord="E1">лангыртыны</comp><comp ord="E2" type="Der/Эм" drv="Prc;V»N"/></compg>
    </mg>
@@ -4172,7 +4172,7 @@ Possible errors following proofreading are, e. g., substitution of special fonts
 </e>
 <e>
    <lg>
-     <l pos="Prc">ларгетэм</l><orig>ларгетэм</orig>
+     <l pos="Prc">ларгетэм</l><stress>ларгетэм</stress>
    </lg>
    <mg ind="1th"><compg><comp ord="E1" pos="V">ларгетыны</comp><comp ord="E2" type="Der/Эм" drv="Prc"/></compg>
    </mg>
@@ -4191,7 +4191,7 @@ Possible errors following proofreading are, e. g., substitution of special fonts
 </e>
 <e>
    <lg>
-     <l pos="Prc">лачыртэм</l><orig>лачыртэм</orig>
+     <l pos="Prc">лачыртэм</l><stress>лачыртэм</stress>
    </lg>
    <mg ind="1th"><compg><comp ord="E1" pos="V">лачыртыны</comp><comp ord="E2" type="Der/Эм" drv="Prc"/></compg>
    </mg>
@@ -4206,7 +4206,7 @@ Possible errors following proofreading are, e. g., substitution of special fonts
 </e>
 <e>
    <lg>
-     <l pos="Prc">лосыртэм</l><orig>лосыртэм</orig>
+     <l pos="Prc">лосыртэм</l><stress>лосыртэм</stress>
    </lg>
    <mg ind="1th"><compg><comp ord="E1" pos="V">лосыртыны</comp><comp ord="E2" type="Der/Эм" drv="Prc"/></compg>
    </mg>
@@ -4221,7 +4221,7 @@ Possible errors following proofreading are, e. g., substitution of special fonts
 </e>
 <e>
    <lg>
-     <l pos="Prc">луткам</l><orig>луткам</orig>
+     <l pos="Prc">луткам</l><stress>луткам</stress>
    </lg>
    <mg><inflect type="Der/Эм" drv="Prc;V»N"/>
      <xg><x>лутканы; луткам курег кадь</x>
@@ -4231,7 +4231,7 @@ Possible errors following proofreading are, e. g., substitution of special fonts
 </e>
 <e>
    <lg>
-     <l pos="Prc">лушкаськись</l><orig>лушкаськись</orig>
+     <l pos="Prc">лушкаськись</l><stress>лушкаськись</stress>
    </lg>
    <mg ind="1th"><compg><comp ord="E1" pos="V">лушкаськыны</comp><comp ord="E2" type="Der/сь" drv="Prc"/></compg>
    </mg>
@@ -4243,7 +4243,7 @@ Possible errors following proofreading are, e. g., substitution of special fonts
 </e>
 <e>
    <lg>
-     <l pos="Prc">луэм</l><orig>луэм</orig>
+     <l pos="Prc">луэм</l><stress>луэм</stress>
    </lg>
    <mg><inflect type="Der/Эм" drv="Prc;V»N"/>
      <xg><x>луыны; луэмезъя</x>
@@ -4253,7 +4253,7 @@ Possible errors following proofreading are, e. g., substitution of special fonts
 </e>
 <e>
    <lg>
-     <l pos="Prc">лыдӟем</l><orig>лыдӟем</orig>
+     <l pos="Prc">лыдӟем</l><stress>лыдӟем</stress>
    </lg>
    <mg ind="1th"><compg><comp ord="E1" pos="V">лыдӟыны</comp><comp ord="E2" type="Der/Эм" drv="Prc"/></compg>
    </mg>
@@ -4276,7 +4276,7 @@ Possible errors following proofreading are, e. g., substitution of special fonts
 </e>
 <e>
    <lg>
-     <l pos="Prc">лыдӟись</l><orig>лыдӟись</orig>
+     <l pos="Prc">лыдӟись</l><stress>лыдӟись</stress>
    </lg>
    <mg ind="1th"><compg><comp ord="E1" pos="V">лыдӟыны</comp><comp ord="E2" type="Der/сь" drv="Prc"/></compg>
    </mg>
@@ -4291,7 +4291,7 @@ Possible errors following proofreading are, e. g., substitution of special fonts
 </e>
 <e>
    <lg>
-     <l pos="Prc">лыдӟиськись</l><orig>лыдӟиськись</orig>
+     <l pos="Prc">лыдӟиськись</l><stress>лыдӟиськись</stress>
    </lg>
    <mg ind="1th"><compg><comp ord="E1" pos="V">лыдӟиськыны</comp><comp ord="E2" type="Der/сь" drv="Prc"/></compg>
    </mg>
@@ -4306,7 +4306,7 @@ Possible errors following proofreading are, e. g., substitution of special fonts
 </e>
 <e>
    <lg>
-     <l pos="Prc">лэсьтӥськись</l><orig>лэсьтӥськись</orig>
+     <l pos="Prc">лэсьтӥськись</l><stress>лэсьтӥськись</stress>
    </lg>
    <mg ind="1th"><compg><comp ord="E1" pos="V">лэсьтӥськыны</comp><comp ord="E2" type="Der/сь" drv="Prc"/></compg>
    </mg>
@@ -4318,7 +4318,7 @@ Possible errors following proofreading are, e. g., substitution of special fonts
 </e>
 <e>
    <lg>
-     <l pos="Prc">люкась</l><orig>люкась</orig>
+     <l pos="Prc">люкась</l><stress>люкась</stress>
    </lg>
    <mg ind="1th"><compg><comp ord="E1" pos="V">люканы</comp><comp ord="E2" type="Der/сь" drv="Prc"/></compg>
    </mg>
@@ -4330,7 +4330,7 @@ Possible errors following proofreading are, e. g., substitution of special fonts
 </e>
 <e>
    <lg>
-     <l pos="Prc">мадись</l><orig>мадись</orig>
+     <l pos="Prc">мадись</l><stress>мадись</stress>
    </lg>
    <mg ind="1th"><compg><comp ord="E1" pos="V">мадьыны</comp><comp ord="E2" type="Der/сь" drv="Prc"/></compg>
    </mg>
@@ -4347,7 +4347,7 @@ Possible errors following proofreading are, e. g., substitution of special fonts
 </e>
 <e>
    <lg>
-     <l pos="Prc">мадиськись</l><orig>мадиськись</orig>
+     <l pos="Prc">мадиськись</l><stress>мадиськись</stress>
    </lg>
    <mg ind="1th"><compg><comp ord="E1" pos="V">мадиськыны</comp><comp ord="E2" type="Der/сь" drv="Prc"/></compg>
    </mg>
@@ -4359,7 +4359,7 @@ Possible errors following proofreading are, e. g., substitution of special fonts
 </e>
 <e>
    <lg>
-     <l pos="Prc">мактаськись</l><orig>мактаськись</orig>
+     <l pos="Prc">мактаськись</l><stress>мактаськись</stress>
    </lg>
    <mg ind="1th"><compg><comp ord="E1" pos="V">мактаськыны</comp><comp ord="E2" type="Der/сь" drv="Prc"/></compg>
    </mg>
@@ -4376,7 +4376,7 @@ Possible errors following proofreading are, e. g., substitution of special fonts
 </e>
 <e>
    <lg>
-     <l pos="Prc">маскаръяськись</l><orig>маскаръяськись</orig>
+     <l pos="Prc">маскаръяськись</l><stress>маскаръяськись</stress>
    </lg>
    <mg ind="1th"><compg><comp ord="E1" pos="V">маскаръяськыны</comp><comp ord="E2" type="Der/сь" drv="Prc"/></compg>
    </mg>
@@ -4388,7 +4388,7 @@ Possible errors following proofreading are, e. g., substitution of special fonts
 </e>
 <e>
    <lg>
-     <l pos="Prc">медэм</l><orig>медэм</orig>
+     <l pos="Prc">медэм</l><stress>медэм</stress>
    </lg>
    <mg ind="1th"><compg><comp ord="E1">медыны</comp><comp ord="E2" type="Der/Эм" drv="Prc;V»N"/></compg>
    </mg>
@@ -4405,7 +4405,7 @@ Possible errors following proofreading are, e. g., substitution of special fonts
 </e>
 <e>
    <lg>
-     <l pos="Prc">мертчем</l><orig>мертчем</orig>
+     <l pos="Prc">мертчем</l><stress>мертчем</stress>
    </lg>
    <mg ind="1th"><compg><comp ord="E1">мертчыны</comp><comp ord="E2" type="Der/Эм" drv="Prc;V»N"/></compg>
    </mg>
@@ -4418,7 +4418,7 @@ Possible errors following proofreading are, e. g., substitution of special fonts
 </e>
 <e>
    <lg>
-     <l pos="Prc">миськись</l><orig>миськись</orig>
+     <l pos="Prc">миськись</l><stress>миськись</stress>
    </lg>
    <mg><inflect type="Der/сь" drv="Prc"/>
      <xg><x>миськыны; выж миськись</x>
@@ -4434,7 +4434,7 @@ Possible errors following proofreading are, e. g., substitution of special fonts
 </e>
 <e>
    <lg>
-     <l pos="Prc">могась</l><orig>могась</orig>
+     <l pos="Prc">могась</l><stress>могась</stress>
    </lg>
    <mg ind="1th"><compg><comp ord="E1" pos="V">моганы</comp><comp ord="E2" type="Der/сь" drv="Prc"/></compg>
    </mg>
@@ -4446,7 +4446,7 @@ Possible errors following proofreading are, e. g., substitution of special fonts
 </e>
 <e>
    <lg>
-     <l pos="Prc">мушкась</l><orig>мушкась</orig>
+     <l pos="Prc">мушкась</l><stress>мушкась</stress>
    </lg>
    <mg ind="1th"><compg><comp ord="E1" pos="V">мушканы</comp><comp ord="E2" type="Der/сь" drv="Prc"/></compg>
    </mg>
@@ -4458,7 +4458,7 @@ Possible errors following proofreading are, e. g., substitution of special fonts
 </e>
 <e>
    <lg>
-     <l pos="Prc">мыжгем</l><orig>мыжгем</orig>
+     <l pos="Prc">мыжгем</l><stress>мыжгем</stress>
    </lg>
    <mg ind="1th"><compg><comp ord="E1">мыжгыны</comp><comp ord="E2" type="Der/Эм" drv="Prc;V»N"/></compg>
    </mg>
@@ -4471,7 +4471,7 @@ Possible errors following proofreading are, e. g., substitution of special fonts
 </e>
 <e>
    <lg>
-     <l pos="Prc">мынӥсь-ветлӥсь</l><orig>мынӥсь-ветлӥсь</orig>
+     <l pos="Prc">мынӥсь-ветлӥсь</l><stress>мынӥсь-ветлӥсь</stress>
    </lg>
    <mg ind="1th"><compg><comp ord="E1" pos="V">мыныны-ветлыны</comp><comp ord="E2" type="Der/сь" drv="Prc"/></compg>
    </mg>
@@ -4495,7 +4495,7 @@ Possible errors following proofreading are, e. g., substitution of special fonts
 </e>
 <e>
    <lg>
-     <l pos="Prc">мыньпотэм</l><orig>мыньпотэм</orig>
+     <l pos="Prc">мыньпотэм</l><stress>мыньпотэм</stress>
    </lg>
    <mg ind="1th"><compg><comp ord="E1">мынь/потыны</comp><comp ord="E2" type="Der/Эм" drv="Prc;V»N"/></compg>
    </mg>
@@ -4507,7 +4507,7 @@ Possible errors following proofreading are, e. g., substitution of special fonts
 </e>
 <e>
    <lg>
-     <l pos="Prc">мяугетэм</l><orig>мяугетэм</orig>
+     <l pos="Prc">мяугетэм</l><stress>мяугетэм</stress>
    </lg>
    <mg ind="1th"><compg><comp ord="E1">мяугетыны</comp><comp ord="E2" type="Der/Эм" drv="Prc;V»N"/></compg>
    </mg>
@@ -4522,7 +4522,7 @@ Possible errors following proofreading are, e. g., substitution of special fonts
 </e>
 <e>
    <lg>
-     <l pos="Prc">никсэм</l><orig>никсэм</orig>
+     <l pos="Prc">никсэм</l><stress>никсэм</stress>
    </lg>
    <mg ind="1th"><compg><comp ord="E1" pos="V">никсыны</comp><comp ord="E2" type="Der/Эм" drv="Prc"/></compg>
    </mg>
@@ -4540,7 +4540,7 @@ Possible errors following proofreading are, e. g., substitution of special fonts
 </e>
 <e>
    <lg>
-     <l pos="Prc">нискетэм</l><orig>нискетэм</orig>
+     <l pos="Prc">нискетэм</l><stress>нискетэм</stress>
    </lg>
    <mg ind="1th"><compg><comp ord="E1" pos="V">нискетыны</comp><comp ord="E2" type="Der/Эм" drv="Prc"/></compg>
    </mg>
@@ -4564,7 +4564,7 @@ Possible errors following proofreading are, e. g., substitution of special fonts
 </e>
 <e>
    <lg>
-     <l pos="Prc">нуись-ваись</l><orig>нуись-ваись</orig>
+     <l pos="Prc">нуись-ваись</l><stress>нуись-ваись</stress>
    </lg>
    <mg ind="1th"><compg><comp ord="E1" pos="V">нуыны-вайыны</comp><comp ord="E2" type="Der/сь" drv="Prc"/></compg>
    </mg>
@@ -4579,7 +4579,7 @@ Possible errors following proofreading are, e. g., substitution of special fonts
 </e>
 <e>
    <lg>
-     <l pos="Prc">нукыртэм</l><orig>нукыртэм</orig>
+     <l pos="Prc">нукыртэм</l><stress>нукыртэм</stress>
    </lg>
    <mg ind="1th"><compg><comp ord="E1" pos="V">нукыртыны</comp><comp ord="E2" type="Der/Эм" drv="Prc"/></compg>
    </mg>
@@ -4604,7 +4604,7 @@ Possible errors following proofreading are, e. g., substitution of special fonts
 </e>
 <e>
    <lg>
-     <l pos="Prc">нюръяськись</l><orig>нюръяськись</orig>
+     <l pos="Prc">нюръяськись</l><stress>нюръяськись</stress>
    </lg>
    <mg ind="1th"><compg><comp ord="E1" pos="V">нюръяськыны</comp><comp ord="E2" type="Der/сь" drv="Prc"/></compg>
    </mg>
@@ -4621,7 +4621,7 @@ Possible errors following proofreading are, e. g., substitution of special fonts
 </e>
 <e>
    <lg>
-     <l pos="Prc">огазеяськем</l><orig>огазеяськем</orig>
+     <l pos="Prc">огазеяськем</l><stress>огазеяськем</stress>
    </lg>
    <mg ind="1th"><compg><inflect type="Der/Эм" drv="Prc"/><stem>огазеяськыны</stem>;</compg>
    </mg>
@@ -4633,7 +4633,7 @@ Possible errors following proofreading are, e. g., substitution of special fonts
 </e>
 <e>
    <lg>
-     <l pos="Prc">ожмаськись</l><orig>ожмаськись</orig>
+     <l pos="Prc">ожмаськись</l><stress>ожмаськись</stress>
    </lg>
    <mg ind="1th"><compg><comp ord="E1" pos="V">ожмаськыны</comp><comp ord="E2" type="Der/сь" drv="Prc"/></compg>
    </mg>
@@ -4645,7 +4645,7 @@ Possible errors following proofreading are, e. g., substitution of special fonts
 </e>
 <e>
    <lg>
-     <l pos="Prc">ортчемез</l><orig>ортчемез</orig>
+     <l pos="Prc">ортчемез</l><stress>ортчемез</stress>
    </lg>
    <mg>
      <tg xml:lang="fin">
@@ -4662,7 +4662,7 @@ Possible errors following proofreading are, e. g., substitution of special fonts
 </e>
 <e>
    <lg>
-     <l pos="Prc">ӧнерась</l><orig>ӧнерась</orig>
+     <l pos="Prc">ӧнерась</l><stress>ӧнерась</stress>
    </lg>
    <mg ind="1th"><compg><comp ord="E1" pos="V">ӧнераны</comp><comp ord="E2" type="Der/сь" drv="Prc"/></compg>
    </mg>
@@ -4674,7 +4674,7 @@ Possible errors following proofreading are, e. g., substitution of special fonts
 </e>
 <e>
    <lg>
-     <l pos="Prc">ӧрекчаськись</l><orig>ӧрекчаськись</orig>
+     <l pos="Prc">ӧрекчаськись</l><stress>ӧрекчаськись</stress>
    </lg>
    <mg ind="1th"><compg><comp ord="E1" pos="V">ӧрекчаськыны</comp><comp ord="E2" type="Der/сь" drv="Prc"/></compg>
    </mg>
@@ -4689,7 +4689,7 @@ Possible errors following proofreading are, e. g., substitution of special fonts
 </e>
 <e>
    <lg>
-     <l pos="Prc">ӧскем</l><orig>ӧскем</orig>
+     <l pos="Prc">ӧскем</l><stress>ӧскем</stress>
    </lg>
    <mg ind="1th"><compg><comp ord="E1" pos="V">ӧскыны</comp><comp ord="E2" type="Der/Эм" drv="Prc"/></compg>
    </mg>
@@ -4715,7 +4715,7 @@ Possible errors following proofreading are, e. g., substitution of special fonts
 </e>
 <e>
    <lg>
-     <l pos="Prc">ӧтем</l><orig>ӧтем</orig>
+     <l pos="Prc">ӧтем</l><stress>ӧтем</stress>
    </lg>
    <mg ind="1th"><compg><comp ord="E1" pos="V">ӧтьыны</comp><comp ord="E2" type="Der/Эм" drv="Prc"/></compg>
    </mg>
@@ -4727,7 +4727,7 @@ Possible errors following proofreading are, e. g., substitution of special fonts
 </e>
 <e>
    <lg>
-     <l pos="Prc">пайдаяськись</l><orig>пайдаяськись</orig>
+     <l pos="Prc">пайдаяськись</l><stress>пайдаяськись</stress>
    </lg>
    <mg ind="1th"><compg><comp ord="E1" pos="V">пайдаяськыны</comp><comp ord="E2" type="Der/сь" drv="Prc"/></compg>
    </mg>
@@ -4739,7 +4739,7 @@ Possible errors following proofreading are, e. g., substitution of special fonts
 </e>
 <e>
    <lg>
-     <l pos="Prc">пегась</l><orig>пегась</orig>
+     <l pos="Prc">пегась</l><stress>пегась</stress>
    </lg>
    <mg ind="1th"><compg><comp ord="E1" pos="V">пеганы</comp><comp ord="E2" type="Der/сь" drv="Prc"/></compg>
    </mg>
@@ -4771,7 +4771,7 @@ Possible errors following proofreading are, e. g., substitution of special fonts
 </e>
 <e>
    <lg>
-     <l pos="Prc">перелӟем</l><orig>перелӟем</orig>
+     <l pos="Prc">перелӟем</l><stress>перелӟем</stress>
    </lg>
    <mg ind="1th"><compg><comp ord="E1">перелӟыны</comp><comp ord="E2" type="Der/Эм" drv="Prc;V»N"/></compg>
    </mg>
@@ -4812,7 +4812,7 @@ Possible errors following proofreading are, e. g., substitution of special fonts
 </e>
 <e>
    <lg>
-     <l pos="Prc">посӥсь</l><orig>посӥсь</orig>
+     <l pos="Prc">посӥсь</l><stress>посӥсь</stress>
    </lg>
    <mg><inflect type="Der/сь" drv="Prc"/>
      <xg><x>посыны; ку посӥсь</x>
@@ -4822,7 +4822,7 @@ Possible errors following proofreading are, e. g., substitution of special fonts
 </e>
 <e>
    <lg>
-     <l pos="Prc">посӥськем</l><orig>посӥськем</orig>
+     <l pos="Prc">посӥськем</l><stress>посӥськем</stress>
    </lg>
    <mg ind="1th"><compg><comp ord="E1">посӥськыны</comp><comp ord="E2" type="Der/Эм" drv="Prc;V»N"/></compg>
    </mg>
@@ -4837,7 +4837,7 @@ Possible errors following proofreading are, e. g., substitution of special fonts
 </e>
 <e>
    <lg>
-     <l pos="Prc">пӧзем</l><orig>пӧзем</orig>
+     <l pos="Prc">пӧзем</l><stress>пӧзем</stress>
    </lg>
    <mg><compg><comp ord="E1">пӧзьыны</comp><comp ord="E2" type="Der/Эм" drv="Prc;V»N"/></compg>◊ <font face="SmolenskSGR"><b>пӧзем лул</b> (<i>я. </i><b>ыж йыр) </b></font><note><i>haukk.</i></note>
      <tg xml:lang="fin">
@@ -4847,7 +4847,7 @@ Possible errors following proofreading are, e. g., substitution of special fonts
 </e>
 <e>
    <lg>
-     <l pos="Prc">пӧйшурась</l><orig>пӧйшурась</orig>
+     <l pos="Prc">пӧйшурась</l><stress>пӧйшурась</stress>
    </lg>
    <mg ind="1th"><compg><comp ord="E1" pos="V">пӧйшураны</comp><comp ord="E2" type="Der/сь" drv="Prc"/></compg>
    </mg>
@@ -4859,7 +4859,7 @@ Possible errors following proofreading are, e. g., substitution of special fonts
 </e>
 <e>
    <lg>
-     <l pos="Prc">пӧрам</l><orig>пӧрам</orig>
+     <l pos="Prc">пӧрам</l><stress>пӧрам</stress>
    </lg>
    <mg><inflect type="Der/Эм" drv="Prc;V»N"/>
      <xg><x>пӧраны; пӧрам сиён</x>
@@ -4869,7 +4869,7 @@ Possible errors following proofreading are, e. g., substitution of special fonts
 </e>
 <e>
    <lg>
-     <l pos="Prc">пӧрась</l><orig>пӧрась</orig>
+     <l pos="Prc">пӧрась</l><stress>пӧрась</stress>
    </lg>
    <mg ind="1th"><compg><comp ord="E1" pos="V">пӧраны</comp><comp ord="E2" type="Der/сь" drv="Prc"/></compg>
    </mg>
@@ -4886,7 +4886,7 @@ Possible errors following proofreading are, e. g., substitution of special fonts
 </e>
 <e>
    <lg>
-     <l pos="Prc">пӧсятэм</l><orig>пӧсятэм</orig>
+     <l pos="Prc">пӧсятэм</l><stress>пӧсятэм</stress>
    </lg>
    <mg ind="1th"><compg><comp ord="E1">пӧсятыны</comp><comp ord="E2" type="Der/Эм" drv="Prc;V»N"/></compg>
    </mg>
@@ -4902,7 +4902,7 @@ Possible errors following proofreading are, e. g., substitution of special fonts
 </e>
 <e>
    <lg>
-     <l pos="Prc">пӧялляськись</l><orig>пӧялляськись</orig>
+     <l pos="Prc">пӧялляськись</l><stress>пӧялляськись</stress>
    </lg>
    <mg ind="1th"><compg><comp ord="E1" pos="V">пӧялляськыны</comp><comp ord="E2" type="Der/сь" drv="Prc"/></compg>
    </mg>
@@ -4914,7 +4914,7 @@ Possible errors following proofreading are, e. g., substitution of special fonts
 </e>
 <e>
    <lg>
-     <l pos="Prc">пӧяськись</l><orig>пӧяськись</orig>
+     <l pos="Prc">пӧяськись</l><stress>пӧяськись</stress>
    </lg>
    <mg ind="1th"><compg><comp ord="E1" pos="V">пӧяськыны</comp><comp ord="E2" type="Der/сь" drv="Prc"/></compg>
    </mg>
@@ -4926,7 +4926,7 @@ Possible errors following proofreading are, e. g., substitution of special fonts
 </e>
 <e>
    <lg>
-     <l pos="Prc">пуксем</l><orig>пуксем</orig>
+     <l pos="Prc">пуксем</l><stress>пуксем</stress>
    </lg>
    <mg><inflect type="Der/Эм" drv="Prc;V»N"/>
      <xg><x>пуксьыны; пуксем луо</x>
@@ -4942,7 +4942,7 @@ Possible errors following proofreading are, e. g., substitution of special fonts
 </e>
 <e>
    <lg>
-     <l pos="Prc">пуктэм</l><orig>пуктэм</orig>
+     <l pos="Prc">пуктэм</l><stress>пуктэм</stress>
    </lg>
    <mg ind="1th"><inflect type="Der/Эм" drv="Prc;V»N"/>
      <xg><x>пуктыны; пуктэм сюй</x>
@@ -4966,7 +4966,7 @@ Possible errors following proofreading are, e. g., substitution of special fonts
 </e>
 <e>
    <lg>
-     <l pos="Prc">пульдэм</l><orig>пульдэм</orig>
+     <l pos="Prc">пульдэм</l><stress>пульдэм</stress>
    </lg>
    <mg ind="1th"><compg><comp ord="E1">пульдыны</comp><comp ord="E2" type="Der/Эм" drv="Prc;V»N"/></compg>
    </mg>
@@ -4991,7 +4991,7 @@ Possible errors following proofreading are, e. g., substitution of special fonts
 </e>
 <e>
    <lg>
-     <l pos="Prc">путкошкем</l><orig>путкошкем</orig>
+     <l pos="Prc">путкошкем</l><stress>путкошкем</stress>
    </lg>
    <mg ind="1th"><compg><comp ord="E1">пут/кошкыны</comp><comp ord="E2" type="Der/Эм" drv="Prc;V»N"/></compg>
    </mg>
@@ -5003,7 +5003,7 @@ Possible errors following proofreading are, e. g., substitution of special fonts
 </e>
 <e>
    <lg>
-     <l pos="Prc">путыртэм</l><orig>путыртэм</orig>
+     <l pos="Prc">путыртэм</l><stress>путыртэм</stress>
    </lg>
    <mg ind="1th"><compg><comp ord="E1" pos="V">путыртыны</comp><comp ord="E2" type="Der/Эм" drv="Prc"/></compg>
    </mg>
@@ -5018,7 +5018,7 @@ Possible errors following proofreading are, e. g., substitution of special fonts
 </e>
 <e>
    <lg>
-     <l pos="Prc">путэм</l><orig>путэм</orig>
+     <l pos="Prc">путэм</l><stress>путэм</stress>
    </lg>
    <mg ind="1th"><compg><comp ord="E1">путыны</comp><comp ord="E2" type="Der/Эм" drv="Prc;V»N"/></compg>
    </mg>
@@ -5030,7 +5030,7 @@ Possible errors following proofreading are, e. g., substitution of special fonts
 </e>
 <e>
    <lg>
-     <l pos="Prc">пыдсэтам</l><orig>пыдсэтам</orig>
+     <l pos="Prc">пыдсэтам</l><stress>пыдсэтам</stress>
    </lg>
    <mg><inflect type="Der/Эм" drv="Prc"/>
      <xg><x>пыдсэтаны; пыдсэтам мурт</x>
@@ -5040,7 +5040,7 @@ Possible errors following proofreading are, e. g., substitution of special fonts
 </e>
 <e>
    <lg>
-     <l pos="Prc">пыжиськем</l><orig>пыжиськем</orig>
+     <l pos="Prc">пыжиськем</l><stress>пыжиськем</stress>
    </lg>
    <mg><compg><comp ord="E1">пыжиськыны; пыжиськемъёс</comp><comp ord="E2" type="Der/Эм" drv="Prc;V»N"/></compg><note><i>mon.</i></note>
      <tg xml:lang="fin">
@@ -5050,7 +5050,7 @@ Possible errors following proofreading are, e. g., substitution of special fonts
 </e>
 <e>
    <lg>
-     <l pos="Prc">пыриськись</l><orig>пыриськись</orig>
+     <l pos="Prc">пыриськись</l><stress>пыриськись</stress>
    </lg>
    <mg ind="1th"><compg><comp ord="E1" pos="V">пыриськыны</comp><comp ord="E2" type="Der/сь" drv="Prc"/></compg>
    </mg>
@@ -5067,7 +5067,7 @@ Possible errors following proofreading are, e. g., substitution of special fonts
 </e>
 <e>
    <lg>
-     <l pos="Prc">пыӵась</l><orig>пыӵась</orig>
+     <l pos="Prc">пыӵась</l><stress>пыӵась</stress>
    </lg>
    <mg><inflect>teonn. v:stä</inflect>
      <xg><x>пыӵаны; сюлэме пыӵась кылъёс</x>
@@ -5077,7 +5077,7 @@ Possible errors following proofreading are, e. g., substitution of special fonts
 </e>
 <e>
    <lg>
-     <l pos="Prc">радъясь</l><orig>радъясь</orig>
+     <l pos="Prc">радъясь</l><stress>радъясь</stress>
    </lg>
    <mg ind="1th"><compg><comp ord="E1" pos="V">радъяны</comp><comp ord="E2" type="Der/сь" drv="Prc"/></compg>
    </mg>
@@ -5089,7 +5089,7 @@ Possible errors following proofreading are, e. g., substitution of special fonts
 </e>
 <e>
    <lg>
-     <l pos="Prc">сактэм</l><orig>сактэм</orig>
+     <l pos="Prc">сактэм</l><stress>сактэм</stress>
    </lg>
    <mg ind="1th"><compg><comp ord="E1">сактыны</comp><comp ord="E2" type="Der/Эм" drv="Prc;V»N"/></compg>
    </mg>
@@ -5101,7 +5101,7 @@ Possible errors following proofreading are, e. g., substitution of special fonts
 </e>
 <e>
    <lg>
-     <l pos="Prc">сектаськись</l><orig>сектаськись</orig>
+     <l pos="Prc">сектаськись</l><stress>сектаськись</stress>
    </lg>
    <mg ind="1th"><compg><comp ord="E1" pos="V">сектаськыны</comp><comp ord="E2" type="Der/сь" drv="Prc"/></compg>
    </mg>
@@ -5114,7 +5114,7 @@ Possible errors following proofreading are, e. g., substitution of special fonts
 </e>
 <e>
    <lg>
-     <l pos="Prc">сием</l><orig>сием</orig>
+     <l pos="Prc">сием</l><stress>сием</stress>
    </lg>
    <mg><inflect type="Der/Эм" drv="Prc;V»N"/><font face="SmolenskSGR"><b>сиыны; сием потон </b></font><mwemg ind="1th"/><defNative>мае ке</defNative>
      <tg xml:lang="fin">
@@ -5142,7 +5142,7 @@ Possible errors following proofreading are, e. g., substitution of special fonts
 </e>
 <e>
    <lg>
-     <l pos="Prc">сием-юэм</l><orig>сием-юэм</orig>
+     <l pos="Prc">сием-юэм</l><stress>сием-юэм</stress>
    </lg>
    <mg><inflect type="Der/Эм" drv="Prc;V»N"/>
      <xg><x>сиыны-юыны; сием-юэм понна тау!</x>
@@ -5152,7 +5152,7 @@ Possible errors following proofreading are, e. g., substitution of special fonts
 </e>
 <e>
    <lg>
-     <l pos="Prc">сиись</l><orig>сиись</orig>
+     <l pos="Prc">сиись</l><stress>сиись</stress>
    </lg>
    <mg ind="1th"><compg><comp ord="E1" pos="V">сиыны</comp><comp ord="E2" type="Der/сь" drv="Prc"/></compg>
    </mg>
@@ -5164,7 +5164,7 @@ Possible errors following proofreading are, e. g., substitution of special fonts
 </e>
 <e>
    <lg>
-     <l pos="Prc">сипыртэм</l><orig>сипыртэм</orig>
+     <l pos="Prc">сипыртэм</l><stress>сипыртэм</stress>
    </lg>
    <mg ind="1th"><compg><comp ord="E1" pos="V">сипыртыны</comp><comp ord="E2" type="Der/Эм" drv="Prc"/></compg>
    </mg>
@@ -5176,7 +5176,7 @@ Possible errors following proofreading are, e. g., substitution of special fonts
 </e>
 <e>
    <lg>
-     <l pos="Prc">сиськем</l><orig>сиськем</orig>
+     <l pos="Prc">сиськем</l><stress>сиськем</stress>
    </lg>
    <mg><inflect type="Der/Эм" drv="Prc;V»N"/>
      <xg><x>сиськыны; сиськем бере</x>
@@ -5192,7 +5192,7 @@ Possible errors following proofreading are, e. g., substitution of special fonts
 </e>
 <e>
    <lg>
-     <l pos="Prc">сисьмем</l><orig>сисьмем</orig>
+     <l pos="Prc">сисьмем</l><stress>сисьмем</stress>
    </lg>
    <mg ind="1th"><compg><comp ord="E1">сисьмыны</comp><comp ord="E2" type="Der/Эм" drv="Prc;V»N"/></compg>
    </mg>
@@ -5216,7 +5216,7 @@ Possible errors following proofreading are, e. g., substitution of special fonts
 </e>
 <e>
    <lg>
-     <l pos="Prc">сӧсырмем</l><orig>сӧсырмем</orig>
+     <l pos="Prc">сӧсырмем</l><stress>сӧсырмем</stress>
    </lg>
    <mg ind="1th"><compg><comp ord="E1">сӧсырмыны</comp><comp ord="E2" type="Der/Эм" drv="Prc;V»N"/></compg>
    </mg>
@@ -5231,7 +5231,7 @@ Possible errors following proofreading are, e. g., substitution of special fonts
 </e>
 <e>
    <lg>
-     <l pos="Prc">судъясь</l><orig>судъясь</orig>
+     <l pos="Prc">судъясь</l><stress>судъясь</stress>
    </lg>
    <mg ind="1th"><compg><comp ord="E1" pos="V">судъяны</comp><comp ord="E2" type="Der/сь" drv="Prc"/></compg>
    </mg>
@@ -5243,7 +5243,7 @@ Possible errors following proofreading are, e. g., substitution of special fonts
 </e>
 <e>
    <lg>
-     <l pos="Prc">сулятэм</l><orig>сулятэм</orig>
+     <l pos="Prc">сулятэм</l><stress>сулятэм</stress>
    </lg>
    <mg ind="1th"><compg><comp ord="E1">сулятыны</comp><comp ord="E2" type="Der/Эм" drv="Prc;V»N"/></compg>
    </mg>
@@ -5255,7 +5255,7 @@ Possible errors following proofreading are, e. g., substitution of special fonts
 </e>
 <e>
    <lg>
-     <l pos="Prc">супыльтӥсь</l><orig>супыльтӥсь</orig>
+     <l pos="Prc">супыльтӥсь</l><stress>супыльтӥсь</stress>
    </lg>
    <mg ind="1th"><compg><comp ord="E1" pos="V">супыльтыны</comp><comp ord="E2" type="Der/сь" drv="Prc"/></compg>
    </mg>
@@ -5267,7 +5267,7 @@ Possible errors following proofreading are, e. g., substitution of special fonts
 </e>
 <e>
    <lg>
-     <l pos="Prc">супыльтэм</l><orig>супыльтэм</orig>
+     <l pos="Prc">супыльтэм</l><stress>супыльтэм</stress>
    </lg>
    <mg ind="1th"><compg><comp ord="E1">супыльтыны 2. (</comp><comp ord="E2" type="Der/Эм" drv="Prc;V»N"/></compg><note><i>myös</i></note><font face="SmolenskSGR"><b>токма</b></font> <font face="SmolenskSGR"><i>я. </i></font>
      <xg><x>юнме супыльтэм)</x>
@@ -5280,7 +5280,7 @@ Possible errors following proofreading are, e. g., substitution of special fonts
 </e>
 <e>
    <lg>
-     <l pos="Prc">сурам</l><orig>сурам</orig>
+     <l pos="Prc">сурам</l><stress>сурам</stress>
    </lg>
    <mg ind="1th"><compg><comp ord="E1">сураны</comp><comp ord="E2" type="Der/Эм" drv="Prc;V»N"/></compg>
    </mg>
@@ -5292,7 +5292,7 @@ Possible errors following proofreading are, e. g., substitution of special fonts
 </e>
 <e>
    <lg>
-     <l pos="Prc">суредась</l><orig>суредась</orig>
+     <l pos="Prc">суредась</l><stress>суредась</stress>
    </lg>
    <mg ind="1th"><compg><comp ord="E1" pos="V">суреданы</comp><comp ord="E2" type="Der/сь" drv="Prc"/></compg>
    </mg>
@@ -5307,7 +5307,7 @@ Possible errors following proofreading are, e. g., substitution of special fonts
 </e>
 <e>
    <lg>
-     <l pos="Prc">суредаськись</l><orig>суредаськись</orig>
+     <l pos="Prc">суредаськись</l><stress>суредаськись</stress>
    </lg>
    <mg ind="1th"><compg><comp ord="E1" pos="V">суредаськыны</comp><comp ord="E2" type="Der/сь" drv="Prc"/></compg>
    </mg>
@@ -5319,7 +5319,7 @@ Possible errors following proofreading are, e. g., substitution of special fonts
 </e>
 <e>
    <lg>
-     <l pos="Prc">сутскем</l><orig>сутскем</orig>
+     <l pos="Prc">сутскем</l><stress>сутскем</stress>
    </lg>
    <mg><inflect type="Der/Эм" drv="Prc;V»N"/>
      <xg><x>сутскыны; сутскем инты</x>
@@ -5338,7 +5338,7 @@ Possible errors following proofreading are, e. g., substitution of special fonts
 </e>
 <e>
    <lg>
-     <l pos="Prc">сюдӥсь</l><orig>сюдӥсь</orig>
+     <l pos="Prc">сюдӥсь</l><stress>сюдӥсь</stress>
    </lg>
    <mg ind="1th"><compg><comp ord="E1" pos="V">сюдыны</comp><comp ord="E2" type="Der/сь" drv="Prc"/></compg>
    </mg>
@@ -5353,7 +5353,7 @@ Possible errors following proofreading are, e. g., substitution of special fonts
 </e>
 <e>
    <lg>
-     <l pos="Prc">сюдӥсь-вордӥсь</l><orig>сюдӥсь-вордӥсь</orig>
+     <l pos="Prc">сюдӥсь-вордӥсь</l><stress>сюдӥсь-вордӥсь</stress>
    </lg>
    <mg ind="1th"><compg><comp ord="E1" pos="V">сюдыны-вордыны</comp><comp ord="E2" type="Der/сь" drv="Prc"/></compg>
    </mg>
@@ -5368,7 +5368,7 @@ Possible errors following proofreading are, e. g., substitution of special fonts
 </e>
 <e>
    <lg>
-     <l pos="Prc">сялӟем</l><orig>сялӟем</orig>
+     <l pos="Prc">сялӟем</l><stress>сялӟем</stress>
    </lg>
    <mg ind="1th"><compg><comp ord="E1">сялӟыны</comp><comp ord="E2" type="Der/Эм" drv="Prc;V»N"/></compg>
    </mg>
@@ -5380,7 +5380,7 @@ Possible errors following proofreading are, e. g., substitution of special fonts
 </e>
 <e>
    <lg>
-     <l pos="Prc">такыртэм</l><orig>такыртэм</orig>
+     <l pos="Prc">такыртэм</l><stress>такыртэм</stress>
    </lg>
    <mg ind="1th"><compg><comp ord="E1">такыртыны</comp><comp ord="E2" type="Der/Эм" drv="Prc;V»N"/></compg>
    </mg>
@@ -5392,7 +5392,7 @@ Possible errors following proofreading are, e. g., substitution of special fonts
 </e>
 <e>
    <lg>
-     <l pos="Prc">тачыртэм</l><orig>тачыртэм</orig>
+     <l pos="Prc">тачыртэм</l><stress>тачыртэм</stress>
    </lg>
    <mg ind="1th"><compg><comp ord="E1" pos="V">тачыртыны</comp><comp ord="E2" type="Der/Эм" drv="Prc"/></compg>
    </mg>
@@ -5404,7 +5404,7 @@ Possible errors following proofreading are, e. g., substitution of special fonts
 </e>
 <e>
    <lg>
-     <l pos="Prc">тодӥсь-адӟись</l><orig>тодӥсь-адӟись</orig>
+     <l pos="Prc">тодӥсь-адӟись</l><stress>тодӥсь-адӟись</stress>
    </lg>
    <mg ind="1th"><compg><comp ord="E1" pos="V">тодыны-адӟыны</comp><comp ord="E2" type="Der/сь" drv="Prc"/></compg>
    </mg>
@@ -5416,7 +5416,7 @@ Possible errors following proofreading are, e. g., substitution of special fonts
 </e>
 <e>
    <lg>
-     <l pos="Prc">тодӥсьяськись</l><orig>тодӥсьяськись</orig>
+     <l pos="Prc">тодӥсьяськись</l><stress>тодӥсьяськись</stress>
    </lg>
    <mg ind="1th"><compg><comp ord="E1" pos="V">тодӥсьяськыны</comp><comp ord="E2" type="Der/сь" drv="Prc"/></compg>
    </mg>
@@ -5428,7 +5428,7 @@ Possible errors following proofreading are, e. g., substitution of special fonts
 </e>
 <e>
    <lg>
-     <l pos="Prc">тодэм-валам</l><orig>тодэм-валам</orig>
+     <l pos="Prc">тодэм-валам</l><stress>тодэм-валам</stress>
    </lg>
    <mg><note><i>partis. ja. teonn. v:stä</i></note><font face="SmolenskSGR"><b>тодыны-валаны</b></font>
    </mg>
@@ -5447,7 +5447,7 @@ Possible errors following proofreading are, e. g., substitution of special fonts
 </e>
 <e>
    <lg>
-     <l pos="Prc">тунаськись</l><orig>тунаськись</orig>
+     <l pos="Prc">тунаськись</l><stress>тунаськись</stress>
    </lg>
    <mg ind="1th"><compg><comp ord="E1" pos="V">тунаськыны</comp><comp ord="E2" type="Der/сь" drv="Prc"/></compg>
    </mg>
@@ -5459,7 +5459,7 @@ Possible errors following proofreading are, e. g., substitution of special fonts
 </e>
 <e>
    <lg>
-     <l pos="Prc">тупатскем</l><orig>тупатскем</orig>
+     <l pos="Prc">тупатскем</l><stress>тупатскем</stress>
    </lg>
    <mg ind="1th"><compg><comp ord="E1">тупатскыны</comp><comp ord="E2" type="Der/Эм" drv="Prc;V»N"/></compg>
    </mg>
@@ -5471,7 +5471,7 @@ Possible errors following proofreading are, e. g., substitution of special fonts
 </e>
 <e>
    <lg>
-     <l pos="Prc">турнась</l><orig>турнась</orig>
+     <l pos="Prc">турнась</l><stress>турнась</stress>
    </lg>
    <mg ind="1th"><compg><comp ord="E1" pos="V">турнаны</comp><comp ord="E2" type="Der/сь" drv="Prc"/></compg>
    </mg>
@@ -5483,7 +5483,7 @@ Possible errors following proofreading are, e. g., substitution of special fonts
 </e>
 <e>
    <lg>
-     <l pos="Prc">тылскем</l><orig>тылскем</orig>
+     <l pos="Prc">тылскем</l><stress>тылскем</stress>
    </lg>
    <mg ind="1th"><compg><comp ord="E1">тылскыны</comp><comp ord="E2" type="Der/Эм" drv="Prc;V»N"/></compg>
    </mg>
@@ -5495,7 +5495,7 @@ Possible errors following proofreading are, e. g., substitution of special fonts
 </e>
 <e>
    <lg>
-     <l pos="Prc">тыпыртэм</l><orig>тыпыртэм</orig>
+     <l pos="Prc">тыпыртэм</l><stress>тыпыртэм</stress>
    </lg>
    <mg ind="1th"><compg><comp ord="E1">тыпыртыны</comp><comp ord="E2" type="Der/Эм" drv="Prc;V»N"/></compg>
    </mg>
@@ -5507,7 +5507,7 @@ Possible errors following proofreading are, e. g., substitution of special fonts
 </e>
 <e>
    <lg>
-     <l pos="Prc">тырмымтэ</l><orig>тырмымтэ</orig>
+     <l pos="Prc">тырмымтэ</l><stress>тырмымтэ</stress>
    </lg>
    <mg ind="1th"><compg><comp ord="E1" pos="V">тырмыны</comp><comp ord="E2" type="Der/Эмтэ" drv="Prc"/></compg>
    </mg>
@@ -5524,7 +5524,7 @@ Possible errors following proofreading are, e. g., substitution of special fonts
 </e>
 <e>
    <lg>
-     <l pos="Prc">тыршем</l><orig>тыршем</orig>
+     <l pos="Prc">тыршем</l><stress>тыршем</stress>
    </lg>
    <mg ind="1th"><compg><comp ord="E1">тыршыны</comp><comp ord="E2" type="Der/Эм" drv="Prc;V»N"/></compg>
    </mg>
@@ -5564,7 +5564,7 @@ Possible errors following proofreading are, e. g., substitution of special fonts
 </e>
 <e>
    <lg>
-     <l pos="Prc">узыясь</l><orig>узыясь</orig>
+     <l pos="Prc">узыясь</l><stress>узыясь</stress>
    </lg>
    <mg ind="1th"><compg><comp ord="E1" pos="V">узыяны</comp><comp ord="E2" type="Der/сь" drv="Prc"/></compg>
    </mg>
@@ -5576,7 +5576,7 @@ Possible errors following proofreading are, e. g., substitution of special fonts
 </e>
 <e>
    <lg>
-     <l pos="Prc">уйбыртэм</l><orig>уйбыртэм</orig>
+     <l pos="Prc">уйбыртэм</l><stress>уйбыртэм</stress>
    </lg>
    <mg ind="1th"><compg><comp ord="E1" pos="V">уйбыртыны</comp><comp ord="E2" type="Der/Эм" drv="Prc"/></compg>
    </mg>
@@ -5591,7 +5591,7 @@ Possible errors following proofreading are, e. g., substitution of special fonts
 </e>
 <e>
    <lg>
-     <l pos="Prc">уйиськись</l><orig>уйиськись</orig>
+     <l pos="Prc">уйиськись</l><stress>уйиськись</stress>
    </lg>
    <mg ind="1th"><compg><comp ord="E1" pos="V">уйиськыны</comp><comp ord="E2" type="Der/сь" drv="Prc"/></compg>
    </mg>
@@ -5603,7 +5603,7 @@ Possible errors following proofreading are, e. g., substitution of special fonts
 </e>
 <e>
    <lg>
-     <l pos="Prc">укылтэмъяськись</l><orig>укылтэмъяськись</orig>
+     <l pos="Prc">укылтэмъяськись</l><stress>укылтэмъяськись</stress>
    </lg>
    <mg ind="1th"><compg><comp ord="E1" pos="V">укылтэмъяськыны</comp><comp ord="E2" type="Der/сь" drv="Prc"/></compg>
    </mg>
@@ -5615,7 +5615,7 @@ Possible errors following proofreading are, e. g., substitution of special fonts
 </e>
 <e>
    <lg>
-     <l pos="Prc">улӥсь</l><orig>улӥсь</orig>
+     <l pos="Prc">улӥсь</l><stress>улӥсь</stress>
    </lg>
    <mg ind="1th"><compg><comp ord="E1" pos="V">улыны</comp><comp ord="E2" type="Der/сь" drv="Prc"/></compg>
    </mg>
@@ -5627,7 +5627,7 @@ Possible errors following proofreading are, e. g., substitution of special fonts
 </e>
 <e>
    <lg>
-     <l pos="Prc">ултӥям</l><orig>ултӥям</orig>
+     <l pos="Prc">ултӥям</l><stress>ултӥям</stress>
    </lg>
    <mg ind="1th"><compg><comp ord="E1">ултӥяны</comp><comp ord="E2" type="Der/Эм" drv="Prc;V»N"/></compg>
    </mg>
@@ -5642,7 +5642,7 @@ Possible errors following proofreading are, e. g., substitution of special fonts
 </e>
 <e>
    <lg>
-     <l pos="Prc">ургетэм</l><orig>ургетэм</orig>
+     <l pos="Prc">ургетэм</l><stress>ургетэм</stress>
    </lg>
    <mg ind="1th"><compg><comp ord="E1" pos="V">ургетыны</comp><comp ord="E2" type="Der/Эм" drv="Prc"/></compg>
    </mg>
@@ -5671,7 +5671,7 @@ Possible errors following proofreading are, e. g., substitution of special fonts
 </e>
 <e>
    <lg>
-     <l pos="Prc">усыкмем</l><orig>усыкмем</orig>
+     <l pos="Prc">усыкмем</l><stress>усыкмем</stress>
    </lg>
    <mg><inflect type="Der/Эм" drv="Prc;V»N"/>
      <xg><x>усыкмыны; усыкмем кадь бызьылыны</x>
@@ -5681,7 +5681,7 @@ Possible errors following proofreading are, e. g., substitution of special fonts
 </e>
 <e>
    <lg>
-     <l pos="Prc">усыясь</l><orig>усыясь</orig>
+     <l pos="Prc">усыясь</l><stress>усыясь</stress>
    </lg>
    <mg ind="1th"><compg><comp ord="E1" pos="V">усыяны</comp><comp ord="E2" type="Der/сь" drv="Prc"/></compg>
    </mg>
@@ -5693,7 +5693,7 @@ Possible errors following proofreading are, e. g., substitution of special fonts
 </e>
 <e>
    <lg>
-     <l pos="Prc">утись</l><orig>утись</orig>
+     <l pos="Prc">утись</l><stress>утись</stress>
    </lg>
    <mg ind="1th"><compg><comp ord="E1" pos="V">утьыны</comp><comp ord="E2" type="Der/сь" drv="Prc"/></compg>
    </mg>
@@ -5720,7 +5720,7 @@ Possible errors following proofreading are, e. g., substitution of special fonts
 </e>
 <e>
    <lg>
-     <l pos="Prc">утись-вордӥсь</l><orig>утись-вордӥсь</orig>
+     <l pos="Prc">утись-вордӥсь</l><stress>утись-вордӥсь</stress>
    </lg>
    <mg ind="1th"><compg><comp ord="E1" pos="V">утьыны-вордыны</comp><comp ord="E2" type="Der/сь" drv="Prc"/></compg>
    </mg>
@@ -5735,7 +5735,7 @@ Possible errors following proofreading are, e. g., substitution of special fonts
 </e>
 <e>
    <lg>
-     <l pos="Prc">утчаськись</l><orig>утчаськись</orig>
+     <l pos="Prc">утчаськись</l><stress>утчаськись</stress>
    </lg>
    <mg ind="1th"><compg><comp ord="E1" pos="V">утчаськыны</comp><comp ord="E2" type="Der/сь" drv="Prc"/></compg>
    </mg>
@@ -5771,7 +5771,7 @@ Possible errors following proofreading are, e. g., substitution of special fonts
 </e>
 <e>
    <lg>
-     <l pos="Prc">учкись</l><orig>учкись</orig>
+     <l pos="Prc">учкись</l><stress>учкись</stress>
    </lg>
    <mg ind="1th"><compg><comp ord="E1" pos="V">учкыны</comp><comp ord="E2" type="Der/сь" drv="Prc"/></compg>
    </mg>
@@ -5783,7 +5783,7 @@ Possible errors following proofreading are, e. g., substitution of special fonts
 </e>
 <e>
    <lg>
-     <l pos="Prc">уясь</l><orig>уясь</orig>
+     <l pos="Prc">уясь</l><stress>уясь</stress>
    </lg>
    <mg ind="1th"><compg><comp ord="E1">уяны</comp><comp ord="E2">partis. ja teonn. v:stä</comp></compg>
    </mg>
@@ -5805,7 +5805,7 @@ Possible errors following proofreading are, e. g., substitution of special fonts
 </e>
 <e>
    <lg>
-     <l pos="Prc">чабкем</l><orig>чабкем</orig>
+     <l pos="Prc">чабкем</l><stress>чабкем</stress>
    </lg>
    <mg ind="1th"><compg><comp ord="E1" pos="V">чабкыны</comp><comp ord="E2" type="Der/Эм" drv="Prc"/></compg>
    </mg>
@@ -5825,7 +5825,7 @@ Possible errors following proofreading are, e. g., substitution of special fonts
 </e>
 <e>
    <lg>
-     <l pos="Prc">чабкись</l><orig>чабкись</orig>
+     <l pos="Prc">чабкись</l><stress>чабкись</stress>
    </lg>
    <mg ind="1th"><compg><comp ord="E1" pos="V">чабкыны</comp><comp ord="E2" type="Der/сь" drv="Prc"/></compg>
    </mg>
@@ -5837,7 +5837,7 @@ Possible errors following proofreading are, e. g., substitution of special fonts
 </e>
 <e>
    <lg>
-     <l pos="Prc">чабкиськем</l><orig>чабкиськем</orig>
+     <l pos="Prc">чабкиськем</l><stress>чабкиськем</stress>
    </lg>
    <mg ind="1th"><compg><comp ord="E1" pos="V">чабкиськыны</comp><comp ord="E2" type="Der/Эм" drv="Prc"/></compg>
    </mg>
@@ -5850,7 +5850,7 @@ Possible errors following proofreading are, e. g., substitution of special fonts
 </e>
 <e>
    <lg>
-     <l pos="Prc">чагаськем</l><orig>чагаськем</orig>
+     <l pos="Prc">чагаськем</l><stress>чагаськем</stress>
    </lg>
    <mg ind="1th"><compg><comp ord="E1" pos="V">чагаськыны</comp><comp ord="E2" type="Der/Эм" drv="Prc"/></compg>
    </mg>
@@ -5870,7 +5870,7 @@ Possible errors following proofreading are, e. g., substitution of special fonts
 </e>
 <e>
    <lg>
-     <l pos="Prc">чагись</l><orig>чагись</orig>
+     <l pos="Prc">чагись</l><stress>чагись</stress>
    </lg>
    <mg>
      <variants>
@@ -5880,7 +5880,7 @@ Possible errors following proofreading are, e. g., substitution of special fonts
 </e>
 <e>
    <lg>
-     <l pos="Prc">чагиськись</l><orig>чагиськись</orig>
+     <l pos="Prc">чагиськись</l><stress>чагиськись</stress>
    </lg>
    <mg ind="1th"><compg><comp ord="E1" pos="V">чагиськыны</comp><comp ord="E2" type="Der/сь" drv="Prc"/></compg>
    </mg>
@@ -5905,7 +5905,7 @@ Possible errors following proofreading are, e. g., substitution of special fonts
 </e>
 <e>
    <lg>
-     <l pos="Prc">чакмем</l><orig>чакмем</orig>
+     <l pos="Prc">чакмем</l><stress>чакмем</stress>
    </lg>
    <mg ind="1th"><compg><comp ord="E1" pos="V">чакмыны</comp><comp ord="E2" type="Der/Эм" drv="Prc"/></compg>
    </mg>
@@ -5922,7 +5922,7 @@ Possible errors following proofreading are, e. g., substitution of special fonts
 </e>
 <e>
    <lg>
-     <l pos="Prc">чальккетэм</l><orig>чальккетэм</orig>
+     <l pos="Prc">чальккетэм</l><stress>чальккетэм</stress>
    </lg>
    <mg ind="1th"><compg><comp ord="E1">чальккетыны</comp><comp ord="E2" type="Der/Эм" drv="Prc;V»N"/></compg>
    </mg>
@@ -5935,7 +5935,7 @@ Possible errors following proofreading are, e. g., substitution of special fonts
 </e>
 <e>
    <lg>
-     <l pos="Prc">чапыльтэм</l><orig>чапыльтэм</orig>
+     <l pos="Prc">чапыльтэм</l><stress>чапыльтэм</stress>
    </lg>
    <mg ind="1th"><compg><comp ord="E1" pos="V">чапыльтыны</comp><comp ord="E2" type="Der/Эм" drv="Prc"/></compg>
    </mg>
@@ -5947,21 +5947,21 @@ Possible errors following proofreading are, e. g., substitution of special fonts
 </e>
 <e>
    <lg>
-     <l pos="Prc">чатырскем</l><orig>чатырскем</orig>
+     <l pos="Prc">чатырскем</l><stress>чатырскем</stress>
    </lg>
    <mg><compg><comp ord="E1">чатырскыны</comp><comp ord="E2" type="Der/Эм" drv="Prc;V»N"/></compg>
    </mg>
 </e>
 <e>
    <lg>
-     <l pos="Prc">чеберам</l><orig>чеберам</orig>
+     <l pos="Prc">чеберам</l><stress>чеберам</stress>
    </lg>
    <mg><compg><comp ord="E1">чебераны</comp><comp ord="E2" type="Der/Эм" drv="Prc;V»N"/></compg>
    </mg>
 </e>
 <e>
    <lg>
-     <l pos="Prc">чеберъяськись</l><orig>чеберъяськись</orig>
+     <l pos="Prc">чеберъяськись</l><stress>чеберъяськись</stress>
    </lg>
    <mg ind="1th"><compg><comp ord="E1" pos="V">чеберъяськыны</comp><comp ord="E2" type="Der/сь" drv="Prc"/></compg>
    </mg>
@@ -5978,7 +5978,7 @@ Possible errors following proofreading are, e. g., substitution of special fonts
 </e>
 <e>
    <lg>
-     <l pos="Prc">ченгешем</l><orig>ченгешем</orig>
+     <l pos="Prc">ченгешем</l><stress>ченгешем</stress>
    </lg>
    <mg ind="1th"><compg><comp ord="E1" pos="V">ченгешыны</comp><comp ord="E2" type="Der/Эм" drv="Prc"/></compg>
    </mg>
@@ -5998,7 +5998,7 @@ Possible errors following proofreading are, e. g., substitution of special fonts
 </e>
 <e>
    <lg>
-     <l pos="Prc">ченгешись</l><orig>ченгешись</orig>
+     <l pos="Prc">ченгешись</l><stress>ченгешись</stress>
    </lg>
    <mg ind="1th"><compg><comp ord="E1" pos="V">ченгешыны</comp><comp ord="E2" type="Der/сь" drv="Prc"/></compg>
    </mg>
@@ -6010,7 +6010,7 @@ Possible errors following proofreading are, e. g., substitution of special fonts
 </e>
 <e>
    <lg>
-     <l pos="Prc">чепыльтэм</l><orig>чепыльтэм</orig>
+     <l pos="Prc">чепыльтэм</l><stress>чепыльтэм</stress>
    </lg>
    <mg ind="1th"><compg><comp ord="E1">чепыльтыны</comp><comp ord="E2" type="Der/Эм" drv="Prc;V»N"/></compg>
    </mg>
@@ -6022,14 +6022,14 @@ Possible errors following proofreading are, e. g., substitution of special fonts
 </e>
 <e>
    <lg>
-     <l pos="Prc">чередем</l><orig>чередем</orig>
+     <l pos="Prc">чередем</l><stress>чередем</stress>
    </lg>
    <mg><compg><comp ord="E1">чередьыны</comp><comp ord="E2" type="Der/Эм" drv="Prc;V»N"/></compg>
    </mg>
 </e>
 <e>
    <lg>
-     <l pos="Prc">черектэм</l><orig>черектэм</orig>
+     <l pos="Prc">черектэм</l><stress>черектэм</stress>
    </lg>
    <mg ind="1th"><compg><comp ord="E1" pos="V">черектыны</comp><comp ord="E2" type="Der/Эм" drv="Prc"/></compg>
    </mg>
@@ -6053,7 +6053,7 @@ Possible errors following proofreading are, e. g., substitution of special fonts
 </e>
 <e>
    <lg>
-     <l pos="Prc">черекъям</l><orig>черекъям</orig>
+     <l pos="Prc">черекъям</l><stress>черекъям</stress>
    </lg>
    <mg ind="1th"><compg><comp ord="E1" pos="V">черекъяны</comp><comp ord="E2" type="Der/Эм" drv="Prc"/></compg>
    </mg>
@@ -6074,7 +6074,7 @@ Possible errors following proofreading are, e. g., substitution of special fonts
 </e>
 <e>
    <lg>
-     <l pos="Prc">черлам</l><orig>черлам</orig>
+     <l pos="Prc">черлам</l><stress>черлам</stress>
    </lg>
    <mg ind="1th"><compg><comp ord="E1" pos="V">черланы</comp><comp ord="E2" type="Der/Эм" drv="Prc"/></compg>
    </mg>
@@ -6095,7 +6095,7 @@ Possible errors following proofreading are, e. g., substitution of special fonts
 </e>
 <e>
    <lg>
-     <l pos="Prc">черсӥсь</l><orig>черсӥсь</orig>
+     <l pos="Prc">черсӥсь</l><stress>черсӥсь</stress>
    </lg>
    <mg ind="1th"><compg><comp ord="E1" pos="V">черсыны</comp><comp ord="E2" type="Der/сь" drv="Prc"/></compg>
    </mg>
@@ -6107,7 +6107,7 @@ Possible errors following proofreading are, e. g., substitution of special fonts
 </e>
 <e>
    <lg>
-     <l pos="Prc">черсэм</l><orig>черсэм</orig>
+     <l pos="Prc">черсэм</l><stress>черсэм</stress>
    </lg>
    <mg ind="1th"><compg><comp ord="E1" pos="V">черсыны</comp><comp ord="E2" type="Der/Эм" drv="Prc"/></compg>
    </mg>
@@ -6124,7 +6124,7 @@ Possible errors following proofreading are, e. g., substitution of special fonts
 </e>
 <e>
    <lg>
-     <l pos="Prc">чигем</l><orig>чигем</orig>
+     <l pos="Prc">чигем</l><stress>чигем</stress>
    </lg>
    <mg><inflect type="Der/Эм" drv="Prc;V»N"/><font face="SmolenskSGR"><b>чигыны; чигем мылкыд </b></font><senseType>kuv.</senseType>
      <tg xml:lang="fin">
@@ -6134,7 +6134,7 @@ Possible errors following proofreading are, e. g., substitution of special fonts
 </e>
 <e>
    <lg>
-     <l pos="Prc">чигнатэм</l><orig>чигнатэм</orig>
+     <l pos="Prc">чигнатэм</l><stress>чигнатэм</stress>
    </lg>
    <mg ind="1th"><compg><comp ord="E1" pos="V">чигнатыны</comp><comp ord="E2" type="Der/Эм" drv="Prc"/></compg>
    </mg>
@@ -6151,7 +6151,7 @@ Possible errors following proofreading are, e. g., substitution of special fonts
 </e>
 <e>
    <lg>
-     <l pos="Prc">чигтэм</l><orig>чигтэм</orig>
+     <l pos="Prc">чигтэм</l><stress>чигтэм</stress>
    </lg>
    <mg><inflect type="Der/Эм" drv="Prc;V»N"/><font face="SmolenskSGR"><b>чигтыны; пыд чигтэм </b></font><mwemg ind="1th"/>
      <tg xml:lang="fin">
@@ -6164,14 +6164,14 @@ Possible errors following proofreading are, e. g., substitution of special fonts
 </e>
 <e>
    <lg>
-     <l pos="Prc">чидам</l><orig>чидам</orig>
+     <l pos="Prc">чидам</l><stress>чидам</stress>
    </lg>
    <mg><compg><comp ord="E1">чиданы</comp><comp ord="E2" type="Der/Эм" drv="Prc;V»N"/></compg>
    </mg>
 </e>
 <e>
    <lg>
-     <l pos="Prc">чиедмем</l><orig>чиедмем</orig>
+     <l pos="Prc">чиедмем</l><stress>чиедмем</stress>
    </lg>
    <mg ind="1th"><compg><comp ord="E1" pos="V">чиедмыны</comp><comp ord="E2" type="Der/Эм" drv="Prc"/></compg>
    </mg>
@@ -6183,7 +6183,7 @@ Possible errors following proofreading are, e. g., substitution of special fonts
 </e>
 <e>
    <lg>
-     <l pos="Prc">чиетэм</l><orig>чиетэм</orig>
+     <l pos="Prc">чиетэм</l><stress>чиетэм</stress>
    </lg>
    <mg ind="1th"><compg><comp ord="E1" pos="V">чиетыны</comp><comp ord="E2" type="Der/Эм" drv="Prc"/></compg>
    </mg>
@@ -6195,7 +6195,7 @@ Possible errors following proofreading are, e. g., substitution of special fonts
 </e>
 <e>
    <lg>
-     <l pos="Prc">чиккетӥсь</l><orig>чиккетӥсь</orig>
+     <l pos="Prc">чиккетӥсь</l><stress>чиккетӥсь</stress>
    </lg>
    <mg ind="1th"><compg><comp ord="E1" pos="V">чиккетыны</comp><comp ord="E2" type="Der/сь" drv="Prc"/></compg>
    </mg>
@@ -6208,7 +6208,7 @@ Possible errors following proofreading are, e. g., substitution of special fonts
 </e>
 <e>
    <lg>
-     <l pos="Prc">чиккетэм</l><orig>чиккетэм</orig>
+     <l pos="Prc">чиккетэм</l><stress>чиккетэм</stress>
    </lg>
    <mg ind="1th"><compg><comp ord="E1" pos="V">чиккетыны</comp><comp ord="E2" type="Der/Эм" drv="Prc"/></compg>
    </mg>
@@ -6225,7 +6225,7 @@ Possible errors following proofreading are, e. g., substitution of special fonts
 </e>
 <e>
    <lg>
-     <l pos="Prc">чикыртэм</l><orig>чикыртэм</orig>
+     <l pos="Prc">чикыртэм</l><stress>чикыртэм</stress>
    </lg>
    <mg ind="1th"><compg><comp ord="E1" pos="V">чикыртыны</comp><comp ord="E2" type="Der/Эм" drv="V»N"/></compg>
    </mg>
@@ -6244,7 +6244,7 @@ Possible errors following proofreading are, e. g., substitution of special fonts
 </e>
 <e>
    <lg>
-     <l pos="Prc">чилектэм</l><orig>чилектэм</orig>
+     <l pos="Prc">чилектэм</l><stress>чилектэм</stress>
    </lg>
    <mg ind="1th"><compg><comp ord="E1" pos="V">чилектыны</comp><comp ord="E2" type="Der/Эм" drv="Prc"/></compg>
    </mg>
@@ -6261,7 +6261,7 @@ Possible errors following proofreading are, e. g., substitution of special fonts
 </e>
 <e>
    <lg>
-     <l pos="Prc">чилекъям</l><orig>чилекъям</orig>
+     <l pos="Prc">чилекъям</l><stress>чилекъям</stress>
    </lg>
    <mg ind="1th"><compg><comp ord="E1" pos="V">чилекъяны</comp><comp ord="E2" type="Der/Эм" drv="Prc"/></compg>
    </mg>
@@ -6281,7 +6281,7 @@ Possible errors following proofreading are, e. g., substitution of special fonts
 </e>
 <e>
    <lg>
-     <l pos="Prc">чилекъям-ворекъям</l><orig>чилекъям-ворекъям</orig>
+     <l pos="Prc">чилекъям-ворекъям</l><stress>чилекъям-ворекъям</stress>
    </lg>
    <mg ind="1th"><compg><comp ord="E1" pos="V">чилекъяны-ворекъяны</comp><comp ord="E2" type="Der/Эм" drv="Prc"/></compg>
    </mg>
@@ -6303,7 +6303,7 @@ Possible errors following proofreading are, e. g., substitution of special fonts
 </e>
 <e>
    <lg>
-     <l pos="Prc">чильпам</l><orig>чильпам</orig>
+     <l pos="Prc">чильпам</l><stress>чильпам</stress>
    </lg>
    <mg ind="1th"><compg><comp ord="E1" pos="V">чильпаны</comp><comp ord="E2" type="Der/Эм" drv="Prc"/></compg>
    </mg>
@@ -6326,7 +6326,7 @@ Possible errors following proofreading are, e. g., substitution of special fonts
 </e>
 <e>
    <lg>
-     <l pos="Prc">чильпаськем</l><orig>чильпаськем</orig>
+     <l pos="Prc">чильпаськем</l><stress>чильпаськем</stress>
    </lg>
    <mg ind="1th"><compg><comp ord="E1" pos="V">чильпаськыны</comp><comp ord="E2" type="Der/Эм" drv="V»N"/></compg>
    </mg>
@@ -6382,7 +6382,7 @@ Possible errors following proofreading are, e. g., substitution of special fonts
 </e>
 <e>
    <lg>
-     <l pos="Prc">чингетэм</l><orig>чингетэм</orig>
+     <l pos="Prc">чингетэм</l><stress>чингетэм</stress>
    </lg>
    <mg ind="1th"><compg><comp ord="E1" pos="V">чингетыны</comp><comp ord="E2" type="Der/Эм" drv="Prc"/></compg>
    </mg>
@@ -6394,7 +6394,7 @@ Possible errors following proofreading are, e. g., substitution of special fonts
 </e>
 <e>
    <lg>
-     <l pos="Prc">чипсэм</l><orig>чипсэм</orig>
+     <l pos="Prc">чипсэм</l><stress>чипсэм</stress>
    </lg>
    <mg ind="1th"><compg><comp ord="E1">чипсыны</comp><comp ord="E2" type="Der/Эм" drv="Prc;V»N"/></compg>
    </mg>
@@ -6406,7 +6406,7 @@ Possible errors following proofreading are, e. g., substitution of special fonts
 </e>
 <e>
    <lg>
-     <l pos="Prc">чиргетӥсь</l><orig>чиргетӥсь</orig>
+     <l pos="Prc">чиргетӥсь</l><stress>чиргетӥсь</stress>
    </lg>
    <mg ind="1th"><inflect type="Der/сь" drv="Prc"/>
      <xg><x>чиргетыны: чиргетӥсь тылобурдоос</x>
@@ -6426,7 +6426,7 @@ Possible errors following proofreading are, e. g., substitution of special fonts
 </e>
 <e>
    <lg>
-     <l pos="Prc">чиргетэм</l><orig>чиргетэм</orig>
+     <l pos="Prc">чиргетэм</l><stress>чиргетэм</stress>
    </lg>
    <mg ind="1th"><compg><comp ord="E1" pos="V">чиргетыны</comp><comp ord="E2" type="Der/Эм" drv="V»N"/></compg>
    </mg>
@@ -6445,7 +6445,7 @@ Possible errors following proofreading are, e. g., substitution of special fonts
 </e>
 <e>
    <lg>
-     <l pos="Prc">чирдэм</l><orig>чирдэм</orig>
+     <l pos="Prc">чирдэм</l><stress>чирдэм</stress>
    </lg>
    <mg ind="1th"><compg><comp ord="E1" pos="V">чирдыны</comp><comp ord="E2" type="Der/Эм" drv="Prc"/></compg>
    </mg>
@@ -6474,7 +6474,7 @@ Possible errors following proofreading are, e. g., substitution of special fonts
 </e>
 <e>
    <lg>
-     <l pos="Prc">чузъяськем</l><orig>чузъяськем</orig>
+     <l pos="Prc">чузъяськем</l><stress>чузъяськем</stress>
    </lg>
    <mg ind="1th"><note><i>partis. teonn. v:stä</i></note><font face="SmolenskSGR"><b>чузъяськыны</b></font>
    </mg>
@@ -6486,7 +6486,7 @@ Possible errors following proofreading are, e. g., substitution of special fonts
 </e>
 <e>
    <lg>
-     <l pos="Prc">чукам</l><orig>чукам</orig>
+     <l pos="Prc">чукам</l><stress>чукам</stress>
    </lg>
    <mg ind="1th"><compg><comp ord="E1" pos="V">чуканы</comp><comp ord="E2" type="Der/Эм" drv="Prc"/></compg>
    </mg>
@@ -6508,14 +6508,14 @@ Possible errors following proofreading are, e. g., substitution of special fonts
 </e>
 <e>
    <lg>
-     <l pos="Prc">чумолёям</l><orig>чумолёям</orig>
+     <l pos="Prc">чумолёям</l><stress>чумолёям</stress>
    </lg>
    <mg><compg><comp ord="E1">чумолёяны</comp><comp ord="E2" type="Der/Эм" drv="Prc;V»N"/></compg>
    </mg>
 </e>
 <e>
    <lg>
-     <l pos="Prc">чургетэм</l><orig>чургетэм</orig>
+     <l pos="Prc">чургетэм</l><stress>чургетэм</stress>
    </lg>
    <mg ind="1th"><compg><comp ord="E1" pos="V">чургетыны</comp><comp ord="E2" type="Der/Эм" drv="Prc"/></compg>
    </mg>
@@ -6528,7 +6528,7 @@ Possible errors following proofreading are, e. g., substitution of special fonts
 </e>
 <e>
    <lg>
-     <l pos="Prc">чурытаськем</l><orig>чурытаськем</orig>
+     <l pos="Prc">чурытаськем</l><stress>чурытаськем</stress>
    </lg>
    <mg ind="1th"><compg><comp ord="E1" pos="V">чурытаськыны</comp><comp ord="E2" type="Der/Эм" drv="Prc"/></compg>
    </mg>
@@ -6540,7 +6540,7 @@ Possible errors following proofreading are, e. g., substitution of special fonts
 </e>
 <e>
    <lg>
-     <l pos="Prc">чусомем</l><orig>чусомем</orig>
+     <l pos="Prc">чусомем</l><stress>чусомем</stress>
    </lg>
    <mg ind="1th"><compg><comp ord="E1" pos="V">чусомыны</comp><comp ord="E2" type="Der/Эм" drv="Prc"/></compg>
    </mg>
@@ -6568,7 +6568,7 @@ Possible errors following proofreading are, e. g., substitution of special fonts
 </e>
 <e>
    <lg>
-     <l pos="Prc">чутэм</l><orig>чутэм</orig>
+     <l pos="Prc">чутэм</l><stress>чутэм</stress>
    </lg>
    <mg ind="1th"><compg><comp ord="E1" pos="V">чутыны</comp><comp ord="E2" type="Der/Эм" drv="Prc"/></compg>
    </mg>
@@ -6580,7 +6580,7 @@ Possible errors following proofreading are, e. g., substitution of special fonts
 </e>
 <e>
    <lg>
-     <l pos="Prc">ӵабтӥсь</l><orig>ӵабтӥсь</orig>
+     <l pos="Prc">ӵабтӥсь</l><stress>ӵабтӥсь</stress>
    </lg>
    <mg ind="1th"><compg><comp ord="E1" pos="V">ӵабтыны</comp><comp ord="E2" type="Der/сь" drv="Prc"/></compg>
    </mg>
@@ -6592,7 +6592,7 @@ Possible errors following proofreading are, e. g., substitution of special fonts
 </e>
 <e>
    <lg>
-     <l pos="Prc">ӵабтэм</l><orig>ӵабтэм</orig>
+     <l pos="Prc">ӵабтэм</l><stress>ӵабтэм</stress>
    </lg>
    <mg ind="1th"><compg><comp ord="E1" pos="V">ӵабтыны</comp><comp ord="E2" type="Der/Эм" drv="Prc"/></compg>
    </mg>
@@ -6617,7 +6617,7 @@ Possible errors following proofreading are, e. g., substitution of special fonts
 </e>
 <e>
    <lg>
-     <l pos="Prc">ӵабъям</l><orig>ӵабъям</orig>
+     <l pos="Prc">ӵабъям</l><stress>ӵабъям</stress>
    </lg>
    <mg><inflect type="Der/Эм" drv="Prc;V»N"/>
      <xg><x>ӵабъяны; ӵабъям ки</x>
@@ -6633,7 +6633,7 @@ Possible errors following proofreading are, e. g., substitution of special fonts
 </e>
 <e>
    <lg>
-     <l pos="Prc">ӵажгетэм</l><orig>ӵажгетэм</orig>
+     <l pos="Prc">ӵажгетэм</l><stress>ӵажгетэм</stress>
    </lg>
    <mg ind="1th"><compg><comp ord="E1" pos="V">ӵажгетыны</comp><comp ord="E2" type="Der/Эм" drv="Prc"/></compg>
    </mg>
@@ -6650,7 +6650,7 @@ Possible errors following proofreading are, e. g., substitution of special fonts
 </e>
 <e>
    <lg>
-     <l pos="Prc">ӵашетэм</l><orig>ӵашетэм</orig>
+     <l pos="Prc">ӵашетэм</l><stress>ӵашетэм</stress>
    </lg>
    <mg ind="1th"><compg><comp ord="E1">ӵашетыны</comp><comp ord="E2" type="Der/Эм" drv="Prc;V»N"/></compg>
    </mg>
@@ -6672,7 +6672,7 @@ Possible errors following proofreading are, e. g., substitution of special fonts
 </e>
 <e>
    <lg>
-     <l pos="Prc">ӵашъем</l><orig>ӵашъем</orig>
+     <l pos="Prc">ӵашъем</l><stress>ӵашъем</stress>
    </lg>
    <mg ind="1th"><compg><comp ord="E1">ӵашйыны</comp><comp ord="E2" type="Der/Эм" drv="Prc;V»N"/></compg>
    </mg>
@@ -6687,7 +6687,7 @@ Possible errors following proofreading are, e. g., substitution of special fonts
 </e>
 <e>
    <lg>
-     <l pos="Prc">ӵектэм</l><orig>ӵектэм</orig>
+     <l pos="Prc">ӵектэм</l><stress>ӵектэм</stress>
    </lg>
    <mg ind="1th"><inflect type="Der/Эм" drv="Prc;V»N"/>
      <xg><x>ӵектыны; ӵектэм мурт</x>
@@ -6702,7 +6702,7 @@ Possible errors following proofreading are, e. g., substitution of special fonts
 </e>
 <e>
    <lg>
-     <l pos="Prc">ӵуштыртэм</l><orig>ӵуштыртэм</orig>
+     <l pos="Prc">ӵуштыртэм</l><stress>ӵуштыртэм</stress>
    </lg>
    <mg ind="1th"><compg><comp ord="E1" pos="V">ӵуштыртыны</comp><comp ord="E2" type="Der/Эм" drv="Prc"/></compg>
    </mg>
@@ -6742,7 +6742,7 @@ Possible errors following proofreading are, e. g., substitution of special fonts
 </e>
 <e>
    <lg>
-     <l pos="Prc">ӵышкем</l><orig>ӵышкем</orig>
+     <l pos="Prc">ӵышкем</l><stress>ӵышкем</stress>
    </lg>
    <mg ind="1th"><compg><comp ord="E1">ӵышкыны</comp><comp ord="E2" type="Der/Эм" drv="Prc;V»N"/></compg>
    </mg>
@@ -6755,7 +6755,7 @@ Possible errors following proofreading are, e. g., substitution of special fonts
 </e>
 <e>
    <lg>
-     <l pos="Prc">ӵыштыртэм</l><orig>ӵыштыртэм</orig>
+     <l pos="Prc">ӵыштыртэм</l><stress>ӵыштыртэм</stress>
    </lg>
    <mg ind="1th"><compg><comp ord="E1" pos="V">ӵыштыртыны</comp><comp ord="E2" type="Der/Эм" drv="Prc"/></compg>
    </mg>
@@ -6770,7 +6770,7 @@ Possible errors following proofreading are, e. g., substitution of special fonts
 </e>
 <e>
    <lg>
-     <l pos="Prc">шалтыртэм</l><orig>шалтыртэм</orig>
+     <l pos="Prc">шалтыртэм</l><stress>шалтыртэм</stress>
    </lg>
    <mg ind="1th"><compg><comp ord="E1" pos="V">шалтыртыны</comp><comp ord="E2" type="Der/Эм" drv="Prc"/></compg>
    </mg>
@@ -6785,7 +6785,7 @@ Possible errors following proofreading are, e. g., substitution of special fonts
 </e>
 <e>
    <lg>
-     <l pos="Prc">шальккетэм</l><orig>шальккетэм</orig>
+     <l pos="Prc">шальккетэм</l><stress>шальккетэм</stress>
    </lg>
    <mg ind="1th"><compg><comp ord="E1" pos="V">шальккетыны</comp><comp ord="E2" type="Der/Эм" drv="Prc"/></compg>
    </mg>
@@ -6800,7 +6800,7 @@ Possible errors following proofreading are, e. g., substitution of special fonts
 </e>
 <e>
    <lg>
-     <l pos="Prc">шальтыртэм</l><orig>шальтыртэм</orig>
+     <l pos="Prc">шальтыртэм</l><stress>шальтыртэм</stress>
    </lg>
    <mg ind="1th"><compg><comp ord="E1" pos="V">шальтыртыны</comp><comp ord="E2" type="Der/Эм" drv="Prc"/></compg>
    </mg>
@@ -6815,7 +6815,7 @@ Possible errors following proofreading are, e. g., substitution of special fonts
 </e>
 <e>
    <lg>
-     <l pos="Prc">шарккетэм</l><orig>шарккетэм</orig>
+     <l pos="Prc">шарккетэм</l><stress>шарккетэм</stress>
    </lg>
    <mg ind="1th"><compg><comp ord="E1" pos="V">шарккетыны</comp><comp ord="E2" type="Der/Эм" drv="Prc"/></compg>
    </mg>
@@ -6830,7 +6830,7 @@ Possible errors following proofreading are, e. g., substitution of special fonts
 </e>
 <e>
    <lg>
-     <l pos="Prc">шаугетэм</l><orig>шаугетэм</orig>
+     <l pos="Prc">шаугетэм</l><stress>шаугетэм</stress>
    </lg>
    <mg ind="1th"><compg><comp ord="E1" pos="V">шаугетыны</comp><comp ord="E2" type="Der/Эм" drv="Prc"/></compg>
    </mg>
@@ -6842,7 +6842,7 @@ Possible errors following proofreading are, e. g., substitution of special fonts
 </e>
 <e>
    <lg>
-     <l pos="Prc">шачыртэм</l><orig>шачыртэм</orig>
+     <l pos="Prc">шачыртэм</l><stress>шачыртэм</stress>
    </lg>
    <mg ind="1th"><compg><comp ord="E1" pos="V">шачыртыны</comp><comp ord="E2" type="Der/Эм" drv="Prc"/></compg>
    </mg>
@@ -6864,7 +6864,7 @@ Possible errors following proofreading are, e. g., substitution of special fonts
 </e>
 <e>
    <lg>
-     <l pos="Prc">шекертэм</l><orig>шекертэм</orig>
+     <l pos="Prc">шекертэм</l><stress>шекертэм</stress>
    </lg>
    <mg ind="1th"><compg><comp ord="E1" pos="V">шекертыны</comp><comp ord="E2" type="Der/Эм" drv="Prc"/></compg>
    </mg>
@@ -6876,7 +6876,7 @@ Possible errors following proofreading are, e. g., substitution of special fonts
 </e>
 <e>
    <lg>
-     <l pos="Prc">шертӥсь</l><orig>шертӥсь</orig>
+     <l pos="Prc">шертӥсь</l><stress>шертӥсь</stress>
    </lg>
    <mg ind="1th"><compg><comp ord="E1" pos="V">шертыны</comp><comp ord="E2" type="Der/сь" drv="Prc"/></compg>
    </mg>
@@ -6888,7 +6888,7 @@ Possible errors following proofreading are, e. g., substitution of special fonts
 </e>
 <e>
    <lg>
-     <l pos="Prc">шиетэм</l><orig>шиетэм</orig>
+     <l pos="Prc">шиетэм</l><stress>шиетэм</stress>
    </lg>
    <mg ind="1th"><compg><comp ord="E1" pos="V">шиетыны</comp><comp ord="E2" type="Der/Эм" drv="Prc"/></compg>
    </mg>
@@ -6903,7 +6903,7 @@ Possible errors following proofreading are, e. g., substitution of special fonts
 </e>
 <e>
    <lg>
-     <l pos="Prc">шильыртэм</l><orig>шильыртэм</orig>
+     <l pos="Prc">шильыртэм</l><stress>шильыртэм</stress>
    </lg>
    <mg ind="1th"><compg><comp ord="E1" pos="V">шильыртыны</comp><comp ord="E2" type="Der/Эм" drv="Prc"/></compg>
    </mg>
@@ -6918,7 +6918,7 @@ Possible errors following proofreading are, e. g., substitution of special fonts
 </e>
 <e>
    <lg>
-     <l pos="Prc">шлачкетэм</l><orig>шлачкетэм</orig>
+     <l pos="Prc">шлачкетэм</l><stress>шлачкетэм</stress>
    </lg>
    <mg ind="1th"><compg><comp ord="E1" pos="V">шлачкетыны</comp><comp ord="E2" type="Der/Эм" drv="Prc"/></compg>
    </mg>
@@ -6935,7 +6935,7 @@ Possible errors following proofreading are, e. g., substitution of special fonts
 </e>
 <e>
    <lg>
-     <l pos="Prc">шудӥсь</l><orig>шудӥсь</orig>
+     <l pos="Prc">шудӥсь</l><stress>шудӥсь</stress>
    </lg>
    <mg ind="1th"><compg><comp ord="E1" pos="V">шудыны</comp><comp ord="E2" type="Der/сь" drv="Prc"/></compg>
    </mg>
@@ -6976,7 +6976,7 @@ Possible errors following proofreading are, e. g., substitution of special fonts
 </e>
 <e>
    <lg>
-     <l pos="Prc">шуккем</l><orig>шуккем</orig>
+     <l pos="Prc">шуккем</l><stress>шуккем</stress>
    </lg>
    <mg ind="1th"><compg><comp ord="E1">шуккыны</comp><comp ord="E2" type="Der/Эм" drv="Prc;V»N"/></compg>
    </mg>
@@ -7017,7 +7017,7 @@ Possible errors following proofreading are, e. g., substitution of special fonts
 </e>
 <e>
    <lg>
-     <l pos="Prc">шуккиськем</l><orig>шуккиськем</orig>
+     <l pos="Prc">шуккиськем</l><stress>шуккиськем</stress>
    </lg>
    <mg ind="1th"><compg><comp ord="E1">шуккиськыны</comp><comp ord="E2" type="Der/Эм" drv="Prc;V»N"/></compg>
    </mg>
@@ -7039,7 +7039,7 @@ Possible errors following proofreading are, e. g., substitution of special fonts
 </e>
 <e>
    <lg>
-     <l pos="Prc">шулам</l><orig>шулам</orig>
+     <l pos="Prc">шулам</l><stress>шулам</stress>
    </lg>
    <mg ind="1th"><compg><comp ord="E1">шуланы</comp><comp ord="E2" type="Der/Эм" drv="Prc;V»N"/></compg>
    </mg>
@@ -7063,7 +7063,7 @@ Possible errors following proofreading are, e. g., substitution of special fonts
 </e>
 <e>
    <lg>
-     <l pos="Prc">шулась</l><orig>шулась</orig>
+     <l pos="Prc">шулась</l><stress>шулась</stress>
    </lg>
    <mg ind="1th"><compg><comp ord="E1" pos="V">шуланы</comp><comp ord="E2" type="Der/сь" drv="Prc"/></compg>
    </mg>
@@ -7075,7 +7075,7 @@ Possible errors following proofreading are, e. g., substitution of special fonts
 </e>
 <e>
    <lg>
-     <l pos="Prc">шульыртэм</l><orig>шульыртэм</orig>
+     <l pos="Prc">шульыртэм</l><stress>шульыртэм</stress>
    </lg>
    <mg ind="1th"><compg><comp ord="E1" pos="V">шульыртыны</comp><comp ord="E2" type="Der/Эм" drv="Prc"/></compg>
    </mg>
@@ -7092,7 +7092,7 @@ Possible errors following proofreading are, e. g., substitution of special fonts
 </e>
 <e>
    <lg>
-     <l pos="Prc">шуметэм</l><orig>шуметэм</orig>
+     <l pos="Prc">шуметэм</l><stress>шуметэм</stress>
    </lg>
    <mg ind="1th"><compg><comp ord="E1">шуметыны</comp><comp ord="E2" type="Der/Эм" drv="Prc;V»N"/></compg>
    </mg>
@@ -7122,7 +7122,7 @@ Possible errors following proofreading are, e. g., substitution of special fonts
 </e>
 <e>
    <lg>
-     <l pos="Prc">шургетэм</l><orig>шургетэм</orig>
+     <l pos="Prc">шургетэм</l><stress>шургетэм</stress>
    </lg>
    <mg ind="1th"><compg><comp ord="E1" pos="V">шургетыны</comp><comp ord="E2" type="Der/Эм" drv="Prc"/></compg>
    </mg>
@@ -7140,7 +7140,7 @@ Possible errors following proofreading are, e. g., substitution of special fonts
 </e>
 <e>
    <lg>
-     <l pos="Prc">ыбем</l><orig>ыбем</orig>
+     <l pos="Prc">ыбем</l><stress>ыбем</stress>
    </lg>
    <mg ind="1th"><compg><comp ord="E1" pos="V">ыбыны</comp><comp ord="E2" type="Der/Эм" drv="Prc"/></compg>
    </mg>
@@ -7164,7 +7164,7 @@ Possible errors following proofreading are, e. g., substitution of special fonts
 </e>
 <e>
    <lg>
-     <l pos="Prc">ыбылӥськем</l><orig>ыбылӥськем</orig>
+     <l pos="Prc">ыбылӥськем</l><stress>ыбылӥськем</stress>
    </lg>
    <mg ind="1th"><compg><comp ord="E1" pos="V">ыбылӥськыны</comp><comp ord="E2" type="Der/Эм" drv="Prc"/></compg>
    </mg>
@@ -7186,7 +7186,7 @@ Possible errors following proofreading are, e. g., substitution of special fonts
 </e>
 <e>
    <lg>
-     <l pos="Prc">ыбылӥськись</l><orig>ыбылӥськись</orig>
+     <l pos="Prc">ыбылӥськись</l><stress>ыбылӥськись</stress>
    </lg>
    <mg ind="1th"><compg><comp ord="E1" pos="V">ыбылӥськыны</comp><comp ord="E2" type="Der/сь" drv="Prc"/></compg>
    </mg>
@@ -7211,7 +7211,7 @@ Possible errors following proofreading are, e. g., substitution of special fonts
 </e>
 <e>
    <lg>
-     <l pos="Prc">ыргетэм</l><orig>ыргетэм</orig>
+     <l pos="Prc">ыргетэм</l><stress>ыргетэм</stress>
    </lg>
    <mg ind="1th"><compg><comp ord="E1" pos="V">ыргетыны</comp><comp ord="E2" type="Der/Эм" drv="Prc"/></compg>
    </mg>
@@ -7223,7 +7223,7 @@ Possible errors following proofreading are, e. g., substitution of special fonts
 </e>
 <e>
    <lg>
-     <l pos="Prc">эмъясь</l><orig>эмъясь</orig>
+     <l pos="Prc">эмъясь</l><stress>эмъясь</stress>
    </lg>
    <mg ind="1th"><compg><comp ord="E1" pos="V">эмъяны</comp><comp ord="E2" type="Der/сь" drv="Prc"/></compg>
    </mg>
@@ -7240,7 +7240,7 @@ Possible errors following proofreading are, e. g., substitution of special fonts
 </e>
 <e>
    <lg>
-     <l pos="Prc">эмъяськись</l><orig>эмъяськись</orig>
+     <l pos="Prc">эмъяськись</l><stress>эмъяськись</stress>
    </lg>
    <mg ind="1th"><compg><comp ord="E1" pos="V">эмъяськыны</comp><comp ord="E2" type="Der/сь" drv="Prc"/></compg>
    </mg>
@@ -7260,7 +7260,7 @@ Possible errors following proofreading are, e. g., substitution of special fonts
 </e>
 <e>
    <lg>
-     <l pos="Prc">эрекчаськем</l><orig>эрекчаськем</orig>
+     <l pos="Prc">эрекчаськем</l><stress>эрекчаськем</stress>
    </lg>
    <mg ind="1th"><compg><comp ord="E1" pos="V">эрекчаськыны</comp><comp ord="E2" type="Der/Эм" drv="Prc"/></compg>
    </mg>
@@ -7272,7 +7272,7 @@ Possible errors following proofreading are, e. g., substitution of special fonts
 </e>
 <e>
    <lg>
-     <l pos="Prc">эрекчаськись</l><orig>эрекчаськись</orig>
+     <l pos="Prc">эрекчаськись</l><stress>эрекчаськись</stress>
    </lg>
    <mg ind="1th"><compg><comp ord="E1" pos="V">эрекчаськыны</comp><comp ord="E2" type="Der/сь" drv="Prc"/></compg>
    </mg>
@@ -7287,7 +7287,7 @@ Possible errors following proofreading are, e. g., substitution of special fonts
 </e>
 <e>
    <lg>
-     <l pos="Prc">эркеяськись</l><orig>эркеяськись</orig>
+     <l pos="Prc">эркеяськись</l><stress>эркеяськись</stress>
    </lg>
    <mg ind="1th"><compg><comp ord="E1" pos="V">эркеяськыны</comp><comp ord="E2" type="Der/сь" drv="Prc"/></compg>
    </mg>
@@ -7299,7 +7299,7 @@ Possible errors following proofreading are, e. g., substitution of special fonts
 </e>
 <e>
    <lg>
-     <l pos="Prc">эскерись</l><orig>эскерись</orig>
+     <l pos="Prc">эскерись</l><stress>эскерись</stress>
    </lg>
    <mg ind="1th"><compg><comp ord="E1" pos="V">эскерыны</comp><comp ord="E2" type="Der/сь" drv="Prc"/></compg>
    </mg>
@@ -7351,7 +7351,7 @@ Possible errors following proofreading are, e. g., substitution of special fonts
 </e>
 <e>
    <lg>
-     <l pos="Prc">юам</l><orig>юам</orig>
+     <l pos="Prc">юам</l><stress>юам</stress>
    </lg>
    <mg ind="1th"><compg><comp ord="E1" pos="V">юаны</comp><comp ord="E2" type="Der/Эм" drv="Prc"/></compg>
    </mg>
@@ -7366,7 +7366,7 @@ Possible errors following proofreading are, e. g., substitution of special fonts
 </e>
 <e>
    <lg>
-     <l pos="Prc">юам-верам</l><orig>юам-верам</orig>
+     <l pos="Prc">юам-верам</l><stress>юам-верам</stress>
    </lg>
    <mg ind="1th"><compg><comp ord="E1" pos="V">юаны- вераны</comp><comp ord="E2" type="Der/Эм" drv="Prc"/></compg>
    </mg>
@@ -7378,7 +7378,7 @@ Possible errors following proofreading are, e. g., substitution of special fonts
 </e>
 <e>
    <lg>
-     <l pos="Prc">югдытӥсь</l><orig>югдытӥсь</orig>
+     <l pos="Prc">югдытӥсь</l><stress>югдытӥсь</stress>
    </lg>
    <mg ind="1th"><compg><comp ord="E1" pos="V">югдытыны</comp><comp ord="E2" type="Der/сь" drv="Prc"/></compg>
    </mg>
@@ -7395,7 +7395,7 @@ Possible errors following proofreading are, e. g., substitution of special fonts
 </e>
 <e>
    <lg>
-     <l pos="Prc">юись</l><orig>юись</orig>
+     <l pos="Prc">юись</l><stress>юись</stress>
    </lg>
    <mg ind="1th"><compg><comp ord="E1" pos="V">юыны</comp><comp ord="E2" type="Der/сь" drv="Prc"/></compg>
    </mg>
@@ -7418,7 +7418,7 @@ Possible errors following proofreading are, e. g., substitution of special fonts
 </e>
 <e>
    <lg>
-     <l pos="Prc">юргетэм</l><orig>юргетэм</orig>
+     <l pos="Prc">юргетэм</l><stress>юргетэм</stress>
    </lg>
    <mg ind="1th"><compg><comp ord="E1" pos="V">юргетыны</comp><comp ord="E2" type="Der/Эм" drv="Prc"/></compg>
    </mg>
@@ -7430,7 +7430,7 @@ Possible errors following proofreading are, e. g., substitution of special fonts
 </e>
 <e>
    <lg>
-     <l pos="Prc">юрттӥсь</l><orig>юрттӥсь</orig>
+     <l pos="Prc">юрттӥсь</l><stress>юрттӥсь</stress>
    </lg>
    <mg ind="1th"><compg><comp ord="E1" pos="V">юрттыны</comp><comp ord="E2" type="Der/сь" drv="Prc"/></compg>
    </mg>
@@ -7473,7 +7473,7 @@ Possible errors following proofreading are, e. g., substitution of special fonts
 </e>
 <e>
    <lg>
-     <l pos="Prc">юрттӥськись</l><orig>юрттӥськись</orig>
+     <l pos="Prc">юрттӥськись</l><stress>юрттӥськись</stress>
    </lg>
    <mg ind="1th"><compg><comp ord="E1" pos="V">юрттӥськыны</comp><comp ord="E2" type="Der/сь" drv="Prc"/></compg>
    </mg>
@@ -7485,7 +7485,7 @@ Possible errors following proofreading are, e. g., substitution of special fonts
 </e>
 <e>
    <lg>
-     <l pos="Prc">юэм</l><orig>юэм</orig>
+     <l pos="Prc">юэм</l><stress>юэм</stress>
    </lg>
    <mg ind="1th"><compg><comp ord="E1" pos="V">юыны</comp><comp ord="E2" type="Der/Эм" drv="Prc"/></compg>
    </mg>
@@ -7505,7 +7505,7 @@ Possible errors following proofreading are, e. g., substitution of special fonts
 </e>
 <e>
    <lg>
-     <l pos="N">яратэм</l><orig>яратэм</orig>
+     <l pos="N">яратэм</l><stress>яратэм</stress>
    </lg>
    <mg ind="1th"><compg><comp ord="E1">яратыны</comp><comp ord="E2" type="Der/Эм" drv="Prc;V»N"/></compg>
    </mg>
@@ -7517,7 +7517,7 @@ Possible errors following proofreading are, e. g., substitution of special fonts
 </e>
 <e>
    <lg>
-     <l pos="Prc">чигись</l><orig>чигись</orig>
+     <l pos="Prc">чигись</l><stress>чигись</stress>
    </lg>
    <mg ind="1th"><compg><comp ord="E1" pos="V">чигыны</comp><comp ord="E2" type="Der/сь" drv="Prc"/></compg>
    </mg>
@@ -7529,7 +7529,7 @@ Possible errors following proofreading are, e. g., substitution of special fonts
 </e>
 <e>
    <lg>
-     <l pos="Prc">йӧнантэм</l><orig>йӧнантэм</orig>
+     <l pos="Prc">йӧнантэм</l><stress>йӧнантэм</stress>
    </lg>
    <mg ind="1th">
      <tg xml:lang="fin">
