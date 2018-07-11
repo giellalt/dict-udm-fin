@@ -376,68 +376,7 @@
    <lg>
      <l pos="V">чоръяны</l><orig>чоръяны</orig>
    </lg>
-   <mg><compg><inflect>iter. v:stä</inflect><stem>чортыны <FIX2/>чорыг</stem></compg>
-   <mg ind="1th"/>
-     <tg xml:lang="fin">
-       <t>kala;</t>
-     </tg>
-     <xg><x>векчи чорыг</x>
-       <xt xml:lang="fin">pikkukala;</xt>
-     </xg>
-     <xg><x>зарезь чорыг</x>
-       <xt xml:lang="fin">merikala;</xt>
-     </xg>
-     <xg><x>куасьтэм чорыг</x>
-       <xt xml:lang="fin">kuivattu kala;</xt>
-     </xg>
-     <xg><x>сылалтэм чорыг</x>
-       <xt xml:lang="fin">suolakala, suolattu kala;</xt>
-     </xg>
-     <xg><x>сьӧсь чорыг</x>
-       <xt xml:lang="fin">petokala;</xt>
-     </xg>
-     <xg><x>ӵынатэм чорыг</x>
-       <xt xml:lang="fin">savustettu kala, savukala;</xt>
-     </xg>
-     <xg><x>чорыг бурд</x>
-       <xt xml:lang="fin">kalanevä(t);</xt>
-     </xg>
-     <xg><x>чорыг лым</x>
-       <xt xml:lang="fin">kalakeitto;</xt>
-     </xg>
-     <xg><x>чорыг мызь</x>
-       <xt xml:lang="fin">kalan mäti;</xt>
-     </xg>
-     <xg><x>чорыг сьӧм</x>
-       <xt xml:lang="fin">kalansuomut;</xt>
-     </xg>
-     <xg><x>чорыг вордон</x>
-       <xt xml:lang="fin">kalanviljely, kalankasvatus;</xt>
-     </xg><font face="SmolenskSGR"><b>чорыг кутылон </b></font><mwemg ind="1th"/>
-     <tg xml:lang="fin">
-       <t>kalastus, kalanpyynti</t>
-     </tg><mwemg ind="2th"/><defNative>визнан</defNative>
-     <tg xml:lang="fin">
-       <t>onkiminen, onginta;</t>
-     </tg><font face="SmolenskSGR"><b>чорыг кутылыны </b></font><mwemg ind="1th"/>
-     <tg xml:lang="fin">
-       <t>pyytää (t. pyydystää) kaloja, kalastaa</t>
-     </tg><mwemg ind="2th"/><defNative>визнаны</defNative>
-     <tg xml:lang="fin">
-       <t>onkia;</t>
-     </tg>
-     <xg><x>чорыген нянь</x>
-       <xt xml:lang="fin">kalapiirakka;</xt>
-     </xg>
-     <xg><x>чорыглэн уянэз</x>
-       <xt xml:lang="fin">kalan uimarakko</xt>
-     </xg>
-   </mg>
-   <mg ind="2th"> <font face="SmolenskSGR"><b>(Чорыгъёс) </b></font><note><i>täht.</i></note>
-     <tg xml:lang="fin">
-       <t>Kalat</t>
-     </tg>
-   </mg>
+   <mg><compg><inflect>iter. v:stä</inflect><stem>чортыны</stem></compg></mg>
 </e>
 <e>
    <lg>

@@ -28,7 +28,7 @@ Possible errors following proofreading are, e. g., substitution of special fonts
 
 <e>
    <lg>
-     <l pos="Prop">Алнаш</l>
+     <l pos="N" type="Prop">Алнаш</l>
      <stg>
        <st Contlex="PROP_">Алнаш</st>
      </stg>
@@ -41,7 +41,7 @@ Possible errors following proofreading are, e. g., substitution of special fonts
 </e>
 <e>
    <lg>
-     <l pos="Prop">Австрия</l>
+     <l pos="N" type="Prop">Австрия</l>
      <stg>
        <st Contlex="PROP_RUS_JA">Австрия</st>
      </stg>
@@ -54,7 +54,7 @@ Possible errors following proofreading are, e. g., substitution of special fonts
 </e>
 <e>
    <lg>
-     <l pos="Prop">Азербайджан</l>
+     <l pos="N" type="Prop">Азербайджан</l>
      <stg>
        <st Contlex="PROP_">Азербайджан</st>
      </stg>
@@ -67,7 +67,7 @@ Possible errors following proofreading are, e. g., substitution of special fonts
 </e>
 <e>
    <lg>
-     <l pos="Prop">Азия</l>
+     <l pos="N" type="Prop">Азия</l>
      <stg>
        <st Contlex="PROP_RUS_JA">Азия</st>
      </stg>
@@ -84,7 +84,7 @@ Possible errors following proofreading are, e. g., substitution of special fonts
 </e>
 <e>
    <lg>
-     <l pos="Prop">Америка</l>
+     <l pos="N" type="Prop">Америка</l>
      <stg>
        <st Contlex="PROP_">Америка</st>
      </stg>
@@ -97,7 +97,7 @@ Possible errors following proofreading are, e. g., substitution of special fonts
 </e>
 <e>
    <lg>
-     <l pos="Prop">Армения</l>
+     <l pos="N" type="Prop">Армения</l>
      <stg>
        <st Contlex="PROP_RUS_JA">Армения</st>
      </stg>
@@ -110,7 +110,7 @@ Possible errors following proofreading are, e. g., substitution of special fonts
 </e>
 <e>
    <lg>
-     <l pos="Prop">Африка</l>
+     <l pos="N" type="Prop">Африка</l>
      <stg>
        <st Contlex="PROP_">Африка</st>
      </stg>
@@ -123,7 +123,7 @@ Possible errors following proofreading are, e. g., substitution of special fonts
 </e>
 <e>
    <lg>
-     <l pos="Prop">Башкортостан</l>
+     <l pos="N" type="Prop">Башкортостан</l>
      <stg>
        <st Contlex="PROP_">Башкортостан</st>
      </stg>
@@ -136,7 +136,7 @@ Possible errors following proofreading are, e. g., substitution of special fonts
 </e>
 <e>
    <lg>
-     <l pos="Prop">Белоруссия</l>
+     <l pos="N" type="Prop">Белоруссия</l>
      <variants>
        <l_syn type="&gt;">Беларусь</l_syn>
      </variants>
@@ -165,7 +165,7 @@ Possible errors following proofreading are, e. g., substitution of special fonts
 </e>
 <e>
    <lg>
-     <l pos="Prop">Блумингтон</l>
+     <l pos="N" type="Prop">Блумингтон</l>
      <stg>
        <st Contlex="PROP_">Блумингтон</st>
      </stg>
@@ -178,7 +178,7 @@ Possible errors following proofreading are, e. g., substitution of special fonts
 </e>
 <e>
    <lg>
-     <l pos="Prop">Вало</l>
+     <l pos="N" type="Prop">Вало</l>
      <stg>
        <st Contlex="PROP_">Вало</st>
      </stg>
@@ -197,7 +197,7 @@ Possible errors following proofreading are, e. g., substitution of special fonts
 </e>
 <e>
    <lg>
-     <l pos="Prop">Ватка</l>
+     <l pos="N" type="Prop">Ватка</l>
      <stg>
        <st Contlex="PROP_">Ватка</st>
      </stg>
@@ -213,7 +213,7 @@ Possible errors following proofreading are, e. g., substitution of special fonts
 </e>
 <e>
    <lg>
-     <l pos="Prop">Ватка</l>
+     <l pos="N" type="Prop">Ватка</l>
      <stg>
        <st Contlex="PROP_HEIMONNIMET">Ватка</st>
      </stg>
@@ -227,7 +227,7 @@ Possible errors following proofreading are, e. g., substitution of special fonts
 </e>
 <e>
    <lg>
-     <l pos="Prop">Венгрия</l>
+     <l pos="N" type="Prop">Венгрия</l>
      <stg>
        <st Contlex="PROP_RUS_JA">Венгрия</st>
      </stg>
@@ -240,7 +240,7 @@ Possible errors following proofreading are, e. g., substitution of special fonts
 </e>
 <e>
    <lg>
-     <l pos="Prop">Вожой</l>
+     <l pos="N" type="Prop">Вожой</l>
      <stg>
        <st Contlex="PROP_">Вожой</st>
      </stg>
@@ -254,7 +254,7 @@ Possible errors following proofreading are, e. g., substitution of special fonts
 </e>
 <e>
    <lg>
-     <l pos="Prop">Воткакар</l>
+     <l pos="N" type="Prop">Воткакар</l>
      <stg>
        <st Contlex="PROP_">Воткакар</st>
      </stg>
@@ -268,7 +268,7 @@ Possible errors following proofreading are, e. g., substitution of special fonts
 </e>
 <e>
    <lg>
-     <l pos="Prop">Галилея</l>
+     <l pos="N" type="Prop">Галилея</l>
      <stg>
        <st Contlex="PROP_">Галилея</st>
      </stg>
@@ -281,7 +281,7 @@ Possible errors following proofreading are, e. g., substitution of special fonts
 </e>
 <e>
    <lg>
-     <l pos="Prop">Германия</l>
+     <l pos="N" type="Prop">Германия</l>
      <stg>
        <st Contlex="PROP_RUS_JA">Германия</st>
      </stg>
@@ -294,7 +294,7 @@ Possible errors following proofreading are, e. g., substitution of special fonts
 </e>
 <e>
    <lg>
-     <l pos="Prop">Глазкар</l>
+     <l pos="N" type="Prop">Глазкар</l>
      <stg>
        <st Contlex="PROP_">Глазкар</st>
      </stg>
@@ -308,7 +308,7 @@ Possible errors following proofreading are, e. g., substitution of special fonts
 </e>
 <e>
    <lg>
-     <l pos="Prop">Грузия</l>
+     <l pos="N" type="Prop">Грузия</l>
      <stg>
        <st Contlex="PROP_RUS_JA">Грузия</st>
      </stg>
@@ -322,7 +322,7 @@ Possible errors following proofreading are, e. g., substitution of special fonts
 </e>
 <e>
    <lg>
-     <l pos="Prop">Европа</l>
+     <l pos="N" type="Prop">Европа</l>
      <stg>
        <st Contlex="PROP_">Европа</st>
      </stg>
@@ -342,7 +342,7 @@ Possible errors following proofreading are, e. g., substitution of special fonts
 </e>
 <e>
    <lg>
-     <l pos="Prop">Ижкар</l>
+     <l pos="N" type="Prop">Ижкар</l>
      <stg>
        <st Contlex="PROP_">Ижкар</st>
      </stg>
@@ -356,7 +356,7 @@ Possible errors following proofreading are, e. g., substitution of special fonts
 </e>
 <e>
    <lg>
-     <l pos="Prop">Инмар</l>
+     <l pos="N" type="Prop">Инмар</l>
      <stg>
        <st Contlex="PROP_">Инмар</st>
      </stg>
@@ -369,7 +369,7 @@ Possible errors following proofreading are, e. g., substitution of special fonts
 </e>
 <e>
    <lg>
-     <l pos="Prop">Италия</l>
+     <l pos="N" type="Prop">Италия</l>
      <stg>
        <st Contlex="PROP_RUS_JA">Италия</st>
      </stg>
@@ -382,7 +382,7 @@ Possible errors following proofreading are, e. g., substitution of special fonts
 </e>
 <e>
    <lg>
-     <l pos="Prop">Кадрек</l>
+     <l pos="N" type="Prop">Кадрек</l>
      <stg>
        <st Contlex="PROP_">Кадрек</st>
      </stg>
@@ -396,7 +396,7 @@ Possible errors following proofreading are, e. g., substitution of special fonts
 </e>
 <e>
    <lg>
-     <l pos="Prop">Казахстан</l>
+     <l pos="N" type="Prop">Казахстан</l>
      <stg>
        <st Contlex="PROP_">Казахстан</st>
      </stg>
@@ -409,7 +409,7 @@ Possible errors following proofreading are, e. g., substitution of special fonts
 </e>
 <e>
    <lg>
-     <l pos="Prop">Калмез</l>
+     <l pos="N" type="Prop">Калмез</l>
      <stg>
        <st Contlex="PROP_">Калмез</st>
      </stg>
@@ -423,7 +423,7 @@ Possible errors following proofreading are, e. g., substitution of special fonts
 </e>
 <e>
    <lg>
-     <l pos="Prop">Кам</l>
+     <l pos="N" type="Prop">Кам</l>
      <stg>
        <st Contlex="PROP_">Кам</st>
      </stg>
@@ -437,7 +437,7 @@ Possible errors following proofreading are, e. g., substitution of special fonts
 </e>
 <e>
    <lg>
-     <l pos="Prop">Канада</l>
+     <l pos="N" type="Prop">Канада</l>
      <stg>
        <st Contlex="PROP_">Канада</st>
      </stg>
@@ -450,7 +450,7 @@ Possible errors following proofreading are, e. g., substitution of special fonts
 </e>
 <e>
    <lg>
-     <l pos="Prop">Карпушата</l>
+     <l pos="N" type="Prop">Карпушата</l>
      <stg>
        <st Contlex="PROP_">Карпушата</st>
      </stg>
@@ -464,7 +464,7 @@ Possible errors following proofreading are, e. g., substitution of special fonts
 </e>
 <e>
    <lg>
-     <l pos="Prop">Кез</l>
+     <l pos="N" type="Prop">Кез</l>
      <stg>
        <st Contlex="PROP_">Кез</st>
      </stg>
@@ -478,7 +478,7 @@ Possible errors following proofreading are, e. g., substitution of special fonts
 </e>
 <e>
    <lg>
-     <l pos="Prop">Киев</l>
+     <l pos="N" type="Prop">Киев</l>
      <stg>
        <st Contlex="PROP_">Киев</st>
      </stg>
@@ -492,7 +492,7 @@ Possible errors following proofreading are, e. g., substitution of special fonts
 </e>
 <e>
    <lg>
-     <l pos="Prop">Киргизия</l>
+     <l pos="N" type="Prop">Киргизия</l>
      <stg>
        <st Contlex="PROP_RUS_JA">Киргизия</st>
      </stg>
@@ -505,7 +505,7 @@ Possible errors following proofreading are, e. g., substitution of special fonts
 </e>
 <e>
    <lg>
-     <l pos="Prop">Китай</l>
+     <l pos="N" type="Prop">Китай</l>
      <stg>
        <st Contlex="PROP_">Китай</st>
      </stg>
@@ -518,7 +518,7 @@ Possible errors following proofreading are, e. g., substitution of special fonts
 </e>
 <e>
    <lg>
-     <l pos="Prop">Куба</l>
+     <l pos="N" type="Prop">Куба</l>
      <stg>
        <st Contlex="PROP_">Куба</st>
      </stg>
@@ -531,7 +531,7 @@ Possible errors following proofreading are, e. g., substitution of special fonts
 </e>
 <e>
    <lg>
-     <l pos="Prop">Кузон</l>
+     <l pos="N" type="Prop">Кузон</l>
      <stg>
        <st Contlex="PROP_">Кузон</st>
      </stg>
@@ -545,7 +545,7 @@ Possible errors following proofreading are, e. g., substitution of special fonts
 </e>
 <e>
    <lg>
-     <l pos="Prop">Курег</l>
+     <l pos="N" type="Prop">Курег</l>
      <stg>
        <st Contlex="PROP_">Курег</st>
      </stg>
@@ -559,7 +559,7 @@ Possible errors following proofreading are, e. g., substitution of special fonts
 </e>
 <e>
    <lg>
-     <l pos="Prop">Кырыкмас</l>
+     <l pos="N" type="Prop">Кырыкмас</l>
      <stg>
        <st Contlex="PROP_">Кырыкмас</st>
      </stg>
@@ -573,7 +573,7 @@ Possible errors following proofreading are, e. g., substitution of special fonts
 </e>
 <e>
    <lg>
-     <l pos="Prop">Латвия</l>
+     <l pos="N" type="Prop">Латвия</l>
      <stg>
        <st Contlex="PROP_RUS_JA">Латвия</st>
      </stg>
@@ -586,7 +586,7 @@ Possible errors following proofreading are, e. g., substitution of special fonts
 </e>
 <e>
    <lg>
-     <l pos="Prop">Литва</l>
+     <l pos="N" type="Prop">Литва</l>
      <stg>
        <st Contlex="PROP_">Литва</st>
      </stg>
@@ -599,7 +599,7 @@ Possible errors following proofreading are, e. g., substitution of special fonts
 </e>
 <e>
    <lg>
-     <l pos="Prop">Марий Эл</l>
+     <l pos="N" type="Prop">Марий Эл</l>
      <stg>
        <st Contlex="PROP_">Марий Эл</st>
      </stg>
@@ -614,7 +614,7 @@ Possible errors following proofreading are, e. g., substitution of special fonts
 </e>
 <e>
    <lg>
-     <l pos="Prop">Молдавия</l>
+     <l pos="N" type="Prop">Молдавия</l>
      <stg>
        <st Contlex="PROP_RUS_JA">Молдавия</st>
      </stg>
@@ -627,7 +627,7 @@ Possible errors following proofreading are, e. g., substitution of special fonts
 </e>
 <e>
    <lg>
-     <l pos="Prop">Монголия</l>
+     <l pos="N" type="Prop">Монголия</l>
      <stg>
        <st Contlex="PROP_RUS_JA">Монголия</st>
      </stg>
@@ -640,7 +640,7 @@ Possible errors following proofreading are, e. g., substitution of special fonts
 </e>
 <e>
    <lg>
-     <l pos="Prop">Оӵ</l>
+     <l pos="N" type="Prop">Оӵ</l>
      <stg>
        <st Contlex="PROP_">Оӵ</st>
      </stg>
@@ -656,7 +656,7 @@ Possible errors following proofreading are, e. g., substitution of special fonts
 </e>
 <e>
    <lg>
-     <l pos="Prop">Пермь</l>
+     <l pos="N" type="Prop">Пермь</l>
      <stg>
        <st Contlex="PROP_">Пермь</st>
      </stg>
@@ -670,7 +670,7 @@ Possible errors following proofreading are, e. g., substitution of special fonts
 </e>
 <e>
    <lg>
-     <l pos="Prop">Позюм</l>
+     <l pos="N" type="Prop">Позюм</l>
      <stg>
        <st Contlex="PROP_">Позюм</st>
      </stg>
@@ -684,7 +684,7 @@ Possible errors following proofreading are, e. g., substitution of special fonts
 </e>
 <e>
    <lg>
-     <l pos="Prop">Посьтол</l>
+     <l pos="N" type="Prop">Посьтол</l>
      <stg>
        <st Contlex="PROP_">Посьтол</st>
      </stg>
@@ -698,7 +698,7 @@ Possible errors following proofreading are, e. g., substitution of special fonts
 </e>
 <e>
    <lg>
-     <l pos="Prop">Пурга</l>
+     <l pos="N" type="Prop">Пурга</l>
      <stg>
        <st Contlex="PROP_">Пурга</st>
      </stg>
@@ -712,7 +712,7 @@ Possible errors following proofreading are, e. g., substitution of special fonts
 </e>
 <e>
    <lg>
-     <l pos="Prop">Пӧжман</l>
+     <l pos="N" type="Prop">Пӧжман</l>
      <stg>
        <st Contlex="PROP_">Пӧжман</st>
      </stg>
@@ -726,7 +726,7 @@ Possible errors following proofreading are, e. g., substitution of special fonts
 </e>
 <e>
    <lg>
-     <l pos="Prop">Россия</l>
+     <l pos="N" type="Prop">Россия</l>
      <stg>
        <st Contlex="PROP_RUS_JA">Россия</st>
      </stg>
@@ -745,7 +745,7 @@ Possible errors following proofreading are, e. g., substitution of special fonts
 </e>
 <e>
    <lg>
-     <l pos="Prop">Самария</l>
+     <l pos="N" type="Prop">Самария</l>
      <stg>
        <st Contlex="PROP_">Самария</st>
      </stg>
@@ -759,7 +759,7 @@ Possible errors following proofreading are, e. g., substitution of special fonts
 </e>
 <e>
    <lg>
-     <l pos="Prop">Санкт Петербург</l>
+     <l pos="N" type="Prop">Санкт Петербург</l>
      <stg>
        <st Contlex="PROP_">Санкт Петербург</st>
      </stg>
@@ -772,7 +772,7 @@ Possible errors following proofreading are, e. g., substitution of special fonts
 </e>
 <e>
    <lg>
-     <l pos="Prop">Сарапул</l>
+     <l pos="N" type="Prop">Сарапул</l>
      <stg>
        <st Contlex="PROP_">Сарапул</st>
      </stg>
@@ -786,7 +786,7 @@ Possible errors following proofreading are, e. g., substitution of special fonts
 </e>
 <e>
    <lg>
-     <l pos="Prop">Сепыч</l>
+     <l pos="N" type="Prop">Сепыч</l>
      <stg>
        <st Contlex="PROP_">Сепыч</st>
      </stg>
@@ -800,7 +800,7 @@ Possible errors following proofreading are, e. g., substitution of special fonts
 </e>
 <e>
    <lg>
-     <l pos="Prop">Сива</l>
+     <l pos="N" type="Prop">Сива</l>
      <stg>
        <st Contlex="PROP_">Сива</st>
      </stg>
@@ -814,7 +814,7 @@ Possible errors following proofreading are, e. g., substitution of special fonts
 </e>
 <e>
    <lg>
-     <l pos="Prop">Сизьгурт</l>
+     <l pos="N" type="Prop">Сизьгурт</l>
      <stg>
        <st Contlex="PROP_">Сизьгурт</st>
      </stg>
@@ -828,7 +828,7 @@ Possible errors following proofreading are, e. g., substitution of special fonts
 </e>
 <e>
    <lg>
-     <l pos="Prop">Сове́тской Союз</l>
+     <l pos="N" type="Prop">Сове́тской Союз</l>
      <stg>
        <st Contlex="PROP_">Сове́тской Союз</st>
      </stg>
@@ -841,7 +841,7 @@ Possible errors following proofreading are, e. g., substitution of special fonts
 </e>
 <e>
    <lg>
-     <l pos="Prop">Сылӥӟ</l>
+     <l pos="N" type="Prop">Сылӥӟ</l>
      <stg>
        <st Contlex="PROP_">Сылӥӟ</st>
      </stg>
@@ -855,7 +855,7 @@ Possible errors following proofreading are, e. g., substitution of special fonts
 </e>
 <e>
    <lg>
-     <l pos="Prop">Таджикистан</l>
+     <l pos="N" type="Prop">Таджикистан</l>
      <stg>
        <st Contlex="PROP_">Таджикистан</st>
      </stg>
@@ -868,7 +868,7 @@ Possible errors following proofreading are, e. g., substitution of special fonts
 </e>
 <e>
    <lg>
-     <l pos="Prop">Татарстан</l>
+     <l pos="N" type="Prop">Татарстан</l>
      <stg>
        <st Contlex="PROP_">Татарстан</st>
      </stg>
@@ -881,7 +881,7 @@ Possible errors following proofreading are, e. g., substitution of special fonts
 </e>
 <e>
    <lg>
-     <l pos="Prop">Туймы</l>
+     <l pos="N" type="Prop">Туймы</l>
      <stg>
        <st Contlex="PROP_">Туймы</st>
      </stg>
@@ -895,7 +895,7 @@ Possible errors following proofreading are, e. g., substitution of special fonts
 </e>
 <e>
    <lg>
-     <l pos="Prop">Туркмения</l>
+     <l pos="N" type="Prop">Туркмения</l>
      <stg>
        <st Contlex="PROP_RUS_JA">Туркмения</st>
      </stg>
@@ -908,7 +908,7 @@ Possible errors following proofreading are, e. g., substitution of special fonts
 </e>
 <e>
    <lg>
-     <l pos="Prop">Удмуртия</l>
+     <l pos="N" type="Prop">Удмуртия</l>
      <stg>
        <st Contlex="PROP_RUS_JA">Удмуртия</st>
      </stg>
@@ -921,7 +921,7 @@ Possible errors following proofreading are, e. g., substitution of special fonts
 </e>
 <e>
    <lg>
-     <l pos="Prop">Узбекистан</l>
+     <l pos="N" type="Prop">Узбекистан</l>
      <stg>
        <st Contlex="PROP_">Узбекистан</st>
      </stg>
@@ -934,7 +934,7 @@ Possible errors following proofreading are, e. g., substitution of special fonts
 </e>
 <e>
    <lg>
-     <l pos="Prop">Украина</l>
+     <l pos="N" type="Prop">Украина</l>
      <stg>
        <st Contlex="PROP_">Украина</st>
      </stg>
@@ -947,7 +947,7 @@ Possible errors following proofreading are, e. g., substitution of special fonts
 </e>
 <e>
    <lg>
-     <l pos="Prop">Урал</l>
+     <l pos="N" type="Prop">Урал</l>
      <stg>
        <st Contlex="PROP_">Урал</st>
      </stg>
@@ -961,7 +961,7 @@ Possible errors following proofreading are, e. g., substitution of special fonts
 </e>
 <e>
    <lg>
-     <l pos="Prop">Финляндия</l>
+     <l pos="N" type="Prop">Финляндия</l>
      <stg>
        <st Contlex="PROP_RUS_JA">Финляндия</st>
      </stg>
@@ -974,7 +974,17 @@ Possible errors following proofreading are, e. g., substitution of special fonts
 </e>
 <e>
    <lg>
-     <l pos="Prop">Чупчи</l>
+     <l pos="N" type="Prop">Чорыгъёс</l>
+</lg>
+<mg relId="0" domain="astronomy">
+     <tg xml:lang="fin">
+       <t pos="N" type="Prop">Kalat</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="N" type="Prop">Чупчи</l>
      <stg>
        <st Contlex="PROP_">Чупчи</st>
      </stg>
@@ -988,7 +998,7 @@ Possible errors following proofreading are, e. g., substitution of special fonts
 </e>
 <e>
    <lg>
-     <l pos="Prop">Чур</l>
+     <l pos="N" type="Prop">Чур</l>
      <stg>
        <st Contlex="PROP_">Чур</st>
      </stg>
@@ -1002,7 +1012,7 @@ Possible errors following proofreading are, e. g., substitution of special fonts
 </e>
 <e>
    <lg>
-     <l pos="Prop">Эстония</l>
+     <l pos="N" type="Prop">Эстония</l>
      <stg>
        <st Contlex="PROP_RUS_JA">Эстония</st>
      </stg>
@@ -1015,7 +1025,7 @@ Possible errors following proofreading are, e. g., substitution of special fonts
 </e>
 <e>
    <lg>
-     <l pos="Prop">Яр</l>
+     <l pos="N" type="Prop">Яр</l>
      <stg>
        <st Contlex="PROP_">Яр</st>
      </stg>
