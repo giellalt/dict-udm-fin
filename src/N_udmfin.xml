@@ -26440,11 +26440,11 @@
      </tg>
      <xg>
        <x>голькак луыны</x>
-       <xt>tuntua äitelältä, tympiä, ällöttää</xt>
+       <xt xml:lang="fin">tuntua äitelältä, tympiä, ällöttää</xt>
      </xg>
      <xg>
        <x>голькак потыны</x>
-       <xt>tuntua äitelältä, tympiä, ällöttää</xt>
+       <xt xml:lang="fin">tuntua äitelältä, tympiä, ällöttää</xt>
      </xg>
      <xg>
        <x>мон голькак луи ни, та варенняез сиыса</x>
@@ -39376,18 +39376,18 @@
      </tg>
      <xg>
        <x>икак луыны</x>
-       <xt>henkeä ahdistaa</xt>
+       <xt xml:lang="fin">henkeä ahdistaa</xt>
      </xg>
      <xg>
        <x>икак потыны</x>
-       <xt>henkeä ahdistaa</xt>
+       <xt xml:lang="fin">henkeä ahdistaa</xt>
      </xg>
      <xg>
        <x>сюлмы икак луэ</x> <mwemg ind="1th"/>
      <defNative>к-сь кышкамен</defNative>
-       <xt>henkeäni salpaa</xt> <mwemg ind="2th"/>
+       <xt xml:lang="fin">henkeäni salpaa</xt> <mwemg ind="2th"/>
      <defNative>шумпотэмен</defNative>
-       <xt>mieli pakahtuu (ilosta)</xt>
+       <xt xml:lang="fin">mieli pakahtuu (ilosta)</xt>
      </xg>
    </mg>
 </e>
@@ -48394,7 +48394,7 @@
      </xg>
      <xg>
        <x>китӥз валтыса нуыны</x>
-       <xt>taluttaa kädestä</xt>
+       <xt xml:lang="fin">taluttaa kädestä</xt>
      </xg>
      <xg>
        <x>китӥз возьыны</x>

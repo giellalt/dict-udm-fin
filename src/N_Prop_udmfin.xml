@@ -87,11 +87,11 @@
      </tg>
      <xg>
        <x>Аʼландын улӥсь</x>
-       <xt>ahvenanmaalainen;</xt>
+       <xt xml:lang="fin">ahvenanmaalainen;</xt>
      </xg>
      <xg>
        <x>Аʼланд<CHECKME1/> шормуӵъёс</x>
-       <xt>Ahvenanmaa, Ahvenanmaan saaristo</xt>
+       <xt xml:lang="fin">Ahvenanmaa, Ahvenanmaan saaristo</xt>
      </xg>
    </mg>
 </e>
@@ -922,7 +922,7 @@
      </tg>
      <xg>
        <x>Лаплаʼндиын улӥсь</x>
-       <xt>lappilainen</xt>
+       <xt xml:lang="fin">lappilainen</xt>
      </xg>
    </mg>
 </e>
